@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-url = "https://api.steampowered.com/IStoreService/GetAppList/v1/"
+URL = "https://api.steampowered.com/IStoreService/GetAppList/v1/"
 
 API_KEY = os.getenv("STEAM_API_KEY")
 if not API_KEY:
@@ -24,7 +24,7 @@ page = 1
 
 while True:
     response = requests.get(
-        url,
+        URL,
         headers={"x-webapi-key": API_KEY},
         params={
             "include_games": True,
@@ -39,22 +39,42 @@ while True:
     )
 
     response.raise_for_status()
-    data = response.json()["response"]
+
+    result = response.json()
+
+    if "response" not in result:
+        raise RuntimeError(f"Unexpected response: {result}")
+
+    data = result["response"]
 
     apps = [
         {
             "appid": app["appid"],
             "name": app["name"],
         }
-        for app in data["apps"]
+        for app in data.get("apps", [])
     ]
 
-    with open(OUTPUT / f"steam_apps_{page:03}.json", "w", encoding="utf-8") as f:
-        json.dump(apps, f, ensure_ascii=False, indent=4)
+    with open(
+        OUTPUT / f"steam_apps_{page:03}.json",
+        "w",
+        encoding="utf-8",
+    ) as f:
+        json.dump(
+            apps,
+            f,
+            ensure_ascii=False,
+            indent=4,
+        )
 
-    last_appid = data["last_appid"]
+    print(f"Page {page}: {len(apps)} apps")
 
-    if last_appid == 0:
+    next_appid = data.get("last_appid")
+
+    if not next_appid or next_appid == last_appid:
         break
 
+    last_appid = next_appid
     page += 1
+
+print("Done.")
