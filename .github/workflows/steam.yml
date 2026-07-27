@@ -1,0 +1,38 @@
+name: Update Steam Catalog
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    env:
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: |
+          pip install -r requirements.txt
+
+      - run: python steam.py
+
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+          git add data
+
+          git diff --cached --quiet && exit 0
+
+          git commit -m "$(date -u '+%Y-%m-%d %H:%M UTC')"
+
+          git push
