@@ -25,14 +25,10 @@ jobs:
 
       - run: python steam.py
 
-      - run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - name: Get date
+        id: date
+        run: echo "date=$(date -u '+%Y-%m-%d %H:%M UTC')" >> "$GITHUB_OUTPUT"
 
-          git add data
-
-          git diff --cached --quiet && exit 0
-
-          git commit -m "$(date -u '+%Y-%m-%d %H:%M UTC')"
-
-          git push
+      - uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Steam Update - ${{ steps.date.outputs.date }}"
