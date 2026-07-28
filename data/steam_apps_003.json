@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1952651,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Ukiyo-e 3"
-    },
-    {
-        "appid": 1952652,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Civil Unrest"
-    },
-    {
-        "appid": 1952653,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Electro Macro"
-    },
-    {
-        "appid": 1952654,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate Germany 2"
-    },
-    {
-        "appid": 1952655,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Psychedelic"
-    },
-    {
         "appid": 1952656,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
     },
@@ -3238,6 +3218,10 @@
     {
         "appid": 1966190,
         "name": "Car Mechanic Simulator 2018 - Vans & Campers DLC"
+    },
+    {
+        "appid": 1966200,
+        "name": "Monster Therapy"
     },
     {
         "appid": 1966220,
@@ -15618,6 +15602,10 @@
     {
         "appid": 2025380,
         "name": "Fantasy Hentai Quest"
+    },
+    {
+        "appid": 2025390,
+        "name": "Raysing!"
     },
     {
         "appid": 2025420,
@@ -58756,6 +58744,10 @@
         "name": "Fantasy Grounds - Shadow of the Demon Lord Terrible Beauty"
     },
     {
+        "appid": 2240830,
+        "name": "Worderia"
+    },
+    {
         "appid": 2240850,
         "name": "Fantasy Grounds - Shadow of the Demon Lord Paths of Shadow Bundle"
     },
@@ -68810,10 +68802,6 @@
     {
         "appid": 2287190,
         "name": "The King is Dead"
-    },
-    {
-        "appid": 2287220,
-        "name": "F1® Manager 2023"
     },
     {
         "appid": 2287330,
@@ -91248,10 +91236,6 @@
         "name": "STRAFTAT"
     },
     {
-        "appid": 2386730,
-        "name": "F1® Manager 2023: Deluxe Upgrade Pack"
-    },
-    {
         "appid": 2386750,
         "name": "Hentai Pussy 7"
     },
@@ -99054,6 +99038,10 @@
     {
         "appid": 2421950,
         "name": "The Guardian of Nature"
+    },
+    {
+        "appid": 2422040,
+        "name": "808cc"
     },
     {
         "appid": 2422050,
@@ -124149,7 +124137,7 @@
     },
     {
         "appid": 2546530,
-        "name": "Void Escape"
+        "name": "Void Incremental"
     },
     {
         "appid": 2546550,
@@ -142438,10 +142426,6 @@
     {
         "appid": 2641720,
         "name": "Summer at the Edge of the Universe"
-    },
-    {
-        "appid": 2641730,
-        "name": "Last Man"
     },
     {
         "appid": 2641740,
@@ -161336,6 +161320,10 @@
         "name": "Unsummited"
     },
     {
+        "appid": 2733000,
+        "name": "Club Chairman"
+    },
+    {
         "appid": 2733010,
         "name": "Ex Vitro - Bonus Content"
     },
@@ -162578,6 +162566,10 @@
     {
         "appid": 2739500,
         "name": "Merge Circus"
+    },
+    {
+        "appid": 2739510,
+        "name": "沧浪行卷"
     },
     {
         "appid": 2739550,
@@ -199998,5 +199990,13 @@
     {
         "appid": 2928770,
         "name": "Carnival"
+    },
+    {
+        "appid": 2928790,
+        "name": "Alpine"
+    },
+    {
+        "appid": 2928800,
+        "name": "Weapon Builder"
     }
 ]

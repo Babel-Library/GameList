@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1106980,
-        "name": "Bulletorium"
-    },
-    {
-        "appid": 1107040,
-        "name": "You Don't Have Time"
-    },
-    {
-        "appid": 1107050,
-        "name": "人工智能 阿尔法猫-AI Alpha Cat"
-    },
-    {
-        "appid": 1107060,
-        "name": "Lighthouse of Guiding Flames"
-    },
-    {
-        "appid": 1107090,
-        "name": "Critical Compendium - Donation DLC"
-    },
-    {
         "appid": 1107100,
         "name": "Second Final"
     },
@@ -78653,7 +78633,7 @@
     },
     {
         "appid": 1444990,
-        "name": "Praxion7"
+        "name": "Praxion-7"
     },
     {
         "appid": 1445010,
@@ -199998,5 +199978,25 @@
     {
         "appid": 1952650,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Halloween 5"
+    },
+    {
+        "appid": 1952651,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Ukiyo-e 3"
+    },
+    {
+        "appid": 1952652,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Civil Unrest"
+    },
+    {
+        "appid": 1952653,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Electro Macro"
+    },
+    {
+        "appid": 1952654,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate Germany 2"
+    },
+    {
+        "appid": 1952655,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Psychedelic"
     }
 ]

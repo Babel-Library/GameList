@@ -60368,26 +60368,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492940,
-        "name": "Rocksmith® 2014 – Pixies  - “Debaser”"
-    },
-    {
-        "appid": 492941,
-        "name": "Rocksmith® 2014 – Pixies  - “Hey”"
-    },
-    {
-        "appid": 492942,
-        "name": "Rocksmith® 2014 – Pixies  - “Wave of Mutilation”"
-    },
-    {
-        "appid": 492943,
-        "name": "Rocksmith® 2014 – Pixies  - “Monkey Gone To Heaven”"
-    },
-    {
-        "appid": 492944,
-        "name": "Rocksmith® 2014 – Pixies Song Pack"
-    },
-    {
         "appid": 492945,
         "name": "Rocksmith® 2014 – Joe Satriani - “Always with Me, Always with You\""
     },
@@ -189109,7 +189089,7 @@
     },
     {
         "appid": 1062960,
-        "name": "Under the Sand REDUX - a road trip simulator"
+        "name": "UNDER the SAND - a road trip simulator"
     },
     {
         "appid": 1063020,
@@ -199998,5 +199978,25 @@
     {
         "appid": 1106950,
         "name": "Furries & Scalies: Friendswood"
+    },
+    {
+        "appid": 1106980,
+        "name": "Bulletorium"
+    },
+    {
+        "appid": 1107040,
+        "name": "You Don't Have Time"
+    },
+    {
+        "appid": 1107050,
+        "name": "人工智能 阿尔法猫-AI Alpha Cat"
+    },
+    {
+        "appid": 1107060,
+        "name": "Lighthouse of Guiding Flames"
+    },
+    {
+        "appid": 1107090,
+        "name": "Critical Compendium - Donation DLC"
     }
 ]

@@ -1,13 +1,5 @@
 [
     {
-        "appid": 2928790,
-        "name": "Alpine"
-    },
-    {
-        "appid": 2928800,
-        "name": "Weapon Builder"
-    },
-    {
         "appid": 2928820,
         "name": "Elf World Adventure 2"
     },
@@ -1926,6 +1918,10 @@
     {
         "appid": 2938980,
         "name": "Unfriendly Friend"
+    },
+    {
+        "appid": 2939040,
+        "name": "Terra Invicta - Supporter Pack"
     },
     {
         "appid": 2939060,
@@ -19492,10 +19488,6 @@
         "name": "Sir Fallen: Supporter Pack"
     },
     {
-        "appid": 3026920,
-        "name": "Project Viper"
-    },
-    {
         "appid": 3026980,
         "name": "Jigs4w3D Puzzle Challenge"
     },
@@ -26849,7 +26841,7 @@
     },
     {
         "appid": 3063880,
-        "name": "Firestone: Online Idle RPG - Go Banana !"
+        "name": "Firestone – Idle Clicker Online RPG - Go Banana !"
     },
     {
         "appid": 3063890,
@@ -39937,7 +39929,7 @@
     },
     {
         "appid": 3128040,
-        "name": "逆风翻盘 One more game"
+        "name": "逆风翻盘"
     },
     {
         "appid": 3128060,
@@ -50826,6 +50818,10 @@
     {
         "appid": 3185100,
         "name": "Oldish Stuff"
+    },
+    {
+        "appid": 3185110,
+        "name": "Hidden Snails"
     },
     {
         "appid": 3185140,
@@ -73892,10 +73888,6 @@
         "name": "Xontainer Meta Space"
     },
     {
-        "appid": 3307770,
-        "name": "NCORE"
-    },
-    {
         "appid": 3307830,
         "name": "The Sushi Restaurant"
     },
@@ -81949,7 +81941,7 @@
     },
     {
         "appid": 3347620,
-        "name": "Deadland: Fallen Apartment"
+        "name": "Deadland Garden"
     },
     {
         "appid": 3347650,
@@ -84605,7 +84597,7 @@
     },
     {
         "appid": 3360590,
-        "name": "Lofty Little Chess"
+        "name": "Rosso: The Little Chess"
     },
     {
         "appid": 3360630,
@@ -100872,10 +100864,6 @@
         "name": "Lord of the Click 5"
     },
     {
-        "appid": 3442160,
-        "name": "Ancible Online"
-    },
-    {
         "appid": 3442170,
         "name": "SwooshCat"
     },
@@ -111980,6 +111968,10 @@
         "name": "Fantasy Grounds - Pathfinder RPG - Pathfinder Module: We Be Goblins Too!"
     },
     {
+        "appid": 3502450,
+        "name": "Project MISPLACE"
+    },
+    {
         "appid": 3502460,
         "name": "Gun Gone Wrong"
     },
@@ -113310,6 +113302,10 @@
     {
         "appid": 3509660,
         "name": "Hunt The Yeti"
+    },
+    {
+        "appid": 3509670,
+        "name": "Backyard Paintball"
     },
     {
         "appid": 3509710,
@@ -123042,6 +123038,10 @@
     {
         "appid": 3564590,
         "name": "Rivers of Astrum: Daughter of Darkness"
+    },
+    {
+        "appid": 3564600,
+        "name": "Amber: By Your Side"
     },
     {
         "appid": 3564630,
@@ -135382,6 +135382,10 @@
     {
         "appid": 3626610,
         "name": "Hentai Mira"
+    },
+    {
+        "appid": 3626620,
+        "name": "Over Easy"
     },
     {
         "appid": 3626650,
@@ -171284,6 +171288,10 @@
         "name": "Zekertune"
     },
     {
+        "appid": 3822980,
+        "name": "Crown of Petals"
+    },
+    {
         "appid": 3822990,
         "name": "Stellar Witch"
     },
@@ -174082,6 +174090,10 @@
     {
         "appid": 3837810,
         "name": "Banzai Escape 2 Subterranean - Reaper Techwear"
+    },
+    {
+        "appid": 3837820,
+        "name": "SnowJob"
     },
     {
         "appid": 3837850,
@@ -178110,6 +178122,10 @@
     {
         "appid": 3858020,
         "name": "DreadOut Remastered Soundtrack & Manga Collection"
+    },
+    {
+        "appid": 3858030,
+        "name": "Immortal Coil"
     },
     {
         "appid": 3858040,
@@ -186533,7 +186549,7 @@
     },
     {
         "appid": 3899260,
-        "name": "Deadland: Fallen Apartment DLC"
+        "name": "Deadland Garden DLC"
     },
     {
         "appid": 3899280,
@@ -192493,7 +192509,7 @@
     },
     {
         "appid": 3929800,
-        "name": "Populus"
+        "name": "Valdrin"
     },
     {
         "appid": 3929830,
@@ -199105,7 +199121,7 @@
     },
     {
         "appid": 3962960,
-        "name": "Pirate life"
+        "name": "WindSail"
     },
     {
         "appid": 3962970,
@@ -199982,21 +199998,5 @@
     {
         "appid": 3967280,
         "name": "Furry Adventure Club and the Temple of Pawsion 🐱"
-    },
-    {
-        "appid": 3967310,
-        "name": "Treetopians"
-    },
-    {
-        "appid": 3967330,
-        "name": "Shadow of the Moonlight"
-    },
-    {
-        "appid": 3967340,
-        "name": "Chrono Flux"
-    },
-    {
-        "appid": 3967360,
-        "name": "HYPERTRASH～極限ブチギレ請求書～"
     }
 ]
