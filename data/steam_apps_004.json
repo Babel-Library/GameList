@@ -1,61 +1,5 @@
 [
     {
-        "appid": 2928820,
-        "name": "Elf World Adventure 2"
-    },
-    {
-        "appid": 2928830,
-        "name": "Blenderman"
-    },
-    {
-        "appid": 2928880,
-        "name": "Alchemy Mastery"
-    },
-    {
-        "appid": 2928900,
-        "name": "DATING OF THE FUTURE"
-    },
-    {
-        "appid": 2928930,
-        "name": "Mineclearer VR"
-    },
-    {
-        "appid": 2928940,
-        "name": "Yarn Guardians"
-    },
-    {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
         "appid": 2929070,
         "name": "我在异界攒功德"
     },
@@ -29832,10 +29776,6 @@
         "name": "Flong: Directors Cut"
     },
     {
-        "appid": 3078500,
-        "name": "The Twelve Slot Saloon"
-    },
-    {
         "appid": 3078530,
         "name": "Melody's Melon Mania"
     },
@@ -39253,7 +39193,7 @@
     },
     {
         "appid": 3124770,
-        "name": "The Green Book"
+        "name": "Plants & Paws"
     },
     {
         "appid": 3124780,
@@ -43126,6 +43066,10 @@
     {
         "appid": 3144780,
         "name": "Fantasy Grounds - Fantasy Companion SWADE Adventure Deck Cards"
+    },
+    {
+        "appid": 3144810,
+        "name": "Forbidden brew"
     },
     {
         "appid": 3144850,
@@ -47517,7 +47461,7 @@
     },
     {
         "appid": 3167400,
-        "name": "食堂往事 Past in DinningHall"
+        "name": "Wheels&Meals"
     },
     {
         "appid": 3167410,
@@ -73017,7 +72961,7 @@
     },
     {
         "appid": 3304010,
-        "name": "Blackblade Revenant"
+        "name": "BLADE MORPHOSIS"
     },
     {
         "appid": 3304020,
@@ -91996,6 +91940,10 @@
         "name": "EDEN’S FRONTIER™"
     },
     {
+        "appid": 3397030,
+        "name": "AeTerra"
+    },
+    {
         "appid": 3397040,
         "name": "Bellatores"
     },
@@ -93542,6 +93490,10 @@
     {
         "appid": 3404330,
         "name": "WuttWorld"
+    },
+    {
+        "appid": 3404340,
+        "name": "Chronicles of Humanity"
     },
     {
         "appid": 3404360,
@@ -121692,14 +121644,6 @@
         "name": "Skarab"
     },
     {
-        "appid": 3557840,
-        "name": "Hyper Dash - Frontline Bundle"
-    },
-    {
-        "appid": 3557850,
-        "name": "Hyper Dash - Umami Ramen Bundle"
-    },
-    {
         "appid": 3557860,
         "name": "Pawfish Bay"
     },
@@ -130300,6 +130244,10 @@
         "name": "Vegas Craps by Pokerist"
     },
     {
+        "appid": 3601470,
+        "name": "Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Pack"
+    },
+    {
         "appid": 3601480,
         "name": "Sonic Racing: CrossWorlds - Mega Man Pack"
     },
@@ -138400,14 +138348,6 @@
         "name": "Amelorn"
     },
     {
-        "appid": 3642790,
-        "name": "Hyper Dash - Starter Pack"
-    },
-    {
-        "appid": 3642800,
-        "name": "Hyper Dash - Sentinel Pack"
-    },
-    {
         "appid": 3642810,
         "name": "Hug Me, Senpai!"
     },
@@ -145704,10 +145644,6 @@
         "name": "The Binding Hour"
     },
     {
-        "appid": 3680240,
-        "name": "Pressure Point"
-    },
-    {
         "appid": 3680350,
         "name": "A Lenda de Niterói"
     },
@@ -148046,10 +147982,6 @@
     {
         "appid": 3692570,
         "name": "Bloodfront"
-    },
-    {
-        "appid": 3692620,
-        "name": "Loot profit"
     },
     {
         "appid": 3692640,
@@ -157066,10 +156998,6 @@
     {
         "appid": 3743030,
         "name": "Nuclear Meltdown"
-    },
-    {
-        "appid": 3743040,
-        "name": "Hyper Dash - Amethyst Bundle"
     },
     {
         "appid": 3743060,
@@ -173485,7 +173413,7 @@
     },
     {
         "appid": 3834650,
-        "name": "怪棋物语"
+        "name": "魔堡乱斗"
     },
     {
         "appid": 3834680,
@@ -178756,6 +178684,10 @@
         "name": "Wiped Clean PC"
     },
     {
+        "appid": 3861270,
+        "name": "Pip sellfish"
+    },
+    {
         "appid": 3861280,
         "name": "挂机手游模拟器"
     },
@@ -180918,6 +180850,14 @@
     {
         "appid": 3871390,
         "name": "Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack"
+    },
+    {
+        "appid": 3871400,
+        "name": "Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack 2"
+    },
+    {
+        "appid": 3871410,
+        "name": "Warhammer 40,000: Space Marine 2 - Raptors Cosmetic Pack "
     },
     {
         "appid": 3871500,
@@ -185381,7 +185321,7 @@
     },
     {
         "appid": 3893340,
-        "name": "PLAYOVER"
+        "name": "DREADSHELL"
     },
     {
         "appid": 3893350,
@@ -190244,10 +190184,6 @@
         "name": "新途谜纪"
     },
     {
-        "appid": 3918550,
-        "name": "Hyper Dash - Mecha Bundle"
-    },
-    {
         "appid": 3918560,
         "name": "Unspoken"
     },
@@ -191914,6 +191850,10 @@
     {
         "appid": 3926630,
         "name": "Crapshoot"
+    },
+    {
+        "appid": 3926650,
+        "name": "Elmer"
     },
     {
         "appid": 3926660,
@@ -199998,5 +199938,65 @@
     {
         "appid": 3967280,
         "name": "Furry Adventure Club and the Temple of Pawsion 🐱"
+    },
+    {
+        "appid": 3967310,
+        "name": "Treetopians"
+    },
+    {
+        "appid": 3967330,
+        "name": "Shadow of the Moonlight"
+    },
+    {
+        "appid": 3967340,
+        "name": "Chrono Flux"
+    },
+    {
+        "appid": 3967360,
+        "name": "HYPERTRASH～極限ブチギレ請求書～"
+    },
+    {
+        "appid": 3967410,
+        "name": "S.P.L.O.S.H"
+    },
+    {
+        "appid": 3967430,
+        "name": "Defend the Town"
+    },
+    {
+        "appid": 3967470,
+        "name": "We Gotta Go"
+    },
+    {
+        "appid": 3967480,
+        "name": "Echoes of Baikal"
+    },
+    {
+        "appid": 3967500,
+        "name": "Vagrus - The Riven Realms Ruinous Supporter Pack"
+    },
+    {
+        "appid": 3967510,
+        "name": "Ware's Laboratory"
+    },
+    {
+        "appid": 3967520,
+        "name": "Daluob"
+    },
+    {
+        "appid": 3967560,
+        "name": "Mega Drill - World Domination"
+    },
+    {
+        "appid": 3967580,
+        "name": "Hexograph"
+    },
+    {
+        "appid": 3967600,
+        "name": "Die In Time"
+    },
+    {
+        "appid": 3967620,
+        "name": "Ghosts of Tabor - UWU Too Weapon Skin Pack"
     }
 ]

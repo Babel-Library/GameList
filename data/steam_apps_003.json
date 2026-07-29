@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1952656,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
-    },
-    {
         "appid": 1952657,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
     },
@@ -11928,22 +11924,6 @@
         "name": "impossiBot"
     },
     {
-        "appid": 2006711,
-        "name": "Unmatched: Digital Edition -  Robin Hood"
-    },
-    {
-        "appid": 2006712,
-        "name": "Unmatched: Digital Edition - Bigfoot"
-    },
-    {
-        "appid": 2006713,
-        "name": "Unmatched: Digital Edition - Dracula"
-    },
-    {
-        "appid": 2006714,
-        "name": "Unmatched: Digital Edition -  Sherwood Forest"
-    },
-    {
         "appid": 2006730,
         "name": "Godumas"
     },
@@ -12926,30 +12906,6 @@
     {
         "appid": 2011610,
         "name": "MAZE RUNNER"
-    },
-    {
-        "appid": 2011620,
-        "name": "Unmatched: Digital Edition - Yukon"
-    },
-    {
-        "appid": 2011621,
-        "name": "Unmatched: Digital Edition - Sherlock Holmes"
-    },
-    {
-        "appid": 2011622,
-        "name": "Unmatched: Digital Edition - Jekyll & Hyde"
-    },
-    {
-        "appid": 2011623,
-        "name": "Unmatched: Digital Edition -  Invisible Man"
-    },
-    {
-        "appid": 2011624,
-        "name": "Unmatched: Digital Edition - Baskerville Manor"
-    },
-    {
-        "appid": 2011625,
-        "name": "Unmatched: Digital Edition - Soho"
     },
     {
         "appid": 2011630,
@@ -52033,7 +51989,7 @@
     },
     {
         "appid": 2210720,
-        "name": "JR EAST Train Simulator: Tokaido Line (Tokyo to Atami) E233-3000 series"
+        "name": "JR EAST Train Simulator: Tokaido Line Outbound (Tokyo to Atami) E233-3000 series"
     },
     {
         "appid": 2210740,
@@ -74164,18 +74120,6 @@
         "name": "Whisper"
     },
     {
-        "appid": 2313510,
-        "name": "Unmatched: Digital Edition - Contrast Skin Bundle 1"
-    },
-    {
-        "appid": 2313511,
-        "name": "Unmatched: Digital Edition - 80s Skin Bundle 1"
-    },
-    {
-        "appid": 2313512,
-        "name": "Unmatched: Digital Edition - 80s Skin Bundle 2"
-    },
-    {
         "appid": 2313530,
         "name": "Poly Jigsaw: Cats"
     },
@@ -77074,10 +77018,6 @@
     {
         "appid": 2325580,
         "name": "CUSTOM ORDER MAID 3D2 Naturally sadistic, Sweet Little Devil GP-01fb"
-    },
-    {
-        "appid": 2325630,
-        "name": "Unmatched: Digital Edition - Contrast Skin Bundle 2"
     },
     {
         "appid": 2325640,
@@ -82148,6 +82088,10 @@
         "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock"
     },
     {
+        "appid": 2348960,
+        "name": "One Planet"
+    },
+    {
         "appid": 2348970,
         "name": "CheckMaze"
     },
@@ -83626,10 +83570,6 @@
     {
         "appid": 2355100,
         "name": "Awareness"
-    },
-    {
-        "appid": 2355110,
-        "name": "Dignacia"
     },
     {
         "appid": 2355130,
@@ -91538,6 +91478,10 @@
     {
         "appid": 2388330,
         "name": "RetroArch - VirtualXT"
+    },
+    {
+        "appid": 2388350,
+        "name": "Good Luck, Little Truck!"
     },
     {
         "appid": 2388360,
@@ -123680,10 +123624,6 @@
         "name": "Evelone Wrath"
     },
     {
-        "appid": 2543920,
-        "name": "Nameless adventure"
-    },
-    {
         "appid": 2543930,
         "name": "TerraStorm"
     },
@@ -147745,7 +147685,7 @@
     },
     {
         "appid": 2667030,
-        "name": "Spriggan"
+        "name": "Duskvei"
     },
     {
         "appid": 2667050,
@@ -193540,6 +193480,10 @@
         "name": "Devastablance. Mountain Brotherhood"
     },
     {
+        "appid": 2894950,
+        "name": "塞莉娅传说"
+    },
+    {
         "appid": 2894960,
         "name": "Inverted Angel"
     },
@@ -193957,7 +193901,7 @@
     },
     {
         "appid": 2897580,
-        "name": "Idle Hero TD - Tower Defense"
+        "name": "Idle Hero TD - Tower Defense RPG"
     },
     {
         "appid": 2897590,
@@ -199998,5 +199942,61 @@
     {
         "appid": 2928800,
         "name": "Weapon Builder"
+    },
+    {
+        "appid": 2928820,
+        "name": "Elf World Adventure 2"
+    },
+    {
+        "appid": 2928830,
+        "name": "Blenderman"
+    },
+    {
+        "appid": 2928880,
+        "name": "Alchemy Mastery"
+    },
+    {
+        "appid": 2928900,
+        "name": "DATING OF THE FUTURE"
+    },
+    {
+        "appid": 2928930,
+        "name": "Mineclearer VR"
+    },
+    {
+        "appid": 2928940,
+        "name": "Yarn Guardians"
+    },
+    {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
     }
 ]

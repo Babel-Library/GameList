@@ -30424,10 +30424,6 @@
         "name": "KARLSON"
     },
     {
-        "appid": 1228630,
-        "name": "Patched world"
-    },
-    {
         "appid": 1228660,
         "name": "Command:MO LIVE - Broken Shield 300"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1952655,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Psychedelic"
+    },
+    {
+        "appid": 1952656,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
     }
 ]
