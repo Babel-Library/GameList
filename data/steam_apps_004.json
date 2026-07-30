@@ -1,9 +1,5 @@
 [
     {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
         "appid": 2929080,
         "name": "Antiyoy"
     },
@@ -6905,7 +6901,7 @@
     },
     {
         "appid": 2962710,
-        "name": "The Midnight Town Stories: Adam's Afterlife"
+        "name": "Where the Lost Remain"
     },
     {
         "appid": 2962720,
@@ -15416,6 +15412,10 @@
         "name": "Korean Rail Driving Tour LRT Busan-Gimhae"
     },
     {
+        "appid": 3006270,
+        "name": "Selsoviet"
+    },
+    {
         "appid": 3006280,
         "name": "Sheepherds!"
     },
@@ -21308,6 +21308,10 @@
         "name": "Dungeon Diver"
     },
     {
+        "appid": 3036590,
+        "name": "John of all trades"
+    },
+    {
         "appid": 3036600,
         "name": "Speed Climb"
     },
@@ -22965,7 +22969,7 @@
     },
     {
         "appid": 3045180,
-        "name": "SLEEP HERD"
+        "name": "Sleep Herd"
     },
     {
         "appid": 3045200,
@@ -24998,6 +25002,10 @@
     {
         "appid": 3055120,
         "name": "Astral Wield"
+    },
+    {
+        "appid": 3055130,
+        "name": "Siren Head: Lost Frequency"
     },
     {
         "appid": 3055150,
@@ -56556,10 +56564,6 @@
         "name": "Nerve"
     },
     {
-        "appid": 3213890,
-        "name": "Top Alert"
-    },
-    {
         "appid": 3213910,
         "name": "Grimgig Railway"
     },
@@ -65984,6 +65988,10 @@
         "name": "Pirates of Justice"
     },
     {
+        "appid": 3266790,
+        "name": "Bit by Bit"
+    },
+    {
         "appid": 3266800,
         "name": "EndSeeker"
     },
@@ -72961,7 +72969,7 @@
     },
     {
         "appid": 3304010,
-        "name": "BLADE MORPHOSIS"
+        "name": "Blade Morphosis"
     },
     {
         "appid": 3304020,
@@ -73306,6 +73314,10 @@
     {
         "appid": 3305710,
         "name": "태엽시계의 왕좌 - 리마스터"
+    },
+    {
+        "appid": 3305720,
+        "name": "Lode Builder"
     },
     {
         "appid": 3305740,
@@ -99632,6 +99644,10 @@
         "name": "Boxed Girl"
     },
     {
+        "appid": 3436340,
+        "name": "Legend of the Taiwanese Harlot"
+    },
+    {
         "appid": 3436350,
         "name": "Naked Interrogation Simulator"
     },
@@ -123665,7 +123681,7 @@
     },
     {
         "appid": 3568020,
-        "name": "Escape the Liminal Space"
+        "name": "DeepIntoDreams"
     },
     {
         "appid": 3568030,
@@ -137672,6 +137688,10 @@
         "name": "Taiko no Tatsujin: Rhythm Festival - Timeless Hits Pack"
     },
     {
+        "appid": 3638800,
+        "name": "9 Yin Sutra: Immortal"
+    },
+    {
         "appid": 3638820,
         "name": "风月重书：金瓶梅"
     },
@@ -141534,6 +141554,10 @@
     {
         "appid": 3658910,
         "name": "AS:RA Ashen Skies: Radiant Arena"
+    },
+    {
+        "appid": 3658930,
+        "name": "Magus Slayer"
     },
     {
         "appid": 3658940,
@@ -174896,10 +174920,6 @@
         "name": "Dungeon Dreams Wanderers"
     },
     {
-        "appid": 3842340,
-        "name": "Third Kind"
-    },
-    {
         "appid": 3842360,
         "name": "VALKYRA: Red Meridian"
     },
@@ -182565,7 +182585,7 @@
     },
     {
         "appid": 3880080,
-        "name": "THE DREAM'S EXIT"
+        "name": "Green Realm"
     },
     {
         "appid": 3880100,
@@ -193440,6 +193460,10 @@
         "name": "Astraeus Odyssey"
     },
     {
+        "appid": 3935170,
+        "name": "Profaned"
+    },
+    {
         "appid": 3935180,
         "name": "Bound by Valor"
     },
@@ -193798,6 +193822,10 @@
     {
         "appid": 3937230,
         "name": "House Cleaner Simulator"
+    },
+    {
+        "appid": 3937290,
+        "name": "Phase Party"
     },
     {
         "appid": 3937330,
@@ -196194,6 +196222,10 @@
     {
         "appid": 3948530,
         "name": "My Idle Space Cruiser"
+    },
+    {
+        "appid": 3948540,
+        "name": "Incremental Heaven"
     },
     {
         "appid": 3948550,
@@ -199966,37 +199998,5 @@
     {
         "appid": 3967470,
         "name": "We Gotta Go"
-    },
-    {
-        "appid": 3967480,
-        "name": "Echoes of Baikal"
-    },
-    {
-        "appid": 3967500,
-        "name": "Vagrus - The Riven Realms Ruinous Supporter Pack"
-    },
-    {
-        "appid": 3967510,
-        "name": "Ware's Laboratory"
-    },
-    {
-        "appid": 3967520,
-        "name": "Daluob"
-    },
-    {
-        "appid": 3967560,
-        "name": "Mega Drill - World Domination"
-    },
-    {
-        "appid": 3967580,
-        "name": "Hexograph"
-    },
-    {
-        "appid": 3967600,
-        "name": "Die In Time"
-    },
-    {
-        "appid": 3967620,
-        "name": "Ghosts of Tabor - UWU Too Weapon Skin Pack"
     }
 ]

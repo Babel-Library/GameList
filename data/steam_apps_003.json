@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1952657,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
-    },
-    {
-        "appid": 1952658,
-        "name": "Pixel Puzzles Ultimate: Free Content Addon"
-    },
-    {
         "appid": 1952659,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
     },
@@ -119441,7 +119433,7 @@
     },
     {
         "appid": 2522450,
-        "name": "The Midnight Town Stories: Adam's Forgotten Secrets"
+        "name": "Adam's Forgotten Secrets"
     },
     {
         "appid": 2522520,
@@ -147685,7 +147677,7 @@
     },
     {
         "appid": 2667030,
-        "name": "Duskvei"
+        "name": "Duskveil"
     },
     {
         "appid": 2667050,
@@ -182408,6 +182400,10 @@
         "name": "Ambulance Chauffeur Simulator 2"
     },
     {
+        "appid": 2840090,
+        "name": "Emerald Cove"
+    },
+    {
         "appid": 2840100,
         "name": "Stellaris: The Machine Age"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 2929060,
         "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
     }
 ]

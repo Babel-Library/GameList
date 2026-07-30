@@ -124936,10 +124936,6 @@
         "name": "Chambers of Devious Design"
     },
     {
-        "appid": 1650890,
-        "name": "再来一局能否组成最强阵容"
-    },
-    {
         "appid": 1650910,
         "name": "Sisterhood"
     },
@@ -154761,7 +154757,7 @@
     },
     {
         "appid": 1757030,
-        "name": "F-Team"
+        "name": "Heroes for Hire: Crowns of the Realm"
     },
     {
         "appid": 1757060,
@@ -164465,7 +164461,7 @@
     },
     {
         "appid": 1799220,
-        "name": "Malice"
+        "name": "Escape: Malice"
     },
     {
         "appid": 1799250,
@@ -175642,10 +175638,6 @@
     {
         "appid": 1845610,
         "name": "New Year Girls"
-    },
-    {
-        "appid": 1845630,
-        "name": "Aimlabs VR"
     },
     {
         "appid": 1845650,
@@ -199998,5 +199990,13 @@
     {
         "appid": 1952656,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
+    },
+    {
+        "appid": 1952657,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
+    },
+    {
+        "appid": 1952658,
+        "name": "Pixel Puzzles Ultimate: Free Content Addon"
     }
 ]
