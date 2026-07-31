@@ -1,9 +1,5 @@
 [
     {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
         "appid": 2929110,
         "name": "HOYO"
     },
@@ -6533,7 +6529,7 @@
     },
     {
         "appid": 2960760,
-        "name": "Greed Forest"
+        "name": "Greed Forest TD"
     },
     {
         "appid": 2960770,
@@ -22800,6 +22796,10 @@
         "name": "Nazi Zombies"
     },
     {
+        "appid": 3044360,
+        "name": "Nazi Zombies - Supporter Pack"
+    },
+    {
         "appid": 3044370,
         "name": "7 Meters away - Wallpaper"
     },
@@ -24026,10 +24026,6 @@
     {
         "appid": 3050430,
         "name": "RPG Maker MV - Arcade Game Resource Pack"
-    },
-    {
-        "appid": 3050460,
-        "name": "Mafia Life Simulator"
     },
     {
         "appid": 3050480,
@@ -85224,6 +85220,10 @@
         "name": "Lurking Among Shadows"
     },
     {
+        "appid": 3363620,
+        "name": "Oldies"
+    },
+    {
         "appid": 3363630,
         "name": "Hidden Cats of Atlantis"
     },
@@ -96132,6 +96132,10 @@
         "name": "Cat Chaos"
     },
     {
+        "appid": 3417970,
+        "name": "Каникулы Времени"
+    },
+    {
         "appid": 3417990,
         "name": "Battle Sablemon!"
     },
@@ -99181,7 +99185,7 @@
     },
     {
         "appid": 3434000,
-        "name": "Bally Fears : The Paradox"
+        "name": "Bally Fears"
     },
     {
         "appid": 3434040,
@@ -105468,6 +105472,10 @@
         "name": "Bloop"
     },
     {
+        "appid": 3465070,
+        "name": "Silly Sausage Buffet"
+    },
+    {
         "appid": 3465080,
         "name": "Dungeons Bomb"
     },
@@ -108910,6 +108918,10 @@
     {
         "appid": 3484800,
         "name": "Hivaneph - The Legend of Elles"
+    },
+    {
+        "appid": 3484830,
+        "name": "NEO VANDAL"
     },
     {
         "appid": 3484850,
@@ -119170,6 +119182,10 @@
     {
         "appid": 3544590,
         "name": "Feast of the Beast"
+    },
+    {
+        "appid": 3544610,
+        "name": "A Sea of Grey & Green"
     },
     {
         "appid": 3544630,
@@ -140340,6 +140356,10 @@
         "name": "Maline"
     },
     {
+        "appid": 3652670,
+        "name": "International Trading League"
+    },
+    {
         "appid": 3652680,
         "name": "桌面精灵—夏日服装拓展包：热海沙滩"
     },
@@ -160804,6 +160824,10 @@
         "name": "Mexican Ninja"
     },
     {
+        "appid": 3765000,
+        "name": "Seaworks: Trap Season"
+    },
+    {
         "appid": 3765010,
         "name": "Forensics: Crime Scene Detective"
     },
@@ -168214,6 +168238,10 @@
     {
         "appid": 3807740,
         "name": "FreedomBot"
+    },
+    {
+        "appid": 3807750,
+        "name": "Vice Vision Runner"
     },
     {
         "appid": 3807760,
@@ -199970,33 +199998,5 @@
     {
         "appid": 3967280,
         "name": "Furry Adventure Club and the Temple of Pawsion 🐱"
-    },
-    {
-        "appid": 3967310,
-        "name": "Treetopians"
-    },
-    {
-        "appid": 3967330,
-        "name": "Shadow of the Moonlight"
-    },
-    {
-        "appid": 3967340,
-        "name": "Chrono Flux"
-    },
-    {
-        "appid": 3967360,
-        "name": "HYPERTRASH～極限ブチギレ請求書～"
-    },
-    {
-        "appid": 3967410,
-        "name": "S.P.L.O.S.H"
-    },
-    {
-        "appid": 3967430,
-        "name": "Defend the Town"
-    },
-    {
-        "appid": 3967470,
-        "name": "We Gotta Go"
     }
 ]

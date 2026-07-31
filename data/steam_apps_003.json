@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1952658,
+        "name": "Pixel Puzzles Ultimate: Free Content Addon"
+    },
+    {
         "appid": 1952659,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
     },
@@ -19370,10 +19374,6 @@
     {
         "appid": 2065301,
         "name": "Jaguar Alpha Costume - DLC Costume For Burning Requiem: Fates"
-    },
-    {
-        "appid": 2065330,
-        "name": "Catto Pew Pew! CLASSIC"
     },
     {
         "appid": 2065340,
@@ -86032,6 +86032,10 @@
         "name": "Victoria 3: French Agitators Bonus Pack"
     },
     {
+        "appid": 2366590,
+        "name": "Rideshare \"Stimulator\""
+    },
+    {
         "appid": 2366600,
         "name": "Detectives United: Origins Collector's Edition"
     },
@@ -101896,10 +101900,6 @@
         "name": "Colorlines"
     },
     {
-        "appid": 2435860,
-        "name": "PixiEditor - Founder's Pack"
-    },
-    {
         "appid": 2435870,
         "name": "Blood Rush"
     },
@@ -114146,10 +114146,6 @@
     {
         "appid": 2495040,
         "name": "Electation"
-    },
-    {
-        "appid": 2495050,
-        "name": "Merge Adventure: Magic Dragons"
     },
     {
         "appid": 2495080,
@@ -152824,6 +152820,10 @@
         "name": "KILL AI"
     },
     {
+        "appid": 2691080,
+        "name": "Godreaper"
+    },
+    {
         "appid": 2691090,
         "name": "14:  Overmind"
     },
@@ -174604,10 +174604,6 @@
         "name": "Endless Return"
     },
     {
-        "appid": 2800500,
-        "name": "Blacklist Mafia"
-    },
-    {
         "appid": 2800510,
         "name": "Job Joust"
     },
@@ -176810,10 +176806,6 @@
     {
         "appid": 2811780,
         "name": "Deck Vs Doom"
-    },
-    {
-        "appid": 2811790,
-        "name": "QI"
     },
     {
         "appid": 2811830,
@@ -193776,6 +193768,10 @@
         "name": "Tomboy Adventure 2"
     },
     {
+        "appid": 2896710,
+        "name": "The Vanishing Memories"
+    },
+    {
         "appid": 2896730,
         "name": "Zombiology"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 2929070,
         "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
     }
 ]
