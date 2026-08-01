@@ -1,5 +1,17 @@
 [
     {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
         "appid": 2929110,
         "name": "HOYO"
     },
@@ -1220,6 +1232,10 @@
         "name": "Grand Shooter"
     },
     {
+        "appid": 2935800,
+        "name": "Chalk Warfare"
+    },
+    {
         "appid": 2935820,
         "name": "To Hell and Back"
     },
@@ -2222,10 +2238,6 @@
     {
         "appid": 2940890,
         "name": "Carrion Fields"
-    },
-    {
-        "appid": 2940920,
-        "name": "Dreaming Blue"
     },
     {
         "appid": 2940930,
@@ -10062,10 +10074,6 @@
     {
         "appid": 2978240,
         "name": "The Heft Effect"
-    },
-    {
-        "appid": 2978270,
-        "name": "Let's Learn X̱aad Kíl"
     },
     {
         "appid": 2978280,
@@ -18220,6 +18228,10 @@
         "name": "Platformer Paradise"
     },
     {
+        "appid": 3019940,
+        "name": "Please Stay Seated"
+    },
+    {
         "appid": 3019950,
         "name": "Mini Worlds"
     },
@@ -19146,6 +19158,10 @@
     {
         "appid": 3025260,
         "name": "Kitesurf Runner"
+    },
+    {
+        "appid": 3025270,
+        "name": "Forsaken Lands"
     },
     {
         "appid": 3025280,
@@ -22664,6 +22680,10 @@
         "name": "Keeper"
     },
     {
+        "appid": 3043620,
+        "name": "Steam Frame ARM64 Compat List"
+    },
+    {
         "appid": 3043650,
         "name": "Freedome Farmers"
     },
@@ -25585,7 +25605,7 @@
     },
     {
         "appid": 3058360,
-        "name": "Parisian Brasserie Simulator"
+        "name": "Parisian Bistro Simulator"
     },
     {
         "appid": 3058380,
@@ -30666,6 +30686,10 @@
     {
         "appid": 3083520,
         "name": "Hero Guider"
+    },
+    {
+        "appid": 3083550,
+        "name": "Literally Just A Rock"
     },
     {
         "appid": 3083600,
@@ -61808,6 +61832,10 @@
         "name": "Pico Pals"
     },
     {
+        "appid": 3242710,
+        "name": "Gambeat"
+    },
+    {
         "appid": 3242730,
         "name": "VERISMO"
     },
@@ -71417,7 +71445,7 @@
     },
     {
         "appid": 3296200,
-        "name": "5 nights at Timokha 4: School"
+        "name": "5 NIGHTS AT SHALUN 4: SCHOOL"
     },
     {
         "appid": 3296240,
@@ -79538,10 +79566,6 @@
     {
         "appid": 3336340,
         "name": "Circuit Defender"
-    },
-    {
-        "appid": 3336360,
-        "name": "Die For Me"
     },
     {
         "appid": 3336370,
@@ -110184,6 +110208,10 @@
         "name": "OBSCURIA - THE TRAGEDY"
     },
     {
+        "appid": 3492110,
+        "name": "GOP POST"
+    },
+    {
         "appid": 3492120,
         "name": "Legion Was Here"
     },
@@ -122490,6 +122518,10 @@
     {
         "appid": 3562020,
         "name": "The Werewolf"
+    },
+    {
+        "appid": 3562030,
+        "name": "Typing Clash"
     },
     {
         "appid": 3562050,
@@ -143752,6 +143784,10 @@
         "name": "My Desktop Sister"
     },
     {
+        "appid": 3669340,
+        "name": "Hotel Tales Comics Vol.1 - \"The Curse of the Crown\""
+    },
+    {
         "appid": 3669360,
         "name": "UMAMI"
     },
@@ -143909,7 +143945,7 @@
     },
     {
         "appid": 3669980,
-        "name": "Dream of Origin"
+        "name": "Lunarift"
     },
     {
         "appid": 3669990,
@@ -144921,7 +144957,7 @@
     },
     {
         "appid": 3676090,
-        "name": "仙骰诡道"
+        "name": "骰骰是道"
     },
     {
         "appid": 3676100,
@@ -158232,6 +158268,10 @@
         "name": "Scourge of War - Antietam"
     },
     {
+        "appid": 3750230,
+        "name": "Scourge of War - Brandy Station"
+    },
+    {
         "appid": 3750240,
         "name": "Scourge of War - Chancellorsville"
     },
@@ -163574,6 +163614,10 @@
     {
         "appid": 3781840,
         "name": "Bartholomew.exe"
+    },
+    {
+        "appid": 3781890,
+        "name": "Mitobit"
     },
     {
         "appid": 3781940,
@@ -192160,6 +192204,10 @@
         "name": "Logistik"
     },
     {
+        "appid": 3928190,
+        "name": "Backto 2035"
+    },
+    {
         "appid": 3928200,
         "name": "Horror in the forest"
     },
@@ -194093,7 +194141,7 @@
     },
     {
         "appid": 3938350,
-        "name": "棋界新纪元 三维立体作战的 围棋.象棋.中国象棋.国际象棋.五子棋.黑白棋.等"
+        "name": "棋界新纪元 Multi-Level Chess.Gomoku.Othello.Go 立体作战的.围棋.象棋.五子棋"
     },
     {
         "appid": 3938380,
@@ -199950,53 +199998,5 @@
     {
         "appid": 3966950,
         "name": "Cute Warrior Girl 2 (큐트 여전사 2)"
-    },
-    {
-        "appid": 3967030,
-        "name": "Withdrawal"
-    },
-    {
-        "appid": 3967040,
-        "name": "Blackwood Division"
-    },
-    {
-        "appid": 3967060,
-        "name": "Feed the Lie"
-    },
-    {
-        "appid": 3967090,
-        "name": "Lust Goddess — Mascot Pixie"
-    },
-    {
-        "appid": 3967130,
-        "name": "Wild West Miner Simulator"
-    },
-    {
-        "appid": 3967140,
-        "name": "Pushkin vs Vampires"
-    },
-    {
-        "appid": 3967160,
-        "name": "Chair Debiti"
-    },
-    {
-        "appid": 3967180,
-        "name": "Work...Or Fish?"
-    },
-    {
-        "appid": 3967230,
-        "name": "Alchemortis"
-    },
-    {
-        "appid": 3967240,
-        "name": "Pursuit"
-    },
-    {
-        "appid": 3967260,
-        "name": "The Hog Fixer"
-    },
-    {
-        "appid": 3967280,
-        "name": "Furry Adventure Club and the Temple of Pawsion 🐱"
     }
 ]

@@ -60368,26 +60368,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492945,
-        "name": "Rocksmith® 2014 – Joe Satriani - “Always with Me, Always with You\""
-    },
-    {
-        "appid": 492946,
-        "name": "Rocksmith® 2014 – Pantera - “5 Minutes Alone”"
-    },
-    {
-        "appid": 492947,
-        "name": "Rocksmith® 2014 – The Fratellis - “Chelsea Dagger”"
-    },
-    {
-        "appid": 492948,
-        "name": "Rocksmith® 2014 – Styx - “Blue Collar Man (Long Nights)”"
-    },
-    {
-        "appid": 492949,
-        "name": "Rocksmith® 2014 – Variety Song Pack III"
-    },
-    {
         "appid": 492950,
         "name": "Rocksmith® 2014 – Bad Religion - “American Jesus”"
     },
@@ -63006,6 +62986,10 @@
     {
         "appid": 503350,
         "name": "White Noise 2"
+    },
+    {
+        "appid": 503360,
+        "name": "Meridian"
     },
     {
         "appid": 503370,
@@ -77322,10 +77306,6 @@
     {
         "appid": 566970,
         "name": "EscapeVR: Trapped Above the Clouds"
-    },
-    {
-        "appid": 567010,
-        "name": "Game Royale 2 - The Secret of Jannis Island"
     },
     {
         "appid": 567020,
@@ -135214,6 +135194,10 @@
     {
         "appid": 827950,
         "name": "Inzo"
+    },
+    {
+        "appid": 828010,
+        "name": "Diceward"
     },
     {
         "appid": 828030,
@@ -199998,5 +199982,21 @@
     {
         "appid": 1107090,
         "name": "Critical Compendium - Donation DLC"
+    },
+    {
+        "appid": 1107100,
+        "name": "Second Final"
+    },
+    {
+        "appid": 1107120,
+        "name": "Ghost Stories - Soundtracks DLC"
+    },
+    {
+        "appid": 1107130,
+        "name": "The Way of Cinnamon"
+    },
+    {
+        "appid": 1107160,
+        "name": "Pew Pew Puzzle Defense"
     }
 ]

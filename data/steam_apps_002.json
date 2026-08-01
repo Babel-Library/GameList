@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1107100,
-        "name": "Second Final"
-    },
-    {
-        "appid": 1107120,
-        "name": "Ghost Stories - Soundtracks DLC"
-    },
-    {
-        "appid": 1107130,
-        "name": "The Way of Cinnamon"
-    },
-    {
-        "appid": 1107160,
-        "name": "Pew Pew Puzzle Defense"
-    },
-    {
         "appid": 1107180,
         "name": "The Messenger - Picnic Panic DLC"
     },
@@ -24174,6 +24158,10 @@
     {
         "appid": 1203050,
         "name": "Nordic Storm Solitaire"
+    },
+    {
+        "appid": 1203090,
+        "name": "The Merchants"
     },
     {
         "appid": 1203140,
@@ -121832,6 +121820,10 @@
         "name": "Fantasy Grounds - The Griffon's Saddlebag"
     },
     {
+        "appid": 1637910,
+        "name": "Red Algorithm"
+    },
+    {
         "appid": 1637920,
         "name": "Wastehaven"
     },
@@ -121982,6 +121974,18 @@
     {
         "appid": 1638530,
         "name": "Sprite Generator"
+    },
+    {
+        "appid": 1638580,
+        "name": "Red Algorithm - Fernando"
+    },
+    {
+        "appid": 1638581,
+        "name": "Red Algorithm - Lucy"
+    },
+    {
+        "appid": 1638582,
+        "name": "Red Algorithm - Osiris"
     },
     {
         "appid": 1638620,
@@ -143340,6 +143344,10 @@
         "name": "Kratoria"
     },
     {
+        "appid": 1708890,
+        "name": "Red Algorithm - Pickaxe"
+    },
+    {
         "appid": 1708930,
         "name": "4Prot - Student Pack"
     },
@@ -148146,10 +148154,6 @@
     {
         "appid": 1730290,
         "name": "TripSync"
-    },
-    {
-        "appid": 1730310,
-        "name": "The Lonely Helmet"
     },
     {
         "appid": 1730340,
@@ -155660,6 +155664,10 @@
         "name": "Ultimate Tag"
     },
     {
+        "appid": 1761830,
+        "name": "Red Algorithm - Samara"
+    },
+    {
         "appid": 1761860,
         "name": "Punk Wars: Prologue"
     },
@@ -160806,6 +160814,10 @@
     {
         "appid": 1785160,
         "name": "One Week With You"
+    },
+    {
+        "appid": 1785170,
+        "name": "Red Algorithm - Book"
     },
     {
         "appid": 1785190,
@@ -195472,6 +195484,10 @@
         "name": "Glorious Day to Die"
     },
     {
+        "appid": 1935760,
+        "name": "Red Algorithm - Joy"
+    },
+    {
         "appid": 1935790,
         "name": "Haunted Hotel: The Thirteenth Collector's Edition"
     },
@@ -199982,21 +199998,5 @@
     {
         "appid": 1952653,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Electro Macro"
-    },
-    {
-        "appid": 1952654,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate Germany 2"
-    },
-    {
-        "appid": 1952655,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Psychedelic"
-    },
-    {
-        "appid": 1952656,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
-    },
-    {
-        "appid": 1952657,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "appid": 1952654,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate Germany 2"
+    },
+    {
+        "appid": 1952655,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Psychedelic"
+    },
+    {
+        "appid": 1952656,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
+    },
+    {
+        "appid": 1952657,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
+    },
+    {
         "appid": 1952658,
         "name": "Pixel Puzzles Ultimate: Free Content Addon"
     },
@@ -31972,6 +31988,10 @@
         "name": "Fantasy Grounds - Devin Night Token Pack 154: Heroic Characters 29"
     },
     {
+        "appid": 2120430,
+        "name": "Dungeon Roll"
+    },
+    {
         "appid": 2120440,
         "name": "Beat Shot"
     },
@@ -49412,10 +49432,6 @@
         "name": "Planet Zoo: Grasslands Animal Pack"
     },
     {
-        "appid": 2199230,
-        "name": "The Winter Tower"
-    },
-    {
         "appid": 2199250,
         "name": "Utopia"
     },
@@ -65938,6 +65954,10 @@
     {
         "appid": 2273890,
         "name": "My Neighbor Neko 18+ Adult Only Content"
+    },
+    {
+        "appid": 2273900,
+        "name": "Waiftriss"
     },
     {
         "appid": 2273920,
@@ -102689,7 +102709,7 @@
     },
     {
         "appid": 2439510,
-        "name": "Doomsday × FAIRY TAIL"
+        "name": "Doomsday: Odysseus Returns"
     },
     {
         "appid": 2439530,
@@ -107290,10 +107310,6 @@
     {
         "appid": 2460980,
         "name": "Tide—1927—"
-    },
-    {
-        "appid": 2461000,
-        "name": "Let's Learn Lingít"
     },
     {
         "appid": 2461010,
@@ -193452,10 +193468,6 @@
         "name": "Function Ball（関数球）"
     },
     {
-        "appid": 2894840,
-        "name": "NEVERLANDER: An Awfully Big Adventure"
-    },
-    {
         "appid": 2894870,
         "name": "Tales From The Other Side"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 2929050,
         "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
     }
 ]
