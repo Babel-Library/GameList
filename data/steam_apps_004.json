@@ -140540,6 +140540,10 @@
         "name": "Sporting Goods Shop: Prologue"
     },
     {
+        "appid": 3653280,
+        "name": "Stranded"
+    },
+    {
         "appid": 3653300,
         "name": "Up To Divine"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 3966940,
         "name": "A.S.İ : BAŞLANGIÇ"
-    },
-    {
-        "appid": 3966950,
-        "name": "Cute Warrior Girl 2 (큐트 여전사 2)"
     }
 ]
