@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
         "appid": 2929060,
         "name": "Wild West Blast"
     },
@@ -91760,6 +91764,10 @@
         "name": "WDF"
     },
     {
+        "appid": 3396010,
+        "name": "Black Friday Janitor: Clean the Whole Mall"
+    },
+    {
         "appid": 3396030,
         "name": "Eva's Hook"
     },
@@ -147133,7 +147141,7 @@
     },
     {
         "appid": 3688050,
-        "name": " Panthera Tigris"
+        "name": "Plain Pride"
     },
     {
         "appid": 3688080,
@@ -199990,13 +199998,5 @@
     {
         "appid": 3966920,
         "name": "MageGuard Tower"
-    },
-    {
-        "appid": 3966930,
-        "name": "CyberZ: Energy Wars"
-    },
-    {
-        "appid": 3966940,
-        "name": "A.S.İ : BAŞLANGIÇ"
     }
 ]
