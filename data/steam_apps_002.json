@@ -32612,6 +32612,10 @@
         "name": "MoonRun"
     },
     {
+        "appid": 1238510,
+        "name": "Retro Incremental"
+    },
+    {
         "appid": 1238520,
         "name": "Dandelions in the Sky"
     },
@@ -88976,6 +88980,10 @@
         "name": "We Are OFK"
     },
     {
+        "appid": 1490350,
+        "name": "Pit Sluts: Bloodrun"
+    },
+    {
         "appid": 1490400,
         "name": "Disc Golf Adventure 2 VR"
     },
@@ -99658,6 +99666,10 @@
     {
         "appid": 1538200,
         "name": "Neptunia Virtual Stars - Deluxe Pack"
+    },
+    {
+        "appid": 1538210,
+        "name": "CorruptedZ"
     },
     {
         "appid": 1538240,
@@ -199986,17 +199998,5 @@
     {
         "appid": 1952649,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 24"
-    },
-    {
-        "appid": 1952650,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Halloween 5"
-    },
-    {
-        "appid": 1952651,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Ukiyo-e 3"
-    },
-    {
-        "appid": 1952652,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Civil Unrest"
     }
 ]

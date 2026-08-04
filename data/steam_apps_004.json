@@ -1,5 +1,29 @@
 [
     {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
         "appid": 2929050,
         "name": "Feed My Raptor VR"
     },
@@ -10290,6 +10314,10 @@
     {
         "appid": 2979390,
         "name": "Neon Express"
+    },
+    {
+        "appid": 2979410,
+        "name": "Kindred Steel: Samurai VS Ninjas"
     },
     {
         "appid": 2979430,
@@ -66957,7 +66985,7 @@
     },
     {
         "appid": 3272280,
-        "name": "Mach-1"
+        "name": "Mach1"
     },
     {
         "appid": 3272290,
@@ -84212,6 +84240,10 @@
         "name": "SnaPaul"
     },
     {
+        "appid": 3358830,
+        "name": "Nocturnal Warfare"
+    },
+    {
         "appid": 3358850,
         "name": "Unfamiliar Lands"
     },
@@ -95550,10 +95582,6 @@
     {
         "appid": 3414690,
         "name": "Tales Of The Lost: Ghosts Of The Past"
-    },
-    {
-        "appid": 3414720,
-        "name": "PreStrafe"
     },
     {
         "appid": 3414730,
@@ -107522,6 +107550,10 @@
     {
         "appid": 3476970,
         "name": "Royal Impostor"
+    },
+    {
+        "appid": 3476980,
+        "name": "Parthas"
     },
     {
         "appid": 3477030,
@@ -145385,7 +145417,7 @@
     },
     {
         "appid": 3678780,
-        "name": "ユメヤマイ"
+        "name": "DREAMILL"
     },
     {
         "appid": 3678790,
@@ -148724,6 +148756,14 @@
         "name": "Monster Hunter Wilds - Camp Gear Set Vol. 3"
     },
     {
+        "appid": 3696490,
+        "name": "Monster Hunter Wilds - Pendant: Rolling Poogie: Two-tone"
+    },
+    {
+        "appid": 3696500,
+        "name": "Monster Hunter Wilds - Pendant: Rolling Poogie: Monochrome"
+    },
+    {
         "appid": 3696510,
         "name": "Monster Hunter Wilds - Pendant: Rolling Poogie: Takoyaki"
     },
@@ -148866,6 +148906,10 @@
     {
         "appid": 3697050,
         "name": "Monster Hunter Wilds - Sticker Set: Avis Unit Greetings"
+    },
+    {
+        "appid": 3697060,
+        "name": "Monster Hunter Wilds - Pendant: Rolling Poogie: Seasonal"
     },
     {
         "appid": 3697140,
@@ -152450,10 +152494,6 @@
     {
         "appid": 3716910,
         "name": "Whispers in the fog"
-    },
-    {
-        "appid": 3716930,
-        "name": "Phase Cross"
     },
     {
         "appid": 3716950,
@@ -161362,6 +161402,14 @@
     {
         "appid": 3767560,
         "name": "Monster Hunter Wilds - Pendant: KFC Bucket Felyne"
+    },
+    {
+        "appid": 3767570,
+        "name": "Monster Hunter Wilds - Pendant: Happy-Go-Congakart"
+    },
+    {
+        "appid": 3767580,
+        "name": "Monster Hunter Wilds - Felyne Layered Armor Set: Azure Fantasy Wudwud"
     },
     {
         "appid": 3767610,
@@ -174560,6 +174608,10 @@
         "name": "Benevolent"
     },
     {
+        "appid": 3840080,
+        "name": "H整骨院のおしごと"
+    },
+    {
         "appid": 3840090,
         "name": "Survive, Resist, Collaborate - a World War 2 Choice-Based Story"
     },
@@ -175085,7 +175137,7 @@
     },
     {
         "appid": 3842830,
-        "name": "Andread"
+        "name": "ANDREAD"
     },
     {
         "appid": 3842840,
@@ -180845,7 +180897,7 @@
     },
     {
         "appid": 3870990,
-        "name": "Silky Road"
+        "name": "Silky Rails"
     },
     {
         "appid": 3871030,
@@ -180918,6 +180970,10 @@
     {
         "appid": 3871270,
         "name": "Sweet Lyoria: Cozy Homes"
+    },
+    {
+        "appid": 3871300,
+        "name": "Ladder Lad"
     },
     {
         "appid": 3871310,
@@ -199942,61 +199998,5 @@
     {
         "appid": 3966710,
         "name": "VEILBORN"
-    },
-    {
-        "appid": 3966730,
-        "name": "Deck'n'Bag"
-    },
-    {
-        "appid": 3966760,
-        "name": "Web2APK"
-    },
-    {
-        "appid": 3966780,
-        "name": "Mr. Smiley's Quiz Of Terror"
-    },
-    {
-        "appid": 3966790,
-        "name": "Rare Rabbits - Snuggle Haven"
-    },
-    {
-        "appid": 3966800,
-        "name": "VINCIT"
-    },
-    {
-        "appid": 3966820,
-        "name": "Dead Express"
-    },
-    {
-        "appid": 3966830,
-        "name": "Princess & Conquest - Additional Characters #3"
-    },
-    {
-        "appid": 3966840,
-        "name": "Talents: Digital Behind-the-scenes book"
-    },
-    {
-        "appid": 3966850,
-        "name": "Cadens Caelo"
-    },
-    {
-        "appid": 3966860,
-        "name": "My Dream Garage"
-    },
-    {
-        "appid": 3966870,
-        "name": "Liminal Explorer"
-    },
-    {
-        "appid": 3966890,
-        "name": "Dawncaster | The RPG Cardventure"
-    },
-    {
-        "appid": 3966910,
-        "name": "inBOX"
-    },
-    {
-        "appid": 3966920,
-        "name": "MageGuard Tower"
     }
 ]

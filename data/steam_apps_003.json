@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1952650,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Halloween 5"
+    },
+    {
+        "appid": 1952651,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Ukiyo-e 3"
+    },
+    {
+        "appid": 1952652,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Civil Unrest"
+    },
+    {
         "appid": 1952653,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Electro Macro"
     },
@@ -14397,7 +14409,7 @@
     },
     {
         "appid": 2019300,
-        "name": "Dokimon: Quest"
+        "name": "Dokimon Quest"
     },
     {
         "appid": 2019340,
@@ -144444,6 +144456,10 @@
         "name": "Slip & Skid"
     },
     {
+        "appid": 2651400,
+        "name": "Gunslinger Girl Survivor"
+    },
+    {
         "appid": 2651410,
         "name": "The Endless Abyss: A Busty Cop’s Corrupted Soul"
     },
@@ -187764,6 +187780,10 @@
         "name": "Project13: Nightwatch"
     },
     {
+        "appid": 2866620,
+        "name": "Shot Caller"
+    },
+    {
         "appid": 2866640,
         "name": "A Death in the Red Light"
     },
@@ -191402,6 +191422,10 @@
     {
         "appid": 2884860,
         "name": "A.V.A Global - Masters Pack"
+    },
+    {
+        "appid": 2884930,
+        "name": "Staring Time"
     },
     {
         "appid": 2884970,
@@ -197497,7 +197521,7 @@
     },
     {
         "appid": 2916700,
-        "name": "Attack on Titan 3 - A.O.T.3"
+        "name": "Attack on Titan 3 / A.O.T. 3"
     },
     {
         "appid": 2916730,
@@ -199974,29 +199998,5 @@
     {
         "appid": 2928940,
         "name": "Yarn Guardians"
-    },
-    {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
     }
 ]
