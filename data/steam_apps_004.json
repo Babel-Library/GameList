@@ -1,33 +1,5 @@
 [
     {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
         "appid": 2929060,
         "name": "Wild West Blast"
     },
@@ -53000,10 +52972,6 @@
         "name": "Welcome to Elderfield"
     },
     {
-        "appid": 3195450,
-        "name": "Crony Corp"
-    },
-    {
         "appid": 3195470,
         "name": "BARD'S FAULT"
     },
@@ -62024,6 +61992,10 @@
         "name": "Presidential Beatdown"
     },
     {
+        "appid": 3243260,
+        "name": "Viridian Corp."
+    },
+    {
         "appid": 3243290,
         "name": "Kaci Foxx Avenging Angel"
     },
@@ -62206,6 +62178,10 @@
     {
         "appid": 3244040,
         "name": "The Golden Horde: Survival"
+    },
+    {
+        "appid": 3244080,
+        "name": "CarveLight"
     },
     {
         "appid": 3244090,
@@ -92616,10 +92592,6 @@
         "name": "Voice of Belldona Skin - Crimson Enigma"
     },
     {
-        "appid": 3399830,
-        "name": "The Last of them"
-    },
-    {
         "appid": 3399840,
         "name": "Double D. F."
     },
@@ -104652,10 +104624,6 @@
         "name": "A Sexy Tour With : Tanvi"
     },
     {
-        "appid": 3460060,
-        "name": "Bakken - Ski Jumping 2025"
-    },
-    {
         "appid": 3460100,
         "name": "Hit and Stand Blackjack"
     },
@@ -105029,7 +104997,7 @@
     },
     {
         "appid": 3462240,
-        "name": "Miniature Shop Simulator"
+        "name": "Warmace: Miniature Shop Simulator"
     },
     {
         "appid": 3462290,
@@ -128820,6 +128788,10 @@
         "name": "Chain-Chillas"
     },
     {
+        "appid": 3593740,
+        "name": "迷雾岛屿求生"
+    },
+    {
         "appid": 3593760,
         "name": "The Silent Jungle"
     },
@@ -129097,7 +129069,7 @@
     },
     {
         "appid": 3595130,
-        "name": "Syvnta: Sovereignty"
+        "name": "Eon of Invocation: Syvnta Sovereignty"
     },
     {
         "appid": 3595140,
@@ -131957,7 +131929,7 @@
     },
     {
         "appid": 3609170,
-        "name": "4STORY : The Original"
+        "name": "**"
     },
     {
         "appid": 3609190,
@@ -137504,6 +137476,10 @@
         "name": "Back to the College"
     },
     {
+        "appid": 3637310,
+        "name": "Food Samples Now Open"
+    },
+    {
         "appid": 3637330,
         "name": "Meow Time Machine: VAN GOGH"
     },
@@ -140498,10 +140474,6 @@
     {
         "appid": 3652980,
         "name": "Dilemma: The Game"
-    },
-    {
-        "appid": 3653030,
-        "name": "Kassei - Road Cycling 2025"
     },
     {
         "appid": 3653040,
@@ -145417,7 +145389,7 @@
     },
     {
         "appid": 3678780,
-        "name": "DREAMILL"
+        "name": "DREAMiLL"
     },
     {
         "appid": 3678790,
@@ -145966,6 +145938,10 @@
     {
         "appid": 3681430,
         "name": "Desktop Mate 雀魂「ちび一姫」DLC"
+    },
+    {
+        "appid": 3681450,
+        "name": "DUMMY HOUSE"
     },
     {
         "appid": 3681460,
@@ -159248,6 +159224,10 @@
         "name": "Arm of the Prince"
     },
     {
+        "appid": 3755560,
+        "name": "Lots at Stake"
+    },
+    {
         "appid": 3755570,
         "name": "Terra Pit"
     },
@@ -170646,6 +170626,10 @@
     {
         "appid": 3818910,
         "name": "Gotchi Guardians - Tower Defense"
+    },
+    {
+        "appid": 3818920,
+        "name": "The Sunset Land"
     },
     {
         "appid": 3818940,
@@ -190925,7 +190909,7 @@
     },
     {
         "appid": 3921280,
-        "name": "Healthy Hero - Tower Defense"
+        "name": "Project Zarya"
     },
     {
         "appid": 3921290,
@@ -199998,5 +199982,21 @@
     {
         "appid": 3966710,
         "name": "VEILBORN"
+    },
+    {
+        "appid": 3966730,
+        "name": "Deck'n'Bag"
+    },
+    {
+        "appid": 3966760,
+        "name": "Web2APK"
+    },
+    {
+        "appid": 3966780,
+        "name": "Mr. Smiley's Quiz Of Terror"
+    },
+    {
+        "appid": 3966790,
+        "name": "Rare Rabbits - Snuggle Haven"
     }
 ]

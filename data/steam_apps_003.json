@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1952650,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Halloween 5"
-    },
-    {
-        "appid": 1952651,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Ukiyo-e 3"
-    },
-    {
-        "appid": 1952652,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Civil Unrest"
-    },
-    {
         "appid": 1952653,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Electro Macro"
     },
@@ -38272,10 +38260,6 @@
         "name": "Vacoo. The adventure in Garbage city."
     },
     {
-        "appid": 2150070,
-        "name": "TRAINS: Electrostorm"
-    },
-    {
         "appid": 2150090,
         "name": "Fury Turn"
     },
@@ -49146,10 +49130,6 @@
     {
         "appid": 2197890,
         "name": "Paranormal Cleanup"
-    },
-    {
-        "appid": 2197930,
-        "name": "Bakken - Ski Jumping"
     },
     {
         "appid": 2197960,
@@ -67216,10 +67196,6 @@
         "name": "The Berlin Apartment"
     },
     {
-        "appid": 2280440,
-        "name": "Ogre Chambers DX"
-    },
-    {
         "appid": 2280450,
         "name": "Fish Folk: Jumpy"
     },
@@ -78234,10 +78210,6 @@
     {
         "appid": 2331020,
         "name": "Tales of Berseria Remastered"
-    },
-    {
-        "appid": 2331040,
-        "name": "Kassei - Road Cycling"
     },
     {
         "appid": 2331050,
@@ -93522,6 +93494,10 @@
     {
         "appid": 2398030,
         "name": "FPV LOGIC"
+    },
+    {
+        "appid": 2398060,
+        "name": "On War: Stalingrad"
     },
     {
         "appid": 2398100,
@@ -128854,10 +128830,6 @@
     {
         "appid": 2569570,
         "name": "FLIGHTMARE"
-    },
-    {
-        "appid": 2569580,
-        "name": "Dreams: Unlimited links"
     },
     {
         "appid": 2569590,
@@ -199998,5 +199970,33 @@
     {
         "appid": 2928940,
         "name": "Yarn Guardians"
+    },
+    {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
     }
 ]

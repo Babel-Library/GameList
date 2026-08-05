@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1107180,
-        "name": "The Messenger - Picnic Panic DLC"
-    },
-    {
         "appid": 1107190,
         "name": "The Fragment"
     },
@@ -66336,10 +66332,6 @@
         "name": "活体三国"
     },
     {
-        "appid": 1390040,
-        "name": "Hentai Babe Buffy"
-    },
-    {
         "appid": 1390060,
         "name": "Ghosty"
     },
@@ -68456,10 +68448,6 @@
         "name": "Crisis Arcana"
     },
     {
-        "appid": 1399920,
-        "name": "Hentai Babe Buffy - Expanded Content"
-    },
-    {
         "appid": 1399930,
         "name": "Furry Shades of Gay"
     },
@@ -68858,10 +68846,6 @@
     {
         "appid": 1401940,
         "name": "露露寻犬记"
-    },
-    {
-        "appid": 1401960,
-        "name": "Hentai Babe Buffy - Artbook 18+"
     },
     {
         "appid": 1401970,
@@ -89173,7 +89157,7 @@
     },
     {
         "appid": 1491270,
-        "name": "The Deep"
+        "name": "Unshallow"
     },
     {
         "appid": 1491280,
@@ -166792,6 +166776,10 @@
         "name": "来自女巫森林的法师-设定集(第四期)"
     },
     {
+        "appid": 1807070,
+        "name": "Reypunk: An Eye For An Eye"
+    },
+    {
         "appid": 1807080,
         "name": "Ghost Exile"
     },
@@ -199998,5 +199986,17 @@
     {
         "appid": 1952649,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 24"
+    },
+    {
+        "appid": 1952650,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Halloween 5"
+    },
+    {
+        "appid": 1952651,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Ukiyo-e 3"
+    },
+    {
+        "appid": 1952652,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Civil Unrest"
     }
 ]
