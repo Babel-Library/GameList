@@ -41504,10 +41504,6 @@
         "name": "A Kiss For The Petals - Remembering How We Met"
     },
     {
-        "appid": 397310,
-        "name": "Looterkings"
-    },
-    {
         "appid": 397320,
         "name": "CTU: Counter Terrorism Unit"
     },
@@ -61504,10 +61500,6 @@
         "name": "FootRock"
     },
     {
-        "appid": 497120,
-        "name": "Wildcard"
-    },
-    {
         "appid": 497150,
         "name": "DJ Streamer"
     },
@@ -65298,10 +65290,6 @@
     {
         "appid": 512470,
         "name": "The Pirate: Caribbean Hunt"
-    },
-    {
-        "appid": 512480,
-        "name": "Looterkings - ProGamer Pack"
     },
     {
         "appid": 512490,
@@ -70734,10 +70722,6 @@
     {
         "appid": 536920,
         "name": "Groggers!"
-    },
-    {
-        "appid": 536950,
-        "name": "Legend of Ares"
     },
     {
         "appid": 536960,
@@ -173972,10 +173956,6 @@
         "name": "Lukewarm Ironclad"
     },
     {
-        "appid": 999480,
-        "name": "Hentai - Color by Number"
-    },
-    {
         "appid": 999490,
         "name": "Graviteam Tactics: Under the Cruel Star"
     },
@@ -199998,5 +199978,25 @@
     {
         "appid": 1107180,
         "name": "The Messenger - Picnic Panic DLC"
+    },
+    {
+        "appid": 1107190,
+        "name": "The Fragment"
+    },
+    {
+        "appid": 1107210,
+        "name": "Jumping Over It With Kang KiYun"
+    },
+    {
+        "appid": 1107230,
+        "name": "The 13th Doll: A Fan Game of The 7th Guest"
+    },
+    {
+        "appid": 1107260,
+        "name": "The Lar - Support Us!"
+    },
+    {
+        "appid": 1107290,
+        "name": "My Friend Pedro Soundtrack"
     }
 ]

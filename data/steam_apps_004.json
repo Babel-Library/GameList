@@ -1,49 +1,5 @@
 [
     {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
-        "appid": 2929120,
-        "name": "따님은 제가 데리고 있습니다"
-    },
-    {
-        "appid": 2929130,
-        "name": "Bloodwood Dungeon"
-    },
-    {
-        "appid": 2929140,
-        "name": "Ataegina Act I"
-    },
-    {
-        "appid": 2929160,
-        "name": "Gremlin Party '03"
-    },
-    {
-        "appid": 2929170,
-        "name": "NEW MONOPOLY®"
-    },
-    {
-        "appid": 2929180,
-        "name": "We Need Space"
-    },
-    {
-        "appid": 2929200,
-        "name": "Hentai Casual Jigsaw - Vampires"
-    },
-    {
         "appid": 2929230,
         "name": "Affordable Healthcare"
     },
@@ -1921,7 +1877,7 @@
     },
     {
         "appid": 2939300,
-        "name": "Sabotage"
+        "name": "The Last Smuggler"
     },
     {
         "appid": 2939310,
@@ -61349,7 +61305,7 @@
     },
     {
         "appid": 3239990,
-        "name": "Our Church and Halloween RPG - Episode One"
+        "name": "Our Church and Halloween RPG"
     },
     {
         "appid": 3240000,
@@ -89477,7 +89433,7 @@
     },
     {
         "appid": 3384370,
-        "name": "Tech Reaper"
+        "name": "Sand Eaters"
     },
     {
         "appid": 3384380,
@@ -105481,7 +105437,7 @@
     },
     {
         "appid": 3464950,
-        "name": "Museums of History"
+        "name": "Chronicle Archive - Japan"
     },
     {
         "appid": 3464960,
@@ -122716,6 +122672,10 @@
         "name": "Rockhounds"
     },
     {
+        "appid": 3563080,
+        "name": "Swords & Slippers"
+    },
+    {
         "appid": 3563100,
         "name": "Station Noctis"
     },
@@ -131926,10 +131886,6 @@
     {
         "appid": 3609160,
         "name": "GOTY"
-    },
-    {
-        "appid": 3609170,
-        "name": "**"
     },
     {
         "appid": 3609190,
@@ -146489,7 +146445,7 @@
     },
     {
         "appid": 3684480,
-        "name": "Meowventure"
+        "name": "Paperdream"
     },
     {
         "appid": 3684500,
@@ -159997,7 +159953,7 @@
     },
     {
         "appid": 3759810,
-        "name": "CivEconomy - Future Leader"
+        "name": "CivEconomy"
     },
     {
         "appid": 3759820,
@@ -162702,30 +162658,6 @@
     {
         "appid": 3776070,
         "name": "Noctheria"
-    },
-    {
-        "appid": 3776130,
-        "name": "4Story Warrior Armor Package"
-    },
-    {
-        "appid": 3776140,
-        "name": "4Story Assassin Armor Package"
-    },
-    {
-        "appid": 3776150,
-        "name": "4Story Archer Armor Package"
-    },
-    {
-        "appid": 3776160,
-        "name": "4Story Mage Armor Package"
-    },
-    {
-        "appid": 3776170,
-        "name": "4Story Priest Armor Package"
-    },
-    {
-        "appid": 3776180,
-        "name": "4Story Summoner Armor Package"
     },
     {
         "appid": 3776220,
@@ -165510,6 +165442,10 @@
     {
         "appid": 3792120,
         "name": "Rogue's Odyssey"
+    },
+    {
+        "appid": 3792130,
+        "name": "Cutout"
     },
     {
         "appid": 3792140,
@@ -173577,7 +173513,7 @@
     },
     {
         "appid": 3834750,
-        "name": "Nitro & Necros"
+        "name": "Nitro X Necros"
     },
     {
         "appid": 3834760,
@@ -174858,10 +174794,6 @@
     {
         "appid": 3841440,
         "name": "Academy Love Saga: Tennis Angels EX Artbook"
-    },
-    {
-        "appid": 3841450,
-        "name": "4Story Permanent Dragon Mount Package"
     },
     {
         "appid": 3841480,
@@ -182672,6 +182604,10 @@
         "name": "Train Sim World® 6: Avanti West Coast BR Class 805 Evero BMU Add-On "
     },
     {
+        "appid": 3879880,
+        "name": "Train Sim World® 6: Schnellfahrstrecke Nürnberg - Ingolstadt Route Add-On"
+    },
+    {
         "appid": 3879890,
         "name": "Train Sim World® 6: Santa Fe on Cajon Pass Add-On "
     },
@@ -183545,7 +183481,7 @@
     },
     {
         "appid": 3883710,
-        "name": "GET OUT! – A Very Bad Dreams Story"
+        "name": "Get Out ! A \"Very Bad Dreams\" Story"
     },
     {
         "appid": 3883730,
@@ -193273,7 +193209,7 @@
     },
     {
         "appid": 3933410,
-        "name": "Order Up!"
+        "name": "Grill & Grow"
     },
     {
         "appid": 3933450,
@@ -199557,7 +199493,7 @@
     },
     {
         "appid": 3964600,
-        "name": "Quarantine Zombies"
+        "name": "Quarantine Zombies: Contamination"
     },
     {
         "appid": 3964610,
@@ -199998,5 +199934,69 @@
     {
         "appid": 3966790,
         "name": "Rare Rabbits - Snuggle Haven"
+    },
+    {
+        "appid": 3966800,
+        "name": "VINCIT"
+    },
+    {
+        "appid": 3966820,
+        "name": "Dead Express"
+    },
+    {
+        "appid": 3966830,
+        "name": "Princess & Conquest - Additional Characters #3"
+    },
+    {
+        "appid": 3966840,
+        "name": "Talents: Digital Behind-the-scenes book"
+    },
+    {
+        "appid": 3966850,
+        "name": "Cadens Caelo"
+    },
+    {
+        "appid": 3966860,
+        "name": "My Dream Garage"
+    },
+    {
+        "appid": 3966870,
+        "name": "Liminal Explorer"
+    },
+    {
+        "appid": 3966890,
+        "name": "Dawncaster | The RPG Cardventure"
+    },
+    {
+        "appid": 3966910,
+        "name": "inBOX"
+    },
+    {
+        "appid": 3966920,
+        "name": "MageGuard Tower"
+    },
+    {
+        "appid": 3966930,
+        "name": "CyberZ: Energy Wars"
+    },
+    {
+        "appid": 3966940,
+        "name": "A.S.İ : BAŞLANGIÇ"
+    },
+    {
+        "appid": 3966950,
+        "name": "Cute Warrior Girl 2 (큐트 여전사 2)"
+    },
+    {
+        "appid": 3967030,
+        "name": "Withdrawal"
+    },
+    {
+        "appid": 3967040,
+        "name": "Blackwood Division"
+    },
+    {
+        "appid": 3967060,
+        "name": "Feed the Lie"
     }
 ]

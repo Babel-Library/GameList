@@ -1,41 +1,5 @@
 [
     {
-        "appid": 1952653,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Electro Macro"
-    },
-    {
-        "appid": 1952654,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate Germany 2"
-    },
-    {
-        "appid": 1952655,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Psychedelic"
-    },
-    {
-        "appid": 1952656,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
-    },
-    {
-        "appid": 1952657,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
-    },
-    {
-        "appid": 1952658,
-        "name": "Pixel Puzzles Ultimate: Free Content Addon"
-    },
-    {
-        "appid": 1952659,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
-    },
-    {
-        "appid": 1952670,
-        "name": "INFEROS NUMINE : descent into darkness"
-    },
-    {
-        "appid": 1952690,
-        "name": "Bytebond"
-    },
-    {
         "appid": 1952740,
         "name": "Infinite Turtles"
     },
@@ -41037,7 +41001,7 @@
     },
     {
         "appid": 2163500,
-        "name": "Punzel: Chapter I - Toujours la Meme Histoire"
+        "name": "Punzel"
     },
     {
         "appid": 2163520,
@@ -144420,10 +144384,6 @@
         "name": "脱出哥布林巢穴"
     },
     {
-        "appid": 2651320,
-        "name": "Lords Mobile"
-    },
-    {
         "appid": 2651350,
         "name": "Slip & Skid"
     },
@@ -167498,10 +167458,6 @@
     {
         "appid": 2764160,
         "name": "Enough Plumbers"
-    },
-    {
-        "appid": 2764170,
-        "name": "Elhosea"
     },
     {
         "appid": 2764180,
@@ -192345,7 +192301,7 @@
     },
     {
         "appid": 2889200,
-        "name": "ZJ the Ball (Level 1)"
+        "name": "ZJ the Ball"
     },
     {
         "appid": 2889270,
@@ -199998,5 +199954,49 @@
     {
         "appid": 2929050,
         "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
+        "appid": 2929110,
+        "name": "HOYO"
+    },
+    {
+        "appid": 2929120,
+        "name": "따님은 제가 데리고 있습니다"
+    },
+    {
+        "appid": 2929130,
+        "name": "Bloodwood Dungeon"
+    },
+    {
+        "appid": 2929140,
+        "name": "Ataegina Act I"
+    },
+    {
+        "appid": 2929160,
+        "name": "Gremlin Party '03"
+    },
+    {
+        "appid": 2929170,
+        "name": "NEW MONOPOLY®"
+    },
+    {
+        "appid": 2929180,
+        "name": "We Need Space"
+    },
+    {
+        "appid": 2929200,
+        "name": "Hentai Casual Jigsaw - Vampires"
     }
 ]

@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1107190,
-        "name": "The Fragment"
-    },
-    {
-        "appid": 1107210,
-        "name": "Jumping Over It With Kang KiYun"
-    },
-    {
-        "appid": 1107230,
-        "name": "The 13th Doll: A Fan Game of The 7th Guest"
-    },
-    {
-        "appid": 1107260,
-        "name": "The Lar - Support Us!"
-    },
-    {
-        "appid": 1107290,
-        "name": "My Friend Pedro Soundtrack"
-    },
-    {
         "appid": 1107300,
         "name": "Down in Bermuda"
     },
@@ -7830,10 +7810,6 @@
     {
         "appid": 1138030,
         "name": "灵卡大师 Master of LinCard"
-    },
-    {
-        "appid": 1138070,
-        "name": "leapoid"
     },
     {
         "appid": 1138100,
@@ -42364,10 +42340,6 @@
         "name": "Defense high"
     },
     {
-        "appid": 1280590,
-        "name": "Race Project"
-    },
-    {
         "appid": 1280610,
         "name": "Stack It"
     },
@@ -49118,10 +49090,6 @@
     {
         "appid": 1310731,
         "name": "ANIMALITY - Duck Colour Pigments"
-    },
-    {
-        "appid": 1310740,
-        "name": "MORTARMEN"
     },
     {
         "appid": 1310770,
@@ -122324,6 +122292,10 @@
         "name": "War Mines: WW1"
     },
     {
+        "appid": 1640110,
+        "name": "Ectocrosis"
+    },
+    {
         "appid": 1640120,
         "name": "VR Puppet Game"
     },
@@ -152486,10 +152458,6 @@
     {
         "appid": 1748300,
         "name": "Dear Monster"
-    },
-    {
-        "appid": 1748310,
-        "name": "Octofight Escape"
     },
     {
         "appid": 1748330,
@@ -194940,10 +194908,6 @@
         "name": "Anno 1800 - Seeds of Change"
     },
     {
-        "appid": 1933250,
-        "name": "No King No Kingdom - Shield of Great Protectors"
-    },
-    {
         "appid": 1933290,
         "name": "Best Of Eleven"
     },
@@ -199998,5 +199962,41 @@
     {
         "appid": 1952652,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Civil Unrest"
+    },
+    {
+        "appid": 1952653,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Electro Macro"
+    },
+    {
+        "appid": 1952654,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate Germany 2"
+    },
+    {
+        "appid": 1952655,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Psychedelic"
+    },
+    {
+        "appid": 1952656,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
+    },
+    {
+        "appid": 1952657,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
+    },
+    {
+        "appid": 1952658,
+        "name": "Pixel Puzzles Ultimate: Free Content Addon"
+    },
+    {
+        "appid": 1952659,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
+    },
+    {
+        "appid": 1952670,
+        "name": "INFEROS NUMINE : descent into darkness"
+    },
+    {
+        "appid": 1952690,
+        "name": "Bytebond"
     }
 ]
