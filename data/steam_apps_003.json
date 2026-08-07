@@ -90197,7 +90197,7 @@
     },
     {
         "appid": 2383310,
-        "name": "craven bay : source"
+        "name": "craven bay : bay-side"
     },
     {
         "appid": 2383380,
@@ -96870,6 +96870,10 @@
     {
         "appid": 2412010,
         "name": "Konike"
+    },
+    {
+        "appid": 2412030,
+        "name": "TeamSpec"
     },
     {
         "appid": 2412050,
@@ -169713,7 +169717,7 @@
     },
     {
         "appid": 2775180,
-        "name": "101 Cats"
+        "name": "Hidden Pets: 101 Cats"
     },
     {
         "appid": 2775200,
@@ -181265,7 +181269,7 @@
     },
     {
         "appid": 2834780,
-        "name": "101 Cats in Dubai"
+        "name": "Hidden Pets: 101 Cats in Dubai"
     },
     {
         "appid": 2834790,
@@ -193000,6 +193004,10 @@
         "name": "五行：五鬼搬运"
     },
     {
+        "appid": 2892650,
+        "name": "开局一只蛋——宙天龙皇"
+    },
+    {
         "appid": 2892660,
         "name": "DON'T EXIST"
     },
@@ -199096,6 +199104,10 @@
         "name": "Rogue Bot Adventure"
     },
     {
+        "appid": 2924970,
+        "name": "Elysia Sector™: The Unknown"
+    },
+    {
         "appid": 2924980,
         "name": "Scouts Out"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 2929160,
         "name": "Gremlin Party '03"
-    },
-    {
-        "appid": 2929170,
-        "name": "NEW MONOPOLY®"
-    },
-    {
-        "appid": 2929180,
-        "name": "We Need Space"
-    },
-    {
-        "appid": 2929200,
-        "name": "Hentai Casual Jigsaw - Vampires"
     }
 ]
