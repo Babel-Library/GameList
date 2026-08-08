@@ -1,25 +1,5 @@
 [
     {
-        "appid": 2929170,
-        "name": "NEW MONOPOLY®"
-    },
-    {
-        "appid": 2929180,
-        "name": "We Need Space"
-    },
-    {
-        "appid": 2929200,
-        "name": "Hentai Casual Jigsaw - Vampires"
-    },
-    {
-        "appid": 2929230,
-        "name": "Affordable Healthcare"
-    },
-    {
-        "appid": 2929240,
-        "name": "FLOOR 10"
-    },
-    {
         "appid": 2929250,
         "name": "over the hill"
     },
@@ -30140,10 +30120,6 @@
         "name": "Muggo Clicker"
     },
     {
-        "appid": 3080810,
-        "name": "Potato"
-    },
-    {
         "appid": 3080820,
         "name": "Re:END"
     },
@@ -35984,6 +35960,10 @@
         "name": "Silent: Abandoned"
     },
     {
+        "appid": 3108730,
+        "name": "孤行"
+    },
+    {
         "appid": 3108760,
         "name": "Catastrophic Cat Command"
     },
@@ -38586,6 +38566,10 @@
     {
         "appid": 3121410,
         "name": "BackStreet"
+    },
+    {
+        "appid": 3121420,
+        "name": "Monolith: Dark Matter"
     },
     {
         "appid": 3121430,
@@ -47518,6 +47502,10 @@
     {
         "appid": 3167760,
         "name": "DUNGEON WALK3－奇妙な狂闘－"
+    },
+    {
+        "appid": 3167780,
+        "name": "Planetary Zigma"
     },
     {
         "appid": 3167800,
@@ -66332,6 +66320,10 @@
         "name": "Mercator"
     },
     {
+        "appid": 3268890,
+        "name": "Ozersk Protocol"
+    },
+    {
         "appid": 3268900,
         "name": "Light The Beacon"
     },
@@ -80734,6 +80726,10 @@
     {
         "appid": 3342270,
         "name": "AGoodField"
+    },
+    {
+        "appid": 3342280,
+        "name": "CasiYES!"
     },
     {
         "appid": 3342320,
@@ -98414,6 +98410,10 @@
     {
         "appid": 3430140,
         "name": "Astro Defender"
+    },
+    {
+        "appid": 3430150,
+        "name": "Brave Billiards"
     },
     {
         "appid": 3430160,
@@ -137232,6 +137232,10 @@
         "name": "Death Game Hotel, a White Owls® game"
     },
     {
+        "appid": 3636240,
+        "name": "Death By Pixel"
+    },
+    {
         "appid": 3636260,
         "name": "Suburbadrome"
     },
@@ -139640,6 +139644,10 @@
         "name": "Dishventory"
     },
     {
+        "appid": 3649210,
+        "name": "Gagged Love: Bondage Studio"
+    },
+    {
         "appid": 3649220,
         "name": "I drink Sorrel Coffee to reboot reality, but I'm being hunted by Monster Girls and armed agents - DLC 18+"
     },
@@ -141436,20 +141444,20 @@
         "name": "Cursed station"
     },
     {
-        "appid": 3657920,
-        "name": "NBA 2K26 Pro Pass: Season 8"
+        "appid": 3657960,
+        "name": "NBA 2K26 Pro Pass: Season 9"
     },
     {
-        "appid": 3657930,
-        "name": "NBA 2K26 Hall of Fame Pass: Season 8"
+        "appid": 3657970,
+        "name": "NBA 2K26 Hall of Fame Pass: Season 9"
     },
     {
-        "appid": 3657940,
-        "name": "NBA 2K26 MyCAREER Season 8 Bonus Offer"
+        "appid": 3657980,
+        "name": "NBA 2K26 MyCAREER Season 9 Bonus Offer"
     },
     {
-        "appid": 3657950,
-        "name": "NBA 2K26 MyTEAM Season 8 Bonus Offer"
+        "appid": 3657990,
+        "name": "NBA 2K26 MyTEAM Season 9 Bonus Offer"
     },
     {
         "appid": 3658000,
@@ -143272,6 +143280,10 @@
         "name": "Signal Intentions"
     },
     {
+        "appid": 3666680,
+        "name": "Fishing 95"
+    },
+    {
         "appid": 3666700,
         "name": "Vasilisa And Baba Yaga Artbook"
     },
@@ -144682,10 +144694,6 @@
     {
         "appid": 3674000,
         "name": "Arkwright"
-    },
-    {
-        "appid": 3674050,
-        "name": "Silly's Gameshow"
     },
     {
         "appid": 3674070,
@@ -159392,6 +159400,10 @@
         "name": "Alaloth: Champions of The Four Kingdoms - Heartwood Set"
     },
     {
+        "appid": 3756440,
+        "name": "Alaloth: Champions of The Four Kingdoms - Void Stalker Set"
+    },
+    {
         "appid": 3756450,
         "name": "Alaloth: Champions of The Four Kingdoms - Luminous Redeemer Set"
     },
@@ -165686,6 +165698,10 @@
     {
         "appid": 3792980,
         "name": "Atlandis"
+    },
+    {
+        "appid": 3792990,
+        "name": "Halima"
     },
     {
         "appid": 3793000,
@@ -199982,21 +199998,5 @@
     {
         "appid": 3966790,
         "name": "Rare Rabbits - Snuggle Haven"
-    },
-    {
-        "appid": 3966800,
-        "name": "VINCIT"
-    },
-    {
-        "appid": 3966820,
-        "name": "Dead Express"
-    },
-    {
-        "appid": 3966830,
-        "name": "Princess & Conquest - Additional Characters #3"
-    },
-    {
-        "appid": 3966840,
-        "name": "Talents: Digital Behind-the-scenes book"
     }
 ]

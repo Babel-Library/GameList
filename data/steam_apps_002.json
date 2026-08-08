@@ -1,37 +1,5 @@
 [
     {
-        "appid": 1107300,
-        "name": "Down in Bermuda"
-    },
-    {
-        "appid": 1107320,
-        "name": "OUTBRK"
-    },
-    {
-        "appid": 1107340,
-        "name": "LONN"
-    },
-    {
-        "appid": 1107350,
-        "name": "Unsolved Mystery Club: Ancient Astronauts (Collector´s Edition)"
-    },
-    {
-        "appid": 1107370,
-        "name": "Demoniaca: Everlasting Night"
-    },
-    {
-        "appid": 1107380,
-        "name": "Nyanco Channel - Follower Pack"
-    },
-    {
-        "appid": 1107390,
-        "name": "Project Polygun"
-    },
-    {
-        "appid": 1107400,
-        "name": "Fantasy Grounds - D&D Classics: The Sword of the Dales (2E)"
-    },
-    {
         "appid": 1107430,
         "name": "Fantasy Grounds - D&D Classics: The Secret of Spiderhaunt (2e)"
     },
@@ -82882,6 +82850,10 @@
     {
         "appid": 1463380,
         "name": "Big Cat Rescue VR"
+    },
+    {
+        "appid": 1463400,
+        "name": "Happily Never After"
     },
     {
         "appid": 1463420,
@@ -184525,7 +184497,7 @@
     },
     {
         "appid": 1884660,
-        "name": "Transmissions"
+        "name": "Echoes: A Transmissions Story"
     },
     {
         "appid": 1884680,
@@ -199998,5 +199970,33 @@
     {
         "appid": 1952690,
         "name": "Bytebond"
+    },
+    {
+        "appid": 1952740,
+        "name": "Infinite Turtles"
+    },
+    {
+        "appid": 1952750,
+        "name": "Baradroid - A Gay Visual Novel"
+    },
+    {
+        "appid": 1952760,
+        "name": "RGB Rush"
+    },
+    {
+        "appid": 1952770,
+        "name": "ConquestAreas"
+    },
+    {
+        "appid": 1952780,
+        "name": "Spider Slingers"
+    },
+    {
+        "appid": 1952800,
+        "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
+    },
+    {
+        "appid": 1952810,
+        "name": "VR Pong"
     }
 ]

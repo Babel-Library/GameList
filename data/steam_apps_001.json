@@ -35240,10 +35240,6 @@
         "name": "Slain: Back from Hell"
     },
     {
-        "appid": 369080,
-        "name": "Age of Survival"
-    },
-    {
         "appid": 369100,
         "name": "Predator Simulator"
     },
@@ -38914,10 +38910,6 @@
     {
         "appid": 385260,
         "name": "Lamia Must Die"
-    },
-    {
-        "appid": 385270,
-        "name": "Jet Racing Extreme: The First Encounter"
     },
     {
         "appid": 385280,
@@ -60364,26 +60356,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492950,
-        "name": "Rocksmith® 2014 – Bad Religion - “American Jesus”"
-    },
-    {
-        "appid": 492951,
-        "name": "Rocksmith® 2014 – Bad Religion - “21st Century (Digital Boy)”"
-    },
-    {
-        "appid": 492952,
-        "name": "Rocksmith® 2014 – Bad Religion - “Infected”"
-    },
-    {
-        "appid": 492953,
-        "name": "Rocksmith® 2014 – Bad Religion - “Sorrow”"
-    },
-    {
-        "appid": 492954,
-        "name": "Rocksmith® 2014 – Bad Religion Song Pack"
-    },
-    {
         "appid": 492955,
         "name": "Rocksmith® 2014 – Fall Out Boy  - “My Song Know What You Did In The Dark (Light Em Up)”"
     },
@@ -76882,10 +76854,6 @@
     {
         "appid": 564980,
         "name": "Killer Klownz"
-    },
-    {
-        "appid": 565020,
-        "name": "Global Adventures"
     },
     {
         "appid": 565030,
@@ -199998,5 +199966,37 @@
     {
         "appid": 1107290,
         "name": "My Friend Pedro Soundtrack"
+    },
+    {
+        "appid": 1107300,
+        "name": "Down in Bermuda"
+    },
+    {
+        "appid": 1107320,
+        "name": "OUTBRK"
+    },
+    {
+        "appid": 1107340,
+        "name": "LONN"
+    },
+    {
+        "appid": 1107350,
+        "name": "Unsolved Mystery Club: Ancient Astronauts (Collector´s Edition)"
+    },
+    {
+        "appid": 1107370,
+        "name": "Demoniaca: Everlasting Night"
+    },
+    {
+        "appid": 1107380,
+        "name": "Nyanco Channel - Follower Pack"
+    },
+    {
+        "appid": 1107390,
+        "name": "Project Polygun"
+    },
+    {
+        "appid": 1107400,
+        "name": "Fantasy Grounds - D&D Classics: The Sword of the Dales (2E)"
     }
 ]
