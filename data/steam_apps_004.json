@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929170,
+        "name": "NEW MONOPOLY®"
+    },
+    {
         "appid": 2929180,
         "name": "We Need Space"
     },
@@ -64621,7 +64625,7 @@
     },
     {
         "appid": 3258560,
-        "name": "我不是魔王"
+        "name": "我不是魔王 I'm No Demonlord"
     },
     {
         "appid": 3258580,
@@ -78626,6 +78630,10 @@
     {
         "appid": 3331840,
         "name": "Sprinklebottom and the Haunted Ruins"
+    },
+    {
+        "appid": 3331850,
+        "name": "Brush duel"
     },
     {
         "appid": 3331860,
@@ -199990,13 +199998,5 @@
     {
         "appid": 3966650,
         "name": "Pixplorer"
-    },
-    {
-        "appid": 3966660,
-        "name": "SisterWordEscape"
-    },
-    {
-        "appid": 3966690,
-        "name": "Session: Skate Sim El Lay"
     }
 ]

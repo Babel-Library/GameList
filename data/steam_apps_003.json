@@ -143900,6 +143900,10 @@
         "name": "Venus Puzzles"
     },
     {
+        "appid": 2649300,
+        "name": "Plug: Build your Empire"
+    },
+    {
         "appid": 2649320,
         "name": "Shuffle Waifu Cafe"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929160,
         "name": "Gremlin Party '03"
-    },
-    {
-        "appid": 2929170,
-        "name": "NEW MONOPOLY®"
     }
 ]
