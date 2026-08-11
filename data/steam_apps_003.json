@@ -84732,6 +84732,10 @@
         "name": "Step By Step"
     },
     {
+        "appid": 2361090,
+        "name": "Starcore Survivor"
+    },
+    {
         "appid": 2361100,
         "name": "Getting To The Other Side!!!"
     },
@@ -145344,6 +145348,10 @@
         "name": "Galactic Corsairs"
     },
     {
+        "appid": 2656050,
+        "name": "Knytt Classic"
+    },
+    {
         "appid": 2656090,
         "name": "Fantasy Grounds - Starfinder RPG - Starfinder Flip-Mat - Metropolis"
     },
@@ -169709,7 +169717,7 @@
     },
     {
         "appid": 2775180,
-        "name": "Hidden Pets: 101 Cats"
+        "name": "101 Cats"
     },
     {
         "appid": 2775200,
@@ -199990,13 +199998,5 @@
     {
         "appid": 2929130,
         "name": "Bloodwood Dungeon"
-    },
-    {
-        "appid": 2929140,
-        "name": "Ataegina Act I"
-    },
-    {
-        "appid": 2929160,
-        "name": "Gremlin Party '03"
     }
 ]
