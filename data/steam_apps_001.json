@@ -5701,19 +5701,19 @@
     },
     {
         "appid": 90207,
-        "name": "Farming Simulator 2011 - Classics"
+        "name": "Farming Simulator 2011: Classics"
     },
     {
         "appid": 90208,
-        "name": "Farming Simulator 2011 - Equipment Pack 3"
+        "name": "Farming Simulator 2011: Equipment Pack 3"
     },
     {
         "appid": 90209,
-        "name": "Farming Simulator 2011 - Equipment Pack 2"
+        "name": "Farming Simulator 2011: Equipment Pack 2"
     },
     {
         "appid": 90210,
-        "name": "Farming Simulator 2011 - Equipment Pack 1"
+        "name": "Farming Simulator 2011: Equipment Pack 1"
     },
     {
         "appid": 90400,
@@ -9465,7 +9465,7 @@
     },
     {
         "appid": 220260,
-        "name": "Farming Simulator 2013 Titanium Edition"
+        "name": "Farming Simulator 2013: Titanium Edition"
     },
     {
         "appid": 220285,
@@ -10213,7 +10213,7 @@
     },
     {
         "appid": 225200,
-        "name": "Farming Simulator 2013 Modding Tutorials"
+        "name": "Farming Simulator 2013: Modding Tutorials"
     },
     {
         "appid": 225260,
@@ -12329,7 +12329,7 @@
     },
     {
         "appid": 245220,
-        "name": "Farming Simulator 2013 - Classics"
+        "name": "Farming Simulator 2013: Classics"
     },
     {
         "appid": 245280,
@@ -12401,7 +12401,7 @@
     },
     {
         "appid": 246050,
-        "name": "Farming Simulator 2013 - Official Expansion (Titanium)"
+        "name": "Farming Simulator 2013: Official Expansion (Titanium)"
     },
     {
         "appid": 246070,
@@ -17085,7 +17085,7 @@
     },
     {
         "appid": 279090,
-        "name": "Farming Simulator 2013 Lindner Unitrac"
+        "name": "Farming Simulator 2013: Lindner Unitrac"
     },
     {
         "appid": 279110,
@@ -27629,7 +27629,7 @@
     },
     {
         "appid": 335290,
-        "name": "Farming Simulator 15 - ITRunner"
+        "name": "Farming Simulator 15: ITRunner"
     },
     {
         "appid": 335300,
@@ -30029,11 +30029,11 @@
     },
     {
         "appid": 345740,
-        "name": "Farming Simulator 15 - JCB"
+        "name": "Farming Simulator 15: JCB"
     },
     {
         "appid": 345741,
-        "name": "Farming Simulator 15 - HOLMER"
+        "name": "Farming Simulator 15: HOLMER"
     },
     {
         "appid": 345750,
@@ -30210,6 +30210,10 @@
     {
         "appid": 346500,
         "name": "Road Scars: Origins"
+    },
+    {
+        "appid": 346510,
+        "name": "Hyphen"
     },
     {
         "appid": 346540,
@@ -36557,7 +36561,7 @@
     },
     {
         "appid": 374850,
-        "name": "Farming Simulator 15 - New Holland Pack"
+        "name": "Farming Simulator 15: New Holland Pack"
     },
     {
         "appid": 374851,
@@ -38113,7 +38117,7 @@
     },
     {
         "appid": 381240,
-        "name": "Farming Simulator 15 - New Holland Loader Pack"
+        "name": "Farming Simulator 15: New Holland Loader Pack"
     },
     {
         "appid": 381250,
@@ -78013,7 +78017,7 @@
     },
     {
         "appid": 570220,
-        "name": "Farming Simulator 17 - KUHN Equipment Pack"
+        "name": "Farming Simulator 17: KUHN Equipment Pack"
     },
     {
         "appid": 570230,
@@ -86265,7 +86269,7 @@
     },
     {
         "appid": 605550,
-        "name": "Farming Simulator 17 - Big Bud Pack"
+        "name": "Farming Simulator 17: Big Bud Pack"
     },
     {
         "appid": 605560,
@@ -92229,7 +92233,7 @@
     },
     {
         "appid": 635290,
-        "name": "Farming Simulator 17 - ROPA Pack"
+        "name": "Farming Simulator 17: ROPA Pack"
     },
     {
         "appid": 635310,
@@ -92241,7 +92245,7 @@
     },
     {
         "appid": 635330,
-        "name": "Farming Simulator 17 - Platinum Expansion"
+        "name": "Farming Simulator 17: Platinum Expansion"
     },
     {
         "appid": 635340,
@@ -157572,10 +157576,6 @@
         "name": "A Familiar Fairytale Dyslexic Text Based Adventure"
     },
     {
-        "appid": 929600,
-        "name": "Can You find it?"
-    },
-    {
         "appid": 929610,
         "name": "Dark Nebula VR"
     },
@@ -177805,7 +177805,7 @@
     },
     {
         "appid": 1015880,
-        "name": "Farming Simulator 19 - Anderson Group Equipment Pack"
+        "name": "Farming Simulator 19: Anderson Group Equipment Pack"
     },
     {
         "appid": 1015890,
@@ -193353,7 +193353,7 @@
     },
     {
         "appid": 1080770,
-        "name": "Farming Simulator 19 - HOLMER Terra Variant DLC"
+        "name": "Farming Simulator 19: HOLMER Terra Variant DLC"
     },
     {
         "appid": 1080780,
@@ -198577,7 +198577,7 @@
     },
     {
         "appid": 1101720,
-        "name": "Farming Simulator 19 - John Deere Cotton DLC"
+        "name": "Farming Simulator 19: John Deere Cotton DLC"
     },
     {
         "appid": 1101730,

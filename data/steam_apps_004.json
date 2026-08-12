@@ -1,5 +1,29 @@
 [
     {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
+        "appid": 2929110,
+        "name": "HOYO"
+    },
+    {
+        "appid": 2929120,
+        "name": "따님은 제가 데리고 있습니다"
+    },
+    {
+        "appid": 2929130,
+        "name": "Bloodwood Dungeon"
+    },
+    {
         "appid": 2929140,
         "name": "Ataegina Act I"
     },
@@ -17102,10 +17126,6 @@
     {
         "appid": 3014490,
         "name": "No Greater Glory: The American Civil War"
-    },
-    {
-        "appid": 3014500,
-        "name": "Peasants Love Magic"
     },
     {
         "appid": 3014510,
@@ -53649,7 +53669,7 @@
     },
     {
         "appid": 3198640,
-        "name": "The Evil Presence"
+        "name": "The Ice Cream Shop"
     },
     {
         "appid": 3198680,
@@ -135005,7 +135025,7 @@
     },
     {
         "appid": 3624760,
-        "name": "Immersive APM"
+        "name": "DeepCube"
     },
     {
         "appid": 3624790,
@@ -148440,6 +148460,10 @@
         "name": "影棲：Deliverance"
     },
     {
+        "appid": 3694420,
+        "name": "Voidwood"
+    },
+    {
         "appid": 3694440,
         "name": "The Grinch: Christmas Adventures - Determined to Love Christmas"
     },
@@ -157358,6 +157382,10 @@
     {
         "appid": 3744100,
         "name": "It’s Quiz Time: GUINNESS WORLD RECORDS™ 2026 Edition"
+    },
+    {
+        "appid": 3744110,
+        "name": "What Do You Meme?® The Video Game"
     },
     {
         "appid": 3744120,
@@ -173252,6 +173280,10 @@
         "name": "Articrow"
     },
     {
+        "appid": 3832760,
+        "name": "Zombie Peacemaker"
+    },
+    {
         "appid": 3832790,
         "name": "Dominated by: Yandere Goth Cop"
     },
@@ -181512,6 +181544,10 @@
         "name": "Doomscroll"
     },
     {
+        "appid": 3873760,
+        "name": "足球经理：自走棋"
+    },
+    {
         "appid": 3873770,
         "name": "AXERAS"
     },
@@ -188449,7 +188485,7 @@
     },
     {
         "appid": 3908430,
-        "name": "Veilbreaker"
+        "name": "Veil of Remorse"
     },
     {
         "appid": 3908440,
@@ -199962,41 +199998,5 @@
     {
         "appid": 3966270,
         "name": "AIO"
-    },
-    {
-        "appid": 3966280,
-        "name": "Army of Chat"
-    },
-    {
-        "appid": 3966300,
-        "name": "Synth Laser"
-    },
-    {
-        "appid": 3966320,
-        "name": "WordCross"
-    },
-    {
-        "appid": 3966340,
-        "name": "モーキス"
-    },
-    {
-        "appid": 3966350,
-        "name": "崩壊世界のナヴィガトーレ"
-    },
-    {
-        "appid": 3966360,
-        "name": "After School Grounds (방과후운동장)"
-    },
-    {
-        "appid": 3966370,
-        "name": "MILF Express"
-    },
-    {
-        "appid": 3966380,
-        "name": "Power – A Ascensão dos Conquistadores"
-    },
-    {
-        "appid": 3966420,
-        "name": "Crewcial"
     }
 ]

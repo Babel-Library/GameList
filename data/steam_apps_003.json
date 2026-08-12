@@ -2688,6 +2688,10 @@
         "name": "Master Of Pottery - Suzhou Garden"
     },
     {
+        "appid": 1964120,
+        "name": "Little Astronaut"
+    },
+    {
         "appid": 1964130,
         "name": "Fantasy Grounds - Pathfinder 2 RPG - Lost Omens: The Grand Bazaar"
     },
@@ -24654,6 +24658,10 @@
     {
         "appid": 2089140,
         "name": "Super-Patriota Simulator"
+    },
+    {
+        "appid": 2089150,
+        "name": "No More Room in Hell 2 - Veteran Survivor Pack"
     },
     {
         "appid": 2089170,
@@ -59201,7 +59209,7 @@
     },
     {
         "appid": 2243190,
-        "name": "Farming Simulator 22 - OXBO Pack"
+        "name": "Farming Simulator 22: OXBO Pack"
     },
     {
         "appid": 2243200,
@@ -72994,6 +73002,10 @@
     {
         "appid": 2308130,
         "name": "Zany Golf"
+    },
+    {
+        "appid": 2308160,
+        "name": "Arcrelium"
     },
     {
         "appid": 2308180,
@@ -96632,6 +96644,10 @@
         "name": "Academy: Become a Hero"
     },
     {
+        "appid": 2411190,
+        "name": "Card To Conquer"
+    },
+    {
         "appid": 2411200,
         "name": "Underkeep"
     },
@@ -119630,6 +119646,10 @@
     {
         "appid": 2523720,
         "name": "Gears of War: Reloaded"
+    },
+    {
+        "appid": 2523770,
+        "name": "The Lord of the Rings: War in the North™ - Legacy Edition"
     },
     {
         "appid": 2523780,
@@ -181724,6 +181744,10 @@
         "name": "Exit Kun - True Fan's Choice Upgrade"
     },
     {
+        "appid": 2836790,
+        "name": "DEEPOFFSET"
+    },
+    {
         "appid": 2836810,
         "name": "Escape From Zombietown"
     },
@@ -199974,29 +199998,5 @@
     {
         "appid": 2929050,
         "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
-        "appid": 2929120,
-        "name": "따님은 제가 데리고 있습니다"
-    },
-    {
-        "appid": 2929130,
-        "name": "Bloodwood Dungeon"
     }
 ]
