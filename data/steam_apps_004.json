@@ -1,5 +1,17 @@
 [
     {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
         "appid": 2929060,
         "name": "Wild West Blast"
     },
@@ -7020,6 +7032,10 @@
         "name": "Core Awaken Rurumu's will"
     },
     {
+        "appid": 2963330,
+        "name": "Forgefall"
+    },
+    {
         "appid": 2963350,
         "name": "Streamers Cleaning Simulator"
     },
@@ -7341,7 +7357,7 @@
     },
     {
         "appid": 2965130,
-        "name": "Legend of Xenobbit"
+        "name": "Aurebloom Tales"
     },
     {
         "appid": 2965140,
@@ -12774,6 +12790,10 @@
     {
         "appid": 2992580,
         "name": "Ventreville: A Cure for Sorrow"
+    },
+    {
+        "appid": 2992610,
+        "name": "RHYTHMETRIC"
     },
     {
         "appid": 2992650,
@@ -27578,6 +27598,10 @@
     {
         "appid": 3067680,
         "name": "Forbidden Offering"
+    },
+    {
+        "appid": 3067760,
+        "name": "Do Your Dailies"
     },
     {
         "appid": 3067770,
@@ -45466,6 +45490,10 @@
     {
         "appid": 3157080,
         "name": "From The Void"
+    },
+    {
+        "appid": 3157090,
+        "name": "Basis Labs"
     },
     {
         "appid": 3157160,
@@ -70724,6 +70752,10 @@
         "name": "肥羊危机II / FatSheep Crisis II"
     },
     {
+        "appid": 3292300,
+        "name": "Golf-Like"
+    },
+    {
         "appid": 3292310,
         "name": "弥留之地"
     },
@@ -81004,6 +81036,10 @@
         "name": "Chronostasis"
     },
     {
+        "appid": 3343350,
+        "name": "Pitfalls 64"
+    },
+    {
         "appid": 3343360,
         "name": "End's Reach"
     },
@@ -81510,6 +81546,10 @@
     {
         "appid": 3345640,
         "name": "Collapse: Faction Wars"
+    },
+    {
+        "appid": 3345650,
+        "name": "Kingdoms Test Of Time"
     },
     {
         "appid": 3345660,
@@ -98465,7 +98505,7 @@
     },
     {
         "appid": 3430150,
-        "name": "Brave Billiards"
+        "name": "Billiards Warrior"
     },
     {
         "appid": 3430160,
@@ -106241,7 +106281,7 @@
     },
     {
         "appid": 3469980,
-        "name": "SurfsUp - Supporter Bundle"
+        "name": "SurfsUp Supporter"
     },
     {
         "appid": 3469990,
@@ -115701,7 +115741,7 @@
     },
     {
         "appid": 3523170,
-        "name": "Mystery Chamber World"
+        "name": "Mystery Chamber Deluxe"
     },
     {
         "appid": 3523180,
@@ -157756,10 +157796,6 @@
         "name": "Werewolf: The Apocalypse – Rageborn"
     },
     {
-        "appid": 3746310,
-        "name": "Chains of Lukomorye"
-    },
-    {
         "appid": 3746360,
         "name": "Blade and Madness"
     },
@@ -161484,6 +161520,10 @@
         "name": " Harvest Yuuka "
     },
     {
+        "appid": 3767630,
+        "name": "秘封ぼうえんきょう"
+    },
+    {
         "appid": 3767660,
         "name": "Embers of the Uncrowned"
     },
@@ -164298,10 +164338,6 @@
     {
         "appid": 3785410,
         "name": "Full Contact"
-    },
-    {
-        "appid": 3785420,
-        "name": "A Tale of Fortunate Lust"
     },
     {
         "appid": 3785500,
@@ -170076,6 +170112,10 @@
         "name": "Once Human - Ascend Daily Theme Pack"
     },
     {
+        "appid": 3816120,
+        "name": "重生2我独自逆袭 Re2 I Rise Alone"
+    },
+    {
         "appid": 3816160,
         "name": "Cursed Memory"
     },
@@ -170526,6 +170566,10 @@
     {
         "appid": 3818140,
         "name": "I Would Love to Wish You Good Morning"
+    },
+    {
+        "appid": 3818160,
+        "name": "奇兽杂货铺"
     },
     {
         "appid": 3818170,
@@ -189329,7 +189373,7 @@
     },
     {
         "appid": 3913020,
-        "name": "The Splice Creatures"
+        "name": "UnPerfect World"
     },
     {
         "appid": 3913030,
@@ -198085,7 +198129,7 @@
     },
     {
         "appid": 3956640,
-        "name": "大侠立志传外传"
+        "name": "大侠立志传：侠道相逢"
     },
     {
         "appid": 3956660,
@@ -199954,49 +199998,5 @@
     {
         "appid": 3966090,
         "name": "The Mushroom Adventrue:Call of Distant Realms"
-    },
-    {
-        "appid": 3966110,
-        "name": "ΔV: Rings of Saturn - Asteroid Opera"
-    },
-    {
-        "appid": 3966120,
-        "name": "地下城打工日常"
-    },
-    {
-        "appid": 3966130,
-        "name": "Shadow Mansion2"
-    },
-    {
-        "appid": 3966140,
-        "name": "Dinosaur Zoo VR : Dinosaur Hunting"
-    },
-    {
-        "appid": 3966150,
-        "name": "Nidos"
-    },
-    {
-        "appid": 3966170,
-        "name": "Type Drivers"
-    },
-    {
-        "appid": 3966180,
-        "name": "淀み海の溺れ唄"
-    },
-    {
-        "appid": 3966190,
-        "name": "DJMAX RESPECT V - Arcaea PACK"
-    },
-    {
-        "appid": 3966200,
-        "name": "Spellhook"
-    },
-    {
-        "appid": 3966260,
-        "name": "Eternity Prison"
-    },
-    {
-        "appid": 3966270,
-        "name": "AIO"
     }
 ]

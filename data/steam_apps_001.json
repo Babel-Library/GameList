@@ -192028,10 +192028,6 @@
         "name": "Rento Fortune - Map Editor"
     },
     {
-        "appid": 1074670,
-        "name": "Trial by Teng: A Twilight Path Adventure"
-    },
-    {
         "appid": 1074690,
         "name": "Robot Female Hero 2"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1107400,
         "name": "Fantasy Grounds - D&D Classics: The Sword of the Dales (2E)"
+    },
+    {
+        "appid": 1107430,
+        "name": "Fantasy Grounds - D&D Classics: The Secret of Spiderhaunt (2e)"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1107430,
-        "name": "Fantasy Grounds - D&D Classics: The Secret of Spiderhaunt (2e)"
-    },
-    {
         "appid": 1107440,
         "name": "Last Warrior"
     },
@@ -5792,10 +5788,6 @@
         "name": "Roots Of The Woods"
     },
     {
-        "appid": 1128670,
-        "name": "HENTAI Sliding Puzzle"
-    },
-    {
         "appid": 1128680,
         "name": "DOUBLE INVASION!!"
     },
@@ -10934,6 +10926,10 @@
     {
         "appid": 1151180,
         "name": "Super Cucho"
+    },
+    {
+        "appid": 1151190,
+        "name": "Coastless"
     },
     {
         "appid": 1151200,
@@ -65617,7 +65613,7 @@
     },
     {
         "appid": 1387110,
-        "name": "Capture the Flag - CTF 1"
+        "name": "Hyper Snatch"
     },
     {
         "appid": 1387120,
@@ -104078,6 +104074,10 @@
     {
         "appid": 1558130,
         "name": "Raige"
+    },
+    {
+        "appid": 1558150,
+        "name": "Everyday Empire"
     },
     {
         "appid": 1558180,
@@ -151270,6 +151270,10 @@
     {
         "appid": 1743080,
         "name": "Night Cascades"
+    },
+    {
+        "appid": 1743100,
+        "name": "Agent 64 - Supporter Edition Pack"
     },
     {
         "appid": 1743110,
@@ -199994,9 +199998,5 @@
     {
         "appid": 1952800,
         "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
-    },
-    {
-        "appid": 1952810,
-        "name": "VR Pong"
     }
 ]
