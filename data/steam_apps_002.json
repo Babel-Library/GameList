@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1107400,
+        "name": "Fantasy Grounds - D&D Classics: The Sword of the Dales (2E)"
+    },
+    {
+        "appid": 1107430,
+        "name": "Fantasy Grounds - D&D Classics: The Secret of Spiderhaunt (2e)"
+    },
+    {
         "appid": 1107440,
         "name": "Last Warrior"
     },
@@ -50032,6 +50040,10 @@
         "name": "We Die"
     },
     {
+        "appid": 1316300,
+        "name": "Mafia: Definitive Edition Chicago Outfit Pack"
+    },
+    {
         "appid": 1316310,
         "name": "WAVE RIDER"
     },
@@ -95001,7 +95013,7 @@
     },
     {
         "appid": 1517160,
-        "name": "King Dragon Saga"
+        "name": "Under The Ghost Mountain"
     },
     {
         "appid": 1517170,
@@ -177964,10 +177976,6 @@
         "name": "Trainz 2019 DLC - DR DBmtrue 215"
     },
     {
-        "appid": 1855690,
-        "name": "Bessarabian Nightmares"
-    },
-    {
         "appid": 1855710,
         "name": "Mot De Pass"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1952770,
         "name": "ConquestAreas"
-    },
-    {
-        "appid": 1952780,
-        "name": "Spider Slingers"
-    },
-    {
-        "appid": 1952800,
-        "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
     }
 ]

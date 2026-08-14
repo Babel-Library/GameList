@@ -52916,6 +52916,10 @@
         "name": "Highway Blossoms"
     },
     {
+        "appid": 451770,
+        "name": "Aurora: Firebreak"
+    },
+    {
         "appid": 451780,
         "name": "Trillion: God of Destruction"
     },
@@ -93666,6 +93670,10 @@
     {
         "appid": 639570,
         "name": "Starpoint Gemini Warlords - Upgrade to Digital Deluxe"
+    },
+    {
+        "appid": 639590,
+        "name": "Cartoon Craft: Rise of Mutation"
     },
     {
         "appid": 639600,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1107390,
         "name": "Project Polygun"
-    },
-    {
-        "appid": 1107400,
-        "name": "Fantasy Grounds - D&D Classics: The Sword of the Dales (2E)"
-    },
-    {
-        "appid": 1107430,
-        "name": "Fantasy Grounds - D&D Classics: The Secret of Spiderhaunt (2e)"
     }
 ]

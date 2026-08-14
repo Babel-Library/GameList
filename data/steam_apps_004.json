@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
         "appid": 2929020,
         "name": "A Twisted Place"
     },
@@ -5902,10 +5906,6 @@
     {
         "appid": 2957410,
         "name": "DisplaceMen"
-    },
-    {
-        "appid": 2957420,
-        "name": "The Fear of The Past"
     },
     {
         "appid": 2957430,
@@ -35333,7 +35333,7 @@
     },
     {
         "appid": 3105600,
-        "name": "The E-Collector"
+        "name": " Eco: Planet Reboot"
     },
     {
         "appid": 3105620,
@@ -40800,6 +40800,10 @@
         "name": "Black Myth: Wukong Benchmark Tool"
     },
     {
+        "appid": 3133010,
+        "name": "Tiny Flock"
+    },
+    {
         "appid": 3133020,
         "name": "Cozyrama"
     },
@@ -41929,7 +41933,7 @@
     },
     {
         "appid": 3138640,
-        "name": "President 47 Trump"
+        "name": "President 47"
     },
     {
         "appid": 3138660,
@@ -49982,10 +49986,6 @@
     {
         "appid": 3180830,
         "name": "Circuit Stance"
-    },
-    {
-        "appid": 3180860,
-        "name": "Blightscape"
     },
     {
         "appid": 3180890,
@@ -59885,7 +59885,7 @@
     },
     {
         "appid": 3230940,
-        "name": "共和国のロンメル ~ Operation Weichsel ~"
+        "name": "Rommel in The Republic "
     },
     {
         "appid": 3230960,
@@ -63880,6 +63880,10 @@
         "name": "Trials of Enkidu"
     },
     {
+        "appid": 3253510,
+        "name": "土匪"
+    },
+    {
         "appid": 3253530,
         "name": "PIT OF GOBLIN"
     },
@@ -65204,6 +65208,10 @@
         "name": "Toy Battlegrounds: Shoot 'Em Up Survival"
     },
     {
+        "appid": 3262000,
+        "name": "Mafia: The Old Country - Soldato Pack"
+    },
+    {
         "appid": 3262050,
         "name": "Retrowave World - XXX"
     },
@@ -66478,6 +66486,10 @@
     {
         "appid": 3269270,
         "name": "Mafia: The Old Country - Gatto Nero Pack"
+    },
+    {
+        "appid": 3269280,
+        "name": "Mafia: The Old Country - Soundtrack and Digital Artbook"
     },
     {
         "appid": 3269300,
@@ -80914,10 +80926,6 @@
     {
         "appid": 3342700,
         "name": "Odessa Power 9"
-    },
-    {
-        "appid": 3342760,
-        "name": "Corebound"
     },
     {
         "appid": 3342770,
@@ -104308,6 +104316,10 @@
         "name": "Book Head Monster"
     },
     {
+        "appid": 3458290,
+        "name": "G.E.M. Grab & Exit"
+    },
+    {
         "appid": 3458300,
         "name": "シーモンタウンTDふたつの魔法の杖と危険すぎた追跡"
     },
@@ -119072,10 +119084,6 @@
         "name": "Wiz Hunter"
     },
     {
-        "appid": 3543640,
-        "name": "凡人神將傳"
-    },
-    {
         "appid": 3543690,
         "name": "Hufvudsta"
     },
@@ -119410,6 +119418,10 @@
     {
         "appid": 3545560,
         "name": "Ironclad"
+    },
+    {
+        "appid": 3545570,
+        "name": "Alien Machine Glow"
     },
     {
         "appid": 3545590,
@@ -126752,10 +126764,6 @@
         "name": "MH-Zombie VR!"
     },
     {
-        "appid": 3582740,
-        "name": "Dreadhaven: Prototype"
-    },
-    {
         "appid": 3582780,
         "name": "Hidden Pets: 101 Cats in Shenzhen"
     },
@@ -128106,6 +128114,22 @@
     {
         "appid": 3589640,
         "name": "Drums Rock: Yoko Takahashi - 'The Cruel Angel's Thesis'"
+    },
+    {
+        "appid": 3589650,
+        "name": "Total War: WARHAMMER III - Nagash – Lords of the End Times"
+    },
+    {
+        "appid": 3589660,
+        "name": "Total War: WARHAMMER III - Thanquol – Lords of the End Times"
+    },
+    {
+        "appid": 3589670,
+        "name": "Total War: WARHAMMER III - Boris Todbringer – Lords of the End Times"
+    },
+    {
+        "appid": 3589680,
+        "name": "Total War: WARHAMMER III - The Glottkin – Lords of the End Times"
     },
     {
         "appid": 3589690,
@@ -142068,6 +142092,10 @@
         "name": "HarvestHaven: Grow Together"
     },
     {
+        "appid": 3660730,
+        "name": "Fantasy Grounds - Rappan Athuk: Expansions Volume 1"
+    },
+    {
         "appid": 3660760,
         "name": "Fantasy Grounds - Rappan Athuk"
     },
@@ -143009,7 +143037,7 @@
     },
     {
         "appid": 3664880,
-        "name": "Snail Tail"
+        "name": "Snail Fail"
     },
     {
         "appid": 3664890,
@@ -144302,10 +144330,6 @@
     {
         "appid": 3671350,
         "name": "Wildbound"
-    },
-    {
-        "appid": 3671370,
-        "name": "MIDNIGHT SNACK"
     },
     {
         "appid": 3671390,
@@ -146998,10 +147022,6 @@
     {
         "appid": 3686670,
         "name": "Beware of Space Dragons"
-    },
-    {
-        "appid": 3686710,
-        "name": "Gacha Idle"
     },
     {
         "appid": 3686730,
@@ -149790,6 +149810,10 @@
     {
         "appid": 3701320,
         "name": "The Last Guild"
+    },
+    {
+        "appid": 3701330,
+        "name": "Evolve - First Age"
     },
     {
         "appid": 3701370,
@@ -165576,6 +165600,10 @@
         "name": "Xeno Swarm - 异虫强袭"
     },
     {
+        "appid": 3791920,
+        "name": "Keep Chaos"
+    },
+    {
         "appid": 3791940,
         "name": "Justice Became Prey"
     },
@@ -166598,6 +166626,10 @@
     {
         "appid": 3797470,
         "name": "Wonders of Waldwea"
+    },
+    {
+        "appid": 3797620,
+        "name": "CrossSwords: FPS Crosswords"
     },
     {
         "appid": 3797660,
@@ -173497,7 +173529,7 @@
     },
     {
         "appid": 3833620,
-        "name": "Ariokan - create your cards, break the Meta"
+        "name": "Ariokan™ - create your cards, break the Meta"
     },
     {
         "appid": 3833630,
@@ -177341,7 +177373,7 @@
     },
     {
         "appid": 3853470,
-        "name": "明末渊虚之域"
+        "name": "明末影之刃零"
     },
     {
         "appid": 3853480,
@@ -185054,10 +185086,6 @@
     {
         "appid": 3890520,
         "name": "Hello Kitty Island Adventure - Wheatflour Wonderland"
-    },
-    {
-        "appid": 3890550,
-        "name": "Jam's Adjustable Mirrors"
     },
     {
         "appid": 3890570,
@@ -194325,7 +194353,7 @@
     },
     {
         "appid": 3938350,
-        "name": "棋界新纪元 Multi-Level Chess.Gomoku.Othello.Go 立体作战的.围棋.象棋.五子棋"
+        "name": "棋界新纪元 三维立体作战的 围棋.象棋.中国象棋.国际象棋.五子棋.黑白棋.等"
     },
     {
         "appid": 3938380,
@@ -196396,6 +196424,10 @@
         "name": "Chivalry Quest : Sword and Flame Collector's Edition"
     },
     {
+        "appid": 3948160,
+        "name": "Waste The Fallen"
+    },
+    {
         "appid": 3948190,
         "name": "Rattenwalzer -Песня о борьбе и жизни человеческой-"
     },
@@ -197062,6 +197094,10 @@
     {
         "appid": 3951050,
         "name": "The House: Mystery Escape"
+    },
+    {
+        "appid": 3951190,
+        "name": "High On Life VR"
     },
     {
         "appid": 3951210,
@@ -199962,41 +199998,5 @@
     {
         "appid": 3965930,
         "name": "Puzzle Parasite"
-    },
-    {
-        "appid": 3965960,
-        "name": "千禧年梦游指南 Guide to the Millennium Dawn"
-    },
-    {
-        "appid": 3965970,
-        "name": "Sin hotel"
-    },
-    {
-        "appid": 3966010,
-        "name": "Soul Demon Hunters"
-    },
-    {
-        "appid": 3966020,
-        "name": "Soulmask: Shifting Sands"
-    },
-    {
-        "appid": 3966030,
-        "name": "My Teacher"
-    },
-    {
-        "appid": 3966040,
-        "name": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle"
-    },
-    {
-        "appid": 3966070,
-        "name": "The Dead Thread"
-    },
-    {
-        "appid": 3966080,
-        "name": "Sad Virus Town"
-    },
-    {
-        "appid": 3966090,
-        "name": "The Mushroom Adventrue:Call of Distant Realms"
     }
 ]

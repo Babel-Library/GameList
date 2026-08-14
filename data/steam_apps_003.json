@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1952780,
+        "name": "Spider Slingers"
+    },
+    {
+        "appid": 1952800,
+        "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
+    },
+    {
         "appid": 1952810,
         "name": "VR Pong"
     },
@@ -23345,7 +23353,7 @@
     },
     {
         "appid": 2082690,
-        "name": "The Human Story"
+        "name": "Burial for a Butterfly - a Singing World"
     },
     {
         "appid": 2082700,
@@ -29450,10 +29458,6 @@
     {
         "appid": 2109880,
         "name": "Memory Puzzle - Futanari Gym"
-    },
-    {
-        "appid": 2109930,
-        "name": "From the Deep"
     },
     {
         "appid": 2109950,
@@ -62521,7 +62525,7 @@
     },
     {
         "appid": 2257440,
-        "name": "Tom the postgirl"
+        "name": "Tom the Postgirl"
     },
     {
         "appid": 2257450,
@@ -94772,10 +94776,6 @@
         "name": "Train Simulator: China Railways HXD1"
     },
     {
-        "appid": 2403306,
-        "name": "Train Simulator: China Railways DF11G"
-    },
-    {
         "appid": 2403307,
         "name": "Train Simulator: DB BR 218 'V 164'"
     },
@@ -95142,10 +95142,6 @@
     {
         "appid": 2404770,
         "name": "Chicken Tricks"
-    },
-    {
-        "appid": 2404790,
-        "name": "Furia de Weichafes"
     },
     {
         "appid": 2404800,
@@ -135856,6 +135852,10 @@
         "name": "古魂 -「深渊降世」扩展包"
     },
     {
+        "appid": 2607680,
+        "name": "Illegourmet"
+    },
+    {
         "appid": 2607710,
         "name": "Jump4"
     },
@@ -160524,10 +160524,6 @@
         "name": "SFXEngine Bolt-on: Special Engines"
     },
     {
-        "appid": 2729350,
-        "name": "Lamu"
-    },
-    {
         "appid": 2729360,
         "name": "虚构未来（Imaginary future）"
     },
@@ -166233,7 +166229,7 @@
     },
     {
         "appid": 2758190,
-        "name": "Our Freedom"
+        "name": "Our Freedom: Medieval Village"
     },
     {
         "appid": 2758220,
@@ -176341,7 +176337,7 @@
     },
     {
         "appid": 2809220,
-        "name": "Status Entropos"
+        "name": "Entropos"
     },
     {
         "appid": 2809230,
@@ -179970,6 +179966,10 @@
     {
         "appid": 2827610,
         "name": "RUMBLE BLAZING"
+    },
+    {
+        "appid": 2827640,
+        "name": "Mimi's Pet Rescue"
     },
     {
         "appid": 2827680,
@@ -194848,10 +194848,6 @@
         "name": "交织的印记"
     },
     {
-        "appid": 2902560,
-        "name": "PostLife"
-    },
-    {
         "appid": 2902570,
         "name": "Rebellion: Rise of the Damned"
     },
@@ -197688,6 +197684,10 @@
         "name": "Stellfire"
     },
     {
+        "appid": 2917940,
+        "name": "NAUTUS"
+    },
+    {
         "appid": 2917960,
         "name": "Angry Universe VR"
     },
@@ -197970,6 +197970,10 @@
     {
         "appid": 2919200,
         "name": "Death Sword Spirit"
+    },
+    {
+        "appid": 2919220,
+        "name": "Willblade: King's Labyrinth"
     },
     {
         "appid": 2919230,
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929000,
         "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
     }
 ]
