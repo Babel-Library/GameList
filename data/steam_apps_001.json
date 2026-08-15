@@ -49888,10 +49888,6 @@
         "name": "Rocksmith® 2014 – Incubus - “Stellar”"
     },
     {
-        "appid": 436669,
-        "name": "Rocksmith® 2014 – Hail The Sun  - “Burn Nice and Slow (The Formative Years)”"
-    },
-    {
         "appid": 436670,
         "name": "The Legend of Heroes: Trails in the Sky the 3rd"
     },
@@ -60364,18 +60360,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492955,
-        "name": "Rocksmith® 2014 – Fall Out Boy  - “My Song Know What You Did In The Dark (Light Em Up)”"
-    },
-    {
-        "appid": 492956,
-        "name": "Rocksmith® 2014 – The Neighbourhood  - “Sweater Weather”"
-    },
-    {
-        "appid": 492957,
-        "name": "Rocksmith® 2014 – 2010s Mix Song Pack"
-    },
-    {
         "appid": 492958,
         "name": "Rocksmith® 2014 – Rush - “Working Man”"
     },
@@ -62998,6 +62982,10 @@
     {
         "appid": 503490,
         "name": "Sword of Fireheart - The Awakening Element"
+    },
+    {
+        "appid": 503540,
+        "name": "Fables of the Kingdom Remastered"
     },
     {
         "appid": 503550,
@@ -199998,5 +199986,17 @@
     {
         "appid": 1107390,
         "name": "Project Polygun"
+    },
+    {
+        "appid": 1107400,
+        "name": "Fantasy Grounds - D&D Classics: The Sword of the Dales (2E)"
+    },
+    {
+        "appid": 1107430,
+        "name": "Fantasy Grounds - D&D Classics: The Secret of Spiderhaunt (2e)"
+    },
+    {
+        "appid": 1107440,
+        "name": "Last Warrior"
     }
 ]

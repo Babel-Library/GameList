@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1952780,
-        "name": "Spider Slingers"
-    },
-    {
         "appid": 1952800,
         "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
     },
@@ -11386,10 +11382,6 @@
     {
         "appid": 2004360,
         "name": "Hell Division"
-    },
-    {
-        "appid": 2004370,
-        "name": "Sinner 97"
     },
     {
         "appid": 2004380,
@@ -36082,10 +36074,6 @@
     {
         "appid": 2140050,
         "name": "SGS Battle For: Stalingrad"
-    },
-    {
-        "appid": 2140070,
-        "name": "Sinner 97: Prologue"
     },
     {
         "appid": 2140080,
@@ -64424,6 +64412,10 @@
         "name": "Cube"
     },
     {
+        "appid": 2266120,
+        "name": "One More Airport"
+    },
+    {
         "appid": 2266130,
         "name": "勇士末路 The End of Warriors"
     },
@@ -90825,7 +90817,7 @@
     },
     {
         "appid": 2385970,
-        "name": "Kardashev"
+        "name": "Kardaviik"
     },
     {
         "appid": 2385980,
@@ -116425,7 +116417,7 @@
     },
     {
         "appid": 2507770,
-        "name": "Meine Oma(88)"
+        "name": "Grandma(88)"
     },
     {
         "appid": 2507780,
@@ -178920,10 +178912,6 @@
         "name": "Steamboat Incident"
     },
     {
-        "appid": 2822630,
-        "name": "Parts Unknown International"
-    },
-    {
         "appid": 2822640,
         "name": "CrabbleUp"
     },
@@ -199998,5 +199986,17 @@
     {
         "appid": 2929000,
         "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
     }
 ]

@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1107400,
-        "name": "Fantasy Grounds - D&D Classics: The Sword of the Dales (2E)"
-    },
-    {
-        "appid": 1107430,
-        "name": "Fantasy Grounds - D&D Classics: The Secret of Spiderhaunt (2e)"
-    },
-    {
-        "appid": 1107440,
-        "name": "Last Warrior"
-    },
-    {
         "appid": 1107450,
         "name": "Dreams of Solari - Chapter 1"
     },
@@ -6914,6 +6902,10 @@
     {
         "appid": 1134160,
         "name": "Pizza for Devs"
+    },
+    {
+        "appid": 1134170,
+        "name": "RigorZ"
     },
     {
         "appid": 1134180,
@@ -53516,10 +53508,6 @@
         "name": "Crown Yer King"
     },
     {
-        "appid": 1336680,
-        "name": "Wald & Gutz: Under Rocks"
-    },
-    {
         "appid": 1336690,
         "name": "ZOMBIE MATHters"
     },
@@ -88514,6 +88502,10 @@
     {
         "appid": 1488320,
         "name": "Tengam"
+    },
+    {
+        "appid": 1488340,
+        "name": "Stolen Valor"
     },
     {
         "appid": 1488380,
@@ -179292,6 +179284,10 @@
         "name": "Fantasy Grounds - Pathfinder RPG - GameMastery Map Pack: Inns"
     },
     {
+        "appid": 1862300,
+        "name": "Catch The Train"
+    },
+    {
         "appid": 1862340,
         "name": "Spellfort"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1952770,
         "name": "ConquestAreas"
+    },
+    {
+        "appid": 1952780,
+        "name": "Spider Slingers"
     }
 ]
