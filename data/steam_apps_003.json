@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1952780,
+        "name": "Spider Slingers"
+    },
+    {
         "appid": 1952800,
         "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
     },
@@ -15858,10 +15862,6 @@
     {
         "appid": 2026290,
         "name": "Military Attack"
-    },
-    {
-        "appid": 2026300,
-        "name": "Anvillage"
     },
     {
         "appid": 2026310,
@@ -93669,7 +93669,7 @@
     },
     {
         "appid": 2399060,
-        "name": "Dread Weight"
+        "name": "Cooking Companions 2: Dread Weight"
     },
     {
         "appid": 2399070,

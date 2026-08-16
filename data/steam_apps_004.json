@@ -16253,7 +16253,7 @@
     },
     {
         "appid": 3010260,
-        "name": "冲突2·闪电战"
+        "name": "第二次世界大战无敌坦克传说"
     },
     {
         "appid": 3010270,
@@ -50872,6 +50872,10 @@
         "name": "Family Land - Farmer Simulator: Prologue"
     },
     {
+        "appid": 3185500,
+        "name": "荒野调查队"
+    },
+    {
         "appid": 3185510,
         "name": "Lucky Pikinini - Advanced Killer Cyborg"
     },
@@ -80220,6 +80224,10 @@
         "name": "The Scouring"
     },
     {
+        "appid": 3338980,
+        "name": "Ichor Online"
+    },
+    {
         "appid": 3339000,
         "name": "Chesstris"
     },
@@ -84278,6 +84286,10 @@
     {
         "appid": 3358770,
         "name": "City Bus Manager - International Bus Pack"
+    },
+    {
+        "appid": 3358800,
+        "name": "见诡"
     },
     {
         "appid": 3358820,
@@ -129312,6 +129324,10 @@
         "name": "SCOPECREEP"
     },
     {
+        "appid": 3595720,
+        "name": "Impossible Sorting Game"
+    },
+    {
         "appid": 3595730,
         "name": "Devil Meat"
     },
@@ -154592,6 +154608,10 @@
         "name": "Dawn"
     },
     {
+        "appid": 3727980,
+        "name": "Nation"
+    },
+    {
         "appid": 3728000,
         "name": "Block Basher 3D"
     },
@@ -161958,6 +161978,10 @@
     {
         "appid": 3770470,
         "name": "FrenchConnection"
+    },
+    {
+        "appid": 3770490,
+        "name": "Suspect None"
     },
     {
         "appid": 3770510,
@@ -176184,6 +176208,10 @@
         "name": "DNAVERSUS"
     },
     {
+        "appid": 3847390,
+        "name": "Ötzi"
+    },
+    {
         "appid": 3847450,
         "name": "Project S.U.N.D.I.A.L"
     },
@@ -183594,6 +183622,10 @@
     {
         "appid": 3882980,
         "name": "Space Tail: Definitive Edition"
+    },
+    {
+        "appid": 3882990,
+        "name": "Tails & Trails"
     },
     {
         "appid": 3883020,
@@ -199508,6 +199540,10 @@
         "name": "BLOOD CRUCIBLE"
     },
     {
+        "appid": 3963480,
+        "name": "Might of the Meek"
+    },
+    {
         "appid": 3963490,
         "name": "LYSA HORA: The Haunted Hill"
     },
@@ -199962,41 +199998,5 @@
     {
         "appid": 3965700,
         "name": "月光摇篮"
-    },
-    {
-        "appid": 3965710,
-        "name": "Seal Of Destiny"
-    },
-    {
-        "appid": 3965730,
-        "name": "Celestial Golf"
-    },
-    {
-        "appid": 3965750,
-        "name": "DEBUG NEPHEMEE"
-    },
-    {
-        "appid": 3965760,
-        "name": "Yandere Goth BDSM 5"
-    },
-    {
-        "appid": 3965780,
-        "name": "HYPER DETONATOR"
-    },
-    {
-        "appid": 3965810,
-        "name": "推币机模拟器"
-    },
-    {
-        "appid": 3965840,
-        "name": "魔卡棋兵"
-    },
-    {
-        "appid": 3965850,
-        "name": "Sora no Kiseki the 1st Season Pass"
-    },
-    {
-        "appid": 3965860,
-        "name": "Shady O'Grady's™ Overnight Sensation"
     }
 ]
