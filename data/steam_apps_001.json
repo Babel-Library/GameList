@@ -95652,10 +95652,6 @@
         "name": "TublerVR"
     },
     {
-        "appid": 650350,
-        "name": "Machine World 2"
-    },
-    {
         "appid": 650360,
         "name": "Deluxe Content - Cossacks 3: OST"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1107440,
         "name": "Last Warrior"
+    },
+    {
+        "appid": 1107450,
+        "name": "Dreams of Solari - Chapter 1"
     }
 ]

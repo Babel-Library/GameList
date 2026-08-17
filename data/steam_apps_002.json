@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1107450,
-        "name": "Dreams of Solari - Chapter 1"
-    },
-    {
         "appid": 1107460,
         "name": "Fantasy Grounds - D&D Classics: Faiths & Avatars (2e)"
     },
@@ -115985,7 +115981,7 @@
     },
     {
         "appid": 1609370,
-        "name": "Caravanners"
+        "name": "Caravanners "
     },
     {
         "appid": 1609390,
@@ -199998,5 +199994,9 @@
     {
         "appid": 1952770,
         "name": "ConquestAreas"
+    },
+    {
+        "appid": 1952780,
+        "name": "Spider Slingers"
     }
 ]

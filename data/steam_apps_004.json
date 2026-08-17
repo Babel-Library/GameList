@@ -4221,7 +4221,7 @@
     },
     {
         "appid": 2950260,
-        "name": "Sun City - Episode 1"
+        "name": "Sun City"
     },
     {
         "appid": 2950310,
@@ -15914,6 +15914,10 @@
     {
         "appid": 3008720,
         "name": "Hidden Cats in Jigsaw Puzzle - Santa's Realm"
+    },
+    {
+        "appid": 3008730,
+        "name": "Fable's End Online"
     },
     {
         "appid": 3008740,
@@ -108221,7 +108225,7 @@
     },
     {
         "appid": 3480180,
-        "name": "Our Freedom: Prologue"
+        "name": "Our Freedom: Medieval Village - Prologue"
     },
     {
         "appid": 3480200,
@@ -142160,6 +142164,10 @@
         "name": "Emotitron"
     },
     {
+        "appid": 3661270,
+        "name": "Cheese Quest - Blue Edition"
+    },
+    {
         "appid": 3661280,
         "name": "Desert Dino Run"
     },
@@ -153925,7 +153933,7 @@
     },
     {
         "appid": 3724310,
-        "name": "Playtown 3"
+        "name": "PLAYTOWN: Chapter 3"
     },
     {
         "appid": 3724330,
@@ -194196,6 +194204,10 @@
         "name": "VibeSplit"
     },
     {
+        "appid": 3937470,
+        "name": "Sally Face 2"
+    },
+    {
         "appid": 3937480,
         "name": "Zombie Protocol"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 3965660,
         "name": "Erocraft"
-    },
-    {
-        "appid": 3965670,
-        "name": "Apollo Sonata"
-    },
-    {
-        "appid": 3965680,
-        "name": "やせいの魔王の迷宮が現れたSuddenly, The Demon Lord's Labyrinth Appears"
-    },
-    {
-        "appid": 3965700,
-        "name": "月光摇篮"
     }
 ]
