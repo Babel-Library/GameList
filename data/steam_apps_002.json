@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1107450,
+        "name": "Dreams of Solari - Chapter 1"
+    },
+    {
         "appid": 1107460,
         "name": "Fantasy Grounds - D&D Classics: Faiths & Avatars (2e)"
     },
@@ -84396,6 +84400,10 @@
         "name": "BEAR, VODKA, BALALAIKA: call of Chernobyl"
     },
     {
+        "appid": 1470810,
+        "name": "Plushy Store Tidy Up"
+    },
+    {
         "appid": 1470860,
         "name": "Sun Warriors"
     },
@@ -95822,6 +95830,10 @@
     {
         "appid": 1520520,
         "name": "Live Long Z"
+    },
+    {
+        "appid": 1520540,
+        "name": "Hear My Light"
     },
     {
         "appid": 1520550,
@@ -109265,7 +109277,7 @@
     },
     {
         "appid": 1579880,
-        "name": "The Light Brigade"
+        "name": "The Light Brigade: Definitive Edition"
     },
     {
         "appid": 1579890,
@@ -121261,7 +121273,7 @@
     },
     {
         "appid": 1635580,
-        "name": "Cowravaneer"
+        "name": "White Meridian"
     },
     {
         "appid": 1635590,
@@ -199986,17 +199998,5 @@
     {
         "appid": 1952750,
         "name": "Baradroid - A Gay Visual Novel"
-    },
-    {
-        "appid": 1952760,
-        "name": "RGB Rush"
-    },
-    {
-        "appid": 1952770,
-        "name": "ConquestAreas"
-    },
-    {
-        "appid": 1952780,
-        "name": "Spider Slingers"
     }
 ]

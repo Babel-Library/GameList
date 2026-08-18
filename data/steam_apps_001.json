@@ -21348,6 +21348,10 @@
         "name": "TesserAct"
     },
     {
+        "appid": 304830,
+        "name": "No Signal: Chornobyl"
+    },
+    {
         "appid": 304850,
         "name": "Worlds"
     },
@@ -75568,10 +75572,6 @@
         "name": "Inner Voices"
     },
     {
-        "appid": 559140,
-        "name": "Pinheads Bowling VR"
-    },
-    {
         "appid": 559150,
         "name": "Royal Detective: The Lord of Statues Collector's Edition"
     },
@@ -109749,7 +109749,7 @@
     },
     {
         "appid": 714680,
-        "name": "Ashes of Mankind: Citadels"
+        "name": "Citadels"
     },
     {
         "appid": 714710,
@@ -110934,6 +110934,10 @@
     {
         "appid": 720170,
         "name": "Animalia The Quiz Game - Soundtrack"
+    },
+    {
+        "appid": 720190,
+        "name": "Wizards"
     },
     {
         "appid": 720240,
@@ -199994,9 +199998,5 @@
     {
         "appid": 1107440,
         "name": "Last Warrior"
-    },
-    {
-        "appid": 1107450,
-        "name": "Dreams of Solari - Chapter 1"
     }
 ]

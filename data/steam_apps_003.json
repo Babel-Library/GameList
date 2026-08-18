@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1952760,
+        "name": "RGB Rush"
+    },
+    {
+        "appid": 1952770,
+        "name": "ConquestAreas"
+    },
+    {
+        "appid": 1952780,
+        "name": "Spider Slingers"
+    },
+    {
         "appid": 1952800,
         "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
     },
@@ -38652,6 +38664,10 @@
         "name": "Folletti"
     },
     {
+        "appid": 2151940,
+        "name": "Too Many CUBES!"
+    },
+    {
         "appid": 2151950,
         "name": "Voice of the Wizard by Brett Farkas"
     },
@@ -51909,7 +51925,7 @@
     },
     {
         "appid": 2210520,
-        "name": "COPA CITY"
+        "name": "Copa City: Matchday Manager"
     },
     {
         "appid": 2210590,
@@ -96184,6 +96200,10 @@
         "name": "REAL WEB LEGENDS: Carter's Quest"
     },
     {
+        "appid": 2409130,
+        "name": "Heavenly Badonkers Angel Bitches"
+    },
+    {
         "appid": 2409140,
         "name": "Picket Line"
     },
@@ -117730,6 +117750,10 @@
     {
         "appid": 2514540,
         "name": "Away Times"
+    },
+    {
+        "appid": 2514570,
+        "name": "KnockOut Drive"
     },
     {
         "appid": 2514580,
@@ -170736,10 +170760,6 @@
         "name": "幻现的花海 - 设定集"
     },
     {
-        "appid": 2780080,
-        "name": "Screen TRPG"
-    },
-    {
         "appid": 2780090,
         "name": "青春模拟器"
     },
@@ -182129,7 +182149,7 @@
     },
     {
         "appid": 2838600,
-        "name": "Minimalist Farm Tycoon"
+        "name": "Minimalist Industry Tycoon"
     },
     {
         "appid": 2838620,
@@ -199978,25 +199998,5 @@
     {
         "appid": 2928950,
         "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
     }
 ]

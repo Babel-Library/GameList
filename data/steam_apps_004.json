@@ -1,5 +1,25 @@
 [
     {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
         "appid": 2929050,
         "name": "Feed My Raptor VR"
     },
@@ -4218,10 +4238,6 @@
     {
         "appid": 2950200,
         "name": "Parliament of Hell 1796"
-    },
-    {
-        "appid": 2950260,
-        "name": "Sun City"
     },
     {
         "appid": 2950310,
@@ -12162,6 +12178,10 @@
     {
         "appid": 2989500,
         "name": "Aerial Cleaner"
+    },
+    {
+        "appid": 2989510,
+        "name": "Super Going Right Man"
     },
     {
         "appid": 2989530,
@@ -28350,10 +28370,6 @@
     {
         "appid": 3071310,
         "name": "Assemblox"
-    },
-    {
-        "appid": 3071340,
-        "name": "World Eternal Online"
     },
     {
         "appid": 3071380,
@@ -44868,6 +44884,10 @@
         "name": "STRAFTAT: Maps, WeaponsandHats"
     },
     {
+        "appid": 3153380,
+        "name": "Skullwake"
+    },
+    {
         "appid": 3153450,
         "name": "Parallel Park"
     },
@@ -50238,6 +50258,10 @@
     {
         "appid": 3181980,
         "name": "DRAGONOID"
+    },
+    {
+        "appid": 3182010,
+        "name": "Mad Mads Madsen"
     },
     {
         "appid": 3182020,
@@ -64020,6 +64044,10 @@
         "name": "S.T.O.R.M."
     },
     {
+        "appid": 3254300,
+        "name": "POLYSTRIKE"
+    },
+    {
         "appid": 3254320,
         "name": "World Rally Arcade"
     },
@@ -75742,10 +75770,6 @@
     {
         "appid": 3316690,
         "name": "the travelers"
-    },
-    {
-        "appid": 3316700,
-        "name": "The Horror"
     },
     {
         "appid": 3316720,
@@ -99792,6 +99816,10 @@
         "name": "Fox Village Defense"
     },
     {
+        "appid": 3436400,
+        "name": "The Legend of the Sex Therapist: Healing Repressed Women"
+    },
+    {
         "appid": 3436420,
         "name": "Keep Them Sleeping"
     },
@@ -104061,7 +104089,7 @@
     },
     {
         "appid": 3456860,
-        "name": "Dice & Figurines: Business Life Simulator"
+        "name": "Dice ’n’ Figurines: Business Life Simulator"
     },
     {
         "appid": 3456880,
@@ -120248,6 +120276,10 @@
         "name": "Pink Chocolate"
     },
     {
+        "appid": 3549990,
+        "name": "Tight Lines"
+    },
+    {
         "appid": 3550000,
         "name": "Fantasy Grounds - Campaign Builder: Dungeons & Ruins"
     },
@@ -120329,7 +120361,7 @@
     },
     {
         "appid": 3550370,
-        "name": "Cafe New York 9/11"
+        "name": "Threads of New York 9/11"
     },
     {
         "appid": 3550400,
@@ -136172,6 +136204,10 @@
         "name": "schoolLife_GuiYu 高二重制版"
     },
     {
+        "appid": 3629920,
+        "name": "Starfort"
+    },
+    {
         "appid": 3629970,
         "name": "Edgefield"
     },
@@ -138229,7 +138265,7 @@
     },
     {
         "appid": 3640460,
-        "name": "Smash Fight"
+        "name": "Beast Bumpers"
     },
     {
         "appid": 3640500,
@@ -156232,10 +156268,6 @@
         "name": "Sphirit"
     },
     {
-        "appid": 3737170,
-        "name": "Guardian Zero"
-    },
-    {
         "appid": 3737190,
         "name": "Milking Mira! No, wait—Milking Sophie?!"
     },
@@ -156581,7 +156613,7 @@
     },
     {
         "appid": 3739350,
-        "name": "我在西游当妖怪"
+        "name": "Path of the Yaoguai"
     },
     {
         "appid": 3739360,
@@ -158770,6 +158802,10 @@
     {
         "appid": 3751960,
         "name": "Passed Out -Arcade-"
+    },
+    {
+        "appid": 3751970,
+        "name": "Lusitania: A Monarch Fallen"
     },
     {
         "appid": 3751980,
@@ -162898,6 +162934,10 @@
     {
         "appid": 3776000,
         "name": "Quiverless"
+    },
+    {
+        "appid": 3776020,
+        "name": "Card Make Arena"
     },
     {
         "appid": 3776070,
@@ -172345,11 +172385,15 @@
     },
     {
         "appid": 3827330,
-        "name": "GameShop Simulator"
+        "name": "Midnight Launch: A Gameshop Sim"
     },
     {
         "appid": 3827340,
         "name": "Blobun Mini"
+    },
+    {
+        "appid": 3827360,
+        "name": "Mini Slayer"
     },
     {
         "appid": 3827370,
@@ -185952,6 +185996,10 @@
         "name": "QPet Zoo"
     },
     {
+        "appid": 3894750,
+        "name": "The Sword Wizard - Part 1"
+    },
+    {
         "appid": 3894760,
         "name": "Hiraeth -銀月殘憶-"
     },
@@ -189104,10 +189152,6 @@
         "name": "道渡しのオーレリア"
     },
     {
-        "appid": 3911260,
-        "name": "Archomni"
-    },
-    {
         "appid": 3911300,
         "name": "Carrier Wing Ypsilon"
     },
@@ -190790,6 +190834,10 @@
     {
         "appid": 3919770,
         "name": "Fantasy Grounds - Traveller - The Fifth Frontier War: The Riverland"
+    },
+    {
+        "appid": 3919780,
+        "name": "午夜咖啡馆的最后半小时"
     },
     {
         "appid": 3919810,
@@ -192541,7 +192589,7 @@
     },
     {
         "appid": 3928740,
-        "name": "Taste of Blood: RTS"
+        "name": "Taste of Blood"
     },
     {
         "appid": 3928750,
@@ -199950,53 +199998,5 @@
     {
         "appid": 3965460,
         "name": "One Strange School Day"
-    },
-    {
-        "appid": 3965470,
-        "name": "WOLF-FLOW"
-    },
-    {
-        "appid": 3965480,
-        "name": "Swarmhold"
-    },
-    {
-        "appid": 3965520,
-        "name": "神圣世界"
-    },
-    {
-        "appid": 3965540,
-        "name": "A Baby CEO?!"
-    },
-    {
-        "appid": 3965560,
-        "name": "A Favor For The Alchemist"
-    },
-    {
-        "appid": 3965580,
-        "name": "卦藏千相：六爻卷"
-    },
-    {
-        "appid": 3965590,
-        "name": "Dane"
-    },
-    {
-        "appid": 3965600,
-        "name": "Fidget Widget"
-    },
-    {
-        "appid": 3965610,
-        "name": "Stickman Fury"
-    },
-    {
-        "appid": 3965620,
-        "name": "Heart Snatcher"
-    },
-    {
-        "appid": 3965650,
-        "name": "Drift Market"
-    },
-    {
-        "appid": 3965660,
-        "name": "Erocraft"
     }
 ]
