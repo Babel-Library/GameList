@@ -1,5 +1,21 @@
 [
     {
+        "appid": 1952670,
+        "name": "INFEROS NUMINE : descent into darkness"
+    },
+    {
+        "appid": 1952690,
+        "name": "Bytebond"
+    },
+    {
+        "appid": 1952740,
+        "name": "Infinite Turtles"
+    },
+    {
+        "appid": 1952750,
+        "name": "Baradroid - A Gay Visual Novel"
+    },
+    {
         "appid": 1952760,
         "name": "RGB Rush"
     },
@@ -48630,6 +48646,10 @@
     {
         "appid": 2195970,
         "name": "O Reino em outro Mundo"
+    },
+    {
+        "appid": 2196010,
+        "name": "Evergrind"
     },
     {
         "appid": 2196020,
@@ -144424,6 +144444,10 @@
         "name": "Slip & Skid"
     },
     {
+        "appid": 2651380,
+        "name": "Three Days at the Seaside House with a Serving Doll"
+    },
+    {
         "appid": 2651400,
         "name": "Gunslinger Girl Survivor"
     },
@@ -186817,7 +186841,7 @@
     },
     {
         "appid": 2861560,
-        "name": "Lemonade Apocalypse"
+        "name": "Lemonade Apocalypse: First Squeeze"
     },
     {
         "appid": 2861570,
@@ -191004,6 +191028,10 @@
         "name": "Silver Cats Scores"
     },
     {
+        "appid": 2883120,
+        "name": "League of Rings"
+    },
+    {
         "appid": 2883130,
         "name": "Inverted Journey"
     },
@@ -193846,6 +193874,10 @@
     {
         "appid": 2897020,
         "name": "Echoes From The Past"
+    },
+    {
+        "appid": 2897150,
+        "name": "All A Broadside"
     },
     {
         "appid": 2897170,
@@ -199966,37 +199998,5 @@
     {
         "appid": 2928790,
         "name": "Alpine"
-    },
-    {
-        "appid": 2928800,
-        "name": "Weapon Builder"
-    },
-    {
-        "appid": 2928820,
-        "name": "Elf World Adventure 2"
-    },
-    {
-        "appid": 2928830,
-        "name": "Blenderman"
-    },
-    {
-        "appid": 2928880,
-        "name": "Alchemy Mastery"
-    },
-    {
-        "appid": 2928900,
-        "name": "DATING OF THE FUTURE"
-    },
-    {
-        "appid": 2928930,
-        "name": "Mineclearer VR"
-    },
-    {
-        "appid": 2928940,
-        "name": "Yarn Guardians"
-    },
-    {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
     }
 ]

@@ -1,5 +1,37 @@
 [
     {
+        "appid": 2928800,
+        "name": "Weapon Builder"
+    },
+    {
+        "appid": 2928820,
+        "name": "Elf World Adventure 2"
+    },
+    {
+        "appid": 2928830,
+        "name": "Blenderman"
+    },
+    {
+        "appid": 2928880,
+        "name": "Alchemy Mastery"
+    },
+    {
+        "appid": 2928900,
+        "name": "DATING OF THE FUTURE"
+    },
+    {
+        "appid": 2928930,
+        "name": "Mineclearer VR"
+    },
+    {
+        "appid": 2928940,
+        "name": "Yarn Guardians"
+    },
+    {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
         "appid": 2928990,
         "name": "KILLCOLOR"
     },
@@ -50332,6 +50364,10 @@
         "name": "Arctis"
     },
     {
+        "appid": 3182310,
+        "name": "SubDuctis"
+    },
+    {
         "appid": 3182320,
         "name": "Prince Arthur Monsters of Albion"
     },
@@ -60850,6 +60886,10 @@
     {
         "appid": 3236710,
         "name": "Puzzle Quest: Immortal Edition"
+    },
+    {
+        "appid": 3236810,
+        "name": "Rakshas"
     },
     {
         "appid": 3236820,
@@ -71448,6 +71488,10 @@
         "name": "JellyStar"
     },
     {
+        "appid": 3295510,
+        "name": "A Matter of Murder: Second Stab"
+    },
+    {
         "appid": 3295640,
         "name": "About a Girl"
     },
@@ -80061,7 +80105,7 @@
     },
     {
         "appid": 3337980,
-        "name": "Ivayami - Cradle of Fog"
+        "name": "Only Fog Remains"
     },
     {
         "appid": 3338000,
@@ -82278,6 +82322,10 @@
     {
         "appid": 3348920,
         "name": "Skill Eater"
+    },
+    {
+        "appid": 3348940,
+        "name": "Kernel Ridge"
     },
     {
         "appid": 3348950,
@@ -94108,6 +94156,10 @@
         "name": "Debugging Hero"
     },
     {
+        "appid": 3406860,
+        "name": "TheoSync"
+    },
+    {
         "appid": 3406870,
         "name": "BlockGame"
     },
@@ -96438,6 +96490,10 @@
     {
         "appid": 3418850,
         "name": "Project Hangman"
+    },
+    {
+        "appid": 3418870,
+        "name": "Ninja Baseball League-Man: Bases Loaded"
     },
     {
         "appid": 3418880,
@@ -103670,6 +103726,10 @@
     {
         "appid": 3455110,
         "name": "Advent of the Reaper"
+    },
+    {
+        "appid": 3455120,
+        "name": "Everforge Legacy"
     },
     {
         "appid": 3455140,
@@ -122372,6 +122432,10 @@
         "name": "Critter Isle"
     },
     {
+        "appid": 3560890,
+        "name": "Rushmark"
+    },
+    {
         "appid": 3560900,
         "name": "A Clareira"
     },
@@ -135997,7 +136061,7 @@
     },
     {
         "appid": 3628810,
-        "name": "Decked Out"
+        "name": "Deckslinger"
     },
     {
         "appid": 3628840,
@@ -163780,6 +163844,18 @@
         "name": "Enrobssyba"
     },
     {
+        "appid": 3781200,
+        "name": "Scenario Pack 1 \"Arctic Steel\""
+    },
+    {
+        "appid": 3781210,
+        "name": "Scenario Pack 2 \"Mare Nostrum\""
+    },
+    {
+        "appid": 3781220,
+        "name": "Scenario Pack 3 \"Fire in the Fjords\""
+    },
+    {
         "appid": 3781270,
         "name": "Astral Sanctum"
     },
@@ -169344,6 +169420,10 @@
         "name": "Simultree"
     },
     {
+        "appid": 3811870,
+        "name": "Pirate Adventure"
+    },
+    {
         "appid": 3811880,
         "name": "Gamer Stop Simulator : Prologue"
     },
@@ -172302,10 +172382,6 @@
     {
         "appid": 3826840,
         "name": "No One Here But Me"
-    },
-    {
-        "appid": 3826860,
-        "name": "There Exists"
     },
     {
         "appid": 3826870,
@@ -186784,6 +186860,10 @@
         "name": "INFINITE MINEFIELD"
     },
     {
+        "appid": 3898710,
+        "name": "GORE TANK"
+    },
+    {
         "appid": 3898730,
         "name": "Toy's Playground: The prologue"
     },
@@ -192132,6 +192212,10 @@
         "name": "Echo"
     },
     {
+        "appid": 3926010,
+        "name": "Misfits Legion"
+    },
+    {
         "appid": 3926020,
         "name": "Hunk&Doggo : eat.nap.dig.idle."
     },
@@ -195281,7 +195365,7 @@
     },
     {
         "appid": 3942270,
-        "name": "Evergrowing Video Store"
+        "name": "Midnight Video Store"
     },
     {
         "appid": 3942290,
@@ -195546,6 +195630,10 @@
     {
         "appid": 3943610,
         "name": "Algoremind"
+    },
+    {
+        "appid": 3943670,
+        "name": "Stakeroom: The Final"
     },
     {
         "appid": 3943690,
@@ -199910,93 +199998,5 @@
     {
         "appid": 3965030,
         "name": "A Resistência de Gaia"
-    },
-    {
-        "appid": 3965050,
-        "name": "Chrysanthemum: On the Way to Sweet Dreams"
-    },
-    {
-        "appid": 3965060,
-        "name": "Capital Cities Trivia"
-    },
-    {
-        "appid": 3965070,
-        "name": "Wrestling Trivia"
-    },
-    {
-        "appid": 3965090,
-        "name": "Cardboard Tanks"
-    },
-    {
-        "appid": 3965120,
-        "name": "CumMon"
-    },
-    {
-        "appid": 3965160,
-        "name": "Starboi"
-    },
-    {
-        "appid": 3965180,
-        "name": "SproutBound"
-    },
-    {
-        "appid": 3965190,
-        "name": "The Useless Wizard"
-    },
-    {
-        "appid": 3965200,
-        "name": "Fake World 2: Real World 1"
-    },
-    {
-        "appid": 3965220,
-        "name": "Stranded Survivors"
-    },
-    {
-        "appid": 3965240,
-        "name": "Protect Your Humans"
-    },
-    {
-        "appid": 3965270,
-        "name": "Project Jazzgame"
-    },
-    {
-        "appid": 3965280,
-        "name": "Sovietwave"
-    },
-    {
-        "appid": 3965290,
-        "name": "Keep Crafting"
-    },
-    {
-        "appid": 3965310,
-        "name": "The Lusanti Chronicles"
-    },
-    {
-        "appid": 3965330,
-        "name": "Die By Die"
-    },
-    {
-        "appid": 3965340,
-        "name": "TAMAGO"
-    },
-    {
-        "appid": 3965350,
-        "name": "MONSTOPIA"
-    },
-    {
-        "appid": 3965370,
-        "name": "Darksword: Premium Battle Pass Season 4"
-    },
-    {
-        "appid": 3965400,
-        "name": "DeepSpaceDiesel"
-    },
-    {
-        "appid": 3965430,
-        "name": "The Mailroom"
-    },
-    {
-        "appid": 3965460,
-        "name": "One Strange School Day"
     }
 ]

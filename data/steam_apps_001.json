@@ -78224,10 +78224,6 @@
         "name": "Space SEX"
     },
     {
-        "appid": 571120,
-        "name": "Event[0] - Soundtrack"
-    },
-    {
         "appid": 571160,
         "name": "Void & Nothingness Soundtrack"
     },
@@ -139372,6 +139368,10 @@
         "name": "Katamari Damacy REROLL"
     },
     {
+        "appid": 848380,
+        "name": "In My Name"
+    },
+    {
         "appid": 848400,
         "name": "Simian Rising"
     },
@@ -150317,7 +150317,7 @@
     },
     {
         "appid": 896250,
-        "name": "Liquidation"
+        "name": "Liquidation RTS"
     },
     {
         "appid": 896260,

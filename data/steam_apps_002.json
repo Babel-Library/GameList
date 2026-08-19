@@ -52572,6 +52572,10 @@
         "name": "Chroma"
     },
     {
+        "appid": 1332500,
+        "name": "bithunters"
+    },
+    {
         "appid": 1332540,
         "name": "Order from Caos"
     },
@@ -96664,6 +96668,10 @@
         "name": "LabRat - Pterodactyl Edition"
     },
     {
+        "appid": 1524280,
+        "name": "Abyss Campus"
+    },
+    {
         "appid": 1524290,
         "name": "留白(WhiteWash)"
     },
@@ -130113,7 +130121,7 @@
     },
     {
         "appid": 1675000,
-        "name": "Surmount: A Mountain Climbing Adventure"
+        "name": "Surmount"
     },
     {
         "appid": 1675010,
@@ -169036,6 +169044,10 @@
         "name": "Pathfinder: Wrath of the Righteous - Love Beyond Death"
     },
     {
+        "appid": 1816880,
+        "name": "EXIT 2"
+    },
+    {
         "appid": 1816890,
         "name": "TENDY: Robot Gardener"
     },
@@ -184108,6 +184120,10 @@
         "name": "Multi Idle"
     },
     {
+        "appid": 1882890,
+        "name": "Master of Galaxies"
+    },
+    {
         "appid": 1882900,
         "name": "Infinilands"
     },
@@ -191060,6 +191076,10 @@
         "name": "SnakeByte"
     },
     {
+        "appid": 1916200,
+        "name": "Entitled"
+    },
+    {
         "appid": 1916210,
         "name": "Moto Mouse Stunt Mania"
     },
@@ -191442,10 +191462,6 @@
     {
         "appid": 1918070,
         "name": "The Apothecary"
-    },
-    {
-        "appid": 1918080,
-        "name": "Path Of Destruction"
     },
     {
         "appid": 1918090,
@@ -199982,21 +199998,5 @@
     {
         "appid": 1952659,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
-    },
-    {
-        "appid": 1952670,
-        "name": "INFEROS NUMINE : descent into darkness"
-    },
-    {
-        "appid": 1952690,
-        "name": "Bytebond"
-    },
-    {
-        "appid": 1952740,
-        "name": "Infinite Turtles"
-    },
-    {
-        "appid": 1952750,
-        "name": "Baradroid - A Gay Visual Novel"
     }
 ]
