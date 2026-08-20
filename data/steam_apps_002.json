@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1107450,
-        "name": "Dreams of Solari - Chapter 1"
-    },
-    {
-        "appid": 1107460,
-        "name": "Fantasy Grounds - D&D Classics: Faiths & Avatars (2e)"
-    },
-    {
         "appid": 1107470,
         "name": "Applewood"
     },
@@ -10442,6 +10434,10 @@
     {
         "appid": 1149010,
         "name": "Warden"
+    },
+    {
+        "appid": 1149050,
+        "name": "Slime Jump"
     },
     {
         "appid": 1149070,
@@ -50874,6 +50870,10 @@
     {
         "appid": 1322770,
         "name": "3DMark Storage Benchmark"
+    },
+    {
+        "appid": 1322780,
+        "name": "Unexpected Tasks"
     },
     {
         "appid": 1322830,
@@ -126825,11 +126825,11 @@
     },
     {
         "appid": 1661620,
-        "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Content"
+        "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Upgrade"
     },
     {
         "appid": 1661621,
-        "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Content"
+        "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Upgrade"
     },
     {
         "appid": 1661630,
@@ -183252,6 +183252,10 @@
         "name": "Boom Bears on Stream"
     },
     {
+        "appid": 1878980,
+        "name": "ShotCaller 26"
+    },
+    {
         "appid": 1878990,
         "name": "Imaginarium Chronicles Seabeards Treasure"
     },
@@ -189182,6 +189186,10 @@
     {
         "appid": 1907000,
         "name": "Gloomgrave"
+    },
+    {
+        "appid": 1907010,
+        "name": "Photo Roboto: A Timesnap Adventure"
     },
     {
         "appid": 1907020,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1952657,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
-    },
-    {
-        "appid": 1952658,
-        "name": "Pixel Puzzles Ultimate: Free Content Addon"
-    },
-    {
-        "appid": 1952659,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
     }
 ]

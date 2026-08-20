@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1952658,
+        "name": "Pixel Puzzles Ultimate: Free Content Addon"
+    },
+    {
+        "appid": 1952659,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
+    },
+    {
         "appid": 1952670,
         "name": "INFEROS NUMINE : descent into darkness"
     },
@@ -10625,7 +10633,7 @@
     },
     {
         "appid": 2000530,
-        "name": "Terminal Madness - The Awakening"
+        "name": "Terminal Madness - Revelations"
     },
     {
         "appid": 2000540,
@@ -17906,10 +17914,6 @@
     {
         "appid": 2058220,
         "name": "Artifacts of Eyru"
-    },
-    {
-        "appid": 2058230,
-        "name": "The Evil Furry"
     },
     {
         "appid": 2058250,
@@ -54908,6 +54912,10 @@
         "name": "Crystal Maidens: Unleashed"
     },
     {
+        "appid": 2223860,
+        "name": "Shardana"
+    },
+    {
         "appid": 2223880,
         "name": "HUNTER REVENGE"
     },
@@ -64624,6 +64632,10 @@
         "name": "Angel Legion-DLC Cute Regular(Red)"
     },
     {
+        "appid": 2266960,
+        "name": "One Year of Special Lessons with My Little Sister Luri"
+    },
+    {
         "appid": 2266980,
         "name": "Cyber Strider"
     },
@@ -72602,10 +72614,6 @@
     {
         "appid": 2306170,
         "name": "Impostor Mode DLC"
-    },
-    {
-        "appid": 2306200,
-        "name": "Skate Horse"
     },
     {
         "appid": 2306230,
@@ -171069,7 +171077,7 @@
     },
     {
         "appid": 2781660,
-        "name": "Dawn Of Defense"
+        "name": "Dawn of Defense"
     },
     {
         "appid": 2781670,
@@ -199990,13 +199998,5 @@
     {
         "appid": 2928750,
         "name": "Shout Seven"
-    },
-    {
-        "appid": 2928770,
-        "name": "Carnival"
-    },
-    {
-        "appid": 2928790,
-        "name": "Alpine"
     }
 ]

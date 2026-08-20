@@ -13428,10 +13428,6 @@
         "name": "Tiny Brains"
     },
     {
-        "appid": 253710,
-        "name": "theHunter Classic"
-    },
-    {
         "appid": 253750,
         "name": "Ikaruga"
     },
@@ -81366,10 +81362,6 @@
     {
         "appid": 584950,
         "name": "Amber's Magic Shop MP3 OST + Wallpapers"
-    },
-    {
-        "appid": 584970,
-        "name": "theHunter: Extra Equipment"
     },
     {
         "appid": 584980,
@@ -199998,5 +199990,13 @@
     {
         "appid": 1107440,
         "name": "Last Warrior"
+    },
+    {
+        "appid": 1107450,
+        "name": "Dreams of Solari - Chapter 1"
+    },
+    {
+        "appid": 1107460,
+        "name": "Fantasy Grounds - D&D Classics: Faiths & Avatars (2e)"
     }
 ]

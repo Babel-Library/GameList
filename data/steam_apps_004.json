@@ -1,5 +1,13 @@
 [
     {
+        "appid": 2928770,
+        "name": "Carnival"
+    },
+    {
+        "appid": 2928790,
+        "name": "Alpine"
+    },
+    {
         "appid": 2928800,
         "name": "Weapon Builder"
     },
@@ -1693,7 +1701,7 @@
     },
     {
         "appid": 2937770,
-        "name": "Bubble Bobble Sugar Dungeons"
+        "name": "Bubble Bobble Sugar Dungeons Boosted"
     },
     {
         "appid": 2937810,
@@ -43869,7 +43877,7 @@
     },
     {
         "appid": 3148360,
-        "name": "ShapeRaid"
+        "name": "Shape Raid"
     },
     {
         "appid": 3148390,
@@ -56336,6 +56344,10 @@
         "name": "IL-2 Sturmovik: Flying Circus - Volume IV"
     },
     {
+        "appid": 3212110,
+        "name": "On The Flip Side"
+    },
+    {
         "appid": 3212120,
         "name": "OKeverything with 3000 beauties 2"
     },
@@ -60561,7 +60573,7 @@
     },
     {
         "appid": 3234690,
-        "name": "HAUNTED STREAMER"
+        "name": "HAUNTED STREAMER -呪われた配信者-"
     },
     {
         "appid": 3234700,
@@ -85496,6 +85508,10 @@
         "name": "Fantasy Grounds - Star Trek Adventures: The Next Generation Klingon Tile Set"
     },
     {
+        "appid": 3364010,
+        "name": "VCO: Victor Charlie One"
+    },
+    {
         "appid": 3364060,
         "name": "Ocean Goal"
     },
@@ -93628,6 +93644,10 @@
         "name": "恐惧深处（Fear deeps）"
     },
     {
+        "appid": 3404030,
+        "name": "Clogwork"
+    },
+    {
         "appid": 3404040,
         "name": "Heirs of Heaven"
     },
@@ -98709,7 +98729,7 @@
     },
     {
         "appid": 3430620,
-        "name": "From Hel to Asgard"
+        "name": "Helcast"
     },
     {
         "appid": 3430630,
@@ -121484,6 +121504,10 @@
         "name": "Bookbinding – Dark Cozy Sim"
     },
     {
+        "appid": 3555790,
+        "name": "Dice Tiny Town"
+    },
+    {
         "appid": 3555810,
         "name": "Friendly Cat"
     },
@@ -135156,6 +135180,10 @@
         "name": "Medetashi Medetashi"
     },
     {
+        "appid": 3624340,
+        "name": "Strike and Pop"
+    },
+    {
         "appid": 3624370,
         "name": "Bullet Force"
     },
@@ -136170,6 +136198,10 @@
     {
         "appid": 3629370,
         "name": "Vibrant Dash"
+    },
+    {
+        "appid": 3629380,
+        "name": "They Are Not Friendly"
     },
     {
         "appid": 3629400,
@@ -137561,7 +137593,7 @@
     },
     {
         "appid": 3636510,
-        "name": "Heartwake (Into a Hearth Yonder)"
+        "name": "Heartwake"
     },
     {
         "appid": 3636520,
@@ -145458,6 +145490,10 @@
     {
         "appid": 3677620,
         "name": "DuoQ"
+    },
+    {
+        "appid": 3677630,
+        "name": "Sitra Achra"
     },
     {
         "appid": 3677650,
@@ -163660,10 +163696,6 @@
         "name": "Post Apocalypse Microbe Lab"
     },
     {
-        "appid": 3780040,
-        "name": "3on3 FreeStyle – 2025 Special Pack"
-    },
-    {
         "appid": 3780050,
         "name": "Beat Brush: Draw music"
     },
@@ -165670,10 +165702,6 @@
     {
         "appid": 3791380,
         "name": "Magical Girl Fist Fight"
-    },
-    {
-        "appid": 3791390,
-        "name": "FOX XII"
     },
     {
         "appid": 3791400,
@@ -169824,10 +169852,6 @@
         "name": "AI LIMIT - Eirene's Furnace of War"
     },
     {
-        "appid": 3813810,
-        "name": "PengPong: Prologue"
-    },
-    {
         "appid": 3813830,
         "name": "Mawang: Dark Lord Defence - Prologue"
     },
@@ -171825,7 +171849,7 @@
     },
     {
         "appid": 3823700,
-        "name": "Deckmon21"
+        "name": "Deckmon"
     },
     {
         "appid": 3823710,
@@ -181873,7 +181897,7 @@
     },
     {
         "appid": 3874230,
-        "name": "Anno 117: Pax Romana - Marvellous Mosaic Pack"
+        "name": "Anno 117: Pax Romana – Marvellous Mosaic Pack"
     },
     {
         "appid": 3874260,
@@ -185100,6 +185124,10 @@
         "name": "Surviving Mars: Relaunched - Interplanetary Codex - Mission Sponsor"
     },
     {
+        "appid": 3889430,
+        "name": "Surviving Mars: Relaunched - Feeding the Future"
+    },
+    {
         "appid": 3889450,
         "name": "Dark Land"
     },
@@ -185790,6 +185818,10 @@
     {
         "appid": 3893280,
         "name": "Famished"
+    },
+    {
+        "appid": 3893290,
+        "name": "只狗：路边一条Stray Dog: nobody cares"
     },
     {
         "appid": 3893300,
@@ -199966,37 +199998,5 @@
     {
         "appid": 3964730,
         "name": "Infinite Game Cartridge Collection - Green Gunner"
-    },
-    {
-        "appid": 3964740,
-        "name": "Mycelium Mayhem"
-    },
-    {
-        "appid": 3964780,
-        "name": "Hourturn"
-    },
-    {
-        "appid": 3964800,
-        "name": "Let Me Speak"
-    },
-    {
-        "appid": 3964810,
-        "name": "THE SHRiNK Episode 4"
-    },
-    {
-        "appid": 3964840,
-        "name": "Duty Free Shop Simulator"
-    },
-    {
-        "appid": 3964890,
-        "name": "Ardor 2"
-    },
-    {
-        "appid": 3964990,
-        "name": "THE FINALS - Depth Charger Set"
-    },
-    {
-        "appid": 3965030,
-        "name": "A Resistência de Gaia"
     }
 ]
