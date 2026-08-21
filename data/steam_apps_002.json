@@ -149212,6 +149212,10 @@
         "name": "Triple Take"
     },
     {
+        "appid": 1734260,
+        "name": "Prairie"
+    },
+    {
         "appid": 1734270,
         "name": "Royal Frontier"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1952656,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
-    },
-    {
-        "appid": 1952657,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
     }
 ]

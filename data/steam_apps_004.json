@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2928750,
+        "name": "Shout Seven"
+    },
+    {
         "appid": 2928770,
         "name": "Carnival"
     },
@@ -9949,7 +9953,7 @@
     },
     {
         "appid": 2977260,
-        "name": "The Guild - Europa 1410"
+        "name": "The Guild 1 Remake: Europa 1410"
     },
     {
         "appid": 2977290,
@@ -14190,10 +14194,6 @@
     {
         "appid": 2999720,
         "name": "Bump in the Night"
-    },
-    {
-        "appid": 2999730,
-        "name": "Screw Drivers - Supporter Pack"
     },
     {
         "appid": 2999740,
@@ -40649,7 +40649,7 @@
     },
     {
         "appid": 3131690,
-        "name": "Cargo Delivery Simulator"
+        "name": "Here is Your Package"
     },
     {
         "appid": 3131700,
@@ -43844,6 +43844,10 @@
         "name": "Caelum's Crux"
     },
     {
+        "appid": 3148140,
+        "name": "Weave 3D"
+    },
+    {
         "appid": 3148160,
         "name": "Dragon Song Tavern: Cozy & Adventurous"
     },
@@ -44718,6 +44722,10 @@
     {
         "appid": 3152330,
         "name": "Depths of Faveg"
+    },
+    {
+        "appid": 3152340,
+        "name": "Kyndykan"
     },
     {
         "appid": 3152370,
@@ -64208,10 +64216,6 @@
         "name": "Miner Hoversurf 2 Multiplayer Madness"
     },
     {
-        "appid": 3255140,
-        "name": "CORPOREAL"
-    },
-    {
         "appid": 3255150,
         "name": "Fantasy Grounds - Jerry's Midnight Tales"
     },
@@ -67794,6 +67798,10 @@
     {
         "appid": 3275770,
         "name": "Koshari Defense"
+    },
+    {
+        "appid": 3275850,
+        "name": "Blade Rising"
     },
     {
         "appid": 3275860,
@@ -80858,10 +80866,6 @@
     {
         "appid": 3341950,
         "name": "Topographical Agnosia"
-    },
-    {
-        "appid": 3341960,
-        "name": "Microsoft Flight Simulator 2024 - Premium Deluxe Upgrade"
     },
     {
         "appid": 3341980,
@@ -111136,10 +111140,6 @@
         "name": "ShopFront"
     },
     {
-        "appid": 3495850,
-        "name": "Burns Rally Manager"
-    },
-    {
         "appid": 3495870,
         "name": "镜之心 Heart of the Mirror"
     },
@@ -138428,6 +138428,10 @@
         "name": "The Revanchist"
     },
     {
+        "appid": 3640830,
+        "name": "VICIOUS CIRCLE"
+    },
+    {
         "appid": 3640840,
         "name": "LANDLORD"
     },
@@ -160252,6 +160256,10 @@
         "name": "Rules of Nature"
     },
     {
+        "appid": 3759520,
+        "name": "Fluttering"
+    },
+    {
         "appid": 3759550,
         "name": "The Protagonist"
     },
@@ -178678,6 +178686,10 @@
     {
         "appid": 3858750,
         "name": "Anno 117: Pax Romana – Prophecies of Ash"
+    },
+    {
+        "appid": 3858770,
+        "name": "Anno 117: Pax Romana – The Hippodrome"
     },
     {
         "appid": 3858810,
@@ -199986,17 +199998,5 @@
     {
         "appid": 3964680,
         "name": "Bily'Sine"
-    },
-    {
-        "appid": 3964700,
-        "name": "Kıraathane Tycoon"
-    },
-    {
-        "appid": 3964710,
-        "name": "The Art of Demonschool"
-    },
-    {
-        "appid": 3964730,
-        "name": "Infinite Game Cartridge Collection - Green Gunner"
     }
 ]
