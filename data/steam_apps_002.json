@@ -1,41 +1,5 @@
 [
     {
-        "appid": 1107470,
-        "name": "Applewood"
-    },
-    {
-        "appid": 1107480,
-        "name": "The Mansion : Original Stuff"
-    },
-    {
-        "appid": 1107490,
-        "name": "The Searchers of Legends : Origin"
-    },
-    {
-        "appid": 1107500,
-        "name": "Fantasy Grounds - D&D Classics: G2 The Glacial Rift of the Frost Giant Jarl (1e)"
-    },
-    {
-        "appid": 1107510,
-        "name": "Favo!+"
-    },
-    {
-        "appid": 1107520,
-        "name": "Movie Maven: A Tycoon Game"
-    },
-    {
-        "appid": 1107580,
-        "name": "mAIn COMPetition"
-    },
-    {
-        "appid": 1107590,
-        "name": "Papercraft：Ring Mode（擂台争霸）"
-    },
-    {
-        "appid": 1107620,
-        "name": "Mystery Island - Hidden Object Games"
-    },
-    {
         "appid": 1107640,
         "name": "Turbo Plane"
     },
@@ -41088,10 +41052,6 @@
         "name": "The Last Faith"
     },
     {
-        "appid": 1274610,
-        "name": "LesLove.Club: Emily and Sarah"
-    },
-    {
         "appid": 1274620,
         "name": "Horizon Springs"
     },
@@ -42282,10 +42242,6 @@
     {
         "appid": 1280440,
         "name": "Infernal Radiation (Demo)"
-    },
-    {
-        "appid": 1280450,
-        "name": "LesLove.Club: Emily and Sarah - 18+ Patch"
     },
     {
         "appid": 1280490,
@@ -73617,7 +73573,7 @@
     },
     {
         "appid": 1422580,
-        "name": "Sekrets Of The Dungeon"
+        "name": "REMNOLITH"
     },
     {
         "appid": 1422600,
@@ -96532,6 +96488,10 @@
         "name": "Galaversal Supremacy"
     },
     {
+        "appid": 1523560,
+        "name": "The Last Gaeltacht"
+    },
+    {
         "appid": 1523630,
         "name": "World of Fantasy: Zero"
     },
@@ -102253,7 +102213,7 @@
     },
     {
         "appid": 1550780,
-        "name": "Reskue"
+        "name": "Orta X"
     },
     {
         "appid": 1550800,
@@ -107921,11 +107881,11 @@
     },
     {
         "appid": 1574600,
-        "name": "Hero Siege - Gates of Valhalla (Expansion Set)"
+        "name": "Hero Siege - Ghastly Jötunn (Skin)"
     },
     {
         "appid": 1574601,
-        "name": "Hero Siege - Gates of Valhalla Collector's Edition (Expansion Set)"
+        "name": "Hero Siege - Gates of Valhalla Collector's Edition"
     },
     {
         "appid": 1574610,
@@ -187304,6 +187264,10 @@
         "name": "Dream Tactics"
     },
     {
+        "appid": 1897660,
+        "name": "The Main Menu"
+    },
+    {
         "appid": 1897680,
         "name": "ToyCar"
     },
@@ -199998,5 +199962,41 @@
     {
         "appid": 1952656,
         "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful"
+    },
+    {
+        "appid": 1952657,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
+    },
+    {
+        "appid": 1952658,
+        "name": "Pixel Puzzles Ultimate: Free Content Addon"
+    },
+    {
+        "appid": 1952659,
+        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
+    },
+    {
+        "appid": 1952670,
+        "name": "INFEROS NUMINE : descent into darkness"
+    },
+    {
+        "appid": 1952690,
+        "name": "Bytebond"
+    },
+    {
+        "appid": 1952740,
+        "name": "Infinite Turtles"
+    },
+    {
+        "appid": 1952750,
+        "name": "Baradroid - A Gay Visual Novel"
+    },
+    {
+        "appid": 1952760,
+        "name": "RGB Rush"
+    },
+    {
+        "appid": 1952770,
+        "name": "ConquestAreas"
     }
 ]

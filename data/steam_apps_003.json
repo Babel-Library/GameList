@@ -1,41 +1,5 @@
 [
     {
-        "appid": 1952657,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Jiu Jitsu"
-    },
-    {
-        "appid": 1952658,
-        "name": "Pixel Puzzles Ultimate: Free Content Addon"
-    },
-    {
-        "appid": 1952659,
-        "name": "Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 26"
-    },
-    {
-        "appid": 1952670,
-        "name": "INFEROS NUMINE : descent into darkness"
-    },
-    {
-        "appid": 1952690,
-        "name": "Bytebond"
-    },
-    {
-        "appid": 1952740,
-        "name": "Infinite Turtles"
-    },
-    {
-        "appid": 1952750,
-        "name": "Baradroid - A Gay Visual Novel"
-    },
-    {
-        "appid": 1952760,
-        "name": "RGB Rush"
-    },
-    {
-        "appid": 1952770,
-        "name": "ConquestAreas"
-    },
-    {
         "appid": 1952780,
         "name": "Spider Slingers"
     },
@@ -33276,6 +33240,10 @@
         "name": "Handyman Legend"
     },
     {
+        "appid": 2127020,
+        "name": "Riftswarm"
+    },
+    {
         "appid": 2127030,
         "name": "Date or Destiny : Kiss or Miss"
     },
@@ -51296,10 +51264,6 @@
         "name": "Gods Against Machines"
     },
     {
-        "appid": 2207480,
-        "name": "HELLCARD: Prologue"
-    },
-    {
         "appid": 2207490,
         "name": "Factory Town Idle"
     },
@@ -58640,6 +58604,10 @@
         "name": "Town in Trouble"
     },
     {
+        "appid": 2240510,
+        "name": "Neon Nights"
+    },
+    {
         "appid": 2240520,
         "name": "Dungeons and Raids"
     },
@@ -64278,6 +64246,10 @@
     {
         "appid": 2265270,
         "name": "Every Summer Holiday - BL (Boys Love) Visual Novel"
+    },
+    {
+        "appid": 2265280,
+        "name": "Kill King 2D"
     },
     {
         "appid": 2265290,
@@ -86008,10 +85980,6 @@
         "name": "Novastride"
     },
     {
-        "appid": 2366360,
-        "name": "Chronicles Of Errodean"
-    },
-    {
         "appid": 2366400,
         "name": "Space Battle Royale"
     },
@@ -93065,7 +93033,7 @@
     },
     {
         "appid": 2396130,
-        "name": "Australia Did It"
+        "name": "Australia Did It: End-of-the-World Railway Defense Business"
     },
     {
         "appid": 2396140,
@@ -105586,6 +105554,10 @@
     {
         "appid": 2451880,
         "name": "Find with Seoul: Story Puzzle"
+    },
+    {
+        "appid": 2451920,
+        "name": "Cursed Kingdom"
     },
     {
         "appid": 2451940,
@@ -142036,6 +142008,10 @@
         "name": "College Sex - Episode 2"
     },
     {
+        "appid": 2640020,
+        "name": "Monkey"
+    },
+    {
         "appid": 2640030,
         "name": "Wonder Ball"
     },
@@ -144466,6 +144442,10 @@
     {
         "appid": 2651380,
         "name": "Three Days at the Seaside House with a Serving Doll"
+    },
+    {
+        "appid": 2651390,
+        "name": "Fallen Elf: Blacklight Tower"
     },
     {
         "appid": 2651400,
@@ -148002,10 +147982,6 @@
     {
         "appid": 2668230,
         "name": "Spellarium 10"
-    },
-    {
-        "appid": 2668240,
-        "name": "Tercity Life Simulator"
     },
     {
         "appid": 2668290,
@@ -195117,7 +195093,7 @@
     },
     {
         "appid": 2903610,
-        "name": "Lightus"
+        "name": "BloxFun"
     },
     {
         "appid": 2903620,
@@ -195914,6 +195890,10 @@
     {
         "appid": 2907650,
         "name": "Battlegrounds : The Pirate King"
+    },
+    {
+        "appid": 2907670,
+        "name": "DR. MATBEN"
     },
     {
         "appid": 2907680,
@@ -199998,5 +199978,25 @@
     {
         "appid": 2928740,
         "name": "Not Alone"
+    },
+    {
+        "appid": 2928750,
+        "name": "Shout Seven"
+    },
+    {
+        "appid": 2928770,
+        "name": "Carnival"
+    },
+    {
+        "appid": 2928790,
+        "name": "Alpine"
+    },
+    {
+        "appid": 2928800,
+        "name": "Weapon Builder"
+    },
+    {
+        "appid": 2928820,
+        "name": "Elf World Adventure 2"
     }
 ]

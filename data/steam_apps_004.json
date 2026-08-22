@@ -1,25 +1,5 @@
 [
     {
-        "appid": 2928750,
-        "name": "Shout Seven"
-    },
-    {
-        "appid": 2928770,
-        "name": "Carnival"
-    },
-    {
-        "appid": 2928790,
-        "name": "Alpine"
-    },
-    {
-        "appid": 2928800,
-        "name": "Weapon Builder"
-    },
-    {
-        "appid": 2928820,
-        "name": "Elf World Adventure 2"
-    },
-    {
         "appid": 2928830,
         "name": "Blenderman"
     },
@@ -16333,7 +16313,7 @@
     },
     {
         "appid": 3010300,
-        "name": "Color Gungeon"
+        "name": "One-Hour Hero"
     },
     {
         "appid": 3010320,
@@ -23905,7 +23885,7 @@
     },
     {
         "appid": 3049470,
-        "name": "Echoes of Exile"
+        "name": "Galactic Fruit"
     },
     {
         "appid": 3049480,
@@ -27162,6 +27142,10 @@
     {
         "appid": 3065180,
         "name": "Dolls: The Hunt"
+    },
+    {
+        "appid": 3065200,
+        "name": "智械暴走，而我称霸全球"
     },
     {
         "appid": 3065220,
@@ -46709,7 +46693,7 @@
     },
     {
         "appid": 3162890,
-        "name": "Project Lexa"
+        "name": "Lexa"
     },
     {
         "appid": 3162900,
@@ -50885,7 +50869,7 @@
     },
     {
         "appid": 3185060,
-        "name": "废都物语重制版"
+        "name": "Ruina Remake"
     },
     {
         "appid": 3185070,
@@ -52894,6 +52878,10 @@
     {
         "appid": 3194510,
         "name": "Shop Simulator: Pet Shop"
+    },
+    {
+        "appid": 3194520,
+        "name": "HALLELUJAH!"
     },
     {
         "appid": 3194550,
@@ -61266,6 +61254,10 @@
     {
         "appid": 3238900,
         "name": "QuattroPanicu"
+    },
+    {
+        "appid": 3238910,
+        "name": "Jumpy vs. Chompy"
     },
     {
         "appid": 3238920,
@@ -76524,6 +76516,10 @@
         "name": "CannonHead"
     },
     {
+        "appid": 3320450,
+        "name": "Mica King"
+    },
+    {
         "appid": 3320490,
         "name": "Row Hard"
     },
@@ -89150,6 +89146,10 @@
     {
         "appid": 3382110,
         "name": "-ing Angler"
+    },
+    {
+        "appid": 3382130,
+        "name": "Time Champions"
     },
     {
         "appid": 3382170,
@@ -103253,7 +103253,7 @@
     },
     {
         "appid": 3452720,
-        "name": "太吾异世劫"
+        "name": "Realm of Taiwu"
     },
     {
         "appid": 3452740,
@@ -104398,6 +104398,10 @@
     {
         "appid": 3458000,
         "name": "Fantasy Grounds - Fantasy Token Collection - Celestial 01"
+    },
+    {
+        "appid": 3458020,
+        "name": "Sushi Sushi"
     },
     {
         "appid": 3458030,
@@ -123694,6 +123698,10 @@
     {
         "appid": 3566480,
         "name": "Switcheroo"
+    },
+    {
+        "appid": 3566520,
+        "name": "Culture shock"
     },
     {
         "appid": 3566530,
@@ -147254,6 +147262,10 @@
     {
         "appid": 3687080,
         "name": "氏族"
+    },
+    {
+        "appid": 3687090,
+        "name": "Dice Hoarder"
     },
     {
         "appid": 3687100,
@@ -173776,6 +173788,10 @@
         "name": "Gobo & Spike"
     },
     {
+        "appid": 3833860,
+        "name": "CLAY-TIME® Master Beef"
+    },
+    {
         "appid": 3833880,
         "name": "Neon Marble Rust - Super Ace"
     },
@@ -177962,6 +177978,10 @@
     {
         "appid": 3855110,
         "name": "Primal Blue"
+    },
+    {
+        "appid": 3855120,
+        "name": "Okey"
     },
     {
         "appid": 3855140,
@@ -183772,6 +183792,10 @@
         "name": "Planet Ski"
     },
     {
+        "appid": 3882930,
+        "name": "C.R.E.O."
+    },
+    {
         "appid": 3882940,
         "name": "The White Cat’s Dark Affair"
     },
@@ -184329,7 +184353,7 @@
     },
     {
         "appid": 3885740,
-        "name": "BeetleQuest: The Puzzle Game"
+        "name": "BeetleWorld : the Puzzle Game"
     },
     {
         "appid": 3885750,
@@ -185304,6 +185328,10 @@
         "name": "Hello Kitty Island Adventure - Wheatflour Wonderland"
     },
     {
+        "appid": 3890550,
+        "name": "Jam's Adjustable Mirrors"
+    },
+    {
         "appid": 3890570,
         "name": "The Locked Room"
     },
@@ -185817,7 +185845,7 @@
     },
     {
         "appid": 3893210,
-        "name": "Halu - The Fracture"
+        "name": "Haze of Lucidity - The Fracture"
     },
     {
         "appid": 3893230,
@@ -199970,33 +199998,5 @@
     {
         "appid": 3964570,
         "name": "Zero End - Chapter Two"
-    },
-    {
-        "appid": 3964600,
-        "name": "Quarantine Zombies: Contamination"
-    },
-    {
-        "appid": 3964610,
-        "name": "Flood Returns"
-    },
-    {
-        "appid": 3964620,
-        "name": "Flutterfield"
-    },
-    {
-        "appid": 3964640,
-        "name": "Nomad Nightmare - Episode 1: Awakening"
-    },
-    {
-        "appid": 3964650,
-        "name": "空野まなみの事件録 ― 空白のカルテ ―"
-    },
-    {
-        "appid": 3964670,
-        "name": "VOIDRUNNER"
-    },
-    {
-        "appid": 3964680,
-        "name": "Bily'Sine"
     }
 ]

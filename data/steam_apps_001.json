@@ -60360,30 +60360,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492958,
-        "name": "Rocksmith® 2014 – Rush - “Working Man”"
-    },
-    {
-        "appid": 492959,
-        "name": "Rocksmith® 2014 – Rush - “La Villa Strangiato”"
-    },
-    {
-        "appid": 492960,
-        "name": "Rocksmith® 2014 – Rush - “Freewill”"
-    },
-    {
-        "appid": 492961,
-        "name": "Rocksmith® 2014 – Rush - “Fly By Night”"
-    },
-    {
-        "appid": 492962,
-        "name": "Rocksmith® 2014 – Rush - “Closer to the Heart”"
-    },
-    {
-        "appid": 492963,
-        "name": "Rocksmith® 2014 – Rush Song Pack II"
-    },
-    {
         "appid": 492964,
         "name": "Rocksmith® 2014 – The Clash - “I Fought the Law”"
     },
@@ -63706,10 +63682,6 @@
     {
         "appid": 508165,
         "name": "Mystic Destinies: Serendipity of Aeons - Deluxe Edition"
-    },
-    {
-        "appid": 508170,
-        "name": "BlackSmith HIT"
     },
     {
         "appid": 508180,
@@ -68416,10 +68388,6 @@
         "name": "Negligee - Avatars"
     },
     {
-        "appid": 526540,
-        "name": "8infinity"
-    },
-    {
         "appid": 526550,
         "name": "PitchFork"
     },
@@ -68745,7 +68713,7 @@
     },
     {
         "appid": 527970,
-        "name": "Minerva"
+        "name": "Minerva (2015)"
     },
     {
         "appid": 527990,
@@ -171077,7 +171045,7 @@
     },
     {
         "appid": 987730,
-        "name": "Hero Siege - Plague Doctor Class"
+        "name": "Hero Siege - Mouser Plague Doctor (Skin)"
     },
     {
         "appid": 987740,
@@ -180776,10 +180744,6 @@
         "name": "World Peace Simulator 2019"
     },
     {
-        "appid": 1027970,
-        "name": "LesLove.Club: Jessica and Ashley"
-    },
-    {
         "appid": 1027990,
         "name": "Antenna Dilemma: Prologue"
     },
@@ -183918,10 +183882,6 @@
     {
         "appid": 1041780,
         "name": "Soul Valley"
-    },
-    {
-        "appid": 1041790,
-        "name": "LesLove.Club: Jessica and Ashley - 18+ Patch"
     },
     {
         "appid": 1041820,
@@ -187925,7 +187885,7 @@
     },
     {
         "appid": 1058390,
-        "name": "Hero Siege - Shield Lancer Class"
+        "name": "Hero Siege - Maid Lancer (Skin)"
     },
     {
         "appid": 1058400,
@@ -198708,6 +198668,10 @@
         "name": "Funbag Fantasy 2"
     },
     {
+        "appid": 1102350,
+        "name": "CHOICEEEEE"
+    },
+    {
         "appid": 1102370,
         "name": "Dr. Derk's Mutant Battlegrounds"
     },
@@ -199998,5 +199962,41 @@
     {
         "appid": 1107460,
         "name": "Fantasy Grounds - D&D Classics: Faiths & Avatars (2e)"
+    },
+    {
+        "appid": 1107470,
+        "name": "Applewood"
+    },
+    {
+        "appid": 1107480,
+        "name": "The Mansion : Original Stuff"
+    },
+    {
+        "appid": 1107490,
+        "name": "The Searchers of Legends : Origin"
+    },
+    {
+        "appid": 1107500,
+        "name": "Fantasy Grounds - D&D Classics: G2 The Glacial Rift of the Frost Giant Jarl (1e)"
+    },
+    {
+        "appid": 1107510,
+        "name": "Favo!+"
+    },
+    {
+        "appid": 1107520,
+        "name": "Movie Maven: A Tycoon Game"
+    },
+    {
+        "appid": 1107580,
+        "name": "mAIn COMPetition"
+    },
+    {
+        "appid": 1107590,
+        "name": "Papercraft：Ring Mode（擂台争霸）"
+    },
+    {
+        "appid": 1107620,
+        "name": "Mystery Island - Hidden Object Games"
     }
 ]
