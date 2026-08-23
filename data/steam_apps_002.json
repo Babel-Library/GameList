@@ -71553,7 +71553,7 @@
     },
     {
         "appid": 1415010,
-        "name": "Lynium"
+        "name": "Lynium: Play the Rhythm"
     },
     {
         "appid": 1415020,
@@ -198980,10 +198980,6 @@
         "name": "Exipelago"
     },
     {
-        "appid": 1948550,
-        "name": "When Bricks Fly"
-    },
-    {
         "appid": 1948570,
         "name": "RPG Maker VX Ace - MT Tiny Tales Battlers - Monstrous Uprising"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1952770,
         "name": "ConquestAreas"
+    },
+    {
+        "appid": 1952780,
+        "name": "Spider Slingers"
     }
 ]
