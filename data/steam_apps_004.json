@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2928800,
+        "name": "Weapon Builder"
+    },
+    {
         "appid": 2928820,
         "name": "Elf World Adventure 2"
     },
@@ -102908,6 +102912,10 @@
         "name": "DOSMIC"
     },
     {
+        "appid": 3450920,
+        "name": "Remnant Humanity"
+    },
+    {
         "appid": 3450940,
         "name": "Math Muncher"
     },
@@ -108658,6 +108666,10 @@
     {
         "appid": 3481710,
         "name": "My Sleeping Girlfriend"
+    },
+    {
+        "appid": 3481730,
+        "name": "隕石、地球に落ちる - Meteor Rising"
     },
     {
         "appid": 3481740,
@@ -149994,6 +150006,10 @@
     {
         "appid": 3701280,
         "name": "World of Tanks — M4A3E8 Thunderbolt VII Pack (VI American Medium Tank) "
+    },
+    {
+        "appid": 3701290,
+        "name": "Endless Harvest!"
     },
     {
         "appid": 3701300,
@@ -197620,6 +197636,10 @@
         "name": "My Goth Bully Likes Sitting on My Face"
     },
     {
+        "appid": 3952320,
+        "name": "JELLYFISH"
+    },
+    {
         "appid": 3952330,
         "name": "Cosmo Vulpes"
     },
@@ -199978,25 +199998,5 @@
     {
         "appid": 3964490,
         "name": "Ruina"
-    },
-    {
-        "appid": 3964500,
-        "name": "Lost In The Backrooms: Day 100"
-    },
-    {
-        "appid": 3964510,
-        "name": "The Grey Dream- 4k Wallpaper Set"
-    },
-    {
-        "appid": 3964520,
-        "name": "Punch TV"
-    },
-    {
-        "appid": 3964530,
-        "name": "Desktop Friend"
-    },
-    {
-        "appid": 3964540,
-        "name": "Asantria"
     }
 ]

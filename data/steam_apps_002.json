@@ -20564,6 +20564,10 @@
         "name": "Airhack: Hacking"
     },
     {
+        "appid": 1188960,
+        "name": "Send & Defend"
+    },
+    {
         "appid": 1188970,
         "name": "Ether Loop"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1952770,
         "name": "ConquestAreas"
-    },
-    {
-        "appid": 1952780,
-        "name": "Spider Slingers"
     }
 ]
