@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1952780,
-        "name": "Spider Slingers"
-    },
-    {
         "appid": 1952800,
         "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
     },
@@ -60429,7 +60425,7 @@
     },
     {
         "appid": 2248760,
-        "name": "Car For Sale Simulator 2023"
+        "name": "Car For Sale Simulator"
     },
     {
         "appid": 2248790,
@@ -79545,7 +79541,7 @@
     },
     {
         "appid": 2337000,
-        "name": "穿梭世界"
+        "name": "四季农场"
     },
     {
         "appid": 2337060,
@@ -89486,6 +89482,10 @@
     {
         "appid": 2380320,
         "name": "Choice of Life: Wild Islands"
+    },
+    {
+        "appid": 2380330,
+        "name": "Lethal Justice"
     },
     {
         "appid": 2380340,

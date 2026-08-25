@@ -14432,6 +14432,10 @@
         "name": "Table Flip Simulator"
     },
     {
+        "appid": 3000980,
+        "name": "Echoes From Below"
+    },
+    {
         "appid": 3000990,
         "name": "Scrabbleman"
     },
@@ -27958,6 +27962,10 @@
     {
         "appid": 3069320,
         "name": "Chimera"
+    },
+    {
+        "appid": 3069340,
+        "name": "Blasterbug: Last Bug Standing! "
     },
     {
         "appid": 3069360,
@@ -63520,6 +63528,10 @@
         "name": "解救女孩"
     },
     {
+        "appid": 3250900,
+        "name": "堆叠纪元"
+    },
+    {
         "appid": 3250910,
         "name": "街头打手II"
     },
@@ -67317,7 +67329,7 @@
     },
     {
         "appid": 3273420,
-        "name": "FPV Battleground: Combat Drone Simulator "
+        "name": "F-Drones Simulator"
     },
     {
         "appid": 3273480,
@@ -86872,6 +86884,10 @@
         "name": "Blasteroids"
     },
     {
+        "appid": 3370530,
+        "name": "Snatcher: Peculiar Deliveries"
+    },
+    {
         "appid": 3370540,
         "name": "Street Chef Simulator"
     },
@@ -95668,6 +95684,10 @@
         "name": "SFXEngine Sound Pack: Jingles"
     },
     {
+        "appid": 3414230,
+        "name": "Dough Boys"
+    },
+    {
         "appid": 3414240,
         "name": "Grubby Fingers"
     },
@@ -101749,7 +101769,7 @@
     },
     {
         "appid": 3445330,
-        "name": "Siege of Acres"
+        "name": "Siege of Nightmares"
     },
     {
         "appid": 3445340,
@@ -103406,6 +103426,10 @@
     {
         "appid": 3453420,
         "name": "Shroud of Gloom"
+    },
+    {
+        "appid": 3453430,
+        "name": "Rush Your Band"
     },
     {
         "appid": 3453440,
@@ -141052,6 +141076,10 @@
         "name": "Levania"
     },
     {
+        "appid": 3654150,
+        "name": "Skygate Zero"
+    },
+    {
         "appid": 3654160,
         "name": "Seer's Gambit: Dawn of Unlikely Heroes"
     },
@@ -154206,6 +154234,10 @@
     {
         "appid": 3724800,
         "name": "The Shift"
+    },
+    {
+        "appid": 3724810,
+        "name": "No Bots Here"
     },
     {
         "appid": 3724820,
@@ -173993,7 +174025,7 @@
     },
     {
         "appid": 3834880,
-        "name": "明镜江湖行：朔风起"
+        "name": "Tales of Justice Academy: Winds Arise"
     },
     {
         "appid": 3834890,
@@ -179910,6 +179942,10 @@
     {
         "appid": 3864310,
         "name": "Mr. Prepper - Uranium Project DLC"
+    },
+    {
+        "appid": 3864330,
+        "name": "Spindle"
     },
     {
         "appid": 3864360,
@@ -185869,7 +185905,7 @@
     },
     {
         "appid": 3893210,
-        "name": "Haze of Lucidity - The Fracture"
+        "name": "Haze of Lucidity (Halu) - The Fracture"
     },
     {
         "appid": 3893230,
@@ -191109,7 +191145,7 @@
     },
     {
         "appid": 3920210,
-        "name": "I Am Your Music"
+        "name": "Livina: Music For Your Heart"
     },
     {
         "appid": 3920260,
@@ -191566,6 +191602,10 @@
     {
         "appid": 3922170,
         "name": "Bound by Light"
+    },
+    {
+        "appid": 3922180,
+        "name": "Side & Heek"
     },
     {
         "appid": 3922190,
@@ -198012,6 +198052,10 @@
         "name": "Tactical Archer"
     },
     {
+        "appid": 3954320,
+        "name": "Neo Bananas"
+    },
+    {
         "appid": 3954330,
         "name": "幸运卡片"
     },
@@ -199954,49 +199998,5 @@
     {
         "appid": 3964290,
         "name": "Ollie's Castle"
-    },
-    {
-        "appid": 3964330,
-        "name": "WALTO"
-    },
-    {
-        "appid": 3964340,
-        "name": "MMORPG NPC Simulator"
-    },
-    {
-        "appid": 3964350,
-        "name": "Shell of the coward"
-    },
-    {
-        "appid": 3964380,
-        "name": "小小魔药 Little Potion"
-    },
-    {
-        "appid": 3964390,
-        "name": "ILLEGAL PLANT BATTLES"
-    },
-    {
-        "appid": 3964400,
-        "name": "Arsonist '24 Director's Cut"
-    },
-    {
-        "appid": 3964420,
-        "name": "Hell Dice Gambit"
-    },
-    {
-        "appid": 3964430,
-        "name": "Astro Nova"
-    },
-    {
-        "appid": 3964450,
-        "name": "Frosten: Two Realms"
-    },
-    {
-        "appid": 3964470,
-        "name": "信任崩塌(Trust collapse)"
-    },
-    {
-        "appid": 3964490,
-        "name": "Ruina"
     }
 ]

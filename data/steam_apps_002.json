@@ -117768,6 +117768,10 @@
         "name": "Flag Color Number - Painting and Coloring"
     },
     {
+        "appid": 1619290,
+        "name": "Andromeda Wars"
+    },
+    {
         "appid": 1619310,
         "name": "SWAT Commander"
     },
@@ -145374,10 +145378,6 @@
     {
         "appid": 1718360,
         "name": "OMSI 2 Add-on Downloadpack Vol. 11 – KI-Elektroautos"
-    },
-    {
-        "appid": 1718380,
-        "name": "Nero's Adventure: Echoes of the Deep"
     },
     {
         "appid": 1718400,
@@ -186948,10 +186948,6 @@
         "name": "My Singing Monsters - Earth Island Skin Pack"
     },
     {
-        "appid": 1896510,
-        "name": "Nova Slash: Unparalleled Power"
-    },
-    {
         "appid": 1896520,
         "name": "RPGScenery - Campground"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1952770,
         "name": "ConquestAreas"
+    },
+    {
+        "appid": 1952780,
+        "name": "Spider Slingers"
     }
 ]
