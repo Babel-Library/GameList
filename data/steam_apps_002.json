@@ -1,81 +1,5 @@
 [
     {
-        "appid": 1107640,
-        "name": "Turbo Plane"
-    },
-    {
-        "appid": 1107660,
-        "name": "Round Rooms"
-    },
-    {
-        "appid": 1107700,
-        "name": "AppGameKit Studio - MEGA Media Pack"
-    },
-    {
-        "appid": 1107720,
-        "name": "Spider Solitaire F"
-    },
-    {
-        "appid": 1107730,
-        "name": "DAHALO"
-    },
-    {
-        "appid": 1107750,
-        "name": "Faraday Protocol"
-    },
-    {
-        "appid": 1107760,
-        "name": "Jurassic World Evolution: Herbivore Dinosaur Pack"
-    },
-    {
-        "appid": 1107790,
-        "name": "The Complex"
-    },
-    {
-        "appid": 1107810,
-        "name": "Train Simulator: Ennstalbahn: Bishofshofen - Selzthal Route Add-On"
-    },
-    {
-        "appid": 1107811,
-        "name": "Train Simulator: Livonia Division: Monroe - Subdivision Route Add-On"
-    },
-    {
-        "appid": 1107812,
-        "name": "Train Simulator: Granger Heartland: Kansas City – Topeka Route Add-On"
-    },
-    {
-        "appid": 1107814,
-        "name": "Train Simulator: Valley Corridor Route Add-On"
-    },
-    {
-        "appid": 1107820,
-        "name": "Pushy and Pully in Blockland"
-    },
-    {
-        "appid": 1107840,
-        "name": "Farming Simulator 19: Platinum Expansion"
-    },
-    {
-        "appid": 1107860,
-        "name": "Dofense"
-    },
-    {
-        "appid": 1107890,
-        "name": "Interregnum - Dark Archer"
-    },
-    {
-        "appid": 1107920,
-        "name": "8bit Pigeon Hunter"
-    },
-    {
-        "appid": 1107940,
-        "name": "Rocket Boy"
-    },
-    {
-        "appid": 1107950,
-        "name": "Kiku Wallpaper Launcher"
-    },
-    {
         "appid": 1107990,
         "name": "Fantasy Grounds - Pathfinder RPG - The Tyrant's Grasp AP 5: Borne by the Sun’s Grace (PFRPG)"
     },
@@ -52150,10 +52074,6 @@
     {
         "appid": 1330820,
         "name": "Hunting Unlimited 3"
-    },
-    {
-        "appid": 1330830,
-        "name": "Cannabis Farmer Strain Master"
     },
     {
         "appid": 1330850,
@@ -107634,6 +107554,10 @@
     {
         "appid": 1573540,
         "name": "Spaceship Simulator"
+    },
+    {
+        "appid": 1573550,
+        "name": "LEGO® Skylines"
     },
     {
         "appid": 1573560,
@@ -197976,10 +197900,6 @@
         "name": "War Thunder - Air Forces High-res Texture Pack"
     },
     {
-        "appid": 1945850,
-        "name": "Dark ill 暗黑蛊国"
-    },
-    {
         "appid": 1945860,
         "name": "Adamstown"
     },
@@ -199998,5 +199918,85 @@
     {
         "appid": 1952780,
         "name": "Spider Slingers"
+    },
+    {
+        "appid": 1952800,
+        "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
+    },
+    {
+        "appid": 1952810,
+        "name": "VR Pong"
+    },
+    {
+        "appid": 1952820,
+        "name": "Open Spaces SE"
+    },
+    {
+        "appid": 1952840,
+        "name": "Old World - Heroes of the Aegean"
+    },
+    {
+        "appid": 1952850,
+        "name": "Fantasy Grounds - Pathfinder RPG - Map Pack: Road System"
+    },
+    {
+        "appid": 1952860,
+        "name": "Wika Wicked's Egg"
+    },
+    {
+        "appid": 1952890,
+        "name": "Scary Husband HD: Anime Horror Game"
+    },
+    {
+        "appid": 1952900,
+        "name": "Traumada"
+    },
+    {
+        "appid": 1952910,
+        "name": "Social Moth"
+    },
+    {
+        "appid": 1952920,
+        "name": "Strikers Club"
+    },
+    {
+        "appid": 1952930,
+        "name": "Soul Wargame"
+    },
+    {
+        "appid": 1952950,
+        "name": "Restaurant Simulator"
+    },
+    {
+        "appid": 1952960,
+        "name": "Movie Theater Simulator"
+    },
+    {
+        "appid": 1952970,
+        "name": "Reality Simulator"
+    },
+    {
+        "appid": 1952980,
+        "name": "HIDEANDHUNT"
+    },
+    {
+        "appid": 1952990,
+        "name": "BATTLE OF BILLIONAIRES"
+    },
+    {
+        "appid": 1953000,
+        "name": "Fish 'N' Chips"
+    },
+    {
+        "appid": 1953020,
+        "name": "Lab Remnants"
+    },
+    {
+        "appid": 1953040,
+        "name": "The Divine Speaker - Official Art and Guide Book"
+    },
+    {
+        "appid": 1953060,
+        "name": "Time Thief"
     }
 ]

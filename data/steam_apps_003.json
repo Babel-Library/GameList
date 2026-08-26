@@ -1,85 +1,5 @@
 [
     {
-        "appid": 1952800,
-        "name": "Fantasy Grounds - Pathfinder RPG - Map Pack - Urban Sites"
-    },
-    {
-        "appid": 1952810,
-        "name": "VR Pong"
-    },
-    {
-        "appid": 1952820,
-        "name": "Open Spaces SE"
-    },
-    {
-        "appid": 1952840,
-        "name": "Old World - Heroes of the Aegean"
-    },
-    {
-        "appid": 1952850,
-        "name": "Fantasy Grounds - Pathfinder RPG - Map Pack: Road System"
-    },
-    {
-        "appid": 1952860,
-        "name": "Wika Wicked's Egg"
-    },
-    {
-        "appid": 1952890,
-        "name": "Scary Husband HD: Anime Horror Game"
-    },
-    {
-        "appid": 1952900,
-        "name": "Traumada"
-    },
-    {
-        "appid": 1952910,
-        "name": "Social Moth"
-    },
-    {
-        "appid": 1952920,
-        "name": "Strikers Club"
-    },
-    {
-        "appid": 1952930,
-        "name": "Soul Wargame"
-    },
-    {
-        "appid": 1952950,
-        "name": "Restaurant Simulator"
-    },
-    {
-        "appid": 1952960,
-        "name": "Movie Theater Simulator"
-    },
-    {
-        "appid": 1952970,
-        "name": "Reality Simulator"
-    },
-    {
-        "appid": 1952980,
-        "name": "HIDEANDHUNT"
-    },
-    {
-        "appid": 1952990,
-        "name": "BATTLE OF BILLIONAIRES"
-    },
-    {
-        "appid": 1953000,
-        "name": "Fish 'N' Chips"
-    },
-    {
-        "appid": 1953020,
-        "name": "Lab Remnants"
-    },
-    {
-        "appid": 1953040,
-        "name": "The Divine Speaker - Official Art and Guide Book"
-    },
-    {
-        "appid": 1953060,
-        "name": "Time Thief"
-    },
-    {
         "appid": 1953070,
         "name": "SD Shin Kamen Rider Rumble"
     },
@@ -1378,6 +1298,10 @@
     {
         "appid": 1959350,
         "name": "Homebody"
+    },
+    {
+        "appid": 1959360,
+        "name": "Topsoil Town"
     },
     {
         "appid": 1959380,
@@ -8265,7 +8189,7 @@
     },
     {
         "appid": 1990240,
-        "name": "Among The Stars"
+        "name": "Void Ledger"
     },
     {
         "appid": 1990250,
@@ -11094,6 +11018,10 @@
     {
         "appid": 2002880,
         "name": "Rhapsody III: Memories of Marl Kingdom"
+    },
+    {
+        "appid": 2002890,
+        "name": "DEMON OF SPEED"
     },
     {
         "appid": 2002970,
@@ -20150,6 +20078,10 @@
     {
         "appid": 2068750,
         "name": "Through the night"
+    },
+    {
+        "appid": 2068810,
+        "name": "Solar Nations"
     },
     {
         "appid": 2068820,
@@ -58802,6 +58734,10 @@
     {
         "appid": 2241560,
         "name": "Angel's Gear"
+    },
+    {
+        "appid": 2241570,
+        "name": "Legend of Edda: Pegasus"
     },
     {
         "appid": 2241580,
@@ -103044,6 +102980,10 @@
         "name": "Silent North"
     },
     {
+        "appid": 2440760,
+        "name": "GRAVHOUNDS"
+    },
+    {
         "appid": 2440780,
         "name": "Chip & Sparky"
     },
@@ -105276,20 +105216,12 @@
         "name": "Strip President of Tendoryu / Kinetic Strip Party"
     },
     {
-        "appid": 2450690,
-        "name": "PAYDAY 3: Syntax Error Heist"
-    },
-    {
         "appid": 2450691,
         "name": "PAYDAY 3: Syntax Error Weapon Pack"
     },
     {
         "appid": 2450692,
         "name": "PAYDAY 3: Syntax Error Tailor Pack"
-    },
-    {
-        "appid": 2450693,
-        "name": "PAYDAY 3: Boys in Blue Heist"
     },
     {
         "appid": 2450694,
@@ -105300,20 +105232,12 @@
         "name": "PAYDAY 3: Boys in Blue Tailor Pack"
     },
     {
-        "appid": 2450696,
-        "name": "PAYDAY 3: Houston Breakout Heist"
-    },
-    {
         "appid": 2450697,
         "name": "PAYDAY 3: Houston Breakout Weapon Pack"
     },
     {
         "appid": 2450700,
         "name": "Drug Lord Tycoon"
-    },
-    {
-        "appid": 2450711,
-        "name": "PAYDAY 3: Year 1 Pass"
     },
     {
         "appid": 2450720,
@@ -130892,6 +130816,10 @@
         "name": "Color Splash: Birds"
     },
     {
+        "appid": 2581850,
+        "name": "HUMANKIND™ 2"
+    },
+    {
         "appid": 2581910,
         "name": "フェアリーカードバトラーズ"
     },
@@ -146080,6 +146008,10 @@
         "name": "Hydroneer: Journey to Volcalidus"
     },
     {
+        "appid": 2659410,
+        "name": "Elta: Defy All Gods"
+    },
+    {
         "appid": 2659470,
         "name": "Dune Raider"
     },
@@ -147054,6 +146986,10 @@
     {
         "appid": 2663910,
         "name": "My life as a cat"
+    },
+    {
+        "appid": 2663920,
+        "name": "BATTLE MEATING"
     },
     {
         "appid": 2663950,
@@ -150657,7 +150593,7 @@
     },
     {
         "appid": 2680440,
-        "name": "MONOWAVE"
+        "name": "모노웨이브 MONOWAVE"
     },
     {
         "appid": 2680480,
@@ -157388,10 +157324,6 @@
         "name": "Resonance: A Plague Tale Legacy"
     },
     {
-        "appid": 2713010,
-        "name": "PAYDAY 3: Chapter 1 - Syntax Error"
-    },
-    {
         "appid": 2713070,
         "name": "Few Nights More: Genesis"
     },
@@ -160086,6 +160018,10 @@
     {
         "appid": 2726560,
         "name": "Kona & SnowRabbit: Pilot"
+    },
+    {
+        "appid": 2726580,
+        "name": "PUBG: DED.NET"
     },
     {
         "appid": 2726620,
@@ -181028,6 +180964,10 @@
         "name": "Shadow Brawl"
     },
     {
+        "appid": 2833160,
+        "name": "Desert Mirage"
+    },
+    {
         "appid": 2833170,
         "name": "DopeNet"
     },
@@ -195508,6 +195448,10 @@
         "name": "IKEV"
     },
     {
+        "appid": 2905720,
+        "name": "Sapphobos"
+    },
+    {
         "appid": 2905730,
         "name": "FFFF : Fatal Five Finger Fillet"
     },
@@ -199998,5 +199942,61 @@
     {
         "appid": 2928790,
         "name": "Alpine"
+    },
+    {
+        "appid": 2928800,
+        "name": "Weapon Builder"
+    },
+    {
+        "appid": 2928820,
+        "name": "Elf World Adventure 2"
+    },
+    {
+        "appid": 2928830,
+        "name": "Blenderman"
+    },
+    {
+        "appid": 2928880,
+        "name": "Alchemy Mastery"
+    },
+    {
+        "appid": 2928900,
+        "name": "DATING OF THE FUTURE"
+    },
+    {
+        "appid": 2928930,
+        "name": "Mineclearer VR"
+    },
+    {
+        "appid": 2928940,
+        "name": "Yarn Guardians"
+    },
+    {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
     }
 ]

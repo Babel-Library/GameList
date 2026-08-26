@@ -1,61 +1,5 @@
 [
     {
-        "appid": 2928800,
-        "name": "Weapon Builder"
-    },
-    {
-        "appid": 2928820,
-        "name": "Elf World Adventure 2"
-    },
-    {
-        "appid": 2928830,
-        "name": "Blenderman"
-    },
-    {
-        "appid": 2928880,
-        "name": "Alchemy Mastery"
-    },
-    {
-        "appid": 2928900,
-        "name": "DATING OF THE FUTURE"
-    },
-    {
-        "appid": 2928930,
-        "name": "Mineclearer VR"
-    },
-    {
-        "appid": 2928940,
-        "name": "Yarn Guardians"
-    },
-    {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
         "appid": 2929060,
         "name": "Wild West Blast"
     },
@@ -25040,10 +24984,6 @@
         "name": "Hell's Descent"
     },
     {
-        "appid": 3055010,
-        "name": "PAYDAY 3: Chapter 2 - Boys in Blue"
-    },
-    {
         "appid": 3055020,
         "name": "Mushroom"
     },
@@ -36468,10 +36408,6 @@
         "name": "Hidden Pets: 101 Cats in Amsterdam"
     },
     {
-        "appid": 3110530,
-        "name": "PAYDAY 3: Chapter 3 - Houston Breakout"
-    },
-    {
         "appid": 3110540,
         "name": "Blade Trick"
     },
@@ -47424,10 +47360,6 @@
         "name": "NEKO-NIN exHeart 3 - 18+ Adult Only Content"
     },
     {
-        "appid": 3166380,
-        "name": "Lost Ark: Crystalline Aura Plus Subscription"
-    },
-    {
         "appid": 3166420,
         "name": "VolleySmash"
     },
@@ -48498,14 +48430,6 @@
     {
         "appid": 3171930,
         "name": "SHOJING ショウジング"
-    },
-    {
-        "appid": 3171970,
-        "name": "PAYDAY 3: Chapter 4 - Fear & Greed"
-    },
-    {
-        "appid": 3171980,
-        "name": "PAYDAY 3: Fear & Greed Heist"
     },
     {
         "appid": 3171990,
@@ -54180,22 +54104,6 @@
         "name": "Ashley: The One-Spell Mage"
     },
     {
-        "appid": 3200700,
-        "name": "Lost Ark: T4 Founder's Platinum Pack"
-    },
-    {
-        "appid": 3200710,
-        "name": "Lost Ark: T4 Founder's Gold Pack"
-    },
-    {
-        "appid": 3200720,
-        "name": "Lost Ark: T4 Founder's Silver Pack"
-    },
-    {
-        "appid": 3200730,
-        "name": "Lost Ark: T4 Founder's Bronze Pack"
-    },
-    {
         "appid": 3200770,
         "name": "Dark Age Asunder"
     },
@@ -56521,7 +56429,7 @@
     },
     {
         "appid": 3212940,
-        "name": "Space Miner"
+        "name": "Meteor Raiders"
     },
     {
         "appid": 3212980,
@@ -59937,7 +59845,7 @@
     },
     {
         "appid": 3230790,
-        "name": "Cosmi: Forbidden Forests"
+        "name": "Cosmi: Forbidden Forest & Beyond"
     },
     {
         "appid": 3230820,
@@ -68352,6 +68260,10 @@
         "name": "RogueMath"
     },
     {
+        "appid": 3278930,
+        "name": "Worms: Galactic Tactics"
+    },
+    {
         "appid": 3278950,
         "name": "易传说"
     },
@@ -73204,6 +73116,10 @@
         "name": "Delusional"
     },
     {
+        "appid": 3304130,
+        "name": "MR.M"
+    },
+    {
         "appid": 3304190,
         "name": "Death Climbing"
     },
@@ -76749,7 +76665,7 @@
     },
     {
         "appid": 3321460,
-        "name": "Crimson Desert"
+        "name": "Crimson Desert Enhanced"
     },
     {
         "appid": 3321480,
@@ -91160,10 +91076,6 @@
         "name": "PAATH-Z"
     },
     {
-        "appid": 3392020,
-        "name": "Aether"
-    },
-    {
         "appid": 3392040,
         "name": "OMEGA PHENEX COMMENCED PROJECT SIX"
     },
@@ -95944,6 +95856,10 @@
         "name": "Sixteen Undead"
     },
     {
+        "appid": 3415640,
+        "name": "Acornia: Mirror Worlds"
+    },
+    {
         "appid": 3415650,
         "name": "Lust Goddess — Mascot Wendy"
     },
@@ -95982,6 +95898,10 @@
     {
         "appid": 3415990,
         "name": "The Sims™ 4 Sweet Allure Kit"
+    },
+    {
+        "appid": 3416000,
+        "name": "幻世英雄传说"
     },
     {
         "appid": 3416040,
@@ -97614,6 +97534,10 @@
     {
         "appid": 3424620,
         "name": "That Time I Got Trapped in an Office Dungeon"
+    },
+    {
+        "appid": 3424650,
+        "name": "Stack Together: To the Moon – Stack, Build & Escape"
     },
     {
         "appid": 3424670,
@@ -99921,7 +99845,7 @@
     },
     {
         "appid": 3436400,
-        "name": "The Legend of the Sex Therapist: Healing Repressed Women"
+        "name": "The Sex Therapist: Fulfilling Women's Inner Desires"
     },
     {
         "appid": 3436420,
@@ -121881,7 +121805,7 @@
     },
     {
         "appid": 3557360,
-        "name": "Second Stone: The Legend of the Hidden World"
+        "name": "Second Stone"
     },
     {
         "appid": 3557370,
@@ -134652,6 +134576,10 @@
         "name": "Parsec Express"
     },
     {
+        "appid": 3621390,
+        "name": "Tom Clancy’s Rainbow Six Tactics"
+    },
+    {
         "appid": 3621400,
         "name": "Impossible Moto Sim"
     },
@@ -135886,6 +135814,10 @@
     {
         "appid": 3627540,
         "name": "Verses: Hyper-Kinetic Aerial Joust"
+    },
+    {
+        "appid": 3627560,
+        "name": "Bounty Hunter Horrors"
     },
     {
         "appid": 3627570,
@@ -137478,10 +137410,6 @@
     {
         "appid": 3635750,
         "name": "REPOSE - Artbook"
-    },
-    {
-        "appid": 3635790,
-        "name": "Terminal Insanity: CodeJacker"
     },
     {
         "appid": 3635800,
@@ -145948,10 +145876,6 @@
         "name": "Ghosts of Tabor - Black Ops Weapon Pack"
     },
     {
-        "appid": 3679630,
-        "name": "PAYDAY 3: Party Powder Heist"
-    },
-    {
         "appid": 3679640,
         "name": "汉武大帝传-备用定制DLC1"
     },
@@ -151505,7 +151429,7 @@
     },
     {
         "appid": 3709850,
-        "name": "The Archaic: UNAUTHORIZED"
+        "name": "The Archaic"
     },
     {
         "appid": 3709870,
@@ -152022,6 +151946,10 @@
     {
         "appid": 3712580,
         "name": "Climb out of Hell"
+    },
+    {
+        "appid": 3712610,
+        "name": "Apollyon"
     },
     {
         "appid": 3712650,
@@ -156152,10 +156080,6 @@
         "name": "Akeno's Veil"
     },
     {
-        "appid": 3735360,
-        "name": "Lost Ark: Abyssal Support Pack"
-    },
-    {
         "appid": 3735380,
         "name": "Poly Tower"
     },
@@ -159773,7 +159697,7 @@
     },
     {
         "appid": 3756370,
-        "name": "Räfven"
+        "name": "Räfwen - The Fox Spirit"
     },
     {
         "appid": 3756380,
@@ -167668,6 +167592,10 @@
         "name": "Cassette Beasts 2002"
     },
     {
+        "appid": 3802150,
+        "name": "Final Footage"
+    },
+    {
         "appid": 3802160,
         "name": "Meow Moments: Music Festival"
     },
@@ -168150,6 +168078,10 @@
     {
         "appid": 3804780,
         "name": "Mythical Mayhem - Pandemonium Portals"
+    },
+    {
+        "appid": 3804800,
+        "name": "DUST: Origins"
     },
     {
         "appid": 3804840,
@@ -169114,6 +169046,10 @@
     {
         "appid": 3809820,
         "name": "Expendabots"
+    },
+    {
+        "appid": 3809850,
+        "name": "Heroes of Might and Magic III Remake"
     },
     {
         "appid": 3809860,
@@ -172138,6 +172074,10 @@
     {
         "appid": 3825180,
         "name": "Fantasy Grounds - Labyrinth Worldbook"
+    },
+    {
+        "appid": 3825190,
+        "name": "River Escape"
     },
     {
         "appid": 3825240,
@@ -178712,10 +178652,6 @@
         "name": "CursorMMO"
     },
     {
-        "appid": 3858460,
-        "name": "PAYDAY 3: Delivery Charge Heist"
-    },
-    {
         "appid": 3858470,
         "name": "Dress-Up With Helene: Deluxe! - Hearty Dress-Up Pack"
     },
@@ -184410,6 +184346,10 @@
     {
         "appid": 3885630,
         "name": "钓鱼牌"
+    },
+    {
+        "appid": 3885720,
+        "name": "Murals"
     },
     {
         "appid": 3885740,
@@ -190418,6 +190358,10 @@
     {
         "appid": 3916680,
         "name": "Oddsparks: An Automation Adventure - Coaster Rush"
+    },
+    {
+        "appid": 3916690,
+        "name": "Get In Da Boat"
     },
     {
         "appid": 3916700,
@@ -199998,5 +199942,61 @@
     {
         "appid": 3964290,
         "name": "Ollie's Castle"
+    },
+    {
+        "appid": 3964330,
+        "name": "WALTO"
+    },
+    {
+        "appid": 3964340,
+        "name": "MMORPG NPC Simulator"
+    },
+    {
+        "appid": 3964350,
+        "name": "Shell of the coward"
+    },
+    {
+        "appid": 3964380,
+        "name": "小小魔药 Little Potion"
+    },
+    {
+        "appid": 3964390,
+        "name": "ILLEGAL PLANT BATTLES"
+    },
+    {
+        "appid": 3964400,
+        "name": "Arsonist '24 Director's Cut"
+    },
+    {
+        "appid": 3964420,
+        "name": "Hell Dice Gambit"
+    },
+    {
+        "appid": 3964430,
+        "name": "Astro Nova"
+    },
+    {
+        "appid": 3964450,
+        "name": "Frosten: Two Realms"
+    },
+    {
+        "appid": 3964470,
+        "name": "信任崩塌(Trust collapse)"
+    },
+    {
+        "appid": 3964490,
+        "name": "Ruina"
+    },
+    {
+        "appid": 3964500,
+        "name": "Lost In The Backrooms: Day 100"
+    },
+    {
+        "appid": 3964510,
+        "name": "The Grey Dream- 4k Wallpaper Set"
+    },
+    {
+        "appid": 3964520,
+        "name": "Punch TV"
     }
 ]

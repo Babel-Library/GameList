@@ -18981,7 +18981,7 @@
     },
     {
         "appid": 292030,
-        "name": "The Witcher 3: Wild Hunt"
+        "name": "The Witcher 3: Wild Hunt - Complete Edition"
     },
     {
         "appid": 292050,
@@ -32336,10 +32336,6 @@
         "name": "Albino Lullaby: Episode 1"
     },
     {
-        "appid": 355880,
-        "name": "The Witcher 3: Wild Hunt - Expansion Pass"
-    },
-    {
         "appid": 355890,
         "name": "Hotline Miami 2: Wrong Number - Soundtrack"
     },
@@ -35448,22 +35444,6 @@
         "name": "Gremlins, Inc."
     },
     {
-        "appid": 370000,
-        "name": "The Witcher 3: Wild Hunt - Temerian Armor Set"
-    },
-    {
-        "appid": 370001,
-        "name": "The Witcher 3: Wild Hunt - Beard and Hairstyle Set"
-    },
-    {
-        "appid": 370002,
-        "name": "The Witcher 3: Wild Hunt - Alternative Look for Yennefer"
-    },
-    {
-        "appid": 370003,
-        "name": "The Witcher 3: Wild Hunt - New Quest 'Contract: Missing Miners'"
-    },
-    {
         "appid": 370020,
         "name": "Templar Battleforce"
     },
@@ -36376,14 +36356,6 @@
         "name": "Crusader Kings II: Orchestral House Lords"
     },
     {
-        "appid": 373950,
-        "name": "The Witcher 3: Wild Hunt - Nilfgaardian Armor Set"
-    },
-    {
-        "appid": 373951,
-        "name": "The Witcher 3: Wild Hunt - Elite Crossbow Set"
-    },
-    {
         "appid": 373970,
         "name": "Letter Quest: Grimm's Journey Remastered"
     },
@@ -36870,14 +36842,6 @@
     {
         "appid": 376373,
         "name": "Awesomenauts - The Scrolls of XiPang Announcer"
-    },
-    {
-        "appid": 376390,
-        "name": "The Witcher 3: Wild Hunt - New Quest 'Fool's Gold'"
-    },
-    {
-        "appid": 376391,
-        "name": "The Witcher 3: Wild Hunt - 'Ballad Heroes' Neutral Gwent Card Set"
     },
     {
         "appid": 376410,
@@ -37558,46 +37522,6 @@
     {
         "appid": 378630,
         "name": "Shadows on the Vatican - Act II: Wrath"
-    },
-    {
-        "appid": 378640,
-        "name": "The Witcher 3: Wild Hunt - New Quest: 'Scavenger Hunt: Wolf School Gear'"
-    },
-    {
-        "appid": 378641,
-        "name": "The Witcher 3: Wild Hunt - Alternative Look for Triss"
-    },
-    {
-        "appid": 378642,
-        "name": "The Witcher 3: Wild Hunt - New Quest 'Contract: Skellige's Most Wanted'"
-    },
-    {
-        "appid": 378643,
-        "name": "The Witcher 3: Wild Hunt - Skellige Armor Set"
-    },
-    {
-        "appid": 378644,
-        "name": "The Witcher 3: Wild Hunt - Alternative Look for Ciri"
-    },
-    {
-        "appid": 378645,
-        "name": "The Witcher 3: Wild Hunt - New Quest 'Where the Cat and Wolf Play...'"
-    },
-    {
-        "appid": 378646,
-        "name": "The Witcher 3: Wild Hunt - New Finisher Animations"
-    },
-    {
-        "appid": 378647,
-        "name": "The Witcher 3: Wild Hunt - NEW GAME +"
-    },
-    {
-        "appid": 378648,
-        "name": "The Witcher 3: Wild Hunt - Blood and Wine"
-    },
-    {
-        "appid": 378649,
-        "name": "The Witcher 3: Wild Hunt - Hearts of Stone"
     },
     {
         "appid": 378660,
@@ -199998,5 +199922,81 @@
     {
         "appid": 1107620,
         "name": "Mystery Island - Hidden Object Games"
+    },
+    {
+        "appid": 1107640,
+        "name": "Turbo Plane"
+    },
+    {
+        "appid": 1107660,
+        "name": "Round Rooms"
+    },
+    {
+        "appid": 1107700,
+        "name": "AppGameKit Studio - MEGA Media Pack"
+    },
+    {
+        "appid": 1107720,
+        "name": "Spider Solitaire F"
+    },
+    {
+        "appid": 1107730,
+        "name": "DAHALO"
+    },
+    {
+        "appid": 1107750,
+        "name": "Faraday Protocol"
+    },
+    {
+        "appid": 1107760,
+        "name": "Jurassic World Evolution: Herbivore Dinosaur Pack"
+    },
+    {
+        "appid": 1107790,
+        "name": "The Complex"
+    },
+    {
+        "appid": 1107810,
+        "name": "Train Simulator: Ennstalbahn: Bishofshofen - Selzthal Route Add-On"
+    },
+    {
+        "appid": 1107811,
+        "name": "Train Simulator: Livonia Division: Monroe - Subdivision Route Add-On"
+    },
+    {
+        "appid": 1107812,
+        "name": "Train Simulator: Granger Heartland: Kansas City – Topeka Route Add-On"
+    },
+    {
+        "appid": 1107814,
+        "name": "Train Simulator: Valley Corridor Route Add-On"
+    },
+    {
+        "appid": 1107820,
+        "name": "Pushy and Pully in Blockland"
+    },
+    {
+        "appid": 1107840,
+        "name": "Farming Simulator 19: Platinum Expansion"
+    },
+    {
+        "appid": 1107860,
+        "name": "Dofense"
+    },
+    {
+        "appid": 1107890,
+        "name": "Interregnum - Dark Archer"
+    },
+    {
+        "appid": 1107920,
+        "name": "8bit Pigeon Hunter"
+    },
+    {
+        "appid": 1107940,
+        "name": "Rocket Boy"
+    },
+    {
+        "appid": 1107950,
+        "name": "Kiku Wallpaper Launcher"
     }
 ]
