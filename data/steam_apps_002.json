@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1107920,
+        "name": "8bit Pigeon Hunter"
+    },
+    {
+        "appid": 1107940,
+        "name": "Rocket Boy"
+    },
+    {
+        "appid": 1107950,
+        "name": "Kiku Wallpaper Launcher"
+    },
+    {
         "appid": 1107990,
         "name": "Fantasy Grounds - Pathfinder RPG - The Tyrant's Grasp AP 5: Borne by the Sun’s Grace (PFRPG)"
     },
@@ -3114,6 +3126,10 @@
     {
         "appid": 1120220,
         "name": "Soyuz Constructors"
+    },
+    {
+        "appid": 1120230,
+        "name": "Chosen by Odin"
     },
     {
         "appid": 1120240,
@@ -31466,10 +31482,6 @@
     {
         "appid": 1234560,
         "name": "Rogue Snow: Everwinter"
-    },
-    {
-        "appid": 1234570,
-        "name": "Star Fetchers : Episode 1"
     },
     {
         "appid": 1234580,
@@ -95660,6 +95672,10 @@
         "name": "TechBeat Heart"
     },
     {
+        "appid": 1520340,
+        "name": "Astario"
+    },
+    {
         "appid": 1520360,
         "name": "Divine Dust"
     },
@@ -114026,6 +114042,10 @@
     {
         "appid": 1600100,
         "name": "Flexibility and Girls"
+    },
+    {
+        "appid": 1600110,
+        "name": "Void Skirmisher"
     },
     {
         "appid": 1600130,
@@ -190056,6 +190076,10 @@
         "name": "Grit and Valor - 1949"
     },
     {
+        "appid": 1911870,
+        "name": "Vaewolf"
+    },
+    {
         "appid": 1911900,
         "name": "OverNight"
     },
@@ -199974,29 +199998,5 @@
     {
         "appid": 1952970,
         "name": "Reality Simulator"
-    },
-    {
-        "appid": 1952980,
-        "name": "HIDEANDHUNT"
-    },
-    {
-        "appid": 1952990,
-        "name": "BATTLE OF BILLIONAIRES"
-    },
-    {
-        "appid": 1953000,
-        "name": "Fish 'N' Chips"
-    },
-    {
-        "appid": 1953020,
-        "name": "Lab Remnants"
-    },
-    {
-        "appid": 1953040,
-        "name": "The Divine Speaker - Official Art and Guide Book"
-    },
-    {
-        "appid": 1953060,
-        "name": "Time Thief"
     }
 ]

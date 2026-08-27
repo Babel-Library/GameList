@@ -1,5 +1,49 @@
 [
     {
+        "appid": 2928880,
+        "name": "Alchemy Mastery"
+    },
+    {
+        "appid": 2928900,
+        "name": "DATING OF THE FUTURE"
+    },
+    {
+        "appid": 2928930,
+        "name": "Mineclearer VR"
+    },
+    {
+        "appid": 2928940,
+        "name": "Yarn Guardians"
+    },
+    {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
         "appid": 2929060,
         "name": "Wild West Blast"
     },
@@ -6308,6 +6352,10 @@
         "name": "The Dragonspire"
     },
     {
+        "appid": 2959460,
+        "name": "Matelotes"
+    },
+    {
         "appid": 2959480,
         "name": "Beautiful Lands"
     },
@@ -8862,6 +8910,10 @@
     {
         "appid": 2971390,
         "name": "Roll Five"
+    },
+    {
+        "appid": 2971410,
+        "name": "Prospera"
     },
     {
         "appid": 2971430,
@@ -15997,7 +16049,7 @@
     },
     {
         "appid": 3009140,
-        "name": "Salt Player for Windows"
+        "name": "Salt Player"
     },
     {
         "appid": 3009190,
@@ -35404,10 +35456,6 @@
         "name": "Desert Racer"
     },
     {
-        "appid": 3105960,
-        "name": "Astrobuilder"
-    },
-    {
         "appid": 3105980,
         "name": "Gnomes vs Knights"
     },
@@ -42072,6 +42120,10 @@
         "name": "GunZ: The Duel"
     },
     {
+        "appid": 3139450,
+        "name": "根据地"
+    },
+    {
         "appid": 3139470,
         "name": "Guy Who Sells Jars"
     },
@@ -46721,7 +46773,7 @@
     },
     {
         "appid": 3163480,
-        "name": "Gearo Shard"
+        "name": "Kosso Arena"
     },
     {
         "appid": 3163500,
@@ -65904,6 +65956,10 @@
         "name": "NTR Sexy girl with Cold-hearded"
     },
     {
+        "appid": 3265560,
+        "name": "TAMA JIGOKU"
+    },
+    {
         "appid": 3265580,
         "name": "Couch Party!"
     },
@@ -66405,7 +66461,7 @@
     },
     {
         "appid": 3268800,
-        "name": "Activation Bundle - Tom Clancy’s The Division 2"
+        "name": "Tom Clancy's The Division 2 – Activation Bundle"
     },
     {
         "appid": 3268870,
@@ -88976,6 +89032,10 @@
         "name": "Sexuality in Ancient Rome"
     },
     {
+        "appid": 3381340,
+        "name": "TransGenDeer"
+    },
+    {
         "appid": 3381370,
         "name": "Breachwalk Survivor"
     },
@@ -90506,10 +90566,6 @@
     {
         "appid": 3389120,
         "name": "Jailbreak Assault"
-    },
-    {
-        "appid": 3389160,
-        "name": "Dungeon Element Fantasy"
     },
     {
         "appid": 3389200,
@@ -92837,15 +92893,15 @@
     },
     {
         "appid": 3400430,
-        "name": "Car For Sale Simulator 2023 - PickUp & SUV"
+        "name": "Car For Sale Simulator - PickUp & SUV"
     },
     {
         "appid": 3400450,
-        "name": "Car For Sale Simulator 2023 - Japanese Pack"
+        "name": "Car For Sale Simulator - Japanese Pack"
     },
     {
         "appid": 3400460,
-        "name": "Car For Sale Simulator 2023 - Classic Pack"
+        "name": "Car For Sale Simulator - Classic Pack"
     },
     {
         "appid": 3400470,
@@ -99838,6 +99894,10 @@
     {
         "appid": 3436370,
         "name": "Destroy! Mosaic!"
+    },
+    {
+        "appid": 3436380,
+        "name": "Arbiter of Spirits"
     },
     {
         "appid": 3436390,
@@ -110538,6 +110598,10 @@
     {
         "appid": 3493060,
         "name": "Street Cleaner 3 - Fresh-FX Magazine"
+    },
+    {
+        "appid": 3493100,
+        "name": "Tetrabonk"
     },
     {
         "appid": 3493110,
@@ -121988,6 +122052,10 @@
         "name": "Cygnus 13"
     },
     {
+        "appid": 3558280,
+        "name": "Vermilion Sea"
+    },
+    {
         "appid": 3558300,
         "name": "Fear of Hot Water Ghost"
     },
@@ -123820,6 +123888,10 @@
         "name": "Konpira Fune Fune"
     },
     {
+        "appid": 3567090,
+        "name": "Golemcrafter"
+    },
+    {
         "appid": 3567110,
         "name": "Keep It Lit - GM Module"
     },
@@ -124637,7 +124709,7 @@
     },
     {
         "appid": 3572080,
-        "name": "Acornia Of The Stars"
+        "name": "Acorn Quest 3D"
     },
     {
         "appid": 3572090,
@@ -124653,11 +124725,11 @@
     },
     {
         "appid": 3572140,
-        "name": "Battle for Brooklyn DLC - Tom Clancy's The Division 2"
+        "name": "Tom Clancy's The Division 2 – Battle for Brooklyn DLC"
     },
     {
         "appid": 3572160,
-        "name": "Tom Clancy's The Division 2  Battle for Brooklyn Deluxe DLC"
+        "name": "Tom Clancy's The Division 2 – Battle for Brooklyn Deluxe DLC"
     },
     {
         "appid": 3572200,
@@ -127312,6 +127384,10 @@
         "name": "CyberMaid"
     },
     {
+        "appid": 3584730,
+        "name": "Alexus 2040"
+    },
+    {
         "appid": 3584860,
         "name": "Branded For Sacrifice"
     },
@@ -127353,7 +127429,7 @@
     },
     {
         "appid": 3585040,
-        "name": "The 4th Horizon"
+        "name": "Frontier Force Vanguard"
     },
     {
         "appid": 3585060,
@@ -131820,6 +131896,10 @@
         "name": "A Bottled Up Island"
     },
     {
+        "appid": 3607400,
+        "name": "Rise of the Spellbaker"
+    },
+    {
         "appid": 3607430,
         "name": "ZEPHON - The Twisted & The Hollow"
     },
@@ -132330,6 +132410,10 @@
     {
         "appid": 3610000,
         "name": "Last Stretch"
+    },
+    {
+        "appid": 3610030,
+        "name": "DIGGY DIGGY"
     },
     {
         "appid": 3610120,
@@ -137998,6 +138082,10 @@
     {
         "appid": 3638760,
         "name": "Taiko no Tatsujin: Rhythm Festival - Timeless Hits Pack"
+    },
+    {
+        "appid": 3638790,
+        "name": "9 Yin Sutra: Wuxia"
     },
     {
         "appid": 3638800,
@@ -149980,6 +150068,10 @@
         "name": "Evolve - First Age"
     },
     {
+        "appid": 3701350,
+        "name": "STAR WARS Zero Company™ Deluxe Edition Upgrade"
+    },
+    {
         "appid": 3701370,
         "name": "おじいちゃん!ごはんつくって!"
     },
@@ -160690,6 +160782,10 @@
     {
         "appid": 3761990,
         "name": "Milf Barman"
+    },
+    {
+        "appid": 3762010,
+        "name": "Fernbus Simulator - England"
     },
     {
         "appid": 3762030,
@@ -176716,6 +176812,10 @@
         "name": "The Mind Snare"
     },
     {
+        "appid": 3849100,
+        "name": "Sven Rescues a Princess"
+    },
+    {
         "appid": 3849190,
         "name": "Make Watermelon"
     },
@@ -184204,6 +184304,10 @@
         "name": "Number Dungeon"
     },
     {
+        "appid": 3884950,
+        "name": "TechnoMANCER"
+    },
+    {
         "appid": 3884960,
         "name": "Ayana"
     },
@@ -186574,14 +186678,6 @@
     {
         "appid": 3896900,
         "name": "Village Tale - Supporter Pack"
-    },
-    {
-        "appid": 3896910,
-        "name": "3on3 FreeStyle – P6 Selection Rookie Pack"
-    },
-    {
-        "appid": 3896920,
-        "name": "3on3 FreeStyle – P5 Selection Pro Pack"
     },
     {
         "appid": 3896930,
@@ -190278,6 +190374,10 @@
     {
         "appid": 3916420,
         "name": "Don't Read It"
+    },
+    {
+        "appid": 3916440,
+        "name": "771"
     },
     {
         "appid": 3916460,
@@ -194990,6 +195090,10 @@
     {
         "appid": 3940100,
         "name": "贤者：灵辉之焰 The Sage's Spirit: Shining Flame"
+    },
+    {
+        "appid": 3940110,
+        "name": "Furia Rising"
     },
     {
         "appid": 3940120,
@@ -199894,109 +199998,5 @@
     {
         "appid": 3964020,
         "name": "S.E.S.A."
-    },
-    {
-        "appid": 3964030,
-        "name": "Soul Maze"
-    },
-    {
-        "appid": 3964050,
-        "name": "Midnight's Curse"
-    },
-    {
-        "appid": 3964120,
-        "name": "10 Feet Under"
-    },
-    {
-        "appid": 3964140,
-        "name": "SUSHI Claw Machine"
-    },
-    {
-        "appid": 3964160,
-        "name": "Space way: Echo of the Galaxy"
-    },
-    {
-        "appid": 3964200,
-        "name": "Alley Cats Idle"
-    },
-    {
-        "appid": 3964220,
-        "name": "Worshippers of Cthulhu - Event Pack"
-    },
-    {
-        "appid": 3964230,
-        "name": "Dictapoint — Underground Pharma Simulator"
-    },
-    {
-        "appid": 3964240,
-        "name": "Veil Walker"
-    },
-    {
-        "appid": 3964260,
-        "name": "Rolling Gun"
-    },
-    {
-        "appid": 3964280,
-        "name": "Zone 404"
-    },
-    {
-        "appid": 3964290,
-        "name": "Ollie's Castle"
-    },
-    {
-        "appid": 3964330,
-        "name": "WALTO"
-    },
-    {
-        "appid": 3964340,
-        "name": "MMORPG NPC Simulator"
-    },
-    {
-        "appid": 3964350,
-        "name": "Shell of the coward"
-    },
-    {
-        "appid": 3964380,
-        "name": "小小魔药 Little Potion"
-    },
-    {
-        "appid": 3964390,
-        "name": "ILLEGAL PLANT BATTLES"
-    },
-    {
-        "appid": 3964400,
-        "name": "Arsonist '24 Director's Cut"
-    },
-    {
-        "appid": 3964420,
-        "name": "Hell Dice Gambit"
-    },
-    {
-        "appid": 3964430,
-        "name": "Astro Nova"
-    },
-    {
-        "appid": 3964450,
-        "name": "Frosten: Two Realms"
-    },
-    {
-        "appid": 3964470,
-        "name": "信任崩塌(Trust collapse)"
-    },
-    {
-        "appid": 3964490,
-        "name": "Ruina"
-    },
-    {
-        "appid": 3964500,
-        "name": "Lost In The Backrooms: Day 100"
-    },
-    {
-        "appid": 3964510,
-        "name": "The Grey Dream- 4k Wallpaper Set"
-    },
-    {
-        "appid": 3964520,
-        "name": "Punch TV"
     }
 ]

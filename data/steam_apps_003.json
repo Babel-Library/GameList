@@ -1,5 +1,29 @@
 [
     {
+        "appid": 1952980,
+        "name": "HIDEANDHUNT"
+    },
+    {
+        "appid": 1952990,
+        "name": "BATTLE OF BILLIONAIRES"
+    },
+    {
+        "appid": 1953000,
+        "name": "Fish 'N' Chips"
+    },
+    {
+        "appid": 1953020,
+        "name": "Lab Remnants"
+    },
+    {
+        "appid": 1953040,
+        "name": "The Divine Speaker - Official Art and Guide Book"
+    },
+    {
+        "appid": 1953060,
+        "name": "Time Thief"
+    },
+    {
         "appid": 1953070,
         "name": "SD Shin Kamen Rider Rumble"
     },
@@ -24241,7 +24265,7 @@
     },
     {
         "appid": 2087540,
-        "name": "Experiment 82626"
+        "name": "Escape from Playtime"
     },
     {
         "appid": 2087590,
@@ -47564,6 +47588,10 @@
         "name": "Cardfight!! Vanguard DD: Additional Card Pass"
     },
     {
+        "appid": 2191810,
+        "name": "Hexdrive"
+    },
+    {
         "appid": 2191820,
         "name": "无尽战线 Infinity War"
     },
@@ -54505,7 +54533,7 @@
     },
     {
         "appid": 2222570,
-        "name": "The Division 2 - Warlords of New York - Expansion"
+        "name": "Tom Clancy's The Division 2 – Warlords of New York – Expansion"
     },
     {
         "appid": 2222640,
@@ -102625,7 +102653,7 @@
     },
     {
         "appid": 2439510,
-        "name": "Doomsday: Odysseus Returns"
+        "name": "Doomsday: The Seven Deadly Sins"
     },
     {
         "appid": 2439530,
@@ -117502,6 +117530,10 @@
     {
         "appid": 2513140,
         "name": "江华号"
+    },
+    {
+        "appid": 2513150,
+        "name": "Archi Vista"
     },
     {
         "appid": 2513170,
@@ -150441,7 +150473,7 @@
     },
     {
         "appid": 2679810,
-        "name": "Car For Sale Simulator 2023 - Super Sports DLC"
+        "name": "Car For Sale Simulator - Super Sports DLC"
     },
     {
         "appid": 2679830,
@@ -150593,7 +150625,7 @@
     },
     {
         "appid": 2680440,
-        "name": "모노웨이브 MONOWAVE"
+        "name": "MONOWAVE"
     },
     {
         "appid": 2680480,
@@ -179492,6 +179524,10 @@
         "name": "Beholder: Conductor"
     },
     {
+        "appid": 2825550,
+        "name": "Police Simulator"
+    },
+    {
         "appid": 2825560,
         "name": "Blazing Trail"
     },
@@ -181890,6 +181926,10 @@
     {
         "appid": 2837680,
         "name": "VOXEL Hunters"
+    },
+    {
+        "appid": 2837690,
+        "name": "Dungeons & Dragons: Long Rest Tavern"
     },
     {
         "appid": 2837700,
@@ -188496,6 +188536,10 @@
         "name": "DragonMirroreD with Hyoga & Magma"
     },
     {
+        "appid": 2870790,
+        "name": "Dumpster Gang"
+    },
+    {
         "appid": 2870810,
         "name": "Syuukun in Mirror World"
     },
@@ -193725,7 +193769,7 @@
     },
     {
         "appid": 2896390,
-        "name": "Cats vs. Aliens"
+        "name": "Cats vs Aliens"
     },
     {
         "appid": 2896400,
@@ -199954,49 +199998,5 @@
     {
         "appid": 2928830,
         "name": "Blenderman"
-    },
-    {
-        "appid": 2928880,
-        "name": "Alchemy Mastery"
-    },
-    {
-        "appid": 2928900,
-        "name": "DATING OF THE FUTURE"
-    },
-    {
-        "appid": 2928930,
-        "name": "Mineclearer VR"
-    },
-    {
-        "appid": 2928940,
-        "name": "Yarn Guardians"
-    },
-    {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
     }
 ]

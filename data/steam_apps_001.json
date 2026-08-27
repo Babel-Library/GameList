@@ -35868,6 +35868,10 @@
         "name": "SBX: Invasion"
     },
     {
+        "appid": 371640,
+        "name": "Mercyrail: Havenbound"
+    },
+    {
         "appid": 371650,
         "name": "COLINA: Legacy"
     },
@@ -102838,6 +102842,10 @@
     {
         "appid": 683380,
         "name": "World War II Online Subscription Placeholder DLC (Not Public)"
+    },
+    {
+        "appid": 683390,
+        "name": "8 More Lives"
     },
     {
         "appid": 683420,
@@ -194380,6 +194388,10 @@
         "name": "Sex with Stalin"
     },
     {
+        "appid": 1085770,
+        "name": "GODSPEED"
+    },
+    {
         "appid": 1085790,
         "name": "Forever Someday"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 1107890,
         "name": "Interregnum - Dark Archer"
-    },
-    {
-        "appid": 1107920,
-        "name": "8bit Pigeon Hunter"
-    },
-    {
-        "appid": 1107940,
-        "name": "Rocket Boy"
-    },
-    {
-        "appid": 1107950,
-        "name": "Kiku Wallpaper Launcher"
     }
 ]
