@@ -28664,10 +28664,6 @@
         "name": "Predestination"
     },
     {
-        "appid": 340220,
-        "name": "Shadows of War"
-    },
-    {
         "appid": 340250,
         "name": "Crystal Towers 2 XL"
     },
@@ -66974,6 +66970,10 @@
     {
         "appid": 521170,
         "name": "Holiday Skin Bundle (or \"Buy Us a Coke\") - Trimmer Tycoon"
+    },
+    {
+        "appid": 521180,
+        "name": "Slip Angle"
     },
     {
         "appid": 521200,
@@ -178132,6 +178132,10 @@
         "name": "King of Texas"
     },
     {
+        "appid": 1017980,
+        "name": "SERPULA"
+    },
+    {
         "appid": 1017990,
         "name": "NEGATIVE_SPACE"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1107860,
         "name": "Dofense"
-    },
-    {
-        "appid": 1107890,
-        "name": "Interregnum - Dark Archer"
     }
 ]

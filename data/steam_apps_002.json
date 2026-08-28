@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1107890,
+        "name": "Interregnum - Dark Archer"
+    },
+    {
         "appid": 1107920,
         "name": "8bit Pigeon Hunter"
     },
@@ -1422,6 +1426,10 @@
     {
         "appid": 1113410,
         "name": "ARK: Genesis Season Pass"
+    },
+    {
+        "appid": 1113460,
+        "name": "Bad Beats"
     },
     {
         "appid": 1113490,
@@ -166360,6 +166368,10 @@
         "name": "Pumpkin Eater"
     },
     {
+        "appid": 1805940,
+        "name": "Shrooms"
+    },
+    {
         "appid": 1805960,
         "name": "Prepare For Warp: Unlimited Edition: Beyond Insanji"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 1952930,
         "name": "Soul Wargame"
-    },
-    {
-        "appid": 1952950,
-        "name": "Restaurant Simulator"
-    },
-    {
-        "appid": 1952960,
-        "name": "Movie Theater Simulator"
-    },
-    {
-        "appid": 1952970,
-        "name": "Reality Simulator"
     }
 ]

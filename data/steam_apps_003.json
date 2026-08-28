@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1952950,
+        "name": "Restaurant Simulator"
+    },
+    {
+        "appid": 1952960,
+        "name": "Movie Theater Simulator"
+    },
+    {
+        "appid": 1952970,
+        "name": "Reality Simulator"
+    },
+    {
         "appid": 1952980,
         "name": "HIDEANDHUNT"
     },
@@ -38148,6 +38160,10 @@
         "name": "The Beastmaster Princess"
     },
     {
+        "appid": 2150030,
+        "name": "Dark Tidings Online"
+    },
+    {
         "appid": 2150050,
         "name": "Planet Zoo: Twilight Pack"
     },
@@ -61630,6 +61646,10 @@
     {
         "appid": 2253260,
         "name": "Enchantment Siege"
+    },
+    {
+        "appid": 2253280,
+        "name": "Into The Garden"
     },
     {
         "appid": 2253290,
@@ -115472,6 +115492,10 @@
         "name": "3D Lover -  Vintage Fashion"
     },
     {
+        "appid": 2502590,
+        "name": "Elevate Studio"
+    },
+    {
         "appid": 2502600,
         "name": "Furry BDSM"
     },
@@ -164780,6 +164804,10 @@
         "name": "Fantasy Grounds - L'Arsene's Ledger of Treasures and Trinkets"
     },
     {
+        "appid": 2750230,
+        "name": "Mega Merge"
+    },
+    {
         "appid": 2750240,
         "name": "AstroForge: Space Pirates"
     },
@@ -173178,6 +173206,10 @@
     {
         "appid": 2792960,
         "name": "METAL BEANS"
+    },
+    {
+        "appid": 2793020,
+        "name": "No Way Back"
     },
     {
         "appid": 2793040,
@@ -190820,6 +190852,10 @@
         "name": "Prospect Renegade"
     },
     {
+        "appid": 2882230,
+        "name": "Soft Ruin"
+    },
+    {
         "appid": 2882260,
         "name": "ハイドロジェンゲーム"
     },
@@ -199962,41 +199998,5 @@
     {
         "appid": 2928670,
         "name": "Call of the Grave"
-    },
-    {
-        "appid": 2928690,
-        "name": "Wandness: WandCraft Survivor"
-    },
-    {
-        "appid": 2928700,
-        "name": "三日危情，独家的记忆"
-    },
-    {
-        "appid": 2928740,
-        "name": "Not Alone"
-    },
-    {
-        "appid": 2928750,
-        "name": "Shout Seven"
-    },
-    {
-        "appid": 2928770,
-        "name": "Carnival"
-    },
-    {
-        "appid": 2928790,
-        "name": "Alpine"
-    },
-    {
-        "appid": 2928800,
-        "name": "Weapon Builder"
-    },
-    {
-        "appid": 2928820,
-        "name": "Elf World Adventure 2"
-    },
-    {
-        "appid": 2928830,
-        "name": "Blenderman"
     }
 ]

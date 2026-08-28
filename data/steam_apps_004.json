@@ -1,5 +1,41 @@
 [
     {
+        "appid": 2928690,
+        "name": "Wandness: WandCraft Survivor"
+    },
+    {
+        "appid": 2928700,
+        "name": "三日危情，独家的记忆"
+    },
+    {
+        "appid": 2928740,
+        "name": "Not Alone"
+    },
+    {
+        "appid": 2928750,
+        "name": "Shout Seven"
+    },
+    {
+        "appid": 2928770,
+        "name": "Carnival"
+    },
+    {
+        "appid": 2928790,
+        "name": "Alpine"
+    },
+    {
+        "appid": 2928800,
+        "name": "Weapon Builder"
+    },
+    {
+        "appid": 2928820,
+        "name": "Elf World Adventure 2"
+    },
+    {
+        "appid": 2928830,
+        "name": "Blenderman"
+    },
+    {
         "appid": 2928880,
         "name": "Alchemy Mastery"
     },
@@ -11858,6 +11894,10 @@
     {
         "appid": 2987590,
         "name": "卡库远古封印 - 首发特典"
+    },
+    {
+        "appid": 2987600,
+        "name": "What Goes Up"
     },
     {
         "appid": 2987610,
@@ -24884,6 +24924,10 @@
         "name": "Cheese - The Cheese Collector"
     },
     {
+        "appid": 3054160,
+        "name": "ガラスドロップ"
+    },
+    {
         "appid": 3054180,
         "name": "Normal Days"
     },
@@ -30870,6 +30914,10 @@
     {
         "appid": 3084180,
         "name": "Brothel Tycoon"
+    },
+    {
+        "appid": 3084190,
+        "name": "Golfadillo"
     },
     {
         "appid": 3084200,
@@ -46380,6 +46428,10 @@
         "name": "MK1: Khaos Reigns Bundle"
     },
     {
+        "appid": 3161250,
+        "name": "Bleeding Nightmare | 血に染まる悪夢"
+    },
+    {
         "appid": 3161260,
         "name": "Rembrunir"
     },
@@ -52989,7 +53041,7 @@
     },
     {
         "appid": 3195180,
-        "name": "旧日余晖Remnant Afterglow"
+        "name": "Remnant Afterglow Tower Defense"
     },
     {
         "appid": 3195250,
@@ -57042,6 +57094,10 @@
     {
         "appid": 3215900,
         "name": "Dark Sky - Art Supporter Pack"
+    },
+    {
+        "appid": 3215910,
+        "name": "Party Tag"
     },
     {
         "appid": 3215920,
@@ -76770,6 +76826,10 @@
     {
         "appid": 3321720,
         "name": "Bestiary of the Mountains and Seas"
+    },
+    {
+        "appid": 3321740,
+        "name": "Echo Seekers"
     },
     {
         "appid": 3321760,
@@ -112761,7 +112821,7 @@
     },
     {
         "appid": 3505260,
-        "name": "鬼の守り人"
+        "name": "ONI-WARDEN"
     },
     {
         "appid": 3505270,
@@ -126790,6 +126850,10 @@
     {
         "appid": 3581960,
         "name": "Resina Salvation"
+    },
+    {
+        "appid": 3581970,
+        "name": "Swarm Slasher"
     },
     {
         "appid": 3581980,
@@ -141396,6 +141460,10 @@
         "name": "Vesperis"
     },
     {
+        "appid": 3655690,
+        "name": "ELDEN RING Tarnished Pack"
+    },
+    {
         "appid": 3655710,
         "name": "ClickShot"
     },
@@ -145962,10 +146030,6 @@
     {
         "appid": 3679620,
         "name": "Ghosts of Tabor - Black Ops Weapon Pack"
-    },
-    {
-        "appid": 3679640,
-        "name": "汉武大帝传-备用定制DLC1"
     },
     {
         "appid": 3679650,
@@ -151970,6 +152034,10 @@
     {
         "appid": 3712120,
         "name": "Alien: Rogue Incursion Evolved Edition Deluxe Upgrade"
+    },
+    {
+        "appid": 3712150,
+        "name": "TCG Card Collection: Tidy Up"
     },
     {
         "appid": 3712170,
@@ -163632,6 +163700,10 @@
         "name": "RUMOUR"
     },
     {
+        "appid": 3779110,
+        "name": "Argot's Laboratory"
+    },
+    {
         "appid": 3779120,
         "name": "Sub-Species"
     },
@@ -174588,6 +174660,10 @@
         "name": "Operation Night Strikers BOOK"
     },
     {
+        "appid": 3837640,
+        "name": "Resonance: A Plague Tale Legacy - Heritage Pack"
+    },
+    {
         "appid": 3837650,
         "name": "Nightmare"
     },
@@ -177046,6 +177122,10 @@
     {
         "appid": 3850480,
         "name": "Straif"
+    },
+    {
+        "appid": 3850490,
+        "name": "Mega Hasan 2: Wallet Detective"
     },
     {
         "appid": 3850500,
@@ -180061,7 +180141,7 @@
     },
     {
         "appid": 3864890,
-        "name": "星火燎原（ SPARK IGNITES）"
+        "name": "星火燎原（ SPARK IGNITES ）"
     },
     {
         "appid": 3864900,
@@ -195072,6 +195152,10 @@
         "name": "The Last Dive"
     },
     {
+        "appid": 3940020,
+        "name": "Overseas Wars"
+    },
+    {
         "appid": 3940030,
         "name": "City Builder Pro"
     },
@@ -199914,89 +199998,5 @@
     {
         "appid": 3963630,
         "name": "Rosie"
-    },
-    {
-        "appid": 3963640,
-        "name": "DreamHero"
-    },
-    {
-        "appid": 3963650,
-        "name": "Ethan's Flag Quiz Game"
-    },
-    {
-        "appid": 3963660,
-        "name": "每日捆绑的平凡"
-    },
-    {
-        "appid": 3963670,
-        "name": "Inquisitor Shepherd"
-    },
-    {
-        "appid": 3963720,
-        "name": "SandBlocks"
-    },
-    {
-        "appid": 3963730,
-        "name": "Overland Journey"
-    },
-    {
-        "appid": 3963740,
-        "name": "Who is Jack"
-    },
-    {
-        "appid": 3963750,
-        "name": "Invoker Tactics"
-    },
-    {
-        "appid": 3963760,
-        "name": "The Immolation Apartment"
-    },
-    {
-        "appid": 3963810,
-        "name": "Coin Hoarder"
-    },
-    {
-        "appid": 3963830,
-        "name": "The Drowned Deal"
-    },
-    {
-        "appid": 3963840,
-        "name": "Echoes of Fear"
-    },
-    {
-        "appid": 3963860,
-        "name": "Tax It Easy"
-    },
-    {
-        "appid": 3963880,
-        "name": "SURROUNDED"
-    },
-    {
-        "appid": 3963900,
-        "name": "Lay Off Show"
-    },
-    {
-        "appid": 3963950,
-        "name": "你的叽叽"
-    },
-    {
-        "appid": 3963960,
-        "name": "Back to the Farm"
-    },
-    {
-        "appid": 3963980,
-        "name": "Why Elephant Sit On Chair"
-    },
-    {
-        "appid": 3964000,
-        "name": "Rick Henderson: Eternal Arena"
-    },
-    {
-        "appid": 3964010,
-        "name": "Mr HappyFunFace"
-    },
-    {
-        "appid": 3964020,
-        "name": "S.E.S.A."
     }
 ]
