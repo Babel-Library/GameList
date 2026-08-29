@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1107890,
-        "name": "Interregnum - Dark Archer"
-    },
-    {
-        "appid": 1107920,
-        "name": "8bit Pigeon Hunter"
-    },
-    {
-        "appid": 1107940,
-        "name": "Rocket Boy"
-    },
-    {
-        "appid": 1107950,
-        "name": "Kiku Wallpaper Launcher"
-    },
-    {
         "appid": 1107990,
         "name": "Fantasy Grounds - Pathfinder RPG - The Tyrant's Grasp AP 5: Borne by the Sun’s Grace (PFRPG)"
     },
@@ -199998,5 +199982,21 @@
     {
         "appid": 1952930,
         "name": "Soul Wargame"
+    },
+    {
+        "appid": 1952950,
+        "name": "Restaurant Simulator"
+    },
+    {
+        "appid": 1952960,
+        "name": "Movie Theater Simulator"
+    },
+    {
+        "appid": 1952970,
+        "name": "Reality Simulator"
+    },
+    {
+        "appid": 1952980,
+        "name": "HIDEANDHUNT"
     }
 ]

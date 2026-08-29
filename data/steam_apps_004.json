@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2928670,
+        "name": "Call of the Grave"
+    },
+    {
         "appid": 2928690,
         "name": "Wandness: WandCraft Survivor"
     },
@@ -35504,6 +35508,10 @@
         "name": "Desert Racer"
     },
     {
+        "appid": 3105970,
+        "name": "ArmedAbyss"
+    },
+    {
         "appid": 3105980,
         "name": "Gnomes vs Knights"
     },
@@ -64493,7 +64501,7 @@
     },
     {
         "appid": 3256410,
-        "name": "Craftaway"
+        "name": "Craftaway: Expedition"
     },
     {
         "appid": 3256420,
@@ -81658,10 +81666,6 @@
     {
         "appid": 3345500,
         "name": "饥饿的英灵殿"
-    },
-    {
-        "appid": 3345530,
-        "name": "哪吒传说"
     },
     {
         "appid": 3345540,
@@ -106138,6 +106142,10 @@
     {
         "appid": 3467710,
         "name": "Wall World 2"
+    },
+    {
+        "appid": 3467740,
+        "name": "Legion Loop Incremental"
     },
     {
         "appid": 3467750,
@@ -180392,6 +180400,10 @@
         "name": "Hentai BDSM - Train DLC 🔞🔥"
     },
     {
+        "appid": 3865960,
+        "name": "Cortesia Rising"
+    },
+    {
         "appid": 3865970,
         "name": "Mad Birds"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 3963580,
         "name": "Desouled"
-    },
-    {
-        "appid": 3963610,
-        "name": "Yandere Goth BDSM 4"
-    },
-    {
-        "appid": 3963620,
-        "name": "妹居物语"
-    },
-    {
-        "appid": 3963630,
-        "name": "Rosie"
     }
 ]

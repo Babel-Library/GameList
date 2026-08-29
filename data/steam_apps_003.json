@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1952950,
-        "name": "Restaurant Simulator"
-    },
-    {
-        "appid": 1952960,
-        "name": "Movie Theater Simulator"
-    },
-    {
-        "appid": 1952970,
-        "name": "Reality Simulator"
-    },
-    {
-        "appid": 1952980,
-        "name": "HIDEANDHUNT"
-    },
-    {
         "appid": 1952990,
         "name": "BATTLE OF BILLIONAIRES"
     },
@@ -4086,6 +4070,10 @@
     {
         "appid": 1969960,
         "name": "Super Hero Flash Fist"
+    },
+    {
+        "appid": 1970000,
+        "name": "Line Clear"
     },
     {
         "appid": 1970010,
@@ -31186,6 +31174,10 @@
     {
         "appid": 2116860,
         "name": "Crimerunner"
+    },
+    {
+        "appid": 2116880,
+        "name": "Masterstone"
     },
     {
         "appid": 2116920,
@@ -64596,10 +64588,6 @@
         "name": "Angel Legion-DLC Cute Regular(Red)"
     },
     {
-        "appid": 2266960,
-        "name": "One Year of Special Lessons with My Little Sister Luri"
-    },
-    {
         "appid": 2266980,
         "name": "Cyber Strider"
     },
@@ -93334,6 +93322,10 @@
     {
         "appid": 2397320,
         "name": "Bus Simulator 27"
+    },
+    {
+        "appid": 2397360,
+        "name": "Arctic Unrest"
     },
     {
         "appid": 2397370,
@@ -133800,6 +133792,10 @@
         "name": "Realm of Ink"
     },
     {
+        "appid": 2597090,
+        "name": "引力井"
+    },
+    {
         "appid": 2597110,
         "name": "Kaizo Block"
     },
@@ -164456,6 +164452,10 @@
         "name": "DarkStorm"
     },
     {
+        "appid": 2748480,
+        "name": "Deep Roots"
+    },
+    {
         "appid": 2748490,
         "name": "Redlight"
     },
@@ -171390,6 +171390,10 @@
     {
         "appid": 2783400,
         "name": "Demon Lord Reincarnation Gaiden"
+    },
+    {
+        "appid": 2783440,
+        "name": "4D Builder"
     },
     {
         "appid": 2783460,
@@ -199994,9 +199998,5 @@
     {
         "appid": 2928640,
         "name": "Countryball: World 1930"
-    },
-    {
-        "appid": 2928670,
-        "name": "Call of the Grave"
     }
 ]

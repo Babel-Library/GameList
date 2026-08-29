@@ -60284,22 +60284,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492964,
-        "name": "Rocksmith® 2014 – The Clash - “I Fought the Law”"
-    },
-    {
-        "appid": 492965,
-        "name": "Rocksmith® 2014 – Thin Lizzy - “Emerald”"
-    },
-    {
-        "appid": 492966,
-        "name": "Rocksmith® 2014 – George Baker Selection - “Little Green Bag”"
-    },
-    {
-        "appid": 492967,
-        "name": "Rocksmith® 2014 – 70s Mix Song Pack"
-    },
-    {
         "appid": 492968,
         "name": "Rocksmith® 2014 – Staind - “It’s Been Awhile”"
     },
@@ -199998,5 +199982,21 @@
     {
         "appid": 1107860,
         "name": "Dofense"
+    },
+    {
+        "appid": 1107890,
+        "name": "Interregnum - Dark Archer"
+    },
+    {
+        "appid": 1107920,
+        "name": "8bit Pigeon Hunter"
+    },
+    {
+        "appid": 1107940,
+        "name": "Rocket Boy"
+    },
+    {
+        "appid": 1107950,
+        "name": "Kiku Wallpaper Launcher"
     }
 ]
