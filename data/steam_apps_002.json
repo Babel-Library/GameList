@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1107950,
+        "name": "Kiku Wallpaper Launcher"
+    },
+    {
         "appid": 1107990,
         "name": "Fantasy Grounds - Pathfinder RPG - The Tyrant's Grasp AP 5: Borne by the Sun’s Grace (PFRPG)"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1952970,
         "name": "Reality Simulator"
-    },
-    {
-        "appid": 1952980,
-        "name": "HIDEANDHUNT"
     }
 ]

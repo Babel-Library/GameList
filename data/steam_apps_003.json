@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1952980,
+        "name": "HIDEANDHUNT"
+    },
+    {
         "appid": 1952990,
         "name": "BATTLE OF BILLIONAIRES"
     },
@@ -74606,6 +74610,10 @@
     {
         "appid": 2315620,
         "name": "Root Connections"
+    },
+    {
+        "appid": 2315630,
+        "name": "Formica"
     },
     {
         "appid": 2315680,
@@ -178060,6 +178068,10 @@
         "name": "POEM EX MACHINA"
     },
     {
+        "appid": 2818110,
+        "name": "侠影放置(XiaPal Idle)"
+    },
+    {
         "appid": 2818120,
         "name": "Solar Kingdoms: Human Survival"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 2928610,
         "name": "There's no Socks"
-    },
-    {
-        "appid": 2928620,
-        "name": "0 2 8"
-    },
-    {
-        "appid": 2928630,
-        "name": "DACHstudio Puzzle Box - Illumarie's fantastic characters"
-    },
-    {
-        "appid": 2928640,
-        "name": "Countryball: World 1930"
     }
 ]

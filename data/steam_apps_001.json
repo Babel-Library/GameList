@@ -48496,6 +48496,10 @@
         "name": "Diorama No.3 : The Marchland"
     },
     {
+        "appid": 431380,
+        "name": "The Great Orator"
+    },
+    {
         "appid": 431390,
         "name": "Diorama No.1 : Blocked In"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1107940,
         "name": "Rocket Boy"
-    },
-    {
-        "appid": 1107950,
-        "name": "Kiku Wallpaper Launcher"
     }
 ]
