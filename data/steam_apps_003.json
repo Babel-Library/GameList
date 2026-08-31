@@ -13552,6 +13552,10 @@
         "name": "Grot Slasher"
     },
     {
+        "appid": 2015220,
+        "name": "ONYX2D"
+    },
+    {
         "appid": 2015240,
         "name": "Dwarven Realms"
     },
@@ -77612,6 +77616,10 @@
         "name": "Paw Paw Destiny"
     },
     {
+        "appid": 2328390,
+        "name": "WILLOW RIDGE"
+    },
+    {
         "appid": 2328410,
         "name": "Vinterget"
     },
@@ -101654,6 +101662,10 @@
     {
         "appid": 2434870,
         "name": "Splatterpus"
+    },
+    {
+        "appid": 2434900,
+        "name": "Massive Collapse"
     },
     {
         "appid": 2434910,
@@ -199986,17 +199998,5 @@
     {
         "appid": 2928580,
         "name": "Felampire"
-    },
-    {
-        "appid": 2928590,
-        "name": "Gaia"
-    },
-    {
-        "appid": 2928600,
-        "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2"
-    },
-    {
-        "appid": 2928610,
-        "name": "There's no Socks"
     }
 ]
