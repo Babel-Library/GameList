@@ -49697,7 +49697,7 @@
     },
     {
         "appid": 436160,
-        "name": "The Panic Room. House of secrets"
+        "name": "Panic Room: House of secrets"
     },
     {
         "appid": 436180,
@@ -72249,7 +72249,7 @@
     },
     {
         "appid": 545030,
-        "name": "NSFW ~ Not a Simulator For Working"
+        "name": "NSFW ~ Not a Simulator For Working: Highly Distracted"
     },
     {
         "appid": 545040,
@@ -181556,10 +181556,6 @@
         "name": "Bat Hotel"
     },
     {
-        "appid": 1031140,
-        "name": "Warhammer The Horus Heresy: Legions"
-    },
-    {
         "appid": 1031160,
         "name": "Poly Defense"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1107940,
         "name": "Rocket Boy"
+    },
+    {
+        "appid": 1107950,
+        "name": "Kiku Wallpaper Launcher"
     }
 ]

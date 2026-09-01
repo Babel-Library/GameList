@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1952970,
+        "name": "Reality Simulator"
+    },
+    {
         "appid": 1952980,
         "name": "HIDEANDHUNT"
     },
@@ -13522,6 +13526,10 @@
     {
         "appid": 2015040,
         "name": "Ignited Steel: Prologue"
+    },
+    {
+        "appid": 2015050,
+        "name": "Tattie Bogle"
     },
     {
         "appid": 2015080,
@@ -66196,6 +66204,10 @@
         "name": "Gangsta Style"
     },
     {
+        "appid": 2275470,
+        "name": "Intraversal : Lifeless"
+    },
+    {
         "appid": 2275480,
         "name": "Fantasy Grounds - Starfinder RPG - Adventure Path #46: The Perfect Storm (Drift Crashers 1 of 3)"
     },
@@ -81638,6 +81650,10 @@
     {
         "appid": 2346600,
         "name": "Kizuna AI - Touch the Beat! DLC Costume 1: hello, world 2020"
+    },
+    {
+        "appid": 2346640,
+        "name": "Endless Galactic: Stray Fleet"
     },
     {
         "appid": 2346650,
@@ -106616,6 +106632,10 @@
         "name": "Agent Team Simulator - Your Agent in the Game"
     },
     {
+        "appid": 2457490,
+        "name": "Heave-Hoard"
+    },
+    {
         "appid": 2457500,
         "name": "Ophelia's Chapter"
     },
@@ -115656,6 +115676,10 @@
         "name": "The tower of the spells"
     },
     {
+        "appid": 2503480,
+        "name": "Norroth® Online"
+    },
+    {
         "appid": 2503490,
         "name": "廃集落探索"
     },
@@ -117610,6 +117634,10 @@
     {
         "appid": 2513310,
         "name": "Bunny Revenge"
+    },
+    {
+        "appid": 2513340,
+        "name": "Project Lightbringer"
     },
     {
         "appid": 2513360,
@@ -174997,7 +175025,7 @@
     },
     {
         "appid": 2802180,
-        "name": "幻域行"
+        "name": "YILAN"
     },
     {
         "appid": 2802210,
@@ -180166,6 +180194,10 @@
     {
         "appid": 2828320,
         "name": "Winter Night"
+    },
+    {
+        "appid": 2828370,
+        "name": "Survival Code: Rebirth"
     },
     {
         "appid": 2828410,
@@ -199966,37 +199998,5 @@
     {
         "appid": 2928480,
         "name": "BossCrafter"
-    },
-    {
-        "appid": 2928490,
-        "name": "Melon Man"
-    },
-    {
-        "appid": 2928500,
-        "name": "Endless Casual Drive"
-    },
-    {
-        "appid": 2928520,
-        "name": "Recycling Center Simulator"
-    },
-    {
-        "appid": 2928530,
-        "name": "RPG Developer Bakin Layout Data Sci-Fi"
-    },
-    {
-        "appid": 2928550,
-        "name": "RPG Developer Bakin Layout Data Classy"
-    },
-    {
-        "appid": 2928560,
-        "name": "RPG Developer Bakin Layout Data Comic"
-    },
-    {
-        "appid": 2928570,
-        "name": "Néro & Sci ∫ Integral Edition"
-    },
-    {
-        "appid": 2928580,
-        "name": "Felampire"
     }
 ]

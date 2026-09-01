@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1107950,
-        "name": "Kiku Wallpaper Launcher"
-    },
-    {
         "appid": 1107990,
         "name": "Fantasy Grounds - Pathfinder RPG - The Tyrant's Grasp AP 5: Borne by the Sun’s Grace (PFRPG)"
     },
@@ -92636,6 +92632,10 @@
         "name": "泡沫冬景：和平默示录"
     },
     {
+        "appid": 1506360,
+        "name": "Tactful Tactics"
+    },
+    {
         "appid": 1506370,
         "name": "Ambient Channels: Premium Features Unlock"
     },
@@ -153973,7 +153973,7 @@
     },
     {
         "appid": 1754520,
-        "name": "吾王的荣耀 Honor of Knight King"
+        "name": "骑士王的荣耀 Honor of Knight King"
     },
     {
         "appid": 1754550,
@@ -183560,6 +183560,10 @@
         "name": "World of Warships — Starter Pack: Dreadnought"
     },
     {
+        "appid": 1880831,
+        "name": "Hogwarts Legacy: Astronomer's Hat"
+    },
+    {
         "appid": 1880832,
         "name": "Hogwarts Legacy: Dark Arts Pack"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1952960,
         "name": "Movie Theater Simulator"
-    },
-    {
-        "appid": 1952970,
-        "name": "Reality Simulator"
     }
 ]

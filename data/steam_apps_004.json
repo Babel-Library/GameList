@@ -1,5 +1,37 @@
 [
     {
+        "appid": 2928490,
+        "name": "Melon Man"
+    },
+    {
+        "appid": 2928500,
+        "name": "Endless Casual Drive"
+    },
+    {
+        "appid": 2928520,
+        "name": "Recycling Center Simulator"
+    },
+    {
+        "appid": 2928530,
+        "name": "RPG Developer Bakin Layout Data Sci-Fi"
+    },
+    {
+        "appid": 2928550,
+        "name": "RPG Developer Bakin Layout Data Classy"
+    },
+    {
+        "appid": 2928560,
+        "name": "RPG Developer Bakin Layout Data Comic"
+    },
+    {
+        "appid": 2928570,
+        "name": "Néro & Sci ∫ Integral Edition"
+    },
+    {
+        "appid": 2928580,
+        "name": "Felampire"
+    },
+    {
         "appid": 2928590,
         "name": "Gaia"
     },
@@ -39820,10 +39852,6 @@
         "name": "Empire of the Ants - Digital Deluxe Upgrade"
     },
     {
-        "appid": 3126650,
-        "name": "Freezing WHAT IF..."
-    },
-    {
         "appid": 3126660,
         "name": "Lips Breaker-绣口吐珠"
     },
@@ -49596,6 +49624,10 @@
         "name": "Ceiling Run"
     },
     {
+        "appid": 3177490,
+        "name": "Bay 23"
+    },
+    {
         "appid": 3177510,
         "name": "Cardstronaut"
     },
@@ -51014,6 +51046,10 @@
     {
         "appid": 3185460,
         "name": "Fap&Click"
+    },
+    {
+        "appid": 3185470,
+        "name": "Forgiveness RPG: The First Chapter"
     },
     {
         "appid": 3185480,
@@ -66040,6 +66076,10 @@
         "name": "Alchemist Historical Simulator"
     },
     {
+        "appid": 3265420,
+        "name": "Nine Lives Hospital"
+    },
+    {
         "appid": 3265480,
         "name": "Spooky Workers"
     },
@@ -68678,14 +68718,6 @@
     {
         "appid": 3280490,
         "name": "TekRobot"
-    },
-    {
-        "appid": 3280500,
-        "name": "Freezing WHAT IF - Rising Dawn(DLC Pack Vol.1)"
-    },
-    {
-        "appid": 3280510,
-        "name": "Freezing WHAT IF - Revenant Awakening(DLC Pack Vol.2)"
     },
     {
         "appid": 3280550,
@@ -82920,6 +82952,10 @@
         "name": "Founders Legacy"
     },
     {
+        "appid": 3351240,
+        "name": "DOOM: The Dark Ages Digital Artbook and Soundtrack"
+    },
+    {
         "appid": 3351260,
         "name": "H.A.I.N"
     },
@@ -83774,6 +83810,10 @@
     {
         "appid": 3355400,
         "name": "Crayon Crusaders VR"
+    },
+    {
+        "appid": 3355410,
+        "name": "DADCORE"
     },
     {
         "appid": 3355420,
@@ -85586,6 +85626,10 @@
     {
         "appid": 3363910,
         "name": "You Have Been Deleted"
+    },
+    {
+        "appid": 3363940,
+        "name": "DOOM: The Dark Ages - Premium Content"
     },
     {
         "appid": 3363970,
@@ -88428,6 +88472,10 @@
         "name": "Tailless"
     },
     {
+        "appid": 3377630,
+        "name": "Undead Chaos"
+    },
+    {
         "appid": 3377640,
         "name": "Oasis Of Lust"
     },
@@ -90918,6 +90966,10 @@
     {
         "appid": 3390420,
         "name": "Wholesaler Simulator"
+    },
+    {
+        "appid": 3390430,
+        "name": "SKRYZE"
     },
     {
         "appid": 3390470,
@@ -98850,10 +98902,6 @@
     {
         "appid": 3430630,
         "name": "Finger Party"
-    },
-    {
-        "appid": 3430720,
-        "name": "Third Shift"
     },
     {
         "appid": 3430730,
@@ -109756,6 +109804,10 @@
         "name": "Idle Circles"
     },
     {
+        "appid": 3487450,
+        "name": "Conformity Cubed"
+    },
+    {
         "appid": 3487460,
         "name": "A Few Days With : Darlene"
     },
@@ -114372,6 +114424,14 @@
         "name": "Night Kin"
     },
     {
+        "appid": 3513210,
+        "name": "TOS - White Tiger Package for NA Servers"
+    },
+    {
+        "appid": 3513240,
+        "name": "TOS - White Tiger Package for [Asia] W Servers"
+    },
+    {
         "appid": 3513250,
         "name": "Hentai Furry"
     },
@@ -115010,6 +115070,10 @@
     {
         "appid": 3517180,
         "name": "Muse"
+    },
+    {
+        "appid": 3517190,
+        "name": "MVX: London"
     },
     {
         "appid": 3517270,
@@ -165784,6 +165848,10 @@
         "name": "龍神的新娘外傳：御鈴綺譚"
     },
     {
+        "appid": 3790430,
+        "name": "aSHRIMPFRIEDthisRICE?"
+    },
+    {
         "appid": 3790450,
         "name": "The Secret Of Greenwood Isle"
     },
@@ -168876,10 +168944,6 @@
         "name": "Coin Pusher Reloaded"
     },
     {
-        "appid": 3807610,
-        "name": "Raveren: The Legend Of Etheria"
-    },
-    {
         "appid": 3807630,
         "name": "Chess Run"
     },
@@ -169834,6 +169898,10 @@
     {
         "appid": 3812370,
         "name": "Accordion Solitaire - Developer Art Deck"
+    },
+    {
+        "appid": 3812420,
+        "name": "卡伦城的罪人"
     },
     {
         "appid": 3812470,
@@ -188376,6 +188444,10 @@
         "name": "Trainz Plus DLC - UP C44-9W EX-CNW Repaint 9770-9834"
     },
     {
+        "appid": 3904660,
+        "name": "Core Reset"
+    },
+    {
         "appid": 3904710,
         "name": "Rescue Team: Lights. Camera. Outer Space"
     },
@@ -194064,6 +194136,10 @@
         "name": "Vibe Coding Master"
     },
     {
+        "appid": 3933930,
+        "name": "Text Battle Royale"
+    },
+    {
         "appid": 3933940,
         "name": "Coin Pusher Live - Supporter Pack"
     },
@@ -195186,6 +195262,10 @@
     {
         "appid": 3939660,
         "name": "Mewts"
+    },
+    {
+        "appid": 3939690,
+        "name": "迷宮神社"
     },
     {
         "appid": 3939700,
@@ -199516,6 +199596,10 @@
         "name": "Vixes"
     },
     {
+        "appid": 3960580,
+        "name": "Arcane Architect"
+    },
+    {
         "appid": 3960600,
         "name": "Warrior Cats: Clans of the Forest"
     },
@@ -199914,89 +199998,5 @@
     {
         "appid": 3962610,
         "name": "The Secrets We Grow"
-    },
-    {
-        "appid": 3962620,
-        "name": "Unseen’s Parasite"
-    },
-    {
-        "appid": 3962650,
-        "name": "Pixel Pegz"
-    },
-    {
-        "appid": 3962660,
-        "name": "Sin of Lust"
-    },
-    {
-        "appid": 3962740,
-        "name": "Pediluvium"
-    },
-    {
-        "appid": 3962750,
-        "name": "Towers of Scale"
-    },
-    {
-        "appid": 3962760,
-        "name": "Quess"
-    },
-    {
-        "appid": 3962770,
-        "name": "Bob's Island"
-    },
-    {
-        "appid": 3962780,
-        "name": "Rite or Ruin"
-    },
-    {
-        "appid": 3962800,
-        "name": "Eclipsed Realms"
-    },
-    {
-        "appid": 3962830,
-        "name": "Game of Skill"
-    },
-    {
-        "appid": 3962840,
-        "name": "TACOS - The Adventurous Couple's Original Story Season 1"
-    },
-    {
-        "appid": 3962850,
-        "name": "Fairy Circle"
-    },
-    {
-        "appid": 3962910,
-        "name": "Goblin Clicker"
-    },
-    {
-        "appid": 3962920,
-        "name": "Tetrenga: Take A Chance!"
-    },
-    {
-        "appid": 3962960,
-        "name": "WindSail"
-    },
-    {
-        "appid": 3962970,
-        "name": "Hentai Evangeline"
-    },
-    {
-        "appid": 3963000,
-        "name": "Mourning Brew"
-    },
-    {
-        "appid": 3963010,
-        "name": "Wraith of the Cards"
-    },
-    {
-        "appid": 3963030,
-        "name": "Pickle Pete"
-    },
-    {
-        "appid": 3963050,
-        "name": "Eyes Of The ElderWood"
-    },
-    {
-        "appid": 3963060,
-        "name": "Celestial Lumina"
     }
 ]
