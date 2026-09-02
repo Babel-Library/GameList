@@ -56528,10 +56528,6 @@
         "name": "Demolition"
     },
     {
-        "appid": 467660,
-        "name": "Paranormal Activity: The Lost Soul"
-    },
-    {
         "appid": 467680,
         "name": "Negligee: Love Stories"
     },
@@ -105270,10 +105266,6 @@
     {
         "appid": 693960,
         "name": "Just Ride：Apparent Horizon 狂飙：极限视界"
-    },
-    {
-        "appid": 693990,
-        "name": "STYLY：VR PLATFORM FOR ULTRA EXPERIENCE"
     },
     {
         "appid": 694060,
@@ -156564,10 +156556,6 @@
         "name": "Euro Truck Simulator 2 - Beyond the Baltic Sea"
     },
     {
-        "appid": 925600,
-        "name": "Afterlifes"
-    },
-    {
         "appid": 925620,
         "name": "Nobody should buy this because it gives nothing -edition"
     },
@@ -199998,5 +199986,17 @@
     {
         "appid": 1107950,
         "name": "Kiku Wallpaper Launcher"
+    },
+    {
+        "appid": 1107990,
+        "name": "Fantasy Grounds - Pathfinder RPG - The Tyrant's Grasp AP 5: Borne by the Sun’s Grace (PFRPG)"
+    },
+    {
+        "appid": 1108000,
+        "name": "Children of Silentown"
+    },
+    {
+        "appid": 1108020,
+        "name": "Bepuzzled Jigsaw Puzzle: Sweets"
     }
 ]

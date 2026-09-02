@@ -1,69 +1,5 @@
 [
     {
-        "appid": 2928490,
-        "name": "Melon Man"
-    },
-    {
-        "appid": 2928500,
-        "name": "Endless Casual Drive"
-    },
-    {
-        "appid": 2928520,
-        "name": "Recycling Center Simulator"
-    },
-    {
-        "appid": 2928530,
-        "name": "RPG Developer Bakin Layout Data Sci-Fi"
-    },
-    {
-        "appid": 2928550,
-        "name": "RPG Developer Bakin Layout Data Classy"
-    },
-    {
-        "appid": 2928560,
-        "name": "RPG Developer Bakin Layout Data Comic"
-    },
-    {
-        "appid": 2928570,
-        "name": "Néro & Sci ∫ Integral Edition"
-    },
-    {
-        "appid": 2928580,
-        "name": "Felampire"
-    },
-    {
-        "appid": 2928590,
-        "name": "Gaia"
-    },
-    {
-        "appid": 2928600,
-        "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2"
-    },
-    {
-        "appid": 2928610,
-        "name": "There's no Socks"
-    },
-    {
-        "appid": 2928620,
-        "name": "0 2 8"
-    },
-    {
-        "appid": 2928630,
-        "name": "DACHstudio Puzzle Box - Illumarie's fantastic characters"
-    },
-    {
-        "appid": 2928640,
-        "name": "Countryball: World 1930"
-    },
-    {
-        "appid": 2928670,
-        "name": "Call of the Grave"
-    },
-    {
-        "appid": 2928690,
-        "name": "Wandness: WandCraft Survivor"
-    },
-    {
         "appid": 2928700,
         "name": "三日危情，独家的记忆"
     },
@@ -19085,7 +19021,7 @@
     },
     {
         "appid": 3024130,
-        "name": "Pao Pao"
+        "name": "PAO PAO"
     },
     {
         "appid": 3024170,
@@ -56920,6 +56856,10 @@
         "name": "Disconnect"
     },
     {
+        "appid": 3214580,
+        "name": "Creature Sim"
+    },
+    {
         "appid": 3214610,
         "name": "Cinderia"
     },
@@ -74118,6 +74058,10 @@
     {
         "appid": 3307610,
         "name": "Ultimate Golf Battle"
+    },
+    {
+        "appid": 3307620,
+        "name": "No Gods, Only Ducks"
     },
     {
         "appid": 3307630,
@@ -92892,6 +92836,10 @@
         "name": "The Curse of Mount Madre"
     },
     {
+        "appid": 3399660,
+        "name": "Ant Mill Inc"
+    },
+    {
         "appid": 3399670,
         "name": "Writer. Chapter 1"
     },
@@ -102737,7 +102685,7 @@
     },
     {
         "appid": 3449210,
-        "name": "みんなでシンプル間違い探しコレクション"
+        "name": "みんなで間違い探しスタジアム"
     },
     {
         "appid": 3449240,
@@ -107558,10 +107506,6 @@
     {
         "appid": 3474720,
         "name": "Slut Metamorphosis"
-    },
-    {
-        "appid": 3474740,
-        "name": "The Elder Scrolls Online: Deluxe Edition"
     },
     {
         "appid": 3474790,
@@ -120996,6 +120940,10 @@
         "name": "Fate is not a line"
     },
     {
+        "appid": 3552040,
+        "name": "Yuki-Tundra"
+    },
+    {
         "appid": 3552050,
         "name": "Burger Witch"
     },
@@ -134004,6 +133952,10 @@
         "name": "IdleCore"
     },
     {
+        "appid": 3617450,
+        "name": "Star Trucker - Cultivation Content Pack"
+    },
+    {
         "appid": 3617460,
         "name": "Will Jump"
     },
@@ -140220,10 +140172,6 @@
         "name": "ManaWeaver"
     },
     {
-        "appid": 3649350,
-        "name": "My Sadistic Yandere Goth Sister and Mom Bully Me"
-    },
-    {
         "appid": 3649380,
         "name": "The Promethean Project"
     },
@@ -142769,7 +142717,7 @@
     },
     {
         "appid": 3662300,
-        "name": "Train Sim World® 6: Peninsula Corridor: San Francisco - San Jose "
+        "name": "Train Sim World® 6: Peninsula Corridor: San Francisco - San Jose Route Add-On "
     },
     {
         "appid": 3662310,
@@ -144478,6 +144426,10 @@
     {
         "appid": 3669720,
         "name": "Bakery Cafe Simulator: Prologue"
+    },
+    {
+        "appid": 3669730,
+        "name": "Audiospeed"
     },
     {
         "appid": 3669740,
@@ -163624,6 +163576,10 @@
         "name": "SnowRunner - Mercedes-Benz Trucks Dual Pack 1"
     },
     {
+        "appid": 3777660,
+        "name": "SnowRunner - Mercedes-Benz Trucks Dual Pack 2"
+    },
+    {
         "appid": 3777690,
         "name": "Hop Drop"
     },
@@ -172732,6 +172688,10 @@
         "name": "Ashen World"
     },
     {
+        "appid": 3826790,
+        "name": "Ashen"
+    },
+    {
         "appid": 3826810,
         "name": "Alphabetron"
     },
@@ -176338,10 +176298,6 @@
     {
         "appid": 3845560,
         "name": "Underdark"
-    },
-    {
-        "appid": 3845590,
-        "name": "Dominated by: Yandere Goth Idol Sister"
     },
     {
         "appid": 3845600,
@@ -183252,10 +183208,6 @@
         "name": "Vision Twist"
     },
     {
-        "appid": 3879300,
-        "name": "GAIONIN WAR don't combine 【混ぜるな危険】"
-    },
-    {
         "appid": 3879310,
         "name": "梦灯花DLC：花海风云"
     },
@@ -183926,6 +183878,10 @@
     {
         "appid": 3881920,
         "name": "Good Children Say Grace"
+    },
+    {
+        "appid": 3881930,
+        "name": "DySector"
     },
     {
         "appid": 3881940,
@@ -186433,7 +186389,7 @@
     },
     {
         "appid": 3894430,
-        "name": "ZDSimulator - Shepetivka-Lviv (to Brody) Route"
+        "name": "ZDSimulator - Shepetivka-Lviv Route"
     },
     {
         "appid": 3894440,
@@ -190062,6 +190018,10 @@
     {
         "appid": 3913330,
         "name": "Tower! Simulator 3 - KDCA Airport"
+    },
+    {
+        "appid": 3913350,
+        "name": "Velvet Shedding"
     },
     {
         "appid": 3913360,
@@ -199998,5 +199958,45 @@
     {
         "appid": 3962610,
         "name": "The Secrets We Grow"
+    },
+    {
+        "appid": 3962620,
+        "name": "Unseen’s Parasite"
+    },
+    {
+        "appid": 3962650,
+        "name": "Pixel Pegz"
+    },
+    {
+        "appid": 3962660,
+        "name": "Sin of Lust"
+    },
+    {
+        "appid": 3962740,
+        "name": "Pediluvium"
+    },
+    {
+        "appid": 3962750,
+        "name": "Towers of Scale"
+    },
+    {
+        "appid": 3962760,
+        "name": "Quess"
+    },
+    {
+        "appid": 3962770,
+        "name": "Bob's Island"
+    },
+    {
+        "appid": 3962780,
+        "name": "Rite or Ruin"
+    },
+    {
+        "appid": 3962800,
+        "name": "Eclipsed Realms"
+    },
+    {
+        "appid": 3962830,
+        "name": "Game of Skill"
     }
 ]

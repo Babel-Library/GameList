@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1107990,
-        "name": "Fantasy Grounds - Pathfinder RPG - The Tyrant's Grasp AP 5: Borne by the Sun’s Grace (PFRPG)"
-    },
-    {
-        "appid": 1108000,
-        "name": "Children of Silentown"
-    },
-    {
-        "appid": 1108020,
-        "name": "Bepuzzled Jigsaw Puzzle: Sweets"
-    },
-    {
         "appid": 1108030,
         "name": "Bepuzzled Jigsaw Puzzle: Paradise"
     },
@@ -29462,10 +29450,6 @@
     {
         "appid": 1224710,
         "name": "洞穴探险队 Caver"
-    },
-    {
-        "appid": 1224720,
-        "name": "Kowi Ishto: Battle of Akonoli"
     },
     {
         "appid": 1224770,
@@ -114640,6 +114624,10 @@
         "name": "The Lord of the Parties"
     },
     {
+        "appid": 1602890,
+        "name": "What Acts up"
+    },
+    {
         "appid": 1602900,
         "name": "SnOut"
     },
@@ -169124,10 +169112,6 @@
         "name": "VOIDCRISIS"
     },
     {
-        "appid": 1817610,
-        "name": "Battle Heroine Crisis"
-    },
-    {
         "appid": 1817660,
         "name": "Space Attack"
     },
@@ -183490,10 +183474,6 @@
     {
         "appid": 1880420,
         "name": "DoDodge2020"
-    },
-    {
-        "appid": 1880430,
-        "name": "Battle Heroine Crisis - Ganessa's Challenge"
     },
     {
         "appid": 1880470,
@@ -199998,5 +199978,25 @@
     {
         "appid": 1952960,
         "name": "Movie Theater Simulator"
+    },
+    {
+        "appid": 1952970,
+        "name": "Reality Simulator"
+    },
+    {
+        "appid": 1952980,
+        "name": "HIDEANDHUNT"
+    },
+    {
+        "appid": 1952990,
+        "name": "BATTLE OF BILLIONAIRES"
+    },
+    {
+        "appid": 1953000,
+        "name": "Fish 'N' Chips"
+    },
+    {
+        "appid": 1953020,
+        "name": "Lab Remnants"
     }
 ]

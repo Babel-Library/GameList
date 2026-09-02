@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1952970,
-        "name": "Reality Simulator"
-    },
-    {
-        "appid": 1952980,
-        "name": "HIDEANDHUNT"
-    },
-    {
-        "appid": 1952990,
-        "name": "BATTLE OF BILLIONAIRES"
-    },
-    {
-        "appid": 1953000,
-        "name": "Fish 'N' Chips"
-    },
-    {
-        "appid": 1953020,
-        "name": "Lab Remnants"
-    },
-    {
         "appid": 1953040,
         "name": "The Divine Speaker - Official Art and Guide Book"
     },
@@ -9890,10 +9870,6 @@
     {
         "appid": 1998540,
         "name": "Pumpkin head"
-    },
-    {
-        "appid": 1998550,
-        "name": "Battle Heroine Crisis: Heroine Pack - Satellizer Another & Cassie"
     },
     {
         "appid": 1998560,
@@ -27366,14 +27342,6 @@
     {
         "appid": 2101220,
         "name": "书之旅人 Story Walker"
-    },
-    {
-        "appid": 2101230,
-        "name": "Battle Heroine Crisis COSTUME : Satellizer Summer"
-    },
-    {
-        "appid": 2101240,
-        "name": "Battle Heroine Crisis COSTUME : Elizabeth Summer"
     },
     {
         "appid": 2101250,
@@ -49668,22 +49636,6 @@
         "name": "Ok I Pull Up"
     },
     {
-        "appid": 2200480,
-        "name": "Battle Heroine Crisis Heroine Pack 2 : Ticy & Elizabeth Another"
-    },
-    {
-        "appid": 2200490,
-        "name": "Battle Heroine Crisis COSTUME : Ticy Long Hair"
-    },
-    {
-        "appid": 2200500,
-        "name": "Battle Heroine Crisis COSTUME : Elizabeth Bunny Girl"
-    },
-    {
-        "appid": 2200510,
-        "name": "Battle Heroine Crisis COSTUME : Satellizer Chinese dress"
-    },
-    {
         "appid": 2200520,
         "name": "Sphere 3: Twilight Gift"
     },
@@ -62774,14 +62726,6 @@
     {
         "appid": 2258670,
         "name": "Crawlspace 2"
-    },
-    {
-        "appid": 2258690,
-        "name": "Battle Heroine Crisis COSTUME : Chiffon Christmas"
-    },
-    {
-        "appid": 2258700,
-        "name": "Battle Heroine Crisis COSTUME : Cassie Christmas"
     },
     {
         "appid": 2258770,
@@ -80392,18 +80336,6 @@
         "name": "Brie Parmesan Mysteries"
     },
     {
-        "appid": 2340680,
-        "name": "Battle Heroine Crisis COSTUME : Ticy Lovely Spring"
-    },
-    {
-        "appid": 2340690,
-        "name": "Battle Heroine Crisis COSTUME : Cassie Lovely Spring"
-    },
-    {
-        "appid": 2340710,
-        "name": "Battle Heroine Crisis COSTUME : Satellizer Lovely Spring"
-    },
-    {
         "appid": 2340720,
         "name": "美利坚英雄传说：第二次革命战争 The Heroic Legend of America: Second Revolutionary War"
     },
@@ -84118,6 +84050,10 @@
     {
         "appid": 2357910,
         "name": "Home Safety Hotline"
+    },
+    {
+        "appid": 2357920,
+        "name": "Death Delivery"
     },
     {
         "appid": 2357930,
@@ -101653,7 +101589,7 @@
     },
     {
         "appid": 2434730,
-        "name": "EZ-Crosshair"
+        "name": "EZ-Crosshair — Custom Crosshair Overlay & Aim Trainer"
     },
     {
         "appid": 2434760,
@@ -130980,6 +130916,10 @@
         "name": "Daria: A Kingdom Simulator"
     },
     {
+        "appid": 2582200,
+        "name": "The Wake of the Wyrm"
+    },
+    {
         "appid": 2582220,
         "name": "Wizardry Level C"
     },
@@ -144258,10 +144198,6 @@
     {
         "appid": 2650360,
         "name": "Wanderers"
-    },
-    {
-        "appid": 2650390,
-        "name": "Jumping Flash 4: Return of Robbit | Playable Concept Pitch"
     },
     {
         "appid": 2650400,
@@ -167888,6 +167824,10 @@
         "name": "Slipstream: Rogue Space"
     },
     {
+        "appid": 2765870,
+        "name": "My Paper Plane Is Better"
+    },
+    {
         "appid": 2765880,
         "name": "Starters Orders Touch Horse Racing"
     },
@@ -187380,10 +187320,6 @@
         "name": "Cosmic Tankinator"
     },
     {
-        "appid": 2864280,
-        "name": "TRIBES 3 - Daily Weapon Skins Pass (1 Year)"
-    },
-    {
         "appid": 2864290,
         "name": "Aggelos 2"
     },
@@ -187426,10 +187362,6 @@
     {
         "appid": 2864420,
         "name": "Bot Hunter"
-    },
-    {
-        "appid": 2864430,
-        "name": "TRIBES 3 - Daily Suit Skins Pass (1 Year)"
     },
     {
         "appid": 2864450,
@@ -190906,6 +190838,10 @@
     {
         "appid": 2882120,
         "name": "ELECTROBASIS - Donation"
+    },
+    {
+        "appid": 2882170,
+        "name": "Akryon-D"
     },
     {
         "appid": 2882220,
@@ -199998,5 +199934,69 @@
     {
         "appid": 2928480,
         "name": "BossCrafter"
+    },
+    {
+        "appid": 2928490,
+        "name": "Melon Man"
+    },
+    {
+        "appid": 2928500,
+        "name": "Endless Casual Drive"
+    },
+    {
+        "appid": 2928520,
+        "name": "Recycling Center Simulator"
+    },
+    {
+        "appid": 2928530,
+        "name": "RPG Developer Bakin Layout Data Sci-Fi"
+    },
+    {
+        "appid": 2928550,
+        "name": "RPG Developer Bakin Layout Data Classy"
+    },
+    {
+        "appid": 2928560,
+        "name": "RPG Developer Bakin Layout Data Comic"
+    },
+    {
+        "appid": 2928570,
+        "name": "Néro & Sci ∫ Integral Edition"
+    },
+    {
+        "appid": 2928580,
+        "name": "Felampire"
+    },
+    {
+        "appid": 2928590,
+        "name": "Gaia"
+    },
+    {
+        "appid": 2928600,
+        "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2"
+    },
+    {
+        "appid": 2928610,
+        "name": "There's no Socks"
+    },
+    {
+        "appid": 2928620,
+        "name": "0 2 8"
+    },
+    {
+        "appid": 2928630,
+        "name": "DACHstudio Puzzle Box - Illumarie's fantastic characters"
+    },
+    {
+        "appid": 2928640,
+        "name": "Countryball: World 1930"
+    },
+    {
+        "appid": 2928670,
+        "name": "Call of the Grave"
+    },
+    {
+        "appid": 2928690,
+        "name": "Wandness: WandCraft Survivor"
     }
 ]
