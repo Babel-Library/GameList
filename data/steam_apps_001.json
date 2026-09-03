@@ -29720,10 +29720,6 @@
         "name": "Heckabomb"
     },
     {
-        "appid": 344340,
-        "name": "Front Office Football Seven"
-    },
-    {
         "appid": 344410,
         "name": "Magnetic: Cage Closed"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1108020,
         "name": "Bepuzzled Jigsaw Puzzle: Sweets"
+    },
+    {
+        "appid": 1108030,
+        "name": "Bepuzzled Jigsaw Puzzle: Paradise"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2928690,
+        "name": "Wandness: WandCraft Survivor"
+    },
+    {
         "appid": 2928700,
         "name": "三日危情，独家的记忆"
     },
@@ -9304,6 +9308,10 @@
         "name": "就労！！わんわんヒューマン"
     },
     {
+        "appid": 2973430,
+        "name": "CRACK & COLLECT"
+    },
+    {
         "appid": 2973440,
         "name": "Coloring Pixels - Pets Pack"
     },
@@ -18417,7 +18425,7 @@
     },
     {
         "appid": 3020510,
-        "name": "Legend of Heroes: Three Kingdoms"
+        "name": "Heroes' Vow: Three Kingdoms"
     },
     {
         "appid": 3020530,
@@ -46200,10 +46208,6 @@
         "name": "Narrow Woods Hotel"
     },
     {
-        "appid": 3160250,
-        "name": "Restless I"
-    },
-    {
         "appid": 3160260,
         "name": "Cute Fames Adventure"
     },
@@ -72800,6 +72804,10 @@
         "name": "Class of Heroes 3 Remaster"
     },
     {
+        "appid": 3301840,
+        "name": "凡修"
+    },
+    {
         "appid": 3301850,
         "name": "The Swamp Daughter"
     },
@@ -78274,10 +78282,6 @@
     {
         "appid": 3329040,
         "name": "Throw Home"
-    },
-    {
-        "appid": 3329050,
-        "name": "Velhodium Isle"
     },
     {
         "appid": 3329080,
@@ -98305,7 +98309,7 @@
     },
     {
         "appid": 3427820,
-        "name": "Lemonade Apocalypse 2: The Great Filter"
+        "name": "Lemonade Apocalypse"
     },
     {
         "appid": 3427850,
@@ -99508,10 +99512,6 @@
         "name": "Forsaker : DingDing&Blade"
     },
     {
-        "appid": 3433960,
-        "name": "Abyss Unleashed"
-    },
-    {
         "appid": 3433970,
         "name": "VR Head Football"
     },
@@ -99874,6 +99874,10 @@
     {
         "appid": 3435840,
         "name": "Card Bundler: Complete Collection"
+    },
+    {
+        "appid": 3435870,
+        "name": "Don't Fall Down"
     },
     {
         "appid": 3435890,
@@ -124168,6 +124172,10 @@
         "name": "IN HARNESS"
     },
     {
+        "appid": 3568140,
+        "name": "eMojiMayhem"
+    },
+    {
         "appid": 3568150,
         "name": "A Totally Legal Archaeology Adventure"
     },
@@ -131276,6 +131284,10 @@
         "name": "Through the Wall"
     },
     {
+        "appid": 3603810,
+        "name": "Love, Lies and Memories."
+    },
+    {
         "appid": 3603820,
         "name": "Kwyjibo Adventure"
     },
@@ -132922,10 +132934,6 @@
     {
         "appid": 3612390,
         "name": "New Yankee: The Way of the Knight"
-    },
-    {
-        "appid": 3612440,
-        "name": "Sync And Swing"
     },
     {
         "appid": 3612450,
@@ -141921,7 +141929,7 @@
     },
     {
         "appid": 3657320,
-        "name": "Pelikeeper"
+        "name": "Pelikeeper: A Cute TD Adventure"
     },
     {
         "appid": 3657370,
@@ -156405,7 +156413,7 @@
     },
     {
         "appid": 3735850,
-        "name": "Rot Runner"
+        "name": "Night Run Club"
     },
     {
         "appid": 3735860,
@@ -166134,6 +166142,10 @@
     {
         "appid": 3792230,
         "name": "MY HERO ACADEMIA: All’s Justice - Playable Character Nana Shimura"
+    },
+    {
+        "appid": 3792240,
+        "name": "MY HERO ACADEMIA: All’s Justice - Playable Character Izuku Midoriya Overlay Full Style"
     },
     {
         "appid": 3792270,
@@ -178616,6 +178628,10 @@
         "name": "Moth Ma'am"
     },
     {
+        "appid": 3856870,
+        "name": "Love in a Time of Earthquakes"
+    },
+    {
         "appid": 3856900,
         "name": "TAPE GLITCH"
     },
@@ -186346,6 +186362,10 @@
     {
         "appid": 3894200,
         "name": "Sidereal Wanderer ST"
+    },
+    {
+        "appid": 3894210,
+        "name": "Don’t Touch My Potato!"
     },
     {
         "appid": 3894250,
@@ -199978,25 +199998,5 @@
     {
         "appid": 3962750,
         "name": "Towers of Scale"
-    },
-    {
-        "appid": 3962760,
-        "name": "Quess"
-    },
-    {
-        "appid": 3962770,
-        "name": "Bob's Island"
-    },
-    {
-        "appid": 3962780,
-        "name": "Rite or Ruin"
-    },
-    {
-        "appid": 3962800,
-        "name": "Eclipsed Realms"
-    },
-    {
-        "appid": 3962830,
-        "name": "Game of Skill"
     }
 ]

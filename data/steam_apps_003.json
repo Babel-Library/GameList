@@ -69005,7 +69005,7 @@
     },
     {
         "appid": 2288760,
-        "name": "Night Run"
+        "name": "Night Run EX"
     },
     {
         "appid": 2288770,
@@ -114177,7 +114177,7 @@
     },
     {
         "appid": 2495490,
-        "name": "Labyrinth: Shadows of the Kingdom"
+        "name": "GEARBOUND: SHADOWS OF THE KINGDOM"
     },
     {
         "appid": 2495500,
@@ -123402,10 +123402,6 @@
     {
         "appid": 2542860,
         "name": "Conquest of Empires 2"
-    },
-    {
-        "appid": 2542890,
-        "name": "Creatures By Candlelight"
     },
     {
         "appid": 2542950,
@@ -192396,6 +192392,14 @@
         "name": "ZJ the Ball"
     },
     {
+        "appid": 2889210,
+        "name": "Zippy the Circle"
+    },
+    {
+        "appid": 2889220,
+        "name": "Nik and Kit"
+    },
+    {
         "appid": 2889270,
         "name": "Minesweeper Extended"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 2928670,
         "name": "Call of the Grave"
-    },
-    {
-        "appid": 2928690,
-        "name": "Wandness: WandCraft Survivor"
     }
 ]

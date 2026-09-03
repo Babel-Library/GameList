@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1108030,
-        "name": "Bepuzzled Jigsaw Puzzle: Paradise"
-    },
-    {
         "appid": 1108040,
         "name": "Bepuzzled Jigsaw Puzzle: Aquatic"
     },
@@ -86661,7 +86657,7 @@
     },
     {
         "appid": 1481060,
-        "name": "The Dark World: Edge of Eternity"
+        "name": "The Dark World"
     },
     {
         "appid": 1481070,
@@ -93404,6 +93400,10 @@
         "name": "Fantasy Grounds - Tome of Beasts 2 Lairs"
     },
     {
+        "appid": 1510130,
+        "name": "Dead Escape"
+    },
+    {
         "appid": 1510150,
         "name": "Survival Draw"
     },
@@ -99882,6 +99882,10 @@
     {
         "appid": 1539970,
         "name": "The Haunted Tunnel"
+    },
+    {
+        "appid": 1539990,
+        "name": "Team Hero Coder"
     },
     {
         "appid": 1540000,
@@ -110382,10 +110386,6 @@
     {
         "appid": 1584500,
         "name": "Spacey Vade"
-    },
-    {
-        "appid": 1584510,
-        "name": "Conflict of Darkness"
     },
     {
         "appid": 1584530,
@@ -153869,7 +153869,7 @@
     },
     {
         "appid": 1754020,
-        "name": "ROSETIA: A First Contact Simulation"
+        "name": "ROSETIA: A First Contact RPG"
     },
     {
         "appid": 1754090,
@@ -162342,6 +162342,10 @@
     {
         "appid": 1792530,
         "name": "The Fall of the Cross"
+    },
+    {
+        "appid": 1792550,
+        "name": "Godmaker: Patrons & Prophets"
     },
     {
         "appid": 1792600,
@@ -187430,10 +187434,6 @@
     {
         "appid": 1898910,
         "name": "Edge of Collapse"
-    },
-    {
-        "appid": 1898920,
-        "name": "War of the Worlds"
     },
     {
         "appid": 1898930,
