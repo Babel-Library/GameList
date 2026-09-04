@@ -1,5 +1,17 @@
 [
     {
+        "appid": 2928630,
+        "name": "DACHstudio Puzzle Box - Illumarie's fantastic characters"
+    },
+    {
+        "appid": 2928640,
+        "name": "Countryball: World 1930"
+    },
+    {
+        "appid": 2928670,
+        "name": "Call of the Grave"
+    },
+    {
         "appid": 2928690,
         "name": "Wandness: WandCraft Survivor"
     },
@@ -5018,10 +5030,6 @@
     {
         "appid": 2953410,
         "name": "The Fanciful Chronicle - SupportMe"
-    },
-    {
-        "appid": 2953420,
-        "name": "The Croaker - The Ice DLC"
     },
     {
         "appid": 2953430,
@@ -11630,6 +11638,10 @@
     {
         "appid": 2986210,
         "name": "The Elder Scrolls Online: Housing Starter Pack"
+    },
+    {
+        "appid": 2986220,
+        "name": "The Elder Scrolls Online: Ghostly Privateers Pack"
     },
     {
         "appid": 2986240,
@@ -24790,6 +24802,10 @@
     {
         "appid": 3053470,
         "name": "MR. RECORDS"
+    },
+    {
+        "appid": 3053480,
+        "name": "Sweet or... Sweet?"
     },
     {
         "appid": 3053490,
@@ -40989,7 +41005,7 @@
     },
     {
         "appid": 3133410,
-        "name": "SPELLBLUD"
+        "name": "Absolute Mage"
     },
     {
         "appid": 3133420,
@@ -44110,6 +44126,10 @@
     {
         "appid": 3149440,
         "name": "Audacity"
+    },
+    {
+        "appid": 3149450,
+        "name": "Stillmere"
     },
     {
         "appid": 3149460,
@@ -54337,7 +54357,7 @@
     },
     {
         "appid": 3201450,
-        "name": "Darkfallen Survivors"
+        "name": "SACRATA"
     },
     {
         "appid": 3201480,
@@ -58548,6 +58568,10 @@
         "name": "Fear in the Facts Farms"
     },
     {
+        "appid": 3223460,
+        "name": "Hall of Mirrors"
+    },
+    {
         "appid": 3223470,
         "name": "Conquero : Rise or Kneel"
     },
@@ -59974,6 +59998,10 @@
     {
         "appid": 3230770,
         "name": "Arcane Drifter"
+    },
+    {
+        "appid": 3230780,
+        "name": "Ultimate Rally 2D"
     },
     {
         "appid": 3230790,
@@ -71468,6 +71496,10 @@
         "name": "Bellna & Repp's FUTAstic Adventure SS"
     },
     {
+        "appid": 3295130,
+        "name": "Europae Invicta: Pike and Shot"
+    },
+    {
         "appid": 3295150,
         "name": "Core Break"
     },
@@ -73406,10 +73438,6 @@
     {
         "appid": 3304840,
         "name": "春の音はまるで君に似てて"
-    },
-    {
-        "appid": 3304860,
-        "name": "The Croaker - The Challenge DLC"
     },
     {
         "appid": 3304910,
@@ -76346,10 +76374,6 @@
     {
         "appid": 3319230,
         "name": "Pizza Simulator Together"
-    },
-    {
-        "appid": 3319240,
-        "name": "Kingsguard"
     },
     {
         "appid": 3319250,
@@ -83368,6 +83392,14 @@
         "name": "Oni's Tale"
     },
     {
+        "appid": 3353430,
+        "name": "Rhapsody in Scarlet"
+    },
+    {
+        "appid": 3353450,
+        "name": "Rev. NOiR"
+    },
+    {
         "appid": 3353470,
         "name": "The Binding of Isaac: Repentance+"
     },
@@ -87298,6 +87330,10 @@
     {
         "appid": 3372590,
         "name": "Fit-Right-In"
+    },
+    {
+        "appid": 3372610,
+        "name": "Uncanyon"
     },
     {
         "appid": 3372620,
@@ -97898,10 +97934,6 @@
     {
         "appid": 3425580,
         "name": "The Island: Exterminatus"
-    },
-    {
-        "appid": 3425600,
-        "name": "Goblins With Guns"
     },
     {
         "appid": 3425620,
@@ -129880,6 +129912,10 @@
         "name": "Tome Tumble Tournament"
     },
     {
+        "appid": 3596870,
+        "name": "Sakura Hime 7"
+    },
+    {
         "appid": 3596890,
         "name": "Dune: Awakening - Wildlife of Arrakis"
     },
@@ -130684,6 +130720,10 @@
         "name": "Sakura Hime 6 - 18+ Adult Only Content"
     },
     {
+        "appid": 3601090,
+        "name": "Sakura Hime 7 - 18+ Adult Only Content"
+    },
+    {
         "appid": 3601120,
         "name": "Toffee Cats"
     },
@@ -131112,6 +131152,10 @@
         "name": "Dandelia"
     },
     {
+        "appid": 3602900,
+        "name": "Spirit of Diwata"
+    },
+    {
         "appid": 3602940,
         "name": "Shadowfront"
     },
@@ -131126,6 +131170,10 @@
     {
         "appid": 3602990,
         "name": "Marimomo"
+    },
+    {
+        "appid": 3603000,
+        "name": "Maneater 2"
     },
     {
         "appid": 3603010,
@@ -133542,10 +133590,6 @@
     {
         "appid": 3615380,
         "name": "Anime Girls Mirror Quest 2"
-    },
-    {
-        "appid": 3615390,
-        "name": "A journey through shadow, to Reach the light."
     },
     {
         "appid": 3615420,
@@ -139605,7 +139649,7 @@
     },
     {
         "appid": 3646280,
-        "name": "World Alone: Dreampools"
+        "name": "World Alone"
     },
     {
         "appid": 3646310,
@@ -140502,10 +140546,6 @@
     {
         "appid": 3650750,
         "name": "Bronzebeard's Tavern - Eldritch Horror Mini Pack"
-    },
-    {
-        "appid": 3650770,
-        "name": "Tale of Excalibun"
     },
     {
         "appid": 3650790,
@@ -154117,7 +154157,7 @@
     },
     {
         "appid": 3723090,
-        "name": "Computer Manufacturer"
+        "name": "Economy"
     },
     {
         "appid": 3723100,
@@ -166341,11 +166381,11 @@
     },
     {
         "appid": 3793190,
-        "name": "American Truck Simulator - RAM & Dodge Car Pack"
+        "name": "American Truck Simulator - Road Trip: RAM & Dodge"
     },
     {
         "appid": 3793200,
-        "name": "American Truck Simulator - Ford Car Pack"
+        "name": "American Truck Simulator - Road Trip: Ford"
     },
     {
         "appid": 3793260,
@@ -175856,6 +175896,10 @@
         "name": "Astrobound"
     },
     {
+        "appid": 3843210,
+        "name": "Karakam: Call of The Dark Manor"
+    },
+    {
         "appid": 3843230,
         "name": "Scarecrows of Illyria Canon Rewrite: Romantic Spoons Pack"
     },
@@ -181521,7 +181565,7 @@
     },
     {
         "appid": 3870780,
-        "name": "Nekurogahara: Psycho Ronins"
+        "name": "Nekurogahara: Ronin Psyche"
     },
     {
         "appid": 3870800,
@@ -189224,6 +189268,10 @@
         "name": "Inferno Protocol"
     },
     {
+        "appid": 3908970,
+        "name": "Shit Coin Miner"
+    },
+    {
         "appid": 3908980,
         "name": "Fantasy Grounds - Traveller - The Fifth Frontier War: Opening Moves"
     },
@@ -194308,10 +194356,6 @@
         "name": "Whispered Secrets: Everburning Candle Collector's Edition"
     },
     {
-        "appid": 3934880,
-        "name": "Idle Champions - Founder's Pack VIII"
-    },
-    {
         "appid": 3934900,
         "name": "100 Witch Cats  - Artbook"
     },
@@ -194460,16 +194504,92 @@
         "name": "No More Ground"
     },
     {
+        "appid": 3935610,
+        "name": "Onimusha: WotS - Charm: Oni Lady"
+    },
+    {
+        "appid": 3935620,
+        "name": "Onimusha: WotS - Charm: Little Dancer"
+    },
+    {
+        "appid": 3935630,
+        "name": "Onimusha: WotS - Charm: Mentor"
+    },
+    {
+        "appid": 3935660,
+        "name": "Onimusha: WotS - Sword Appearance: Bamboo & Panda"
+    },
+    {
+        "appid": 3935670,
+        "name": "Onimusha: WotS - Sword Appearance: Whittled Oar"
+    },
+    {
+        "appid": 3935680,
+        "name": "Onimusha: WotS - Sword Appearance: Raizan"
+    },
+    {
         "appid": 3935690,
         "name": "ADMNOR"
+    },
+    {
+        "appid": 3935710,
+        "name": "Onimusha: WotS - Sword Appearance: Enryuu"
+    },
+    {
+        "appid": 3935720,
+        "name": "Onimusha: WotS - Hellfire Haori"
+    },
+    {
+        "appid": 3935730,
+        "name": "Onimusha: WotS - Moonlight Haori"
+    },
+    {
+        "appid": 3935740,
+        "name": "Onimusha: WotS - Outfit for Musashi: Red Armor"
+    },
+    {
+        "appid": 3935760,
+        "name": "Onimusha: WotS - Oni Gauntlet: Crimson Lotus"
+    },
+    {
+        "appid": 3935770,
+        "name": "Onimusha: WotS - Outfit for Okuni: Flower Dance"
+    },
+    {
+        "appid": 3935780,
+        "name": "Onimusha: WotS - Outfit for Okuni: Goldfish Dance"
+    },
+    {
+        "appid": 3935790,
+        "name": "Onimusha: WotS - Outfit for Okuni: Oni Dance"
     },
     {
         "appid": 3935800,
         "name": "SLEEPLESS -A Midsummer Night’s Dream-"
     },
     {
+        "appid": 3935820,
+        "name": "Onimusha: WotS - Outfit for the Oni Lady: Bird Call"
+    },
+    {
+        "appid": 3935830,
+        "name": "Onimusha: WotS - Outfit for the Oni Lady: Snow Camellia"
+    },
+    {
+        "appid": 3935840,
+        "name": "Onimusha: WotS - Outfit for the Oni Lady: Elegance"
+    },
+    {
+        "appid": 3935880,
+        "name": "Onimusha: WotS - Materials Pack: Red Souls I"
+    },
+    {
         "appid": 3935960,
         "name": "All At Once"
+    },
+    {
+        "appid": 3936020,
+        "name": "Onimusha: WotS - In-Game Mini Digital Soundtrack"
     },
     {
         "appid": 3936030,
@@ -199878,125 +199998,5 @@
     {
         "appid": 3962200,
         "name": "The Soul Collector 2 - Idle Game"
-    },
-    {
-        "appid": 3962220,
-        "name": "关二爷举起大刀砍向鬼子"
-    },
-    {
-        "appid": 3962230,
-        "name": "Hentai Romance"
-    },
-    {
-        "appid": 3962240,
-        "name": "Quiet Express: Cabin 909"
-    },
-    {
-        "appid": 3962250,
-        "name": "Puzzle Mage"
-    },
-    {
-        "appid": 3962260,
-        "name": "Plantichrist"
-    },
-    {
-        "appid": 3962270,
-        "name": "Perfume Atelier"
-    },
-    {
-        "appid": 3962280,
-        "name": "Weaver"
-    },
-    {
-        "appid": 3962310,
-        "name": "The Field Between"
-    },
-    {
-        "appid": 3962320,
-        "name": "Celestial Drift"
-    },
-    {
-        "appid": 3962330,
-        "name": "Cling to Blindness"
-    },
-    {
-        "appid": 3962380,
-        "name": "一落春The First Spring"
-    },
-    {
-        "appid": 3962400,
-        "name": "YogLabs: Testing Initiative"
-    },
-    {
-        "appid": 3962410,
-        "name": "Plane Balance"
-    },
-    {
-        "appid": 3962420,
-        "name": "Futa Slug EX"
-    },
-    {
-        "appid": 3962430,
-        "name": "Gata Guressi"
-    },
-    {
-        "appid": 3962450,
-        "name": "Liberty Dogs"
-    },
-    {
-        "appid": 3962460,
-        "name": "THE CANON OF BALLS"
-    },
-    {
-        "appid": 3962470,
-        "name": "Coaster Crash Course"
-    },
-    {
-        "appid": 3962500,
-        "name": "Kissaten Dream - Anime Coffee Shop Simulator!"
-    },
-    {
-        "appid": 3962520,
-        "name": "Handgun Football"
-    },
-    {
-        "appid": 3962540,
-        "name": "A Ragdoll Rage Game"
-    },
-    {
-        "appid": 3962570,
-        "name": "ManaCollect 2"
-    },
-    {
-        "appid": 3962580,
-        "name": "Mostly Trash Sometimes Treasure"
-    },
-    {
-        "appid": 3962600,
-        "name": "FISSURE"
-    },
-    {
-        "appid": 3962610,
-        "name": "The Secrets We Grow"
-    },
-    {
-        "appid": 3962620,
-        "name": "Unseen’s Parasite"
-    },
-    {
-        "appid": 3962650,
-        "name": "Pixel Pegz"
-    },
-    {
-        "appid": 3962660,
-        "name": "Sin of Lust"
-    },
-    {
-        "appid": 3962740,
-        "name": "Pediluvium"
-    },
-    {
-        "appid": 3962750,
-        "name": "Towers of Scale"
     }
 ]

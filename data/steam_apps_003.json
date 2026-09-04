@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1953020,
+        "name": "Lab Remnants"
+    },
+    {
         "appid": 1953040,
         "name": "The Divine Speaker - Official Art and Guide Book"
     },
@@ -32432,10 +32436,6 @@
         "name": "Wheel Of Naughtiness"
     },
     {
-        "appid": 2123300,
-        "name": "Catch Flex: Dance"
-    },
-    {
         "appid": 2123320,
         "name": "ClearIt 13"
     },
@@ -39318,6 +39318,10 @@
     {
         "appid": 2155060,
         "name": "Heartbreak Hotel"
+    },
+    {
+        "appid": 2155070,
+        "name": "Fate/EXTRA Record"
     },
     {
         "appid": 2155100,
@@ -84672,10 +84676,6 @@
         "name": "Synergia Artbook & Art Compendium"
     },
     {
-        "appid": 2360940,
-        "name": "100 Humans Vs Gorilla"
-    },
-    {
         "appid": 2360950,
         "name": "NutShot"
     },
@@ -95105,7 +95105,7 @@
     },
     {
         "appid": 2404820,
-        "name": "Human Farm - Rehabilitation"
+        "name": "Human Farm - Rehabilitation -"
     },
     {
         "appid": 2404850,
@@ -102294,6 +102294,10 @@
     {
         "appid": 2437820,
         "name": "Return Artbook"
+    },
+    {
+        "appid": 2437830,
+        "name": "The Killing Rooms"
     },
     {
         "appid": 2437840,
@@ -118157,7 +118161,7 @@
     },
     {
         "appid": 2516590,
-        "name": "Human Farm - Practice Section"
+        "name": "Human Farm - Practice Section -"
     },
     {
         "appid": 2516610,
@@ -142473,7 +142477,7 @@
     },
     {
         "appid": 2642480,
-        "name": "猎魔骑士"
+        "name": "神碑卫士"
     },
     {
         "appid": 2642500,
@@ -156353,7 +156357,7 @@
     },
     {
         "appid": 2708040,
-        "name": "Triarchy"
+        "name": "Keelblade (formerly Triarchy)"
     },
     {
         "appid": 2708120,
@@ -170900,6 +170904,10 @@
         "name": "Three Kingdoms Zhao Yun-Artbook"
     },
     {
+        "appid": 2780850,
+        "name": "Moon-Oriented Autonomous Biological Model"
+    },
+    {
         "appid": 2780880,
         "name": "Bunny-girl with Golden tummy"
     },
@@ -184329,7 +184337,7 @@
     },
     {
         "appid": 2848910,
-        "name": "Reggie, His Cousin, Two Scientists and Most Likely the End of the World"
+        "name": "Reggie & his Cousin: Two Scientists and Most Likely the End of the World"
     },
     {
         "appid": 2848950,
@@ -189890,6 +189898,10 @@
     {
         "appid": 2877190,
         "name": "Cuckold House"
+    },
+    {
+        "appid": 2877230,
+        "name": "Through Decay"
     },
     {
         "appid": 2877240,
@@ -199986,17 +199998,5 @@
     {
         "appid": 2928620,
         "name": "0 2 8"
-    },
-    {
-        "appid": 2928630,
-        "name": "DACHstudio Puzzle Box - Illumarie's fantastic characters"
-    },
-    {
-        "appid": 2928640,
-        "name": "Countryball: World 1930"
-    },
-    {
-        "appid": 2928670,
-        "name": "Call of the Grave"
     }
 ]

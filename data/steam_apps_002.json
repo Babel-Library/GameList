@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1108030,
+        "name": "Bepuzzled Jigsaw Puzzle: Paradise"
+    },
+    {
         "appid": 1108040,
         "name": "Bepuzzled Jigsaw Puzzle: Aquatic"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1953000,
         "name": "Fish 'N' Chips"
-    },
-    {
-        "appid": 1953020,
-        "name": "Lab Remnants"
     }
 ]

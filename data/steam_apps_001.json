@@ -35861,7 +35861,7 @@
     },
     {
         "appid": 371640,
-        "name": "Mercyrail: Havenbound"
+        "name": "Mercyrail: Haven Bound"
     },
     {
         "appid": 371650,
@@ -88458,6 +88458,10 @@
     {
         "appid": 617290,
         "name": "Remnant: From the Ashes"
+    },
+    {
+        "appid": 617310,
+        "name": "Mamma Mia"
     },
     {
         "appid": 617340,
@@ -199994,9 +199998,5 @@
     {
         "appid": 1108020,
         "name": "Bepuzzled Jigsaw Puzzle: Sweets"
-    },
-    {
-        "appid": 1108030,
-        "name": "Bepuzzled Jigsaw Puzzle: Paradise"
     }
 ]
