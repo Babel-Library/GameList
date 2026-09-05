@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1108030,
-        "name": "Bepuzzled Jigsaw Puzzle: Paradise"
-    },
-    {
-        "appid": 1108040,
-        "name": "Bepuzzled Jigsaw Puzzle: Aquatic"
-    },
-    {
-        "appid": 1108070,
-        "name": "Templum de Malum OST"
-    },
-    {
-        "appid": 1108090,
-        "name": "Climb With Wheelbarrow"
-    },
-    {
-        "appid": 1108110,
-        "name": "Neonoen"
-    },
-    {
         "appid": 1108120,
         "name": "The Unseen Fears: Stories Untold Collector's Edition"
     },
@@ -199998,5 +199978,25 @@
     {
         "appid": 1953000,
         "name": "Fish 'N' Chips"
+    },
+    {
+        "appid": 1953020,
+        "name": "Lab Remnants"
+    },
+    {
+        "appid": 1953040,
+        "name": "The Divine Speaker - Official Art and Guide Book"
+    },
+    {
+        "appid": 1953060,
+        "name": "Time Thief"
+    },
+    {
+        "appid": 1953070,
+        "name": "SD Shin Kamen Rider Rumble"
+    },
+    {
+        "appid": 1953100,
+        "name": "RAT MEMORY"
     }
 ]

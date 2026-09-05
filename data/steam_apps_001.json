@@ -60280,22 +60280,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492968,
-        "name": "Rocksmith® 2014 – Staind - “It’s Been Awhile”"
-    },
-    {
-        "appid": 492969,
-        "name": "Rocksmith® 2014 – Staind - “Outside”"
-    },
-    {
-        "appid": 492970,
-        "name": "Rocksmith® 2014 – Staind - “So Far Away”"
-    },
-    {
-        "appid": 492971,
-        "name": "Rocksmith® 2014 – Staind Song Pack"
-    },
-    {
         "appid": 492972,
         "name": "Rocksmith® 2014 – Fleetwood Mac - “Never Going Back Again”"
     },
@@ -70070,10 +70054,6 @@
     {
         "appid": 534580,
         "name": "Fantasy Grounds - Deadlands Reloaded: Hell on Earth Reloaded"
-    },
-    {
-        "appid": 534590,
-        "name": "Patterna Soundtrack"
     },
     {
         "appid": 534600,
@@ -162249,7 +162229,7 @@
     },
     {
         "appid": 950240,
-        "name": "Rise of the Pirates"
+        "name": "Rise of the Pirates (Classic)"
     },
     {
         "appid": 950250,
@@ -199998,5 +199978,25 @@
     {
         "appid": 1108020,
         "name": "Bepuzzled Jigsaw Puzzle: Sweets"
+    },
+    {
+        "appid": 1108030,
+        "name": "Bepuzzled Jigsaw Puzzle: Paradise"
+    },
+    {
+        "appid": 1108040,
+        "name": "Bepuzzled Jigsaw Puzzle: Aquatic"
+    },
+    {
+        "appid": 1108070,
+        "name": "Templum de Malum OST"
+    },
+    {
+        "appid": 1108090,
+        "name": "Climb With Wheelbarrow"
+    },
+    {
+        "appid": 1108110,
+        "name": "Neonoen"
     }
 ]

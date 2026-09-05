@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1953020,
-        "name": "Lab Remnants"
-    },
-    {
-        "appid": 1953040,
-        "name": "The Divine Speaker - Official Art and Guide Book"
-    },
-    {
-        "appid": 1953060,
-        "name": "Time Thief"
-    },
-    {
-        "appid": 1953070,
-        "name": "SD Shin Kamen Rider Rumble"
-    },
-    {
-        "appid": 1953100,
-        "name": "RAT MEMORY"
-    },
-    {
         "appid": 1953110,
         "name": "Programming Without Coding Technology 2.0"
     },
@@ -35809,7 +35789,7 @@
     },
     {
         "appid": 2139040,
-        "name": "Cook, Serve, Delicious: Re-Mustard!"
+        "name": "Cook, Serve, Delicious: Remustard!"
     },
     {
         "appid": 2139070,
@@ -63358,10 +63338,6 @@
     {
         "appid": 2261560,
         "name": "We The People"
-    },
-    {
-        "appid": 2261570,
-        "name": "ST World"
     },
     {
         "appid": 2261600,
@@ -199998,5 +199974,29 @@
     {
         "appid": 2928620,
         "name": "0 2 8"
+    },
+    {
+        "appid": 2928630,
+        "name": "DACHstudio Puzzle Box - Illumarie's fantastic characters"
+    },
+    {
+        "appid": 2928640,
+        "name": "Countryball: World 1930"
+    },
+    {
+        "appid": 2928670,
+        "name": "Call of the Grave"
+    },
+    {
+        "appid": 2928690,
+        "name": "Wandness: WandCraft Survivor"
+    },
+    {
+        "appid": 2928700,
+        "name": "三日危情，独家的记忆"
+    },
+    {
+        "appid": 2928740,
+        "name": "Not Alone"
     }
 ]
