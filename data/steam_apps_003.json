@@ -20148,6 +20148,10 @@
         "name": "Chopmania"
     },
     {
+        "appid": 2069070,
+        "name": "Hay! One Billion!"
+    },
+    {
         "appid": 2069090,
         "name": "WUFO"
     },
@@ -39578,6 +39582,10 @@
     {
         "appid": 2156480,
         "name": "Evil Fate"
+    },
+    {
+        "appid": 2156500,
+        "name": "Abbey Chronicle: Desktop Cloister"
     },
     {
         "appid": 2156540,
@@ -114157,7 +114165,7 @@
     },
     {
         "appid": 2495490,
-        "name": "GEARBOUND: SHADOWS OF THE KINGDOM"
+        "name": "Gearbound: Shadows Of The Kingdom"
     },
     {
         "appid": 2495500,
@@ -157225,7 +157233,7 @@
     },
     {
         "appid": 2712530,
-        "name": "Super!! Card collect"
+        "name": "Imagisty Card Collection"
     },
     {
         "appid": 2712540,
@@ -162198,6 +162206,10 @@
     {
         "appid": 2738110,
         "name": "Vengeance Hunters"
+    },
+    {
+        "appid": 2738120,
+        "name": "G.O.O.D. Labs"
     },
     {
         "appid": 2738130,
@@ -191052,6 +191064,10 @@
         "name": "Dog Brew"
     },
     {
+        "appid": 2883290,
+        "name": "Elemental Vanguard"
+    },
+    {
         "appid": 2883370,
         "name": "Golden Ball"
     },
@@ -199982,21 +199998,5 @@
     {
         "appid": 2928640,
         "name": "Countryball: World 1930"
-    },
-    {
-        "appid": 2928670,
-        "name": "Call of the Grave"
-    },
-    {
-        "appid": 2928690,
-        "name": "Wandness: WandCraft Survivor"
-    },
-    {
-        "appid": 2928700,
-        "name": "三日危情，独家的记忆"
-    },
-    {
-        "appid": 2928740,
-        "name": "Not Alone"
     }
 ]
