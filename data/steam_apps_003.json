@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1953100,
+        "name": "RAT MEMORY"
+    },
+    {
         "appid": 1953110,
         "name": "Programming Without Coding Technology 2.0"
     },
@@ -13646,10 +13650,6 @@
     {
         "appid": 2016020,
         "name": "Krasnaya Factory"
-    },
-    {
-        "appid": 2016030,
-        "name": "Master Arena - ULTIMATE PASS"
     },
     {
         "appid": 2016050,
@@ -73481,7 +73481,7 @@
     },
     {
         "appid": 2310770,
-        "name": "Intergalactic Genocide"
+        "name": "Stone Wars"
     },
     {
         "appid": 2310780,
@@ -76766,6 +76766,10 @@
     {
         "appid": 2324730,
         "name": "Necogram"
+    },
+    {
+        "appid": 2324740,
+        "name": "Rolling Blunder"
     },
     {
         "appid": 2324750,
@@ -136748,6 +136752,10 @@
         "name": "Idle Maku"
     },
     {
+        "appid": 2612310,
+        "name": "Cursed Minis: Crystal Skull Smash"
+    },
+    {
         "appid": 2612320,
         "name": "Leap Hero"
     },
@@ -159160,6 +159168,10 @@
         "name": "Dungeon of Erotic Master Plus"
     },
     {
+        "appid": 2722220,
+        "name": "VERY IMPORTANT NEEDS"
+    },
+    {
         "appid": 2722230,
         "name": "Little Nemo"
     },
@@ -180568,6 +180580,10 @@
         "name": "Terra Exodus"
     },
     {
+        "appid": 2830780,
+        "name": "The Candyman: Legacy"
+    },
+    {
         "appid": 2830830,
         "name": "Ultimate Fishing® Simulator 2 - Delaware Bay"
     },
@@ -186004,24 +186020,8 @@
         "name": "Waki & the lost spirits"
     },
     {
-        "appid": 2857110,
-        "name": "Master Arena - BLUE NEON Bundle"
-    },
-    {
         "appid": 2857120,
         "name": "Rain World: The Watcher"
-    },
-    {
-        "appid": 2857130,
-        "name": "Master Arena - ORANGE NEON Bundle"
-    },
-    {
-        "appid": 2857140,
-        "name": "Master Arena - INFERNO EDITON Bundle"
-    },
-    {
-        "appid": 2857150,
-        "name": "Master Arena - PHANTOM EDITON Bundle"
     },
     {
         "appid": 2857160,

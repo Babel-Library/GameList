@@ -13044,6 +13044,10 @@
         "name": "Angel Legion-DLC Secret Gift (Green)"
     },
     {
+        "appid": 2993620,
+        "name": "Life in the Kingdom"
+    },
+    {
         "appid": 2993630,
         "name": "Angel Legion-DLC Future Dream (Blue)"
     },
@@ -78120,6 +78124,10 @@
         "name": "Fantasy Grounds - Cyberpunk RED - Tales of the RED: Hope Reborn"
     },
     {
+        "appid": 3328170,
+        "name": "Guesslings"
+    },
+    {
         "appid": 3328180,
         "name": "Snoopy & The Great Mystery Club"
     },
@@ -81786,6 +81794,10 @@
     {
         "appid": 3345780,
         "name": "歸宿之國1"
+    },
+    {
+        "appid": 3345800,
+        "name": "First Kingdom"
     },
     {
         "appid": 3345810,
@@ -147780,6 +147792,10 @@
         "name": "神佑竞技场"
     },
     {
+        "appid": 3688200,
+        "name": "Knight life tavern"
+    },
+    {
         "appid": 3688210,
         "name": "TOLOM"
     },
@@ -184124,6 +184140,10 @@
         "name": "アルテミスパール～海賊姫ルビナと幻の秘宝～"
     },
     {
+        "appid": 3882630,
+        "name": "SOMNIUS"
+    },
+    {
         "appid": 3882650,
         "name": "Kingdom's Return: Time-Eating Fruit and the Ancient Monster"
     },
@@ -194604,6 +194624,10 @@
         "name": "SLEEPLESS -A Midsummer Night’s Dream-"
     },
     {
+        "appid": 3935810,
+        "name": "Onimusha: WotS - Outfit for Okuni: Yomogi's Dance"
+    },
+    {
         "appid": 3935820,
         "name": "Onimusha: WotS - Outfit for the Oni Lady: Bird Call"
     },
@@ -194614,6 +194638,10 @@
     {
         "appid": 3935840,
         "name": "Onimusha: WotS - Outfit for the Oni Lady: Elegance"
+    },
+    {
+        "appid": 3935850,
+        "name": "Onimusha: WotS - Outfit for the Oni Lady: Hinoa"
     },
     {
         "appid": 3935880,
@@ -199970,33 +199998,5 @@
     {
         "appid": 3961940,
         "name": "Liora's Price of Dignity"
-    },
-    {
-        "appid": 3961950,
-        "name": "Layang Atma"
-    },
-    {
-        "appid": 3961980,
-        "name": "Critters Breakout"
-    },
-    {
-        "appid": 3961990,
-        "name": "第一次挂机"
-    },
-    {
-        "appid": 3962000,
-        "name": "Without A Doubt"
-    },
-    {
-        "appid": 3962020,
-        "name": "EXD - Extra Dimensional"
-    },
-    {
-        "appid": 3962040,
-        "name": "Ranchbound"
-    },
-    {
-        "appid": 3962070,
-        "name": "Crap Game, Don’t Play"
     }
 ]

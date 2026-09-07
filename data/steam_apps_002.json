@@ -160060,6 +160060,10 @@
         "name": "Animal Match"
     },
     {
+        "appid": 1782800,
+        "name": "Trivasion"
+    },
+    {
         "appid": 1782810,
         "name": "Software Company"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1953070,
         "name": "SD Shin Kamen Rider Rumble"
-    },
-    {
-        "appid": 1953100,
-        "name": "RAT MEMORY"
     }
 ]
