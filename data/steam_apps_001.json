@@ -828,10 +828,6 @@
         "name": "Stubbs the Zombie in Rebel Without a Pulse"
     },
     {
-        "appid": 7830,
-        "name": "Men of War™"
-    },
-    {
         "appid": 7840,
         "name": "Death Track®: Resurrection"
     },
@@ -18562,10 +18558,6 @@
     {
         "appid": 289280,
         "name": "El Matador"
-    },
-    {
-        "appid": 289300,
-        "name": "Faces of War"
     },
     {
         "appid": 289320,
@@ -199998,5 +199990,13 @@
     {
         "appid": 1108090,
         "name": "Climb With Wheelbarrow"
+    },
+    {
+        "appid": 1108110,
+        "name": "Neonoen"
+    },
+    {
+        "appid": 1108120,
+        "name": "The Unseen Fears: Stories Untold Collector's Edition"
     }
 ]
