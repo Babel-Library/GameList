@@ -1,33 +1,5 @@
 [
     {
-        "appid": 1953170,
-        "name": "Rose Action"
-    },
-    {
-        "appid": 1953210,
-        "name": "Hungry Animals"
-    },
-    {
-        "appid": 1953220,
-        "name": "Gem Tower Defense 2"
-    },
-    {
-        "appid": 1953230,
-        "name": "Whisper Mountain Outbreak"
-    },
-    {
-        "appid": 1953240,
-        "name": "Zeus Quest - The Rebirth of Earth"
-    },
-    {
-        "appid": 1953370,
-        "name": "Bowerwhelm"
-    },
-    {
-        "appid": 1953380,
-        "name": "Dungeon Rummage - Tiqee's Escape"
-    },
-    {
         "appid": 1953410,
         "name": "Armored Sinner"
     },
@@ -5006,10 +4978,6 @@
     {
         "appid": 1974460,
         "name": "100% Orange Juice - Shifu & Reika Character Pack"
-    },
-    {
-        "appid": 1974470,
-        "name": "Aimlabs Signature Series - Symfuhny"
     },
     {
         "appid": 1974480,
@@ -61604,10 +61572,6 @@
         "name": "Upheaval"
     },
     {
-        "appid": 2253310,
-        "name": "Aimlabs+ Premium Membership"
-    },
-    {
         "appid": 2253350,
         "name": "Turret Girl - Wallpapers NSFW"
     },
@@ -82801,7 +82765,7 @@
     },
     {
         "appid": 2352020,
-        "name": "Survival & Horror: The Damned City"
+        "name": "The Damned City"
     },
     {
         "appid": 2352040,
@@ -136213,7 +136177,7 @@
     },
     {
         "appid": 2609550,
-        "name": "Bamboozle"
+        "name": "Huntwave"
     },
     {
         "appid": 2609560,
@@ -166228,6 +166192,10 @@
         "name": "Akatsuki: Lord of the Dawn"
     },
     {
+        "appid": 2758050,
+        "name": "LOOKERS"
+    },
+    {
         "appid": 2758070,
         "name": "Core Breach"
     },
@@ -173426,10 +173394,6 @@
     {
         "appid": 2794330,
         "name": "Atuel"
-    },
-    {
-        "appid": 2794340,
-        "name": "SiliCorp Systems"
     },
     {
         "appid": 2794390,
@@ -199998,5 +199962,41 @@
     {
         "appid": 2928640,
         "name": "Countryball: World 1930"
+    },
+    {
+        "appid": 2928670,
+        "name": "Call of the Grave"
+    },
+    {
+        "appid": 2928690,
+        "name": "Wandness: WandCraft Survivor"
+    },
+    {
+        "appid": 2928700,
+        "name": "三日危情，独家的记忆"
+    },
+    {
+        "appid": 2928740,
+        "name": "Not Alone"
+    },
+    {
+        "appid": 2928750,
+        "name": "Shout Seven"
+    },
+    {
+        "appid": 2928770,
+        "name": "Carnival"
+    },
+    {
+        "appid": 2928790,
+        "name": "Alpine"
+    },
+    {
+        "appid": 2928800,
+        "name": "Weapon Builder"
+    },
+    {
+        "appid": 2928820,
+        "name": "Elf World Adventure 2"
     }
 ]

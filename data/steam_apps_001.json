@@ -4484,30 +4484,6 @@
         "name": "Mount & Blade: With Fire & Sword"
     },
     {
-        "appid": 48800,
-        "name": "Ship Simulator Extremes"
-    },
-    {
-        "appid": 48802,
-        "name": "Ship Simulator Extremes: Sigita Pack"
-    },
-    {
-        "appid": 48803,
-        "name": "Ship Simulator Extremes: Ferry Pack"
-    },
-    {
-        "appid": 48804,
-        "name": "Ship Simulator Extremes: Cargo Vessel"
-    },
-    {
-        "appid": 48805,
-        "name": "Ship Simulator Extremes: Offshore Vessel"
-    },
-    {
-        "appid": 48806,
-        "name": "Ship Simulator Extremes: Ocean Cruise Ship"
-    },
-    {
         "appid": 48900,
         "name": "Saira"
     },
@@ -13050,10 +13026,6 @@
     {
         "appid": 250900,
         "name": "The Binding of Isaac: Rebirth"
-    },
-    {
-        "appid": 250930,
-        "name": "Ship Simulator Extremes: Inland Shipping"
     },
     {
         "appid": 250990,
@@ -71701,7 +71673,7 @@
     },
     {
         "appid": 543010,
-        "name": "Bush Hockey League"
+        "name": "BHL"
     },
     {
         "appid": 543030,
@@ -108226,6 +108198,10 @@
     {
         "appid": 708200,
         "name": "Fantasization"
+    },
+    {
+        "appid": 708250,
+        "name": "Lava Rolling Kid"
     },
     {
         "appid": 708260,
@@ -199998,5 +199974,29 @@
     {
         "appid": 1108120,
         "name": "The Unseen Fears: Stories Untold Collector's Edition"
+    },
+    {
+        "appid": 1108130,
+        "name": "The Last AntLion"
+    },
+    {
+        "appid": 1108170,
+        "name": "Plot of the Druid"
+    },
+    {
+        "appid": 1108180,
+        "name": "灵魂筹码 - 沉冤奈河 Soul at Stake - Drown in the Disgrace"
+    },
+    {
+        "appid": 1108190,
+        "name": "Victorian Mysteries: The Yellow Room"
+    },
+    {
+        "appid": 1108240,
+        "name": "Code/The Werewolf Party"
+    },
+    {
+        "appid": 1108250,
+        "name": "All Systems Operational"
     }
 ]

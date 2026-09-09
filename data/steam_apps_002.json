@@ -1,29 +1,5 @@
 [
     {
-        "appid": 1108130,
-        "name": "The Last AntLion"
-    },
-    {
-        "appid": 1108170,
-        "name": "Plot of the Druid"
-    },
-    {
-        "appid": 1108180,
-        "name": "灵魂筹码 - 沉冤奈河 Soul at Stake - Drown in the Disgrace"
-    },
-    {
-        "appid": 1108190,
-        "name": "Victorian Mysteries: The Yellow Room"
-    },
-    {
-        "appid": 1108240,
-        "name": "Code/The Werewolf Party"
-    },
-    {
-        "appid": 1108250,
-        "name": "All Systems Operational"
-    },
-    {
         "appid": 1108270,
         "name": "Nova: Space Armada"
     },
@@ -1377,7 +1353,7 @@
     },
     {
         "appid": 1113460,
-        "name": "Bad Beats"
+        "name": "Double Down & Out"
     },
     {
         "appid": 1113490,
@@ -68770,6 +68746,10 @@
     {
         "appid": 1402960,
         "name": "Speedily"
+    },
+    {
+        "appid": 1402990,
+        "name": "Fantasy Grounds - Gothic Campaign Compendium"
     },
     {
         "appid": 1403020,
@@ -188396,10 +188376,6 @@
         "name": "Elemental Roll"
     },
     {
-        "appid": 1904030,
-        "name": "Maze Dungeon"
-    },
-    {
         "appid": 1904040,
         "name": "Fantasy Fishing Town"
     },
@@ -189686,10 +189662,6 @@
     {
         "appid": 1910130,
         "name": "Qwilight"
-    },
-    {
-        "appid": 1910140,
-        "name": "Sunset: Future Shapers"
     },
     {
         "appid": 1910150,
@@ -199998,5 +199970,33 @@
     {
         "appid": 1953120,
         "name": "Grief Visual Novel"
+    },
+    {
+        "appid": 1953170,
+        "name": "Rose Action"
+    },
+    {
+        "appid": 1953210,
+        "name": "Hungry Animals"
+    },
+    {
+        "appid": 1953220,
+        "name": "Gem Tower Defense 2"
+    },
+    {
+        "appid": 1953230,
+        "name": "Whisper Mountain Outbreak"
+    },
+    {
+        "appid": 1953240,
+        "name": "Zeus Quest - The Rebirth of Earth"
+    },
+    {
+        "appid": 1953370,
+        "name": "Bowerwhelm"
+    },
+    {
+        "appid": 1953380,
+        "name": "Dungeon Rummage - Tiqee's Escape"
     }
 ]

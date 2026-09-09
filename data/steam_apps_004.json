@@ -1,41 +1,5 @@
 [
     {
-        "appid": 2928670,
-        "name": "Call of the Grave"
-    },
-    {
-        "appid": 2928690,
-        "name": "Wandness: WandCraft Survivor"
-    },
-    {
-        "appid": 2928700,
-        "name": "三日危情，独家的记忆"
-    },
-    {
-        "appid": 2928740,
-        "name": "Not Alone"
-    },
-    {
-        "appid": 2928750,
-        "name": "Shout Seven"
-    },
-    {
-        "appid": 2928770,
-        "name": "Carnival"
-    },
-    {
-        "appid": 2928790,
-        "name": "Alpine"
-    },
-    {
-        "appid": 2928800,
-        "name": "Weapon Builder"
-    },
-    {
-        "appid": 2928820,
-        "name": "Elf World Adventure 2"
-    },
-    {
         "appid": 2928830,
         "name": "Blenderman"
     },
@@ -1281,7 +1245,7 @@
     },
     {
         "appid": 2935620,
-        "name": "DDI Touring Car Championship"
+        "name": "DDI World Racing"
     },
     {
         "appid": 2935650,
@@ -24168,6 +24132,10 @@
         "name": "RPG Maker MV - Arcade Game Resource Pack"
     },
     {
+        "appid": 3050460,
+        "name": "Mafia Life Simulator"
+    },
+    {
         "appid": 3050480,
         "name": "Anomalum"
     },
@@ -37753,7 +37721,7 @@
     },
     {
         "appid": 3116460,
-        "name": "ROOM"
+        "name": "ROOM– 24/7 Total Surveillance"
     },
     {
         "appid": 3116470,
@@ -40746,6 +40714,10 @@
     {
         "appid": 3131800,
         "name": "Hide Time"
+    },
+    {
+        "appid": 3131810,
+        "name": "EMOJI JACKPOT: Word Finder"
     },
     {
         "appid": 3131880,
@@ -55901,7 +55873,7 @@
     },
     {
         "appid": 3209000,
-        "name": "Skies of Aevium"
+        "name": "ShelfQuest"
     },
     {
         "appid": 3209020,
@@ -57590,6 +57562,10 @@
     {
         "appid": 3218000,
         "name": "fn.run.hack"
+    },
+    {
+        "appid": 3218040,
+        "name": "深境潜夺者"
     },
     {
         "appid": 3218070,
@@ -65864,10 +65840,6 @@
         "name": "Forest of soul slave2"
     },
     {
-        "appid": 3264490,
-        "name": "Pastopia"
-    },
-    {
         "appid": 3264560,
         "name": "虚幻大圣 - 悟空大闹天宫"
     },
@@ -67285,7 +67257,7 @@
     },
     {
         "appid": 3272710,
-        "name": "朱鴉～AKEGARASU～ Journey to the Underworld"
+        "name": "AKEGARASU: Journey to the Underworld"
     },
     {
         "appid": 3272730,
@@ -72834,10 +72806,6 @@
     {
         "appid": 3301710,
         "name": "Labyrinth of Aetheria"
-    },
-    {
-        "appid": 3301730,
-        "name": "Art Of Evil"
     },
     {
         "appid": 3301740,
@@ -83028,10 +82996,6 @@
         "name": "One Little World"
     },
     {
-        "appid": 3351570,
-        "name": "Sandbox Survivors"
-    },
-    {
         "appid": 3351580,
         "name": "\"Body Pay OMG! \" Anime DLC"
     },
@@ -90894,6 +90858,10 @@
     {
         "appid": 3390030,
         "name": "Shinayu"
+    },
+    {
+        "appid": 3390050,
+        "name": "Peak A Goo"
     },
     {
         "appid": 3390060,
@@ -120908,6 +120876,10 @@
         "name": "Tomb of the Golden Relic"
     },
     {
+        "appid": 3551590,
+        "name": "Furei - Journey of Two Spirits"
+    },
+    {
         "appid": 3551600,
         "name": "Jumpscare Simulator: System Breach"
     },
@@ -122170,6 +122142,10 @@
     {
         "appid": 3557860,
         "name": "Pawfish Bay"
+    },
+    {
+        "appid": 3557870,
+        "name": "Bad House"
     },
     {
         "appid": 3557980,
@@ -143344,10 +143320,6 @@
         "name": "Train Sim World® 6: Liberec - Stará Paka Route Add-On "
     },
     {
-        "appid": 3663940,
-        "name": "Train Sim World® 6: Tadami Line: Aizu-Wakamatsu - Tadami Route Add-On"
-    },
-    {
         "appid": 3663950,
         "name": "Train Sim World® 6: West Coast Main Line: Crewe - Preston Route Add-On "
     },
@@ -145706,6 +145678,10 @@
     {
         "appid": 3676740,
         "name": "Lighting Lanterns"
+    },
+    {
+        "appid": 3676760,
+        "name": "Fish Fights Back"
     },
     {
         "appid": 3676830,
@@ -170392,6 +170368,10 @@
         "name": "WEED SHOP SIMULATOR"
     },
     {
+        "appid": 3814440,
+        "name": "Petty Kings"
+    },
+    {
         "appid": 3814470,
         "name": "Slime Tower"
     },
@@ -176762,6 +176742,10 @@
     {
         "appid": 3847300,
         "name": "Tempest Lost"
+    },
+    {
+        "appid": 3847310,
+        "name": "BONG FLIP"
     },
     {
         "appid": 3847330,
@@ -184710,6 +184694,10 @@
     {
         "appid": 3885290,
         "name": "Go! Sloth"
+    },
+    {
+        "appid": 3885300,
+        "name": "Echo Protocol"
     },
     {
         "appid": 3885320,
@@ -198352,6 +198340,10 @@
         "name": "PANTSU: Atty's Collection"
     },
     {
+        "appid": 3953390,
+        "name": "極癒忍傳"
+    },
+    {
         "appid": 3953400,
         "name": "Tindahan"
     },
@@ -198446,10 +198438,6 @@
     {
         "appid": 3953860,
         "name": "BURGER, NO PLEASE!"
-    },
-    {
-        "appid": 3953870,
-        "name": "인류보호회사"
     },
     {
         "appid": 3953890,
@@ -199998,5 +199986,17 @@
     {
         "appid": 3961920,
         "name": "Yandere Goth BDSM 3"
+    },
+    {
+        "appid": 3961940,
+        "name": "Liora's Price of Dignity"
+    },
+    {
+        "appid": 3961950,
+        "name": "Layang Atma"
+    },
+    {
+        "appid": 3961980,
+        "name": "Critters Breakout"
     }
 ]
