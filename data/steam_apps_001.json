@@ -76384,6 +76384,10 @@
         "name": "Rubicon Approach"
     },
     {
+        "appid": 563700,
+        "name": "VERLIES II Remaster"
+    },
+    {
         "appid": 563710,
         "name": "Loops of Zen"
     },
@@ -137082,6 +137086,10 @@
     {
         "appid": 839130,
         "name": "Snowball Saves Summer"
+    },
+    {
+        "appid": 839140,
+        "name": "修仙界"
     },
     {
         "appid": 839180,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1108190,
         "name": "Victorian Mysteries: The Yellow Room"
-    },
-    {
-        "appid": 1108240,
-        "name": "Code/The Werewolf Party"
-    },
-    {
-        "appid": 1108250,
-        "name": "All Systems Operational"
     }
 ]

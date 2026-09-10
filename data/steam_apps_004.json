@@ -54517,7 +54517,7 @@
     },
     {
         "appid": 3202440,
-        "name": "Enigma's Edge"
+        "name": "Fathom"
     },
     {
         "appid": 3202460,
@@ -57421,7 +57421,7 @@
     },
     {
         "appid": 3217240,
-        "name": "Soccer Manager 2026"
+        "name": "Soccer Manager 2027"
     },
     {
         "appid": 3217260,
@@ -76809,7 +76809,7 @@
     },
     {
         "appid": 3321440,
-        "name": "无限幻想"
+        "name": "余烬"
     },
     {
         "appid": 3321460,
@@ -103224,6 +103224,10 @@
         "name": "Street Life - Hollow Earth"
     },
     {
+        "appid": 3451790,
+        "name": "ALL LIGHT IS GONE"
+    },
+    {
         "appid": 3451820,
         "name": "Plates of Peril"
     },
@@ -118748,6 +118752,10 @@
         "name": "VR Helsing"
     },
     {
+        "appid": 3540180,
+        "name": "TabletKid Activity Book"
+    },
+    {
         "appid": 3540210,
         "name": "Demonstrate"
     },
@@ -118853,7 +118861,7 @@
     },
     {
         "appid": 3540740,
-        "name": "Project Arsk"
+        "name": "Audax"
     },
     {
         "appid": 3540760,
@@ -124205,7 +124213,7 @@
     },
     {
         "appid": 3568110,
-        "name": "IN HARNESS"
+        "name": "Wan der Pull"
     },
     {
         "appid": 3568140,
@@ -141561,7 +141569,7 @@
     },
     {
         "appid": 3655450,
-        "name": "Phase Pal"
+        "name": "Phase Pal: AI Desktop Assistant"
     },
     {
         "appid": 3655520,
@@ -145284,6 +145292,10 @@
         "name": "Arkwright"
     },
     {
+        "appid": 3674010,
+        "name": "MULTIMATUM"
+    },
+    {
         "appid": 3674070,
         "name": "Iona's Island"
     },
@@ -145422,10 +145434,6 @@
     {
         "appid": 3675340,
         "name": "Killing Things With Your Friends"
-    },
-    {
-        "appid": 3675360,
-        "name": "Tenra AI Multichat"
     },
     {
         "appid": 3675370,
@@ -146706,10 +146714,6 @@
     {
         "appid": 3682400,
         "name": "Parabellum: Siege Of Legends"
-    },
-    {
-        "appid": 3682440,
-        "name": "Othello: BattleRoyale"
     },
     {
         "appid": 3682450,
@@ -151012,6 +151016,10 @@
         "name": "Hentai Tales: Fallen Brave Squad"
     },
     {
+        "appid": 3705410,
+        "name": "Hundredfold: Hero's Ascent"
+    },
+    {
         "appid": 3705430,
         "name": "Hentai Tales: Sexual Guidance Class"
     },
@@ -155038,6 +155046,10 @@
     {
         "appid": 3727780,
         "name": "THE FERRY"
+    },
+    {
+        "appid": 3727790,
+        "name": "Winter’s Embrace"
     },
     {
         "appid": 3727810,
@@ -164316,6 +164328,10 @@
         "name": "Scalpel, Please!"
     },
     {
+        "appid": 3781790,
+        "name": "Eternal Anima"
+    },
+    {
         "appid": 3781840,
         "name": "Bartholomew.exe"
     },
@@ -170224,10 +170240,6 @@
         "name": "AI LIMIT - Eirene's Furnace of War"
     },
     {
-        "appid": 3813830,
-        "name": "Mawang: Dark Lord Defence - Prologue"
-    },
-    {
         "appid": 3813840,
         "name": "Rune Dungeon"
     },
@@ -175512,6 +175524,10 @@
         "name": "Lilialette's Hustle: Getting My Hands Dirty to Save My Guild"
     },
     {
+        "appid": 3841050,
+        "name": "Sacrifice Sanctuary: The Ritual Maiden's Life With Monsters"
+    },
+    {
         "appid": 3841070,
         "name": "Aethercore"
     },
@@ -178117,7 +178133,7 @@
     },
     {
         "appid": 3854080,
-        "name": "隐梦交织"
+        "name": "Interwoven Dream"
     },
     {
         "appid": 3854090,
@@ -182268,6 +182284,14 @@
         "name": "Fantasy Grounds - Stonewalkers Adventure"
     },
     {
+        "appid": 3873850,
+        "name": "Fantasy Grounds - Mistborn World Guide"
+    },
+    {
+        "appid": 3873860,
+        "name": "Fantasy Grounds - Mistborn Legacy Adventure"
+    },
+    {
         "appid": 3873870,
         "name": "Predator: Hunting Grounds - Oni Predator"
     },
@@ -184318,6 +184342,10 @@
     {
         "appid": 3883600,
         "name": "DOXU"
+    },
+    {
+        "appid": 3883610,
+        "name": "CarX Rally"
     },
     {
         "appid": 3883630,
@@ -199970,33 +199998,5 @@
     {
         "appid": 3961880,
         "name": "新.伪自由书"
-    },
-    {
-        "appid": 3961890,
-        "name": "Room 713"
-    },
-    {
-        "appid": 3961900,
-        "name": "Cosplay Shop Simulator"
-    },
-    {
-        "appid": 3961910,
-        "name": "Backrooms: The Familiar Place"
-    },
-    {
-        "appid": 3961920,
-        "name": "Yandere Goth BDSM 3"
-    },
-    {
-        "appid": 3961940,
-        "name": "Liora's Price of Dignity"
-    },
-    {
-        "appid": 3961950,
-        "name": "Layang Atma"
-    },
-    {
-        "appid": 3961980,
-        "name": "Critters Breakout"
     }
 ]

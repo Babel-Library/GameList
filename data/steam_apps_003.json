@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1953370,
+        "name": "Bowerwhelm"
+    },
+    {
+        "appid": 1953380,
+        "name": "Dungeon Rummage - Tiqee's Escape"
+    },
+    {
         "appid": 1953410,
         "name": "Armored Sinner"
     },
@@ -26984,14 +26992,6 @@
         "name": "4X4"
     },
     {
-        "appid": 2099910,
-        "name": "Infinity Pinball"
-    },
-    {
-        "appid": 2099920,
-        "name": "Robot Rejects"
-    },
-    {
         "appid": 2099930,
         "name": "飞越13号房 - 下：反击篇"
     },
@@ -27126,10 +27126,6 @@
     {
         "appid": 2100431,
         "name": "Solasta: Crown of the Magister - Palace of Ice"
-    },
-    {
-        "appid": 2100440,
-        "name": "System Restore"
     },
     {
         "appid": 2100450,
@@ -32106,6 +32102,10 @@
     {
         "appid": 2121820,
         "name": "正义的伙伴"
+    },
+    {
+        "appid": 2121830,
+        "name": "Back to the Mine"
     },
     {
         "appid": 2121840,
@@ -89800,10 +89800,6 @@
         "name": "Space Guardian"
     },
     {
-        "appid": 2382230,
-        "name": "The Egg"
-    },
-    {
         "appid": 2382240,
         "name": "Awita: Journey of Hope"
     },
@@ -117353,7 +117349,7 @@
     },
     {
         "appid": 2512550,
-        "name": "CLASH"
+        "name": "CLASH: Heroes of Feralia Terra"
     },
     {
         "appid": 2512560,
@@ -119898,10 +119894,6 @@
     {
         "appid": 2525150,
         "name": "Garden of Aiden"
-    },
-    {
-        "appid": 2525160,
-        "name": "Neo Run"
     },
     {
         "appid": 2525170,
@@ -160845,7 +160837,7 @@
     },
     {
         "appid": 2731030,
-        "name": "Algolemeth"
+        "name": "Dungeon Automata"
     },
     {
         "appid": 2731050,
@@ -167602,6 +167594,10 @@
     {
         "appid": 2764750,
         "name": "The Other Side"
+    },
+    {
+        "appid": 2764820,
+        "name": "Project Jump Scare"
     },
     {
         "appid": 2764830,
@@ -193474,6 +193470,10 @@
     {
         "appid": 2894750,
         "name": "Project 37"
+    },
+    {
+        "appid": 2894770,
+        "name": "PokerLines"
     },
     {
         "appid": 2894780,

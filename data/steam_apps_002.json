@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1108240,
+        "name": "Code/The Werewolf Party"
+    },
+    {
+        "appid": 1108250,
+        "name": "All Systems Operational"
+    },
+    {
         "appid": 1108270,
         "name": "Nova: Space Armada"
     },
@@ -76733,7 +76741,7 @@
     },
     {
         "appid": 1436940,
-        "name": "De:Press"
+        "name": "Only Hope"
     },
     {
         "appid": 1436950,
@@ -101757,7 +101765,7 @@
     },
     {
         "appid": 1549250,
-        "name": "UNDECEMBER: The Forge"
+        "name": "UNDECEMBER: The Farside"
     },
     {
         "appid": 1549270,
@@ -104482,6 +104490,10 @@
     {
         "appid": 1560590,
         "name": "Reality's Reverse Side"
+    },
+    {
+        "appid": 1560620,
+        "name": "Super Blue Bot"
     },
     {
         "appid": 1560640,
@@ -147818,10 +147830,6 @@
     {
         "appid": 1729770,
         "name": "Fantasy Jigsaw Puzzle 2"
-    },
-    {
-        "appid": 1729780,
-        "name": "Gladiator: about to die"
     },
     {
         "appid": 1729790,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1953240,
         "name": "Zeus Quest - The Rebirth of Earth"
-    },
-    {
-        "appid": 1953370,
-        "name": "Bowerwhelm"
-    },
-    {
-        "appid": 1953380,
-        "name": "Dungeon Rummage - Tiqee's Escape"
     }
 ]
