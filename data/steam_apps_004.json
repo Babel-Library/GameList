@@ -1,17 +1,5 @@
 [
     {
-        "appid": 2928830,
-        "name": "Blenderman"
-    },
-    {
-        "appid": 2928880,
-        "name": "Alchemy Mastery"
-    },
-    {
-        "appid": 2928900,
-        "name": "DATING OF THE FUTURE"
-    },
-    {
         "appid": 2928930,
         "name": "Mineclearer VR"
     },
@@ -35508,6 +35496,10 @@
         "name": "Desert Racer"
     },
     {
+        "appid": 3105960,
+        "name": "Astrobuilder"
+    },
+    {
         "appid": 3105970,
         "name": "ArmedAbyss"
     },
@@ -64900,6 +64892,10 @@
         "name": "Ex Vitium"
     },
     {
+        "appid": 3258830,
+        "name": "Loot & Bolt"
+    },
+    {
         "appid": 3258880,
         "name": "AStation"
     },
@@ -87172,6 +87168,10 @@
         "name": "蜀汉再临：源起 Restart ShuHan Dynasty:Origin"
     },
     {
+        "appid": 3371490,
+        "name": "Arcane Legion"
+    },
+    {
         "appid": 3371500,
         "name": "傲世修仙录"
     },
@@ -104572,6 +104572,10 @@
         "name": "Broadcast Empire"
     },
     {
+        "appid": 3458140,
+        "name": "NimerWorld: Shadows of a Promise"
+    },
+    {
         "appid": 3458170,
         "name": "Leap Year: March"
     },
@@ -112690,6 +112694,10 @@
     {
         "appid": 3504000,
         "name": "Tower! Simulator 3 - CYYZ Airport"
+    },
+    {
+        "appid": 3504010,
+        "name": "Don't Tread On Cat"
     },
     {
         "appid": 3504020,
@@ -122532,10 +122540,6 @@
         "name": "Sweet Roommate"
     },
     {
-        "appid": 3560160,
-        "name": "Bearly Awesome"
-    },
-    {
         "appid": 3560170,
         "name": "Yagazem Elements"
     },
@@ -128857,7 +128861,7 @@
     },
     {
         "appid": 3591430,
-        "name": "Magnetic Girls!"
+        "name": "Nono & Soso"
     },
     {
         "appid": 3591440,
@@ -136049,7 +136053,7 @@
     },
     {
         "appid": 3627140,
-        "name": "Rift of the NecroDancer: Hatsune Miku - \"Too Real\""
+        "name": "Rift of the NecroDancer: Hatsune Miku - \"Too Real\" - Danny Baranowsky"
     },
     {
         "appid": 3627200,
@@ -144894,6 +144898,10 @@
     {
         "appid": 3671910,
         "name": "Sashimi Slayer"
+    },
+    {
+        "appid": 3671920,
+        "name": "Help 2034"
     },
     {
         "appid": 3671970,
@@ -156294,6 +156302,10 @@
     {
         "appid": 3734700,
         "name": "Wonder Warp"
+    },
+    {
+        "appid": 3734710,
+        "name": "ADutopia"
     },
     {
         "appid": 3734730,
@@ -168042,6 +168054,10 @@
     {
         "appid": 3802450,
         "name": "Borderlands®4 - Story Pack 1: Mad Ellie and the Vault of the Damned"
+    },
+    {
+        "appid": 3802460,
+        "name": "Borderlands®4 - Story Pack 2: FL4K and the Last Resort"
     },
     {
         "appid": 3802470,
@@ -189272,6 +189288,10 @@
         "name": "AEVUM"
     },
     {
+        "appid": 3908520,
+        "name": "SYDI"
+    },
+    {
         "appid": 3908590,
         "name": "High Desire - Season One"
     },
@@ -191245,7 +191265,7 @@
     },
     {
         "appid": 3918850,
-        "name": "Might & Magic Fates - Heroes TCG"
+        "name": "Might and Magic The Card Game"
     },
     {
         "appid": 3918860,
@@ -195082,6 +195102,10 @@
     {
         "appid": 3937900,
         "name": "ReuniunO"
+    },
+    {
+        "appid": 3937930,
+        "name": "Idle Realms: Rise"
     },
     {
         "appid": 3937940,
@@ -199974,29 +199998,5 @@
     {
         "appid": 3961740,
         "name": "PaJinko"
-    },
-    {
-        "appid": 3961760,
-        "name": "Moe Mekuri Oppai Party"
-    },
-    {
-        "appid": 3961820,
-        "name": "Kindling"
-    },
-    {
-        "appid": 3961850,
-        "name": "Void Raid"
-    },
-    {
-        "appid": 3961860,
-        "name": "Shadows of the Deepforge"
-    },
-    {
-        "appid": 3961870,
-        "name": "Coinborne"
-    },
-    {
-        "appid": 3961880,
-        "name": "新.伪自由书"
     }
 ]

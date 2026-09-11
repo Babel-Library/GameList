@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1108240,
-        "name": "Code/The Werewolf Party"
-    },
-    {
-        "appid": 1108250,
-        "name": "All Systems Operational"
-    },
-    {
-        "appid": 1108270,
-        "name": "Nova: Space Armada"
-    },
-    {
-        "appid": 1108280,
-        "name": "Resident Evil Resistance - Male Survivor Costume: Leon S. Kennedy"
-    },
-    {
-        "appid": 1108310,
-        "name": "The Demon - Nicolas Eymerich Inquisitor Audiogame"
-    },
-    {
         "appid": 1108320,
         "name": "妄想破绽 Broken Delusion"
     },
@@ -28022,6 +28002,10 @@
     {
         "appid": 1218440,
         "name": "Tanks 2020"
+    },
+    {
+        "appid": 1218450,
+        "name": "リスキル・マイスキル"
     },
     {
         "appid": 1218460,
@@ -58590,10 +58574,6 @@
     {
         "appid": 1359590,
         "name": "DreadOut Comic: The Untolds"
-    },
-    {
-        "appid": 1359610,
-        "name": "Tabletopia - Guards of Atlantis II"
     },
     {
         "appid": 1359630,
@@ -102409,7 +102389,7 @@
     },
     {
         "appid": 1552060,
-        "name": "Sockpuppet Noire"
+        "name": "Sockpuppet Noir"
     },
     {
         "appid": 1552080,
@@ -192456,6 +192436,10 @@
         "name": "Whiskered Away"
     },
     {
+        "appid": 1922820,
+        "name": "Wallpaper Lock"
+    },
+    {
         "appid": 1922830,
         "name": "Erstwhile"
     },
@@ -199998,5 +199982,21 @@
     {
         "appid": 1953240,
         "name": "Zeus Quest - The Rebirth of Earth"
+    },
+    {
+        "appid": 1953370,
+        "name": "Bowerwhelm"
+    },
+    {
+        "appid": 1953380,
+        "name": "Dungeon Rummage - Tiqee's Escape"
+    },
+    {
+        "appid": 1953410,
+        "name": "Armored Sinner"
+    },
+    {
+        "appid": 1953430,
+        "name": "DearMyFriend"
     }
 ]

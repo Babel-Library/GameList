@@ -26997,7 +26997,7 @@
     },
     {
         "appid": 332610,
-        "name": "Mystik Belle"
+        "name": "Mystik Belle: Enchanted Edition"
     },
     {
         "appid": 332620,
@@ -66576,10 +66576,6 @@
         "name": "DUSK"
     },
     {
-        "appid": 519870,
-        "name": "0"
-    },
-    {
         "appid": 519890,
         "name": "Star Boss"
     },
@@ -72442,10 +72438,6 @@
     {
         "appid": 546160,
         "name": "Ladybug Quest"
-    },
-    {
-        "appid": 546170,
-        "name": "11"
     },
     {
         "appid": 546180,
@@ -160056,10 +160048,6 @@
         "name": "Fishing Sim World®: Pro Tour - Jezioro Bestii"
     },
     {
-        "appid": 940550,
-        "name": "000"
-    },
-    {
         "appid": 940570,
         "name": "Star Advent - Wallpapers"
     },
@@ -161650,14 +161638,6 @@
     {
         "appid": 947741,
         "name": "RPG Maker MV - Retro Fantasy Music Pack"
-    },
-    {
-        "appid": 947750,
-        "name": "Ne no Kami - The Two Princess Knights of Kyoto - 18+ Adult Only Content"
-    },
-    {
-        "appid": 947760,
-        "name": "Ne no Kami - The Two Princess Knights of Kyoto Part 2 - 18+ Adult Only Content"
     },
     {
         "appid": 947770,
@@ -175972,6 +175952,10 @@
         "name": "Photographs"
     },
     {
+        "appid": 1008930,
+        "name": "Heisenberg 101"
+    },
+    {
         "appid": 1008950,
         "name": "Armored Front: Tiger Command"
     },
@@ -178394,10 +178378,6 @@
     {
         "appid": 1019310,
         "name": "VirtuaVerse"
-    },
-    {
-        "appid": 1019320,
-        "name": "Flying Pengy - Costume Pack"
     },
     {
         "appid": 1019340,
@@ -199998,5 +199978,25 @@
     {
         "appid": 1108190,
         "name": "Victorian Mysteries: The Yellow Room"
+    },
+    {
+        "appid": 1108240,
+        "name": "Code/The Werewolf Party"
+    },
+    {
+        "appid": 1108250,
+        "name": "All Systems Operational"
+    },
+    {
+        "appid": 1108270,
+        "name": "Nova: Space Armada"
+    },
+    {
+        "appid": 1108280,
+        "name": "Resident Evil Resistance - Male Survivor Costume: Leon S. Kennedy"
+    },
+    {
+        "appid": 1108310,
+        "name": "The Demon - Nicolas Eymerich Inquisitor Audiogame"
     }
 ]
