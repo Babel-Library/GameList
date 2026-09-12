@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1108320,
-        "name": "妄想破绽 Broken Delusion"
-    },
-    {
-        "appid": 1108350,
-        "name": "Boet Fighter"
-    },
-    {
-        "appid": 1108370,
-        "name": "Ratropolis"
-    },
-    {
-        "appid": 1108380,
-        "name": "Highlight"
-    },
-    {
         "appid": 1108390,
         "name": "Cartonfall: Fortress - Defend Cardboard Castle"
     },
@@ -52634,10 +52618,6 @@
     {
         "appid": 1333480,
         "name": "Dominus - Multiplayer Sim Turn Based Strategy"
-    },
-    {
-        "appid": 1333490,
-        "name": "Dead Event"
     },
     {
         "appid": 1333500,
@@ -148032,6 +148012,10 @@
         "name": "The Entropy Centre"
     },
     {
+        "appid": 1730600,
+        "name": "Bolero: The Lost Isle"
+    },
+    {
         "appid": 1730630,
         "name": "The Dawning Clocks Of Time - Director's Cut"
     },
@@ -162946,6 +162930,10 @@
     {
         "appid": 1795190,
         "name": "Speedball"
+    },
+    {
+        "appid": 1795200,
+        "name": "bitLoner"
     },
     {
         "appid": 1795210,
@@ -189432,10 +189420,6 @@
         "name": "Alien Decimation"
     },
     {
-        "appid": 1909220,
-        "name": "Movie Quest"
-    },
-    {
         "appid": 1909230,
         "name": "VRUSEUM"
     },
@@ -199998,5 +199982,21 @@
     {
         "appid": 1953430,
         "name": "DearMyFriend"
+    },
+    {
+        "appid": 1953470,
+        "name": "Sim World"
+    },
+    {
+        "appid": 1953490,
+        "name": "Seven Deadly Dates"
+    },
+    {
+        "appid": 1953510,
+        "name": "RO-BOUNCE"
+    },
+    {
+        "appid": 1953520,
+        "name": "WRC Generations – The FIA WRC Official Game"
     }
 ]

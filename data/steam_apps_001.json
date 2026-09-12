@@ -5056,10 +5056,6 @@
         "name": "Theatre of War 3: Korea"
     },
     {
-        "appid": 63970,
-        "name": "IL-2 Sturmovik: Cliffs of Dover"
-    },
-    {
         "appid": 64000,
         "name": "Men of War: Assault Squad"
     },
@@ -151660,18 +151656,6 @@
         "name": "The Settlers 7: Downloadable Content Pack III"
     },
     {
-        "appid": 901638,
-        "name": "Dungeon Siege III"
-    },
-    {
-        "appid": 901735,
-        "name": "The Stronghold Collection"
-    },
-    {
-        "appid": 901776,
-        "name": "Fate of the World: Tipping Point"
-    },
-    {
         "appid": 901805,
         "name": "Saints Row: The Third Season Pass DLC Pack"
     },
@@ -199998,5 +199982,21 @@
     {
         "appid": 1108310,
         "name": "The Demon - Nicolas Eymerich Inquisitor Audiogame"
+    },
+    {
+        "appid": 1108320,
+        "name": "妄想破绽 Broken Delusion"
+    },
+    {
+        "appid": 1108350,
+        "name": "Boet Fighter"
+    },
+    {
+        "appid": 1108370,
+        "name": "Ratropolis"
+    },
+    {
+        "appid": 1108380,
+        "name": "Highlight"
     }
 ]

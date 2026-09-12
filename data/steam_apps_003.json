@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1953470,
-        "name": "Sim World"
-    },
-    {
-        "appid": 1953490,
-        "name": "Seven Deadly Dates"
-    },
-    {
-        "appid": 1953510,
-        "name": "RO-BOUNCE"
-    },
-    {
-        "appid": 1953520,
-        "name": "WRC Generations – The FIA WRC Official Game"
-    },
-    {
         "appid": 1953530,
         "name": "The Last Man"
     },
@@ -61554,10 +61538,6 @@
     {
         "appid": 2253300,
         "name": "Upheaval"
-    },
-    {
-        "appid": 2253310,
-        "name": "Aimlabs+ Premium Membership"
     },
     {
         "appid": 2253350,
@@ -175848,10 +175828,6 @@
         "name": "Welcome to Ukraine"
     },
     {
-        "appid": 2806840,
-        "name": "Arcane Array Arena"
-    },
-    {
         "appid": 2806860,
         "name": "Jurassic World Evolution 2: Secret Species Pack"
     },
@@ -190092,10 +190068,6 @@
         "name": "Ariane in Paradise"
     },
     {
-        "appid": 2878410,
-        "name": "Old Market Simulator: Prologue"
-    },
-    {
         "appid": 2878420,
         "name": "Old Market Simulator"
     },
@@ -197984,6 +197956,10 @@
         "name": "The Mystery Mist"
     },
     {
+        "appid": 2919180,
+        "name": "Unknown: Site-0"
+    },
+    {
         "appid": 2919190,
         "name": "Summon Legion"
     },
@@ -199998,5 +199974,29 @@
     {
         "appid": 2928900,
         "name": "DATING OF THE FUTURE"
+    },
+    {
+        "appid": 2928930,
+        "name": "Mineclearer VR"
+    },
+    {
+        "appid": 2928940,
+        "name": "Yarn Guardians"
+    },
+    {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
     }
 ]

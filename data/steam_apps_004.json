@@ -1,29 +1,5 @@
 [
     {
-        "appid": 2928930,
-        "name": "Mineclearer VR"
-    },
-    {
-        "appid": 2928940,
-        "name": "Yarn Guardians"
-    },
-    {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
         "appid": 2929020,
         "name": "A Twisted Place"
     },
@@ -27162,10 +27138,6 @@
     {
         "appid": 3065120,
         "name": "Max's Adventure"
-    },
-    {
-        "appid": 3065140,
-        "name": "City Party"
     },
     {
         "appid": 3065150,
@@ -91076,10 +91048,6 @@
         "name": "SHOCK"
     },
     {
-        "appid": 3391140,
-        "name": "Cam Quest"
-    },
-    {
         "appid": 3391150,
         "name": "百禾梦境漫游 Wandering Dreams of Yuri"
     },
@@ -93082,6 +93050,10 @@
     {
         "appid": 3400610,
         "name": "Warrior of democracy"
+    },
+    {
+        "appid": 3400620,
+        "name": "lil: Essence of Life"
     },
     {
         "appid": 3400640,
@@ -108006,6 +107978,10 @@
     {
         "appid": 3477740,
         "name": "Mistress Marigold's Home Improvement"
+    },
+    {
+        "appid": 3477760,
+        "name": "Wrathbreaker"
     },
     {
         "appid": 3477800,
@@ -138248,14 +138224,6 @@
         "name": "Goblita’s Delivery Service"
     },
     {
-        "appid": 3638460,
-        "name": "汉武专用定制DLC-D度空间新（非卖品）"
-    },
-    {
-        "appid": 3638470,
-        "name": "汉武专用定制DLC-Jack新（非卖品）"
-    },
-    {
         "appid": 3638500,
         "name": "Juiced Fruit Racing"
     },
@@ -140022,14 +139990,6 @@
     {
         "appid": 3648020,
         "name": "汉武大帝传-仙丹盛宴超级合集（限购1次）"
-    },
-    {
-        "appid": 3648030,
-        "name": "汉帝-定制迁移预留1-D（非卖品）"
-    },
-    {
-        "appid": 3648040,
-        "name": "汉帝-定制迁移预留2-J（非卖品）"
     },
     {
         "appid": 3648060,
@@ -146200,10 +146160,6 @@
         "name": "Ghosts of Tabor - Black Ops Weapon Pack"
     },
     {
-        "appid": 3679650,
-        "name": "汉武大帝传-定制DLC2叛逆的猴子"
-    },
-    {
         "appid": 3679690,
         "name": "Duskmarch"
     },
@@ -148190,6 +148146,10 @@
     {
         "appid": 3690030,
         "name": "The Last Gas Station"
+    },
+    {
+        "appid": 3690040,
+        "name": "Street Shift"
     },
     {
         "appid": 3690050,
@@ -159574,6 +159534,10 @@
     {
         "appid": 3753720,
         "name": "Come Again, Chachii?"
+    },
+    {
+        "appid": 3753740,
+        "name": "SpaceFabrica"
     },
     {
         "appid": 3753760,
@@ -175552,6 +175516,10 @@
         "name": "Fantasy Grounds - Pathfinder 2 RPG - Shades of Blood Adventure Path: Thirst for Blood (1 of 3)"
     },
     {
+        "appid": 3841100,
+        "name": "Ars Moriendi"
+    },
+    {
         "appid": 3841110,
         "name": "Attorney Disbarment Adventure"
     },
@@ -176338,6 +176306,10 @@
     {
         "appid": 3845170,
         "name": "Life Coach"
+    },
+    {
+        "appid": 3845200,
+        "name": "WorldLattice"
     },
     {
         "appid": 3845210,
@@ -199312,6 +199284,10 @@
         "name": "FROB"
     },
     {
+        "appid": 3958210,
+        "name": "Digging A Hole In Ice With A Chainsaw"
+    },
+    {
         "appid": 3958240,
         "name": "CATGIRLS DO PORN"
     },
@@ -199998,5 +199974,29 @@
     {
         "appid": 3961740,
         "name": "PaJinko"
+    },
+    {
+        "appid": 3961760,
+        "name": "Moe Mekuri Oppai Party"
+    },
+    {
+        "appid": 3961820,
+        "name": "Kindling"
+    },
+    {
+        "appid": 3961850,
+        "name": "Void Raid"
+    },
+    {
+        "appid": 3961860,
+        "name": "Shadows of the Deepforge"
+    },
+    {
+        "appid": 3961870,
+        "name": "Coinborne"
+    },
+    {
+        "appid": 3961880,
+        "name": "新.伪自由书"
     }
 ]
