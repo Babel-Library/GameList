@@ -24856,6 +24856,10 @@
         "name": "Tharsis"
     },
     {
+        "appid": 323080,
+        "name": "Flesh & Bone"
+    },
+    {
         "appid": 323150,
         "name": "Half-Life 2: Episode One Soundtrack"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1108370,
         "name": "Ratropolis"
-    },
-    {
-        "appid": 1108380,
-        "name": "Highlight"
     }
 ]

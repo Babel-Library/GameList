@@ -1,5 +1,13 @@
 [
     {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
         "appid": 2929020,
         "name": "A Twisted Place"
     },
@@ -35282,6 +35290,10 @@
     {
         "appid": 3104930,
         "name": "Ars Demonium Invocatum"
+    },
+    {
+        "appid": 3104950,
+        "name": "Seamies"
     },
     {
         "appid": 3104970,
@@ -95282,6 +95294,10 @@
     {
         "appid": 3412210,
         "name": "Demon’s Soar"
+    },
+    {
+        "appid": 3412220,
+        "name": "Eras Showdown"
     },
     {
         "appid": 3412230,
@@ -172288,6 +172304,10 @@
         "name": "Lust Goddess - Mascot River"
     },
     {
+        "appid": 3824140,
+        "name": "Evomon World"
+    },
+    {
         "appid": 3824170,
         "name": "Master of the House DX"
     },
@@ -190092,6 +190112,10 @@
         "name": "铁骑少女DLC-美术设定集 Cavalry Girls - Art Book"
     },
     {
+        "appid": 3913000,
+        "name": "铁骑少女DLC - 赭石色（CavalryGirls DLC - Orcher）"
+    },
+    {
         "appid": 3913020,
         "name": "UnPerfect World"
     },
@@ -199974,29 +199998,5 @@
     {
         "appid": 3961740,
         "name": "PaJinko"
-    },
-    {
-        "appid": 3961760,
-        "name": "Moe Mekuri Oppai Party"
-    },
-    {
-        "appid": 3961820,
-        "name": "Kindling"
-    },
-    {
-        "appid": 3961850,
-        "name": "Void Raid"
-    },
-    {
-        "appid": 3961860,
-        "name": "Shadows of the Deepforge"
-    },
-    {
-        "appid": 3961870,
-        "name": "Coinborne"
-    },
-    {
-        "appid": 3961880,
-        "name": "新.伪自由书"
     }
 ]
