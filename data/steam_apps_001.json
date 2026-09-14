@@ -60244,26 +60244,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492972,
-        "name": "Rocksmith® 2014 – Fleetwood Mac - “Never Going Back Again”"
-    },
-    {
-        "appid": 492973,
-        "name": "Rocksmith® 2014 – A Flock of Seagulls - “I Ran (So Far Away)”"
-    },
-    {
-        "appid": 492974,
-        "name": "Rocksmith® 2014 – Sepultura - “Refuse/Resist”"
-    },
-    {
-        "appid": 492975,
-        "name": "Rocksmith® 2014 – A Day To Remember - “I’m Made of Wax, Larry, What Are You Made Of?”"
-    },
-    {
-        "appid": 492976,
-        "name": "Rocksmith® 2014 – Variety Song Pack IV"
-    },
-    {
         "appid": 492977,
         "name": "Rocksmith® 2014 – Misfits - “Last Caress”"
     },
@@ -199998,5 +199978,25 @@
     {
         "appid": 1108370,
         "name": "Ratropolis"
+    },
+    {
+        "appid": 1108380,
+        "name": "Highlight"
+    },
+    {
+        "appid": 1108390,
+        "name": "Cartonfall: Fortress - Defend Cardboard Castle"
+    },
+    {
+        "appid": 1108410,
+        "name": "theHunter: Call of the Wild™ - Weapon Pack 3"
+    },
+    {
+        "appid": 1108450,
+        "name": "War Thunder - US Starter Pack"
+    },
+    {
+        "appid": 1108460,
+        "name": "DRAGON BALL XENOVERSE 2 - Ultra Pack Set"
     }
 ]

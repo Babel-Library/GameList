@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1108380,
-        "name": "Highlight"
-    },
-    {
-        "appid": 1108390,
-        "name": "Cartonfall: Fortress - Defend Cardboard Castle"
-    },
-    {
-        "appid": 1108410,
-        "name": "theHunter: Call of the Wild™ - Weapon Pack 3"
-    },
-    {
-        "appid": 1108450,
-        "name": "War Thunder - US Starter Pack"
-    },
-    {
-        "appid": 1108460,
-        "name": "DRAGON BALL XENOVERSE 2 - Ultra Pack Set"
-    },
-    {
         "appid": 1108461,
         "name": "DRAGON BALL XENOVERSE 2 - Ultra Pack 2"
     },
@@ -63366,6 +63346,10 @@
     {
         "appid": 1378040,
         "name": "Tear and the Library of Labyrinths"
+    },
+    {
+        "appid": 1378050,
+        "name": "Second Dawn"
     },
     {
         "appid": 1378060,
@@ -199998,5 +199982,21 @@
     {
         "appid": 1953490,
         "name": "Seven Deadly Dates"
+    },
+    {
+        "appid": 1953510,
+        "name": "RO-BOUNCE"
+    },
+    {
+        "appid": 1953520,
+        "name": "WRC Generations – The FIA WRC Official Game"
+    },
+    {
+        "appid": 1953530,
+        "name": "The Last Man"
+    },
+    {
+        "appid": 1953540,
+        "name": "Furry Shades of Gay 3: Still Gayer"
     }
 ]

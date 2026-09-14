@@ -1,17 +1,5 @@
 [
     {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
         "appid": 2929040,
         "name": "Fleetbreakers"
     },
@@ -32397,7 +32385,7 @@
     },
     {
         "appid": 3091110,
-        "name": "マジギレ限界OLちゃん"
+        "name": "ギリギリ限界OLさとみ"
     },
     {
         "appid": 3091120,
@@ -49974,6 +49962,10 @@
     {
         "appid": 3180350,
         "name": "Bounty Drag Racing - FWD Pack 1"
+    },
+    {
+        "appid": 3180380,
+        "name": "Haven"
     },
     {
         "appid": 3180400,
@@ -110080,6 +110072,10 @@
         "name": "Meow"
     },
     {
+        "appid": 3489210,
+        "name": "What Lies Within"
+    },
+    {
         "appid": 3489220,
         "name": "Kkokko Industry"
     },
@@ -120313,7 +120309,7 @@
     },
     {
         "appid": 3549030,
-        "name": "无尽地下城"
+        "name": "Heavensmith: Dungeon Unbound"
     },
     {
         "appid": 3549060,
@@ -135265,7 +135261,7 @@
     },
     {
         "appid": 3623360,
-        "name": "Hotel Palm Beach  : The Big CleanUp"
+        "name": "The Big Cleanup: Hotel Palm Beach"
     },
     {
         "appid": 3623370,
@@ -154002,6 +153998,10 @@
     {
         "appid": 3722090,
         "name": "Parasensor"
+    },
+    {
+        "appid": 3722100,
+        "name": "Match & Magic"
     },
     {
         "appid": 3722130,

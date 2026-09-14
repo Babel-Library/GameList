@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1953510,
-        "name": "RO-BOUNCE"
-    },
-    {
-        "appid": 1953520,
-        "name": "WRC Generations – The FIA WRC Official Game"
-    },
-    {
-        "appid": 1953530,
-        "name": "The Last Man"
-    },
-    {
-        "appid": 1953540,
-        "name": "Furry Shades of Gay 3: Still Gayer"
-    },
-    {
         "appid": 1953550,
         "name": "Forest Grump"
     },
@@ -192024,6 +192008,10 @@
         "name": "Wizard Tournament"
     },
     {
+        "appid": 2887810,
+        "name": "Sentinel Trials"
+    },
+    {
         "appid": 2887820,
         "name": "kallio"
     },
@@ -199998,5 +199986,17 @@
     {
         "appid": 2928990,
         "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
     }
 ]
