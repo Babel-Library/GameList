@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1108461,
-        "name": "DRAGON BALL XENOVERSE 2 - Ultra Pack 2"
-    },
-    {
         "appid": 1108530,
         "name": "PUZZLE: OCEAN - Puzzle Pack: FISH PACK"
     },
@@ -58673,7 +58669,7 @@
     },
     {
         "appid": 1360220,
-        "name": "Tora Tora!"
+        "name": "AKAGI SKIES"
     },
     {
         "appid": 1360250,
@@ -128356,6 +128352,10 @@
         "name": "Tiger Tank 59 Ⅰ A-Gun MP100"
     },
     {
+        "appid": 1667970,
+        "name": "Enthroned"
+    },
+    {
         "appid": 1668010,
         "name": "Virtual Amusement"
     },
@@ -146473,7 +146473,7 @@
     },
     {
         "appid": 1723530,
-        "name": "Stones Keeper"
+        "name": "Stones Keeper: Director's Cut"
     },
     {
         "appid": 1723540,
@@ -148001,7 +148001,7 @@
     },
     {
         "appid": 1730600,
-        "name": "Bolero: The Lost Isle"
+        "name": "Bolero: The Shifting Isle"
     },
     {
         "appid": 1730630,
@@ -149210,10 +149210,6 @@
     {
         "appid": 1735170,
         "name": "SlimeSlider"
-    },
-    {
-        "appid": 1735230,
-        "name": "Stones Keeper: Prologue"
     },
     {
         "appid": 1735300,
@@ -186520,10 +186516,6 @@
         "name": "Bloody Forest"
     },
     {
-        "appid": 1894790,
-        "name": "Stones Keeper: King Aurelius"
-    },
-    {
         "appid": 1894860,
         "name": "R is for Rachel"
     },
@@ -199998,5 +199990,13 @@
     {
         "appid": 1953540,
         "name": "Furry Shades of Gay 3: Still Gayer"
+    },
+    {
+        "appid": 1953550,
+        "name": "Forest Grump"
+    },
+    {
+        "appid": 1953580,
+        "name": "Samurai Solitaire. Threads of Fate"
     }
 ]

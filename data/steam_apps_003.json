@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1953550,
-        "name": "Forest Grump"
-    },
-    {
-        "appid": 1953580,
-        "name": "Samurai Solitaire. Threads of Fate"
-    },
-    {
         "appid": 1953590,
         "name": "Sailor’s Stories Solitaire"
     },
@@ -48897,7 +48889,7 @@
     },
     {
         "appid": 2197690,
-        "name": "美少女大战僵尸"
+        "name": "Girls vs Zombies"
     },
     {
         "appid": 2197740,
@@ -80745,7 +80737,7 @@
     },
     {
         "appid": 2343090,
-        "name": "Porkotyler's Captain Dodger"
+        "name": "Captain Dodger"
     },
     {
         "appid": 2343100,
@@ -85582,6 +85574,10 @@
     {
         "appid": 2365350,
         "name": "Training and War Simulation (TWS)"
+    },
+    {
+        "appid": 2365370,
+        "name": "Dodge Mayhem"
     },
     {
         "appid": 2365380,
@@ -126888,6 +126884,10 @@
         "name": "A-Mazing3D"
     },
     {
+        "appid": 2560840,
+        "name": "Steel Aces"
+    },
+    {
         "appid": 2560850,
         "name": "Gem Blast"
     },
@@ -137737,7 +137737,7 @@
     },
     {
         "appid": 2618160,
-        "name": "Legends of Starkadia"
+        "name": "Legends of Starkadia: Chapter 1"
     },
     {
         "appid": 2618170,
@@ -155181,7 +155181,7 @@
     },
     {
         "appid": 2702830,
-        "name": "Seers of Ages Past 1: The Harbinger of Mah"
+        "name": "Seers of Ages Past: The Harbinger of Mah"
     },
     {
         "appid": 2702850,
@@ -164842,6 +164842,10 @@
     {
         "appid": 2751060,
         "name": "Flora & Fang: Guardians of the vampire garden"
+    },
+    {
+        "appid": 2751070,
+        "name": "Paleokin"
     },
     {
         "appid": 2751080,
@@ -174876,6 +174880,10 @@
         "name": "Prime"
     },
     {
+        "appid": 2802090,
+        "name": "大胤·宦海"
+    },
+    {
         "appid": 2802100,
         "name": "Travellin Cats in Italy - Coloring Book"
     },
@@ -177969,7 +177977,7 @@
     },
     {
         "appid": 2818110,
-        "name": "侠影放置(XiaPal Idle)"
+        "name": "Meowxia: Idle Wuxia"
     },
     {
         "appid": 2818120,
@@ -182925,7 +182933,7 @@
     },
     {
         "appid": 2842720,
-        "name": "TOONSOULS"
+        "name": "ToonSouls Maker"
     },
     {
         "appid": 2842740,
@@ -188382,10 +188390,6 @@
     {
         "appid": 2870400,
         "name": "Dreamers Disease"
-    },
-    {
-        "appid": 2870410,
-        "name": "Henry's Forgotten Performance"
     },
     {
         "appid": 2870420,
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929010,
         "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
     }
 ]

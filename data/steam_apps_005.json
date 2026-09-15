@@ -1,5 +1,41 @@
 [
     {
+        "appid": 3961570,
+        "name": "Eon's Insomnium"
+    },
+    {
+        "appid": 3961580,
+        "name": "Math Frenzy"
+    },
+    {
+        "appid": 3961600,
+        "name": "Echoes of the Wind"
+    },
+    {
+        "appid": 3961630,
+        "name": "Eidolon: Fate of Fools"
+    },
+    {
+        "appid": 3961650,
+        "name": "Perfect Hue Arena"
+    },
+    {
+        "appid": 3961680,
+        "name": "Move Code Lines - Move Python Lines"
+    },
+    {
+        "appid": 3961690,
+        "name": "I Saw a Flying Saucer"
+    },
+    {
+        "appid": 3961710,
+        "name": "Prosrochennyy"
+    },
+    {
+        "appid": 3961740,
+        "name": "PaJinko"
+    },
+    {
         "appid": 3961760,
         "name": "Moe Mekuri Oppai Party"
     },
@@ -2986,6 +3022,10 @@
     {
         "appid": 3977520,
         "name": "Euro Truck Simulator 2 - DAF XF Electric"
+    },
+    {
+        "appid": 3977540,
+        "name": "Arcturus Vision Gaussian XR"
     },
     {
         "appid": 3977550,
@@ -12200,6 +12240,10 @@
         "name": "Built in 5 minutes"
     },
     {
+        "appid": 4028700,
+        "name": "Garagiste: Winemaking Simulator"
+    },
+    {
         "appid": 4028760,
         "name": "Cosmo Cargo"
     },
@@ -12726,6 +12770,10 @@
     {
         "appid": 4031850,
         "name": "LITTLE CAT TINY STRAYS"
+    },
+    {
+        "appid": 4031860,
+        "name": "Tic Card Toe"
     },
     {
         "appid": 4031880,
@@ -25016,6 +25064,10 @@
         "name": "Libra Apocrypha"
     },
     {
+        "appid": 4103250,
+        "name": "Arcturus Vision Camera"
+    },
+    {
         "appid": 4103280,
         "name": "Purranoia"
     },
@@ -25758,6 +25810,14 @@
     {
         "appid": 4107820,
         "name": "Angels of Park Avenue"
+    },
+    {
+        "appid": 4107830,
+        "name": "Active Matter - Upgrade to Advanced Edition"
+    },
+    {
+        "appid": 4107840,
+        "name": "Active Matter - Upgrade to Deluxe Edition"
     },
     {
         "appid": 4107860,
@@ -29001,7 +29061,7 @@
     },
     {
         "appid": 4124320,
-        "name": "Silent Road"
+        "name": "Road to Jukai"
     },
     {
         "appid": 4124340,
@@ -32388,6 +32448,10 @@
         "name": "gAillery: Don't Trust Your Eyes"
     },
     {
+        "appid": 4142560,
+        "name": "Smoke and Steel"
+    },
+    {
         "appid": 4142570,
         "name": "Evil Girls Party!"
     },
@@ -33817,23 +33881,23 @@
     },
     {
         "appid": 4150480,
-        "name": "応援曲：球団別セット（広島）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（広島）"
     },
     {
         "appid": 4150490,
-        "name": "応援曲：「SKY」"
+        "name": "プロ野球スピリッツ2026：応援曲：「SKY」"
     },
     {
         "appid": 4150500,
-        "name": "応援曲：球団別セット（中日）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（中日）"
     },
     {
         "appid": 4150510,
-        "name": "応援曲：球団別セット（巨人）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（巨人）"
     },
     {
         "appid": 4150520,
-        "name": "応援曲：「阪神タイガースの歌」"
+        "name": "プロ野球スピリッツ2026：応援曲：「阪神タイガースの歌」"
     },
     {
         "appid": 4150550,
@@ -35394,6 +35458,10 @@
     {
         "appid": 4158560,
         "name": "代号: Gabby's adventure"
+    },
+    {
+        "appid": 4158580,
+        "name": "DAVE THE DIVER - GGST Content Pack"
     },
     {
         "appid": 4158600,
@@ -44072,6 +44140,10 @@
         "name": "Nearborn"
     },
     {
+        "appid": 4205480,
+        "name": "Football Career Mode 28"
+    },
+    {
         "appid": 4205520,
         "name": "NiseMMD"
     },
@@ -52254,6 +52326,10 @@
     {
         "appid": 4248180,
         "name": "SECTOR LOCKDOWN"
+    },
+    {
+        "appid": 4248190,
+        "name": "Sunborn"
     },
     {
         "appid": 4248210,
@@ -60897,7 +60973,7 @@
     },
     {
         "appid": 4293560,
-        "name": "RAZE BONE"
+        "name": "RevilBone"
     },
     {
         "appid": 4293580,
@@ -61950,6 +62026,10 @@
     {
         "appid": 4298770,
         "name": "Capy's Hot Springs Haven"
+    },
+    {
+        "appid": 4298780,
+        "name": "Lumenweld"
     },
     {
         "appid": 4298790,
@@ -68248,6 +68328,10 @@
         "name": "Final Payload"
     },
     {
+        "appid": 4336090,
+        "name": "Bad Tides"
+    },
+    {
         "appid": 4336110,
         "name": "1000xRESIST - Piano Book Vol.4"
     },
@@ -69944,10 +70028,6 @@
         "name": "Project T.H.R.U.S.T."
     },
     {
-        "appid": 4346380,
-        "name": "Wanderwilds"
-    },
-    {
         "appid": 4346430,
         "name": "鳌太线模拟器"
     },
@@ -71444,6 +71524,10 @@
         "name": "Horny Legends: Harem of Goddesses"
     },
     {
+        "appid": 4356150,
+        "name": "Plunderfall"
+    },
+    {
         "appid": 4356170,
         "name": "异乡情缘"
     },
@@ -71546,6 +71630,10 @@
     {
         "appid": 4356770,
         "name": "Lost In Dimensions"
+    },
+    {
+        "appid": 4356780,
+        "name": "Screen Stocks"
     },
     {
         "appid": 4356810,
@@ -72150,6 +72238,10 @@
     {
         "appid": 4360690,
         "name": "银色记忆"
+    },
+    {
+        "appid": 4360720,
+        "name": "Meeple Incremental - Supporter Pack"
     },
     {
         "appid": 4360740,
@@ -82876,6 +82968,10 @@
         "name": "Heart & Steel: The Forsworn"
     },
     {
+        "appid": 4427710,
+        "name": "Scarlet Trigger"
+    },
+    {
         "appid": 4427720,
         "name": "Pigs On Wings"
     },
@@ -85305,191 +85401,191 @@
     },
     {
         "appid": 4441210,
-        "name": "応援曲：球団別セット（ヤクルト）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（ヤクルト）"
     },
     {
         "appid": 4441220,
-        "name": "応援曲：球団別セット（DeNA）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（DeNA）"
     },
     {
         "appid": 4441230,
-        "name": "応援曲：球団別セット（楽天）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（楽天）"
     },
     {
         "appid": 4441240,
-        "name": "応援曲：球団別セット（北海道日本ハム）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（北海道日本ハム）"
     },
     {
         "appid": 4441250,
-        "name": "応援曲：球団別セット（西武）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（西武）"
     },
     {
         "appid": 4441260,
-        "name": "応援曲：球団別セット（ロッテ）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（ロッテ）"
     },
     {
         "appid": 4441270,
-        "name": "応援曲：球団別セット（ソフトバンク）"
+        "name": "プロ野球スピリッツ2026：応援曲：球団別セット（ソフトバンク）"
     },
     {
         "appid": 4441280,
-        "name": "応援曲：全球団セット"
+        "name": "プロ野球スピリッツ2026：応援曲：全球団セット"
     },
     {
         "appid": 4441300,
-        "name": "選手テーマ：（巨人）「坂本勇人選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「坂本勇人選手のテーマ」"
     },
     {
         "appid": 4441310,
-        "name": "選手テーマ：（巨人）「吉川尚輝選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「吉川尚輝選手のテーマ」"
     },
     {
         "appid": 4441320,
-        "name": "選手テーマ：（巨人）「小林誠司選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「小林誠司選手のテーマ」"
     },
     {
         "appid": 4441330,
-        "name": "選手テーマ：（巨人）「丸佳浩選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「丸佳浩選手のテーマ」"
     },
     {
         "appid": 4441340,
-        "name": "選手テーマ：（巨人）「大城卓三選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「大城卓三選手のテーマ」"
     },
     {
         "appid": 4441350,
-        "name": "選手テーマ：（巨人）「増田大輝選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「増田大輝選手のテーマ」"
     },
     {
         "appid": 4441360,
-        "name": "選手テーマ：（巨人）「増田陸選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「増田陸選手のテーマ」"
     },
     {
         "appid": 4441370,
-        "name": "選手テーマ：（巨人）「門脇誠選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「門脇誠選手のテーマ」"
     },
     {
         "appid": 4441380,
-        "name": "選手テーマ：（巨人）「中山礼都選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「中山礼都選手のテーマ」"
     },
     {
         "appid": 4441390,
-        "name": "選手テーマ：（巨人）「浅野翔吾選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「浅野翔吾選手のテーマ」"
     },
     {
         "appid": 4441410,
-        "name": "選手テーマ：（巨人）「萩尾匡也選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「萩尾匡也選手のテーマ」"
     },
     {
         "appid": 4441420,
-        "name": "選手テーマ：（巨人）「佐々木俊輔選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「佐々木俊輔選手のテーマ」"
     },
     {
         "appid": 4441430,
-        "name": "選手テーマ：（巨人）「甲斐拓也選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「甲斐拓也選手のテーマ」"
     },
     {
         "appid": 4441440,
-        "name": "選手テーマ：（巨人）「岸田行倫選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（巨人）「岸田行倫選手のテーマ」"
     },
     {
         "appid": 4441450,
-        "name": "選手テーマ：（中日）「高橋周平選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「高橋周平選手のテーマ」"
     },
     {
         "appid": 4441460,
-        "name": "選手テーマ：（中日）「大島洋平選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「大島洋平選手のテーマ」"
     },
     {
         "appid": 4441470,
-        "name": "選手テーマ：（中日）「根尾昂選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「根尾昂選手のテーマ」"
     },
     {
         "appid": 4441480,
-        "name": "選手テーマ：（中日）「根尾昂選手のテーマ(パワプロver.)」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「根尾昂選手のテーマ(パワプロver.)」"
     },
     {
         "appid": 4441490,
-        "name": "選手テーマ：（中日）「木下拓哉選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「木下拓哉選手のテーマ」"
     },
     {
         "appid": 4441500,
-        "name": "選手テーマ：（中日）「岡林勇希選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「岡林勇希選手のテーマ」"
     },
     {
         "appid": 4441510,
-        "name": "選手テーマ：（中日）「鵜飼航丞選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「鵜飼航丞選手のテーマ」"
     },
     {
         "appid": 4441520,
-        "name": "選手テーマ：（中日）「加藤匠馬選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「加藤匠馬選手のテーマ」"
     },
     {
         "appid": 4441530,
-        "name": "選手テーマ：（中日）「石川昂弥選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「石川昂弥選手のテーマ」"
     },
     {
         "appid": 4441540,
-        "name": "選手テーマ：（中日）「土田龍空選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「土田龍空選手のテーマ」"
     },
     {
         "appid": 4441550,
-        "name": "選手テーマ：（中日）「村松開人選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「村松開人選手のテーマ」"
     },
     {
         "appid": 4441560,
-        "name": "選手テーマ：（中日）「宇佐見真吾選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「宇佐見真吾選手のテーマ」"
     },
     {
         "appid": 4441570,
-        "name": "選手テーマ：（中日）「上林誠知選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「上林誠知選手のテーマ」"
     },
     {
         "appid": 4441580,
-        "name": "選手テーマ：（中日）「細川成也選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「細川成也選手のテーマ」"
     },
     {
         "appid": 4441590,
-        "name": "選手テーマ：（中日）「福永裕基選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「福永裕基選手のテーマ」"
     },
     {
         "appid": 4441600,
-        "name": "選手テーマ：（中日）「カリステ選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「カリステ選手のテーマ」"
     },
     {
         "appid": 4441610,
-        "name": "選手テーマ：（中日）「田中幹也選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（中日）「田中幹也選手のテーマ」"
     },
     {
         "appid": 4441620,
-        "name": "選手テーマ：（ロッテ）「角中勝也選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ロッテ）「角中勝也選手応援歌」"
     },
     {
         "appid": 4441630,
-        "name": "選手テーマ：（ソフトバンク）「柳田悠岐選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「柳田悠岐選手のテーマ」"
     },
     {
         "appid": 4441640,
-        "name": "選手テーマ：（ソフトバンク）「今宮健太選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「今宮健太選手のテーマ」"
     },
     {
         "appid": 4441650,
-        "name": "選手テーマ：（ソフトバンク）「中村晃選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「中村晃選手のテーマ」"
     },
     {
         "appid": 4441660,
-        "name": "選手テーマ：（ソフトバンク）「牧原大成選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「牧原大成選手のテーマ」"
     },
     {
         "appid": 4441670,
-        "name": "選手テーマ：（ソフトバンク）「栗原陵矢選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「栗原陵矢選手のテーマ」"
     },
     {
         "appid": 4441680,
-        "name": "選手テーマ：（ソフトバンク）「川瀬晃選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「川瀬晃選手のテーマ」"
     },
     {
         "appid": 4441700,
-        "name": "選手テーマ：（ソフトバンク）「近藤健介選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「近藤健介選手のテーマ」"
     },
     {
         "appid": 4441710,
@@ -85501,39 +85597,39 @@
     },
     {
         "appid": 4441740,
-        "name": "選手テーマ：（ソフトバンク）「野村勇選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「野村勇選手のテーマ」"
     },
     {
         "appid": 4441750,
-        "name": "選手テーマ：（ソフトバンク）「柳町達選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「柳町達選手のテーマ」"
     },
     {
         "appid": 4441760,
-        "name": "選手テーマ：（ソフトバンク）「嶺井博希選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「嶺井博希選手のテーマ」"
     },
     {
         "appid": 4441770,
-        "name": "選手テーマ：（ソフトバンク）「山川穂高選手のテーマ」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「山川穂高選手のテーマ」"
     },
     {
         "appid": 4441780,
-        "name": "選手テーマ：（ソフトバンク）「海野隆司選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「海野隆司選手応援歌」"
     },
     {
         "appid": 4441790,
-        "name": "選手テーマ：（ソフトバンク）「ジーター・ダウンズ選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「ジーター・ダウンズ選手応援歌」"
     },
     {
         "appid": 4441800,
-        "name": "選手テーマ：（ソフトバンク）「正木智也選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（ソフトバンク）「正木智也選手応援歌」"
     },
     {
         "appid": 4441810,
-        "name": "選手テーマ：（楽天）「小深田大翔選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「小深田大翔選手応援歌」"
     },
     {
         "appid": 4441820,
-        "name": "選手テーマ：（楽天）「太田光選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「太田光選手応援歌」"
     },
     {
         "appid": 4441830,
@@ -85541,43 +85637,43 @@
     },
     {
         "appid": 4441840,
-        "name": "選手テーマ：（楽天）「浅村栄斗選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「浅村栄斗選手応援歌」"
     },
     {
         "appid": 4441850,
-        "name": "選手テーマ：（楽天）「鈴木大地選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「鈴木大地選手応援歌」"
     },
     {
         "appid": 4441860,
-        "name": "選手テーマ：（楽天）「辰己涼介選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「辰己涼介選手応援歌」"
     },
     {
         "appid": 4441870,
-        "name": "選手テーマ：（楽天）「渡邊佳明選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「渡邊佳明選手応援歌」"
     },
     {
         "appid": 4441880,
-        "name": "選手テーマ：（楽天）「田中和基選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「田中和基選手応援歌」"
     },
     {
         "appid": 4441890,
-        "name": "選手テーマ：（楽天）「村林一輝選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「村林一輝選手応援歌」"
     },
     {
         "appid": 4441900,
-        "name": "選手テーマ：（楽天）「伊藤裕季也選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「伊藤裕季也選手応援歌」"
     },
     {
         "appid": 4441910,
-        "name": "選手テーマ：（楽天）「小郷裕哉選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「小郷裕哉選手応援歌」"
     },
     {
         "appid": 4441920,
-        "name": "選手テーマ：（楽天）「YG安田選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「YG安田選手応援歌」"
     },
     {
         "appid": 4441930,
-        "name": "選手テーマ：（楽天）「宗山塁選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「宗山塁選手応援歌」"
     },
     {
         "appid": 4441950,
@@ -85585,43 +85681,43 @@
     },
     {
         "appid": 4441960,
-        "name": "選手テーマ：（楽天）「石原彪選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「石原彪選手応援歌」"
     },
     {
         "appid": 4441970,
-        "name": "選手テーマ：（楽天）「堀内謙伍選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「堀内謙伍選手応援歌」"
     },
     {
         "appid": 4441980,
-        "name": "選手テーマ：（楽天）「中島大輔選手応援歌」"
+        "name": "プロ野球スピリッツ2026：選手テーマ：（楽天）「中島大輔選手応援歌」"
     },
     {
         "appid": 4441990,
-        "name": "ブラバン：パワプロ応援曲セット"
+        "name": "プロ野球スピリッツ2026：ブラバン：パワプロ応援曲セット"
     },
     {
         "appid": 4442000,
-        "name": "ブラバン：Aセット"
+        "name": "プロ野球スピリッツ2026：ブラバン：Aセット"
     },
     {
         "appid": 4442010,
-        "name": "ブラバン：Bセット"
+        "name": "プロ野球スピリッツ2026：ブラバン：Bセット"
     },
     {
         "appid": 4442020,
-        "name": "ブラバン：Cセット"
+        "name": "プロ野球スピリッツ2026：ブラバン：Cセット"
     },
     {
         "appid": 4442030,
-        "name": "ブラバン：Dセット"
+        "name": "プロ野球スピリッツ2026：ブラバン：Dセット"
     },
     {
         "appid": 4442040,
-        "name": "ブラバン：Eセット"
+        "name": "プロ野球スピリッツ2026：ブラバン：Eセット"
     },
     {
         "appid": 4442050,
-        "name": "ブラバン：Fセット"
+        "name": "プロ野球スピリッツ2026：ブラバン：Fセット"
     },
     {
         "appid": 4442070,
@@ -86221,43 +86317,43 @@
     },
     {
         "appid": 4445210,
-        "name": "ブラバン：Gセット"
+        "name": "プロ野球スピリッツ2026：ブラバン：Gセット"
     },
     {
         "appid": 4445220,
-        "name": "ブラバン：全曲セット"
+        "name": "プロ野球スピリッツ2026：ブラバン：全曲セット"
     },
     {
         "appid": 4445230,
-        "name": "選手登場曲：「AAA/虹」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「AAA/虹」"
     },
     {
         "appid": 4445240,
-        "name": "選手登場曲：「Ado/逆光」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Ado/逆光」"
     },
     {
         "appid": 4445250,
-        "name": "選手登場曲：「C&K/ドラマ」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「C&K/ドラマ」"
     },
     {
         "appid": 4445260,
-        "name": "選手登場曲：「FUNKY MONKEY BABYS/告白」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「FUNKY MONKEY BABYS/告白」"
     },
     {
         "appid": 4445270,
-        "name": "選手登場曲：「back number/青い春」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「back number/青い春」"
     },
     {
         "appid": 4445280,
-        "name": "選手登場曲：「GReeeeN/キセキ」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「GReeeeN/キセキ」"
     },
     {
         "appid": 4445290,
-        "name": "選手登場曲：「Creepy Nuts/Bling-Bang-Bang-Born」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Creepy Nuts/Bling-Bang-Bang-Born」"
     },
     {
         "appid": 4445300,
-        "name": "選手登場曲：「KREVA/中盤戦 feat.Mummy-D」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「KREVA/中盤戦 feat.Mummy-D」"
     },
     {
         "appid": 4445330,
@@ -86277,195 +86373,195 @@
     },
     {
         "appid": 4445380,
-        "name": "選手登場曲：「BURNOUT SYNDROMES/ヒカリアレ」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「BURNOUT SYNDROMES/ヒカリアレ」"
     },
     {
         "appid": 4445390,
-        "name": "選手登場曲：「DISH///沈丁花」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「DISH///沈丁花」"
     },
     {
         "appid": 4445400,
-        "name": "選手登場曲：「EXILE SHOKICHI/HERE WE GO」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「EXILE SHOKICHI/HERE WE GO」"
     },
     {
         "appid": 4445410,
-        "name": "選手登場曲：「FUNKY MONKEY BABYS/あとひとつ」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「FUNKY MONKEY BABYS/あとひとつ」"
     },
     {
         "appid": 4445420,
-        "name": "選手登場曲：「Official髭男dism/Stand By You」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Official髭男dism/Stand By You」"
     },
     {
         "appid": 4445430,
-        "name": "選手登場曲：「SOUL’d OUT/ALIVE」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「SOUL’d OUT/ALIVE」"
     },
     {
         "appid": 4445440,
-        "name": "選手登場曲：「SUPER BEAVER/人として」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「SUPER BEAVER/人として」"
     },
     {
         "appid": 4445450,
-        "name": "選手登場曲：「あいみょん/ハルノヒ」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「あいみょん/ハルノヒ」"
     },
     {
         "appid": 4445470,
-        "name": "選手登場曲：「クレイジーケンバンド/あ、やるときゃやらなきゃダメなのよ。」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「クレイジーケンバンド/あ、やるときゃやらなきゃダメなのよ。」"
     },
     {
         "appid": 4445480,
-        "name": "選手登場曲：「サカナクション/モス」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「サカナクション/モス」"
     },
     {
         "appid": 4445490,
-        "name": "選手登場曲：「サカナクション/新宝島」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「サカナクション/新宝島」"
     },
     {
         "appid": 4445510,
-        "name": "選手登場曲：「back number/SISTER」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「back number/SISTER」"
     },
     {
         "appid": 4445520,
-        "name": "選手登場曲：「Bigfumi/Soar」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Bigfumi/Soar」"
     },
     {
         "appid": 4445530,
-        "name": "選手登場曲：「GLAY/BELOVED」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「GLAY/BELOVED」"
     },
     {
         "appid": 4445540,
-        "name": "選手登場曲：「GReeeeN/道」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「GReeeeN/道」"
     },
     {
         "appid": 4445550,
-        "name": "選手登場曲：「Hilcrhyme/大注目」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Hilcrhyme/大注目」"
     },
     {
         "appid": 4445560,
-        "name": "選手登場曲：「下松翔/Wake Your Dreams」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「下松翔/Wake Your Dreams」"
     },
     {
         "appid": 4445570,
-        "name": "選手登場曲：「LINDBERG/every little thing every precious thing」"
+        "name": "選プロ野球スピリッツ2026：手登場曲：「LINDBERG/every little thing every precious thing」"
     },
     {
         "appid": 4445580,
-        "name": "選手登場曲：「光永亮太/Always」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「光永亮太/Always」"
     },
     {
         "appid": 4445590,
-        "name": "選手登場曲：「GReeeeN/遠くの空 指さすんだ」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「GReeeeN/遠くの空 指さすんだ」"
     },
     {
         "appid": 4445600,
-        "name": "選手登場曲：「HONEBONE/夜をこえて」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「HONEBONE/夜をこえて」"
     },
     {
         "appid": 4445610,
-        "name": "選手登場曲：「SUPER BEAVER/美しい日」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「SUPER BEAVER/美しい日」"
     },
     {
         "appid": 4445620,
-        "name": "選手登場曲：「Bigfumi/手を上げて」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Bigfumi/手を上げて」"
     },
     {
         "appid": 4445630,
-        "name": "選手登場曲：「WANIMA/Chasing The Rainbow」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「WANIMA/Chasing The Rainbow」"
     },
     {
         "appid": 4445640,
-        "name": "選手登場曲：「WANIMA/遠くまで」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「WANIMA/遠くまで」"
     },
     {
         "appid": 4445650,
-        "name": "選手登場曲：「Bigfumi/サチあれ！」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Bigfumi/サチあれ！」"
     },
     {
         "appid": 4445660,
-        "name": "選手登場曲：「ベリーグッドマン/ハイライト(中野バージョン)」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「ベリーグッドマン/ハイライト(中野バージョン)」"
     },
     {
         "appid": 4445670,
-        "name": "選手登場曲：「ベリーグッドマン/ドリームキャッチャー」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「ベリーグッドマン/ドリームキャッチャー」"
     },
     {
         "appid": 4445680,
-        "name": "選手登場曲：「ロードオブメジャー/心絵」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「ロードオブメジャー/心絵」"
     },
     {
         "appid": 4445690,
-        "name": "選手登場曲：「野猿/Be Cool!」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「野猿/Be Cool!」"
     },
     {
         "appid": 4445700,
-        "name": "選手登場曲：「三代目 J SOUL BROTHERS from EXILE TRIBE/R.Y.U.S.E.I.」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「三代目 J SOUL BROTHERS from EXILE TRIBE/R.Y.U.S.E.I.」"
     },
     {
         "appid": 4445710,
-        "name": "選手登場曲：「清水翔太/Curtain Call feat.Taka」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「清水翔太/Curtain Call feat.Taka」"
     },
     {
         "appid": 4445720,
-        "name": "選手登場曲：「強/やんちゃ坊主」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「強/やんちゃ坊主」"
     },
     {
         "appid": 4445730,
-        "name": "選手登場曲：「手島章斗/カイト」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「手島章斗/カイト」"
     },
     {
         "appid": 4445740,
-        "name": "選手登場曲：「FLOW/ドリームエクスプレス」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「FLOW/ドリームエクスプレス」"
     },
     {
         "appid": 4445750,
-        "name": "選手登場曲：「米津玄師/感電」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「米津玄師/感電」"
     },
     {
         "appid": 4445760,
-        "name": "選手登場曲：「緑黄色社会/Mela!」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「緑黄色社会/Mela!」"
     },
     {
         "appid": 4445770,
-        "name": "選手登場曲：「Mebius/#33」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Mebius/#33」"
     },
     {
         "appid": 4445780,
-        "name": "選手登場曲：「マイケル・ブーブレ/Feeling Good」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「マイケル・ブーブレ/Feeling Good」"
     },
     {
         "appid": 4445790,
-        "name": "選手登場曲：「Official髭男dism/コーヒーとシロップ」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Official髭男dism/コーヒーとシロップ」"
     },
     {
         "appid": 4445810,
-        "name": "選手登場曲：「Official髭男dism/FIRE GROUND」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Official髭男dism/FIRE GROUND」"
     },
     {
         "appid": 4445820,
-        "name": "選手登場曲：「SHE'S/追い風」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「SHE'S/追い風」"
     },
     {
         "appid": 4445830,
-        "name": "選手登場曲：「Superfly/タマシイレボリューション」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「Superfly/タマシイレボリューション」"
     },
     {
         "appid": 4445840,
-        "name": "選手登場曲：「WANIMA/Drive」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「WANIMA/Drive」"
     },
     {
         "appid": 4445850,
-        "name": "選手登場曲：「あいみょん/ジェニファー」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「あいみょん/ジェニファー」"
     },
     {
         "appid": 4445860,
-        "name": "選手登場曲：「いきものがかり/じょいふる」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「いきものがかり/じょいふる」"
     },
     {
         "appid": 4445870,
-        "name": "選手登場曲：「スキマスイッチ/全力少年」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「スキマスイッチ/全力少年」"
     },
     {
         "appid": 4445880,
-        "name": "選手登場曲：「ロードオブメジャー/大切なもの」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「ロードオブメジャー/大切なもの」"
     },
     {
         "appid": 4445900,
@@ -90325,7 +90421,7 @@
     },
     {
         "appid": 4466730,
-        "name": "選手登場曲：「乃木坂46/何度目の青空か？」"
+        "name": "プロ野球スピリッツ2026：選手登場曲：「乃木坂46/何度目の青空か？」"
     },
     {
         "appid": 4466750,
@@ -92965,7 +93061,7 @@
     },
     {
         "appid": 4487810,
-        "name": "Shroomanoid: breakout action roguelite"
+        "name": "Shroomanoid: breakout action roguelike"
     },
     {
         "appid": 4487840,
@@ -97541,7 +97637,7 @@
     },
     {
         "appid": 4508240,
-        "name": "ROMANCE OF THE THREE KINGDOMS XIV Complete Edition Upgrade Pack"
+        "name": "ROMANCE OF THE THREE KINGDOMS XIV Complete Edition Upgrade Pack (Chinese/Japanese/Korean)"
     },
     {
         "appid": 4508250,
@@ -98170,6 +98266,10 @@
     {
         "appid": 4512130,
         "name": "Sanguis OS"
+    },
+    {
+        "appid": 4512140,
+        "name": "Burning Roots"
     },
     {
         "appid": 4512180,
@@ -108324,6 +108424,10 @@
         "name": "ALFA: Antiterror"
     },
     {
+        "appid": 4566790,
+        "name": "Umbrae Ordinis: Age Of Whispers"
+    },
+    {
         "appid": 4566820,
         "name": "灵子—CG"
     },
@@ -108362,6 +108466,10 @@
     {
         "appid": 4566950,
         "name": "Mawgate"
+    },
+    {
+        "appid": 4566960,
+        "name": "Sonders: Beginning of an end"
     },
     {
         "appid": 4566970,
@@ -113481,7 +113589,7 @@
     },
     {
         "appid": 4596140,
-        "name": "Esports Idol Simulator"
+        "name": "Esporia"
     },
     {
         "appid": 4596150,
@@ -116676,6 +116784,10 @@
         "name": "AI VS ARTISTS"
     },
     {
+        "appid": 4614500,
+        "name": "Fake Prince Simulator"
+    },
+    {
         "appid": 4614520,
         "name": "Pocket Bravery - Son"
     },
@@ -117422,6 +117534,10 @@
     {
         "appid": 4619040,
         "name": "Valken"
+    },
+    {
+        "appid": 4619050,
+        "name": "Poggle"
     },
     {
         "appid": 4619060,
@@ -118658,6 +118774,10 @@
     {
         "appid": 4626920,
         "name": "Cloud Journey VR "
+    },
+    {
+        "appid": 4626930,
+        "name": "Chain Reactions"
     },
     {
         "appid": 4626940,
@@ -121264,6 +121384,10 @@
         "name": "Bee Killings Inn"
     },
     {
+        "appid": 4642040,
+        "name": "Youth Centre Simulator"
+    },
+    {
         "appid": 4642050,
         "name": "Infogrind"
     },
@@ -123077,7 +123201,7 @@
     },
     {
         "appid": 4655130,
-        "name": "天堂布收 Heaven Miner"
+        "name": "天堂恋爱王 Heaven Miner"
     },
     {
         "appid": 4655140,
@@ -141736,6 +141860,10 @@
         "name": "Stellar Protocol"
     },
     {
+        "appid": 4776650,
+        "name": "方块战舰"
+    },
+    {
         "appid": 4776760,
         "name": "Signal Zero"
     },
@@ -141998,6 +142126,10 @@
     {
         "appid": 4778360,
         "name": "PPWP"
+    },
+    {
+        "appid": 4778380,
+        "name": "五局司"
     },
     {
         "appid": 4778390,
@@ -144960,6 +145092,10 @@
         "name": "Urban assault"
     },
     {
+        "appid": 4797450,
+        "name": "孤岛的动物园 - 第三章"
+    },
+    {
         "appid": 4797490,
         "name": "CutBench: AI Gameplay Clip Maker"
     },
@@ -145081,7 +145217,7 @@
     },
     {
         "appid": 4798050,
-        "name": "雨音の向こう側"
+        "name": "Beyond the Rain Sound"
     },
     {
         "appid": 4798090,
@@ -146530,6 +146666,10 @@
     {
         "appid": 4808310,
         "name": "水滸歷險Online：重生"
+    },
+    {
+        "appid": 4808400,
+        "name": "The Wandering Spire"
     },
     {
         "appid": 4808420,
@@ -148320,6 +148460,10 @@
         "name": "Kimbap Factory"
     },
     {
+        "appid": 4821090,
+        "name": "GOD CORE"
+    },
+    {
         "appid": 4821280,
         "name": "Battle Ranker in Another World"
     },
@@ -149816,10 +149960,6 @@
         "name": "Alkimya: House of Wisdom"
     },
     {
-        "appid": 4829840,
-        "name": "Armed Snake"
-    },
-    {
         "appid": 4829870,
         "name": "溯灵：共鸣之地"
     },
@@ -150322,6 +150462,10 @@
     {
         "appid": 4832800,
         "name": "ECHOLASH"
+    },
+    {
+        "appid": 4832820,
+        "name": "BubbleJack"
     },
     {
         "appid": 4832840,
@@ -153636,6 +153780,10 @@
         "name": "lemonade stand"
     },
     {
+        "appid": 4850390,
+        "name": "Arx Temporis - Summer Swimsuit Set"
+    },
+    {
         "appid": 4850420,
         "name": "PIS-TO-LE-RO"
     },
@@ -156225,7 +156373,7 @@
     },
     {
         "appid": 4864590,
-        "name": "螺丝钉 Screw"
+        "name": "螺丝钉"
     },
     {
         "appid": 4864650,
@@ -156414,6 +156562,10 @@
     {
         "appid": 4865600,
         "name": "House of Tides"
+    },
+    {
+        "appid": 4865610,
+        "name": "Heroes of Science and Fiction - Xenauri faction"
     },
     {
         "appid": 4865620,
@@ -156822,6 +156974,10 @@
     {
         "appid": 4868240,
         "name": "Recursive Access"
+    },
+    {
+        "appid": 4868300,
+        "name": "Higurashi no Naku Koro ni Jong REMASTER"
     },
     {
         "appid": 4868310,
@@ -157286,6 +157442,10 @@
     {
         "appid": 4871370,
         "name": "FLIP"
+    },
+    {
+        "appid": 4871380,
+        "name": "Witchiko and the 7 Wisdom"
     },
     {
         "appid": 4871420,
@@ -160044,6 +160204,14 @@
         "name": "Some of You May Die - Supporter Pack"
     },
     {
+        "appid": 4888900,
+        "name": "Rift of the NecroDancer: Hatsune Miku Music Pack 2"
+    },
+    {
+        "appid": 4888910,
+        "name": "Rift of the NecroDancer: Hatsune Miku 2 - \"My One and Oni\" - Danny Baranowsky"
+    },
+    {
         "appid": 4888920,
         "name": "Stay On Track"
     },
@@ -160788,6 +160956,10 @@
         "name": "Power Pony Drift"
     },
     {
+        "appid": 4893690,
+        "name": "Market Fit"
+    },
+    {
         "appid": 4893710,
         "name": "Solar Frontier Species Expansion"
     },
@@ -161038,6 +161210,14 @@
     {
         "appid": 4894870,
         "name": "Rogue Curling"
+    },
+    {
+        "appid": 4894880,
+        "name": "BEYBLADE X EVOBATTLE DIGITAL BEYBOOSTER VOL.8"
+    },
+    {
+        "appid": 4894910,
+        "name": "BEYBLADE X EVOBATTLE BEY COATING PATTERN & COLOR ADD-ON KIT VOL.2"
     },
     {
         "appid": 4894930,
@@ -161964,6 +162144,10 @@
         "name": "Gorgeous Art Tutor Submits to Me"
     },
     {
+        "appid": 4900030,
+        "name": "Hyperarousal"
+    },
+    {
         "appid": 4900040,
         "name": "The Cold Singer Kneels as My Contract Slave"
     },
@@ -162010,6 +162194,10 @@
     {
         "appid": 4900280,
         "name": "Prime Domination"
+    },
+    {
+        "appid": 4900290,
+        "name": "Jigsaw Panic"
     },
     {
         "appid": 4900300,
@@ -162520,6 +162708,10 @@
         "name": "Time Stop Tower Defense"
     },
     {
+        "appid": 4903740,
+        "name": "Fantastic Junction"
+    },
+    {
         "appid": 4903770,
         "name": "OIL & HORROR"
     },
@@ -162777,7 +162969,7 @@
     },
     {
         "appid": 4905460,
-        "name": "Chest Looter: Monster Card Collection"
+        "name": "Chest Looter: Cardimonsta Collection"
     },
     {
         "appid": 4905490,
@@ -163194,6 +163386,10 @@
     {
         "appid": 4908030,
         "name": "Naya: The Forgotten Path"
+    },
+    {
+        "appid": 4908050,
+        "name": "RuneScape: Dragonwilds - Deluxe Edition Upgrade"
     },
     {
         "appid": 4908060,
@@ -164082,6 +164278,18 @@
     {
         "appid": 4912740,
         "name": "Cake & Bake"
+    },
+    {
+        "appid": 4912770,
+        "name": "Aces of Thunder - I-16 type 27"
+    },
+    {
+        "appid": 4912780,
+        "name": "Aces of Thunder - Ju 87 D-5"
+    },
+    {
+        "appid": 4912790,
+        "name": "Aces of Thunder - Bf-109Z-1"
     },
     {
         "appid": 4912830,
@@ -166448,6 +166656,10 @@
         "name": "Rebuilt: Last Settlement"
     },
     {
+        "appid": 4926690,
+        "name": "Weed Out"
+    },
+    {
         "appid": 4926710,
         "name": "Metal Detecting Days"
     },
@@ -167050,6 +167262,10 @@
     {
         "appid": 4930800,
         "name": "Drone Orbit: An Incremental Space Mining Drift"
+    },
+    {
+        "appid": 4930810,
+        "name": "Drone n Gone"
     },
     {
         "appid": 4930820,
@@ -168330,6 +168546,10 @@
     {
         "appid": 4938100,
         "name": "Somewhere in İstanbul"
+    },
+    {
+        "appid": 4938110,
+        "name": "Hallowers the pilgrimage"
     },
     {
         "appid": 4938130,
@@ -170224,10 +170444,6 @@
         "name": "SUPERFUTA ⚡"
     },
     {
-        "appid": 4949170,
-        "name": "Ray26 - Sync Synth"
-    },
-    {
         "appid": 4949180,
         "name": "MMO: Massive Mommy Orgy"
     },
@@ -170246,6 +170462,10 @@
     {
         "appid": 4949260,
         "name": "Silk Road Defenders"
+    },
+    {
+        "appid": 4949270,
+        "name": "塑时者Derealization"
     },
     {
         "appid": 4949290,
@@ -171468,6 +171688,10 @@
         "name": "ROUDO OF THE HERO"
     },
     {
+        "appid": 4956750,
+        "name": "Dice Knight"
+    },
+    {
         "appid": 4956760,
         "name": "Crosshair Ultra"
     },
@@ -172070,6 +172294,10 @@
     {
         "appid": 4960600,
         "name": "Embermarch"
+    },
+    {
+        "appid": 4960610,
+        "name": "Ender Inspector"
     },
     {
         "appid": 4960630,
@@ -172864,6 +173092,10 @@
         "name": "Puzzles Berrys"
     },
     {
+        "appid": 4964960,
+        "name": "Grim Dawn - Steam Loyalist 4 DLC"
+    },
+    {
         "appid": 4964990,
         "name": "Pomoroid: 4 Character Slots + Somatia Pack"
     },
@@ -173362,6 +173594,10 @@
     {
         "appid": 4967740,
         "name": "MobMate Vulkan Acceleration Pack"
+    },
+    {
+        "appid": 4967770,
+        "name": "Fast Point"
     },
     {
         "appid": 4967790,
@@ -174852,6 +175088,18 @@
         "name": "One More Piece"
     },
     {
+        "appid": 4978440,
+        "name": "Steam Frame Ergonomic Accessories Kit"
+    },
+    {
+        "appid": 4978460,
+        "name": "Steam Frame Accessory Replacement Kit"
+    },
+    {
+        "appid": 4978480,
+        "name": "Steam Hardware Power Supply Unit"
+    },
+    {
         "appid": 4978510,
         "name": "The Last Home : Curse of Lanna"
     },
@@ -176144,6 +176392,10 @@
         "name": "Lineup, Dark Lord! : Auto Battler"
     },
     {
+        "appid": 4986510,
+        "name": "Humans Bots & Zombies"
+    },
+    {
         "appid": 4986540,
         "name": "尸潮永无止尽"
     },
@@ -176876,6 +177128,10 @@
         "name": "Witch Cabin Cleanup"
     },
     {
+        "appid": 4991270,
+        "name": "Roaches"
+    },
+    {
         "appid": 4991330,
         "name": "OVERHEAT"
     },
@@ -177256,6 +177512,10 @@
         "name": "Kingdom Cumquest - Japanese Version"
     },
     {
+        "appid": 4993440,
+        "name": "Ghost Charmer"
+    },
+    {
         "appid": 4993450,
         "name": "My Oshi Uses Too Much Slang!"
     },
@@ -177592,6 +177852,10 @@
         "name": "MOBIUS"
     },
     {
+        "appid": 4995630,
+        "name": "Disrupt Destiny"
+    },
+    {
         "appid": 4995640,
         "name": "The Fifth Name"
     },
@@ -177686,6 +177950,10 @@
     {
         "appid": 4996290,
         "name": "プリンセス・パズル～禁じられた遊戯～"
+    },
+    {
+        "appid": 4996300,
+        "name": "火柴：人在异世 Stick: Man in Another World"
     },
     {
         "appid": 4996320,
@@ -177882,6 +178150,10 @@
     {
         "appid": 4997430,
         "name": "ローマ帝国の逆襲Counter Attack of Roman Empire"
+    },
+    {
+        "appid": 4997440,
+        "name": "MonMusu Breaker"
     },
     {
         "appid": 4997480,
@@ -178472,6 +178744,10 @@
         "name": "Dodge All the Things - Donation DLC"
     },
     {
+        "appid": 5001490,
+        "name": "FALLENMAGE Received: Hypnosis's Curse"
+    },
+    {
         "appid": 5001510,
         "name": "SHKSHK"
     },
@@ -178662,6 +178938,10 @@
     {
         "appid": 5002560,
         "name": "Fantasy Grounds - Pathfinder RPG - Pathfinder Module: The Godsmouth Heresy"
+    },
+    {
+        "appid": 5002580,
+        "name": "Museum in Pieces"
     },
     {
         "appid": 5002680,
@@ -180416,6 +180696,10 @@
         "name": "Turbo Turbo"
     },
     {
+        "appid": 5015290,
+        "name": "American Mahjong"
+    },
+    {
         "appid": 5015300,
         "name": "Twinblocks"
     },
@@ -180426,6 +180710,10 @@
     {
         "appid": 5015330,
         "name": "Death Row"
+    },
+    {
+        "appid": 5015410,
+        "name": "Starfall"
     },
     {
         "appid": 5015420,
@@ -181140,6 +181428,10 @@
         "name": "临江暮雪"
     },
     {
+        "appid": 5020390,
+        "name": "A Game About Games"
+    },
+    {
         "appid": 5020450,
         "name": "Twisted Party - Supporter Pack"
     },
@@ -181566,6 +181858,10 @@
     {
         "appid": 5023250,
         "name": "The Mannequin Forest"
+    },
+    {
+        "appid": 5023450,
+        "name": "Lucid Rumination"
     },
     {
         "appid": 5023460,
@@ -182713,7 +183009,7 @@
     },
     {
         "appid": 5031180,
-        "name": "Alice is Missing"
+        "name": "Alison is Missing"
     },
     {
         "appid": 5031190,
@@ -184084,6 +184380,10 @@
         "name": "方舟天劫：幸存者"
     },
     {
+        "appid": 5040130,
+        "name": "Sluggernauts"
+    },
+    {
         "appid": 5040170,
         "name": "Cat Smash"
     },
@@ -184314,6 +184614,10 @@
     {
         "appid": 5041640,
         "name": "My Furry Goth Girlfriend"
+    },
+    {
+        "appid": 5041660,
+        "name": "One more, please"
     },
     {
         "appid": 5041690,
@@ -184686,6 +184990,10 @@
     {
         "appid": 5043950,
         "name": "The End of the Line: New Age"
+    },
+    {
+        "appid": 5043970,
+        "name": "Splitbeat"
     },
     {
         "appid": 5044020,
@@ -186024,6 +186332,10 @@
         "name": "CURRENTBOUND:Rescue Run"
     },
     {
+        "appid": 5053190,
+        "name": "Warpscape"
+    },
+    {
         "appid": 5053220,
         "name": "Laylines"
     },
@@ -186152,6 +186464,10 @@
         "name": "Project Ricochet"
     },
     {
+        "appid": 5053940,
+        "name": "Amusement Factory"
+    },
+    {
         "appid": 5053960,
         "name": "GamingCouch.com"
     },
@@ -186244,6 +186560,10 @@
         "name": "Dummies 'n' Douchebags"
     },
     {
+        "appid": 5054570,
+        "name": "Dugout Dice"
+    },
+    {
         "appid": 5054580,
         "name": "Marvelous Soccer Management"
     },
@@ -186285,7 +186605,7 @@
     },
     {
         "appid": 5054880,
-        "name": "Magic Chess"
+        "name": "Magichess"
     },
     {
         "appid": 5054900,
@@ -186342,6 +186662,10 @@
     {
         "appid": 5055440,
         "name": "AfterImage"
+    },
+    {
+        "appid": 5055450,
+        "name": "PITWALL ONE"
     },
     {
         "appid": 5055480,
@@ -186700,6 +187024,10 @@
         "name": "BoBOTs"
     },
     {
+        "appid": 5058550,
+        "name": "萦回"
+    },
+    {
         "appid": 5058620,
         "name": "Tentikun 2: That time I got reincarnated as a dungeon"
     },
@@ -186862,6 +187190,10 @@
     {
         "appid": 5059600,
         "name": "Jumpy Mumpy"
+    },
+    {
+        "appid": 5059740,
+        "name": "Of Ash and Steel: Shattered Faith"
     },
     {
         "appid": 5059780,
@@ -187261,7 +187593,7 @@
     },
     {
         "appid": 5062700,
-        "name": "Trick Or Terror"
+        "name": "Lilith's Curse"
     },
     {
         "appid": 5062710,
@@ -187273,7 +187605,7 @@
     },
     {
         "appid": 5062780,
-        "name": "Hero Investor"
+        "name": "Hero Investor: Business Tycoon"
     },
     {
         "appid": 5062840,
@@ -187505,7 +187837,7 @@
     },
     {
         "appid": 5064270,
-        "name": "Exspelled"
+        "name": "Tales of Exspelled"
     },
     {
         "appid": 5064290,
@@ -187742,6 +188074,10 @@
     {
         "appid": 5066290,
         "name": "CyberCon: Cybersecurity Tycoon"
+    },
+    {
+        "appid": 5066310,
+        "name": "EndStream"
     },
     {
         "appid": 5066320,
@@ -188416,6 +188752,10 @@
         "name": "Blossoms of Light"
     },
     {
+        "appid": 5070740,
+        "name": "Main Street Operator"
+    },
+    {
         "appid": 5070750,
         "name": "The Studio - Indie Grind"
     },
@@ -188776,6 +189116,10 @@
         "name": "Puzzles Boars Artbook"
     },
     {
+        "appid": 5073210,
+        "name": "BoneHeads"
+    },
+    {
         "appid": 5073230,
         "name": "Isekai: Demon King"
     },
@@ -188908,6 +189252,10 @@
         "name": "Tale'Switch"
     },
     {
+        "appid": 5074140,
+        "name": "少女的后花园"
+    },
+    {
         "appid": 5074150,
         "name": "Hand Me The Splorch!"
     },
@@ -188990,6 +189338,10 @@
     {
         "appid": 5074710,
         "name": "野生机"
+    },
+    {
+        "appid": 5074720,
+        "name": "Angel Legion-DLC First Love Glow C"
     },
     {
         "appid": 5074790,
@@ -189180,6 +189532,10 @@
         "name": "Lost Light"
     },
     {
+        "appid": 5075980,
+        "name": "Ordinary Suspects"
+    },
+    {
         "appid": 5076020,
         "name": "Towgether"
     },
@@ -189338,6 +189694,10 @@
     {
         "appid": 5077250,
         "name": "Robot City: Delivery"
+    },
+    {
+        "appid": 5077270,
+        "name": "Better Clipboard"
     },
     {
         "appid": 5077290,
@@ -190576,6 +190936,10 @@
         "name": "Where the Redwood Ends"
     },
     {
+        "appid": 5086700,
+        "name": "bar-hopping-bear."
+    },
+    {
         "appid": 5086720,
         "name": "Embrace Of The Embers"
     },
@@ -190986,6 +191350,10 @@
     {
         "appid": 5089280,
         "name": "Anomaly Center"
+    },
+    {
+        "appid": 5089290,
+        "name": "The Dark Sarcophagus"
     },
     {
         "appid": 5089300,
@@ -191433,7 +191801,7 @@
     },
     {
         "appid": 5092960,
-        "name": "Survival Project：Island"
+        "name": "Survival Project: Island"
     },
     {
         "appid": 5092980,
@@ -192060,6 +192428,10 @@
         "name": "Scrap to Strip"
     },
     {
+        "appid": 5097980,
+        "name": "Greek Row, Fall Semester"
+    },
+    {
         "appid": 5097990,
         "name": "The Burrow Takes Heaven"
     },
@@ -192312,6 +192684,10 @@
         "name": "Chocoletters"
     },
     {
+        "appid": 5099730,
+        "name": "No Luck Left"
+    },
+    {
         "appid": 5099750,
         "name": "ナニワアンダーグラウンド"
     },
@@ -192530,6 +192906,10 @@
     {
         "appid": 5101110,
         "name": "I Need to Fix My Dream Car Supporter Pack"
+    },
+    {
+        "appid": 5101130,
+        "name": "Seaside Shop Simulator"
     },
     {
         "appid": 5101140,
@@ -193284,6 +193664,10 @@
         "name": "Femboy Hot Springs Wallpaper Pack"
     },
     {
+        "appid": 5106740,
+        "name": "Between the notes"
+    },
+    {
         "appid": 5106770,
         "name": "Lyrica"
     },
@@ -193432,6 +193816,10 @@
         "name": "Planet of the Freesluts"
     },
     {
+        "appid": 5107850,
+        "name": "Nightfall"
+    },
+    {
         "appid": 5107870,
         "name": "貓貓盒CATBOX"
     },
@@ -193508,12 +193896,20 @@
         "name": "SUMOO"
     },
     {
+        "appid": 5108310,
+        "name": "ArtRise Illustrator Growth Plan: Are you kidding me?"
+    },
+    {
         "appid": 5108320,
         "name": "Balkan Grill Simulator"
     },
     {
         "appid": 5108370,
         "name": "Dynasty Basketball Manager"
+    },
+    {
+        "appid": 5108470,
+        "name": "Titanic Survival Simulator Together"
     },
     {
         "appid": 5108480,
@@ -193918,6 +194314,10 @@
     {
         "appid": 5112000,
         "name": "Folder Folder Folder"
+    },
+    {
+        "appid": 5112010,
+        "name": "Wizardry Ⅵ: Bane of the Cosmic Forge (SFC Version)"
     },
     {
         "appid": 5112040,
@@ -194428,6 +194828,10 @@
         "name": "Grumpy Hero Grinder"
     },
     {
+        "appid": 5116630,
+        "name": "Panda Minesweeper"
+    },
+    {
         "appid": 5116650,
         "name": "Space Couch Command"
     },
@@ -194437,7 +194841,7 @@
     },
     {
         "appid": 5116690,
-        "name": "碎境长廊Shattered‑Realm Corridor"
+        "name": "Shattered‑Realm Corridor"
     },
     {
         "appid": 5116740,
@@ -194672,6 +195076,10 @@
         "name": "Decontamination Protocol"
     },
     {
+        "appid": 5118360,
+        "name": "RunnersAndCatchers"
+    },
+    {
         "appid": 5118370,
         "name": "Apartment 3 | شقة 3"
     },
@@ -194830,6 +195238,10 @@
     {
         "appid": 5119450,
         "name": "Pending Review"
+    },
+    {
+        "appid": 5119520,
+        "name": "Creator Shelter - DLC Cuisine"
     },
     {
         "appid": 5119540,
@@ -195548,6 +195960,10 @@
         "name": "Confined Space - Module Madness"
     },
     {
+        "appid": 5124900,
+        "name": "轮回小队"
+    },
+    {
         "appid": 5124920,
         "name": "KOLUN"
     },
@@ -195628,6 +196044,10 @@
         "name": "涂鸦学院"
     },
     {
+        "appid": 5125390,
+        "name": "CARRIAGES"
+    },
+    {
         "appid": 5125410,
         "name": "Kill Step"
     },
@@ -195660,12 +196080,20 @@
         "name": "Seven Sins Poker"
     },
     {
+        "appid": 5125750,
+        "name": "Odd Express"
+    },
+    {
         "appid": 5125780,
         "name": "Pixel Planet Survivor"
     },
     {
         "appid": 5125790,
         "name": "Puzzles Are Better Together"
+    },
+    {
+        "appid": 5125800,
+        "name": "Pose This!"
     },
     {
         "appid": 5125860,
@@ -195774,6 +196202,10 @@
     {
         "appid": 5126740,
         "name": "Heart to Heart"
+    },
+    {
+        "appid": 5126770,
+        "name": "Battle Princess Overdrive"
     },
     {
         "appid": 5126800,
@@ -196036,6 +196468,10 @@
         "name": "LumberBoy"
     },
     {
+        "appid": 5129200,
+        "name": "President FC: Football Club Owner"
+    },
+    {
         "appid": 5129240,
         "name": "Neko Neko Shop"
     },
@@ -196198,6 +196634,10 @@
     {
         "appid": 5130400,
         "name": "SumMon"
+    },
+    {
+        "appid": 5130440,
+        "name": "Get To Orbit"
     },
     {
         "appid": 5130450,
@@ -196598,6 +197038,10 @@
     {
         "appid": 5133170,
         "name": "Whole in One"
+    },
+    {
+        "appid": 5133200,
+        "name": "Cosmogonia"
     },
     {
         "appid": 5133220,
@@ -197180,6 +197624,10 @@
         "name": "Desk Disaster"
     },
     {
+        "appid": 5139210,
+        "name": "TapyBuddy - Pawra Farming"
+    },
+    {
         "appid": 5139220,
         "name": "Moving Pieces"
     },
@@ -197636,6 +198084,10 @@
         "name": "Chamele-Guess"
     },
     {
+        "appid": 5142580,
+        "name": "Super Brik Brik"
+    },
+    {
         "appid": 5142590,
         "name": "Penthouse"
     },
@@ -198000,6 +198452,14 @@
         "name": "ひびき＆かのんの囲碁19路完全入門"
     },
     {
+        "appid": 5145940,
+        "name": "The Crab is Walking"
+    },
+    {
+        "appid": 5145980,
+        "name": "Hozy: Hideaways"
+    },
+    {
         "appid": 5146090,
         "name": "You Can Sort It!"
     },
@@ -198232,6 +198692,10 @@
         "name": "Chill Drive Together"
     },
     {
+        "appid": 5147720,
+        "name": "Boom Crew"
+    },
+    {
         "appid": 5147730,
         "name": "Puckey: The Puzzle Game"
     },
@@ -198462,6 +198926,10 @@
     {
         "appid": 5150470,
         "name": "Blobby and the Milkshake"
+    },
+    {
+        "appid": 5150590,
+        "name": "修勾逃生搜打撤"
     },
     {
         "appid": 5150620,
@@ -198722,6 +199190,10 @@
     {
         "appid": 5153540,
         "name": "Simple GIF Maker — MP4, MOV, MKV, AVI to GIF & Animated WEBP"
+    },
+    {
+        "appid": 5153580,
+        "name": "Wych Ring"
     },
     {
         "appid": 5153600,
@@ -199224,6 +199696,10 @@
         "name": "僵尸小区"
     },
     {
+        "appid": 5158570,
+        "name": "Dealer Principal: The Dealership Simulator"
+    },
+    {
         "appid": 5158610,
         "name": "Hentai Puzzle: Yumi"
     },
@@ -199292,6 +199768,10 @@
         "name": "Get Out Sisyphus!"
     },
     {
+        "appid": 5159410,
+        "name": "TPS 1.0"
+    },
+    {
         "appid": 5159570,
         "name": "Wildmane: Blood Bay"
     },
@@ -199330,6 +199810,10 @@
     {
         "appid": 5159830,
         "name": "Pack It In!"
+    },
+    {
+        "appid": 5159860,
+        "name": "FLATTEN THE BOXES"
     },
     {
         "appid": 5159870,
@@ -199385,7 +199869,7 @@
     },
     {
         "appid": 5160500,
-        "name": "Silent Sonata II: Dead Air"
+        "name": "Silent Sonata: Dead Air"
     },
     {
         "appid": 5160530,
@@ -199514,489 +199998,5 @@
     {
         "appid": 5161550,
         "name": "Stickman Town desktop wallpaper"
-    },
-    {
-        "appid": 5161560,
-        "name": "いただきバーガー"
-    },
-    {
-        "appid": 5161610,
-        "name": "Nabte"
-    },
-    {
-        "appid": 5161720,
-        "name": "THE REAL WORLD"
-    },
-    {
-        "appid": 5161810,
-        "name": "かみひより ～識塗り編～"
-    },
-    {
-        "appid": 5161920,
-        "name": "LUNATIC CAMPUS"
-    },
-    {
-        "appid": 5161940,
-        "name": "Home Reset: Organizing Simulator"
-    },
-    {
-        "appid": 5161950,
-        "name": "HauntedHouseNO14"
-    },
-    {
-        "appid": 5161980,
-        "name": "Exile: Idle ARPG"
-    },
-    {
-        "appid": 5162070,
-        "name": "LAST WITCH"
-    },
-    {
-        "appid": 5162100,
-        "name": "Memory Cruise"
-    },
-    {
-        "appid": 5162150,
-        "name": "Deduction Society"
-    },
-    {
-        "appid": 5162230,
-        "name": "HiFi Streamer Pro - Lumen Visualizer Plugin"
-    },
-    {
-        "appid": 5162260,
-        "name": "Hellternum"
-    },
-    {
-        "appid": 5162330,
-        "name": "Taptown Funk"
-    },
-    {
-        "appid": 5162380,
-        "name": "LINETAIN"
-    },
-    {
-        "appid": 5162430,
-        "name": "メペキョンレーシング"
-    },
-    {
-        "appid": 5162480,
-        "name": "SPACEJK - 月市 常連札"
-    },
-    {
-        "appid": 5162530,
-        "name": "MasonsHaven"
-    },
-    {
-        "appid": 5162540,
-        "name": "昼夜事件"
-    },
-    {
-        "appid": 5162600,
-        "name": "Eccentric Wander"
-    },
-    {
-        "appid": 5162670,
-        "name": "Cat Rooms: Sticker Decor!"
-    },
-    {
-        "appid": 5162720,
-        "name": "NABERON"
-    },
-    {
-        "appid": 5162730,
-        "name": "Lootstone"
-    },
-    {
-        "appid": 5162770,
-        "name": "Summer for ANT"
-    },
-    {
-        "appid": 5162800,
-        "name": "Duskmont Files"
-    },
-    {
-        "appid": 5162830,
-        "name": "【人外魔境ダイスレギオン】"
-    },
-    {
-        "appid": 5162870,
-        "name": "Kibo to Yume"
-    },
-    {
-        "appid": 5162880,
-        "name": "Live on, Until we can't"
-    },
-    {
-        "appid": 5162910,
-        "name": "Snakesweeper - minesweeper survival"
-    },
-    {
-        "appid": 5162940,
-        "name": "Yummy Rumble"
-    },
-    {
-        "appid": 5162960,
-        "name": "Echoes of the Lost"
-    },
-    {
-        "appid": 5162990,
-        "name": "SpacePawn"
-    },
-    {
-        "appid": 5163000,
-        "name": "Object 24"
-    },
-    {
-        "appid": 5163060,
-        "name": "A Mystic Journey With : Wraith"
-    },
-    {
-        "appid": 5163080,
-        "name": "Odysseus: Homecoming"
-    },
-    {
-        "appid": 5163100,
-        "name": "Civilization Alchemy"
-    },
-    {
-        "appid": 5163180,
-        "name": "Cee One Vee"
-    },
-    {
-        "appid": 5163190,
-        "name": "Tumble Tavern"
-    },
-    {
-        "appid": 5163220,
-        "name": "Last Civilization: Inherited Flame"
-    },
-    {
-        "appid": 5163250,
-        "name": "呪ショッピング"
-    },
-    {
-        "appid": 5163280,
-        "name": "Occult Cleanup Agency"
-    },
-    {
-        "appid": 5163340,
-        "name": "Clobbo"
-    },
-    {
-        "appid": 5163410,
-        "name": "Garage Chaos"
-    },
-    {
-        "appid": 5163510,
-        "name": "Bugs & Birdies"
-    },
-    {
-        "appid": 5163530,
-        "name": "Toss Office"
-    },
-    {
-        "appid": 5163550,
-        "name": "VRetro"
-    },
-    {
-        "appid": 5163560,
-        "name": "Emoji Massacre - Beast Pack"
-    },
-    {
-        "appid": 5163570,
-        "name": "Emoji Massacre - Snack Attack Pack"
-    },
-    {
-        "appid": 5163580,
-        "name": "Emoji Massacre - Mystic Pack"
-    },
-    {
-        "appid": 5163590,
-        "name": "Emoji Massacre - Wild Cards Pack"
-    },
-    {
-        "appid": 5163610,
-        "name": "Electric Crust: Galactic Pizza Delivery"
-    },
-    {
-        "appid": 5163640,
-        "name": "Amalgamated"
-    },
-    {
-        "appid": 5163700,
-        "name": "Technically Heroes"
-    },
-    {
-        "appid": 5163750,
-        "name": "Death Game Simulator"
-    },
-    {
-        "appid": 5163890,
-        "name": "Hopperstride"
-    },
-    {
-        "appid": 5164030,
-        "name": "Legacy of the Old City"
-    },
-    {
-        "appid": 5164060,
-        "name": "Servo The Wildguard"
-    },
-    {
-        "appid": 5164070,
-        "name": "Blow the Levee"
-    },
-    {
-        "appid": 5164130,
-        "name": "Bio Inc. Classic"
-    },
-    {
-        "appid": 5164190,
-        "name": "A Journey Rediscovered - Intro Version"
-    },
-    {
-        "appid": 5164200,
-        "name": "NO TRACE BY DAWN"
-    },
-    {
-        "appid": 5164270,
-        "name": "NUVRATE"
-    },
-    {
-        "appid": 5164300,
-        "name": "Roverbound"
-    },
-    {
-        "appid": 5164360,
-        "name": "Flippin' Bottles"
-    },
-    {
-        "appid": 5164400,
-        "name": "Song of the Stone"
-    },
-    {
-        "appid": 5164420,
-        "name": "Fate Candle: Three Kingdoms - Chronicle Restored"
-    },
-    {
-        "appid": 5164430,
-        "name": "BWAG"
-    },
-    {
-        "appid": 5164560,
-        "name": "Stablemasters"
-    },
-    {
-        "appid": 5164610,
-        "name": "MEANINGLESS"
-    },
-    {
-        "appid": 5164640,
-        "name": "Neon Strike"
-    },
-    {
-        "appid": 5164660,
-        "name": "Slime Trader"
-    },
-    {
-        "appid": 5164690,
-        "name": "Rage Floor"
-    },
-    {
-        "appid": 5164720,
-        "name": "The Book of Revelation: Apocalypse"
-    },
-    {
-        "appid": 5164740,
-        "name": "Rookie Rook"
-    },
-    {
-        "appid": 5164750,
-        "name": "Jigsaw Puzzle World - Greece"
-    },
-    {
-        "appid": 5164770,
-        "name": "Market Simulator"
-    },
-    {
-        "appid": 5164810,
-        "name": "LOOK / DON'T"
-    },
-    {
-        "appid": 5164820,
-        "name": "Experiment 15"
-    },
-    {
-        "appid": 5164830,
-        "name": "Futa Fitness 🤸♀"
-    },
-    {
-        "appid": 5164840,
-        "name": "Kings Cross"
-    },
-    {
-        "appid": 5164850,
-        "name": "Beltrunner"
-    },
-    {
-        "appid": 5164860,
-        "name": "Horror Doner"
-    },
-    {
-        "appid": 5164970,
-        "name": "Fury Drive"
-    },
-    {
-        "appid": 5164990,
-        "name": "Lost Pirates"
-    },
-    {
-        "appid": 5165000,
-        "name": "MaskloZoophic Sessions"
-    },
-    {
-        "appid": 5165010,
-        "name": "NOT Home Free"
-    },
-    {
-        "appid": 5165040,
-        "name": "Helyoran"
-    },
-    {
-        "appid": 5165090,
-        "name": "Tidy To The Max!"
-    },
-    {
-        "appid": 5165190,
-        "name": "Pixel Journey"
-    },
-    {
-        "appid": 5165230,
-        "name": "HELL-A"
-    },
-    {
-        "appid": 5165260,
-        "name": "Union Max Guidebook"
-    },
-    {
-        "appid": 5165300,
-        "name": "Passage Zero"
-    },
-    {
-        "appid": 5165340,
-        "name": "Beneath Solmere"
-    },
-    {
-        "appid": 5165350,
-        "name": "Clown Hole"
-    },
-    {
-        "appid": 5165370,
-        "name": "Macrostate"
-    },
-    {
-        "appid": 5165380,
-        "name": "FpsAimForge"
-    },
-    {
-        "appid": 5165390,
-        "name": "HOOD"
-    },
-    {
-        "appid": 5165420,
-        "name": "天朝天命·CADRE: Centralized Administration, Data & Reporting Environment"
-    },
-    {
-        "appid": 5165430,
-        "name": "PomoIdle Arena"
-    },
-    {
-        "appid": 5165460,
-        "name": "Monitor Tray"
-    },
-    {
-        "appid": 5165510,
-        "name": "Black Hole Grow Forever"
-    },
-    {
-        "appid": 5165520,
-        "name": "Archmage"
-    },
-    {
-        "appid": 5165560,
-        "name": "Floating Paradise"
-    },
-    {
-        "appid": 5165570,
-        "name": "Underpaid"
-    },
-    {
-        "appid": 5165650,
-        "name": "Mind the Clown: Reborn"
-    },
-    {
-        "appid": 5165680,
-        "name": "Parasite Core"
-    },
-    {
-        "appid": 5165730,
-        "name": "Whispers of Orange Island"
-    },
-    {
-        "appid": 5165750,
-        "name": "Taerim's Blueberry Defense"
-    },
-    {
-        "appid": 5165760,
-        "name": "The Lost Grotto"
-    },
-    {
-        "appid": 5165800,
-        "name": "REvolver for Steam"
-    },
-    {
-        "appid": 5165900,
-        "name": "Flawdread"
-    },
-    {
-        "appid": 5165970,
-        "name": "A Bad Dream: Trypophobia"
-    },
-    {
-        "appid": 5166030,
-        "name": "Star Space"
-    },
-    {
-        "appid": 5166070,
-        "name": "Endess Elo"
-    },
-    {
-        "appid": 5166150,
-        "name": "Agents! Please?"
-    },
-    {
-        "appid": 5166170,
-        "name": "Happy Roots"
-    },
-    {
-        "appid": 5166180,
-        "name": "Broken Lights"
-    },
-    {
-        "appid": 5166200,
-        "name": "Serandor The Last Knight"
-    },
-    {
-        "appid": 5166240,
-        "name": "ANIMITE -Echoes of the Chasm-"
-    },
-    {
-        "appid": 5166340,
-        "name": "Dirty Mop"
-    },
-    {
-        "appid": 5166350,
-        "name": "One Million Skeletons"
     }
 ]

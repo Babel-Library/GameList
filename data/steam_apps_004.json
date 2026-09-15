@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
         "appid": 2929040,
         "name": "Fleetbreakers"
     },
@@ -13752,6 +13756,10 @@
         "name": "Infinite Innocence"
     },
     {
+        "appid": 2997680,
+        "name": "Swords and Cavalry"
+    },
+    {
         "appid": 2997710,
         "name": "Hotel VIP: Adult Content DLC"
     },
@@ -22724,10 +22732,6 @@
         "name": "Keeper"
     },
     {
-        "appid": 3043620,
-        "name": "Steam Frame ARM64 Compat List"
-    },
-    {
         "appid": 3043650,
         "name": "Freedome Farmers"
     },
@@ -30944,6 +30948,10 @@
         "name": "Taigania"
     },
     {
+        "appid": 3084460,
+        "name": "Lightholm"
+    },
+    {
         "appid": 3084490,
         "name": "Lord's journey"
     },
@@ -34662,6 +34670,10 @@
     {
         "appid": 3101810,
         "name": "Wander Hero:Rebirth"
+    },
+    {
+        "appid": 3101840,
+        "name": "Weiss Schwarz Online"
     },
     {
         "appid": 3101910,
@@ -40412,12 +40424,12 @@
         "name": "Unterholz"
     },
     {
-        "appid": 3130660,
-        "name": "Sunken Veins"
-    },
-    {
         "appid": 3130670,
         "name": "Senchu/線虫"
+    },
+    {
+        "appid": 3130680,
+        "name": "BomberParty"
     },
     {
         "appid": 3130690,
@@ -60797,7 +60809,7 @@
     },
     {
         "appid": 3235700,
-        "name": "Nailed"
+        "name": "Starball Pachinko"
     },
     {
         "appid": 3235730,
@@ -106028,6 +106040,10 @@
         "name": "Red Supreme"
     },
     {
+        "appid": 3466220,
+        "name": "Insurance Inc."
+    },
+    {
         "appid": 3466230,
         "name": "Beamdown"
     },
@@ -125433,7 +125449,7 @@
     },
     {
         "appid": 3574810,
-        "name": "Shadow Of The Union"
+        "name": "Shadow Of The Union: Survival"
     },
     {
         "appid": 3574830,
@@ -128790,6 +128806,10 @@
     {
         "appid": 3591130,
         "name": "Furry Master: Slutbunnies"
+    },
+    {
+        "appid": 3591180,
+        "name": "Harvest Moon®: Echoes of Teradea"
     },
     {
         "appid": 3591190,
@@ -145133,7 +145153,7 @@
     },
     {
         "appid": 3673160,
-        "name": "Sol Titan: Echno"
+        "name": "Sol Titan"
     },
     {
         "appid": 3673180,
@@ -165252,6 +165272,10 @@
         "name": "CybeRage"
     },
     {
+        "appid": 3786840,
+        "name": "Slime Slasher"
+    },
+    {
         "appid": 3786870,
         "name": "Elroy and the Aliens Artbook"
     },
@@ -171818,6 +171842,10 @@
     {
         "appid": 3821590,
         "name": "City-Racing"
+    },
+    {
+        "appid": 3821610,
+        "name": "Last Treasure Online"
     },
     {
         "appid": 3821680,
@@ -184260,6 +184288,10 @@
         "name": "Monkeys!¡"
     },
     {
+        "appid": 3883060,
+        "name": "Dōkyūsei 2: Winter Heat"
+    },
+    {
         "appid": 3883070,
         "name": "Speakeasy Simulator"
     },
@@ -186742,6 +186774,10 @@
     {
         "appid": 3895200,
         "name": "Batty Zabella"
+    },
+    {
+        "appid": 3895210,
+        "name": "Destination"
     },
     {
         "appid": 3895300,
@@ -195185,7 +195221,7 @@
     },
     {
         "appid": 3938350,
-        "name": "棋界新纪元 三维立体作战的 围棋.象棋.中国象棋.国际象棋.五子棋.黑白棋.等"
+        "name": "Chess Go"
     },
     {
         "appid": 3938380,
@@ -199962,41 +199998,5 @@
     {
         "appid": 3961540,
         "name": "Duck Dash"
-    },
-    {
-        "appid": 3961570,
-        "name": "Eon's Insomnium"
-    },
-    {
-        "appid": 3961580,
-        "name": "Math Frenzy"
-    },
-    {
-        "appid": 3961600,
-        "name": "Echoes of the Wind"
-    },
-    {
-        "appid": 3961630,
-        "name": "Eidolon: Fate of Fools"
-    },
-    {
-        "appid": 3961650,
-        "name": "Perfect Hue Arena"
-    },
-    {
-        "appid": 3961680,
-        "name": "Move Code Lines - Move Python Lines"
-    },
-    {
-        "appid": 3961690,
-        "name": "I Saw a Flying Saucer"
-    },
-    {
-        "appid": 3961710,
-        "name": "Prosrochennyy"
-    },
-    {
-        "appid": 3961740,
-        "name": "PaJinko"
     }
 ]
