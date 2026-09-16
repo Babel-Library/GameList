@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1953550,
+        "name": "Forest Grump"
+    },
+    {
+        "appid": 1953580,
+        "name": "Samurai Solitaire. Threads of Fate"
+    },
+    {
         "appid": 1953590,
         "name": "Sailor’s Stories Solitaire"
     },
@@ -99896,6 +99904,10 @@
         "name": "Cities: Skylines II - San Francisco Set"
     },
     {
+        "appid": 2427731,
+        "name": "Cities: Skylines II - Landmark Buildings"
+    },
+    {
         "appid": 2427741,
         "name": "Cities: Skylines II - Creator Pack: Modern Architecture"
     },
@@ -114957,7 +114969,7 @@
     },
     {
         "appid": 2500090,
-        "name": "Dating after becoming Vtuber"
+        "name": "VTuber First, Love Later!?"
     },
     {
         "appid": 2500120,
@@ -125004,6 +125016,10 @@
         "name": "License to Breed"
     },
     {
+        "appid": 2552110,
+        "name": "LurkDarts"
+    },
+    {
         "appid": 2552130,
         "name": "Unexpected Consequences"
     },
@@ -126794,6 +126810,10 @@
     {
         "appid": 2560460,
         "name": "Hidden Cats in Spooky Town"
+    },
+    {
+        "appid": 2560470,
+        "name": "Apostle of Mustard"
     },
     {
         "appid": 2560480,
@@ -153709,7 +153729,7 @@
     },
     {
         "appid": 2695720,
-        "name": "Piece Quest"
+        "name": "Piece Quest Idle"
     },
     {
         "appid": 2695760,
@@ -153970,10 +153990,6 @@
     {
         "appid": 2697010,
         "name": "SoLo"
-    },
-    {
-        "appid": 2697030,
-        "name": "I Live Under Your House (Renovation)"
     },
     {
         "appid": 2697050,
@@ -199982,21 +199998,5 @@
     {
         "appid": 2928940,
         "name": "Yarn Guardians"
-    },
-    {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
     }
 ]

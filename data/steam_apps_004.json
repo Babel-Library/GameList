@@ -1,5 +1,21 @@
 [
     {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
         "appid": 2929020,
         "name": "A Twisted Place"
     },
@@ -666,10 +682,6 @@
     {
         "appid": 2932800,
         "name": "Galactic Civilizations IV - Tales of the Terran Alliance"
-    },
-    {
-        "appid": 2932860,
-        "name": "World of Immortals"
     },
     {
         "appid": 2932880,
@@ -16522,10 +16534,6 @@
     {
         "appid": 3011450,
         "name": "Icarus: Climb to Olympus"
-    },
-    {
-        "appid": 3011470,
-        "name": "FaeTerra"
     },
     {
         "appid": 3011520,
@@ -32736,10 +32744,6 @@
         "name": "Valorwood (Early Access)"
     },
     {
-        "appid": 3092870,
-        "name": "Kombat Hamster"
-    },
-    {
         "appid": 3092900,
         "name": "Rollo Pollo"
     },
@@ -47438,6 +47442,10 @@
     {
         "appid": 3166220,
         "name": "Harukuru HD. - Spring has come true? -"
+    },
+    {
+        "appid": 3166230,
+        "name": "That Which Remains"
     },
     {
         "appid": 3166250,
@@ -83516,6 +83524,10 @@
         "name": "Game for Aliens"
     },
     {
+        "appid": 3354380,
+        "name": "Legacy Code"
+    },
+    {
         "appid": 3354410,
         "name": "AI-VJ - Après-ski Visuals"
     },
@@ -96405,7 +96417,7 @@
     },
     {
         "appid": 3417550,
-        "name": "POLDERS"
+        "name": "POLDERS: A Dutch City Builder"
     },
     {
         "appid": 3417600,
@@ -126444,6 +126456,10 @@
         "name": "Cities: Skylines II - Skyrail Radio"
     },
     {
+        "appid": 3579840,
+        "name": "Cities: Skylines II - Expansion Pass 2"
+    },
+    {
         "appid": 3579860,
         "name": "Gank"
     },
@@ -130269,7 +130285,7 @@
     },
     {
         "appid": 3598620,
-        "name": "Luminare"
+        "name": "Luminare: Shards of the Sacred"
     },
     {
         "appid": 3598630,
@@ -144948,6 +144964,10 @@
         "name": "Red October – Melodies Under the Wheels"
     },
     {
+        "appid": 3672190,
+        "name": "Drop Dead Party"
+    },
+    {
         "appid": 3672210,
         "name": "Contraria"
     },
@@ -154724,6 +154744,10 @@
         "name": "9 Lives To Escape"
     },
     {
+        "appid": 3725980,
+        "name": "Cities: Skylines II - Downtown Market Set"
+    },
+    {
         "appid": 3726000,
         "name": "Wood & Flesh: Chapter 2"
     },
@@ -163584,6 +163608,10 @@
         "name": "Gold Miner:Classic Edition"
     },
     {
+        "appid": 3777090,
+        "name": "Bus Bound - Old Town Roads"
+    },
+    {
         "appid": 3777100,
         "name": "Bus Bound - Hidden Gems Tour"
     },
@@ -170512,6 +170540,10 @@
         "name": "Sky City Rush"
     },
     {
+        "appid": 3814960,
+        "name": "miniopolis"
+    },
+    {
         "appid": 3814970,
         "name": "My Sexy Neighbour 2 | Prologue"
     },
@@ -176694,6 +176726,10 @@
     {
         "appid": 3846800,
         "name": "吸血鬼的起床: 精灵幻剑录幸存者 (Vampire Awakening: Elven Sword Chronicles Survival)"
+    },
+    {
+        "appid": 3846830,
+        "name": "Total War: SHOGUN 2 - Complete Edition"
     },
     {
         "appid": 3846840,
@@ -192116,10 +192152,6 @@
         "name": "Basketball Legacy Manager 26"
     },
     {
-        "appid": 3922460,
-        "name": "Darkstar Medical Mercenary"
-    },
-    {
         "appid": 3922470,
         "name": "VR Blasteroids"
     },
@@ -199966,37 +199998,5 @@
     {
         "appid": 3961290,
         "name": "Fantasy Grounds - Traveller - Wrath of the Ancients"
-    },
-    {
-        "appid": 3961300,
-        "name": "Jettison"
-    },
-    {
-        "appid": 3961320,
-        "name": "Emuls: Oil & Water"
-    },
-    {
-        "appid": 3961340,
-        "name": "Ant Keeping Simulator - Species Pack 1"
-    },
-    {
-        "appid": 3961370,
-        "name": "Tornado Hunter"
-    },
-    {
-        "appid": 3961400,
-        "name": "Sands of Sarnath"
-    },
-    {
-        "appid": 3961430,
-        "name": "Mythos"
-    },
-    {
-        "appid": 3961470,
-        "name": "Fallfate: Impulsive Plinko"
-    },
-    {
-        "appid": 3961540,
-        "name": "Duck Dash"
     }
 ]

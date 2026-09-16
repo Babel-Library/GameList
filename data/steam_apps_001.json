@@ -179640,10 +179640,6 @@
         "name": "Dungeons & Dropped Things"
     },
     {
-        "appid": 1023370,
-        "name": "Hentai Super Girl"
-    },
-    {
         "appid": 1023390,
         "name": "People"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1108461,
         "name": "DRAGON BALL XENOVERSE 2 - Ultra Pack 2"
+    },
+    {
+        "appid": 1108530,
+        "name": "PUZZLE: OCEAN - Puzzle Pack: FISH PACK"
     }
 ]

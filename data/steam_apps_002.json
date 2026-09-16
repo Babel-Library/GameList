@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1108530,
-        "name": "PUZZLE: OCEAN - Puzzle Pack: FISH PACK"
-    },
-    {
         "appid": 1108540,
         "name": "Zen Chess: Champion's Moves"
     },
@@ -28726,6 +28722,10 @@
     {
         "appid": 1221730,
         "name": "Anti-Science Brigade"
+    },
+    {
+        "appid": 1221770,
+        "name": "Homeplanet"
     },
     {
         "appid": 1221790,
@@ -113552,6 +113552,10 @@
         "name": "Vojo"
     },
     {
+        "appid": 1598400,
+        "name": "GOONS!"
+    },
+    {
         "appid": 1598441,
         "name": "Back 4 Blood Annual Pass"
     },
@@ -195244,6 +195248,10 @@
         "name": "Dying Light - Dieselpunk Bundle"
     },
     {
+        "appid": 1935550,
+        "name": "Augmego"
+    },
+    {
         "appid": 1935580,
         "name": "Office Elevator"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1953540,
         "name": "Furry Shades of Gay 3: Still Gayer"
-    },
-    {
-        "appid": 1953550,
-        "name": "Forest Grump"
-    },
-    {
-        "appid": 1953580,
-        "name": "Samurai Solitaire. Threads of Fate"
     }
 ]
