@@ -1,57 +1,5 @@
 [
     {
-        "appid": 1953550,
-        "name": "Forest Grump"
-    },
-    {
-        "appid": 1953580,
-        "name": "Samurai Solitaire. Threads of Fate"
-    },
-    {
-        "appid": 1953590,
-        "name": "Sailor’s Stories Solitaire"
-    },
-    {
-        "appid": 1953600,
-        "name": "Election Town"
-    },
-    {
-        "appid": 1953610,
-        "name": "Crossout — Cleaner Starter Pack"
-    },
-    {
-        "appid": 1953620,
-        "name": "Alone in the crowd"
-    },
-    {
-        "appid": 1953630,
-        "name": "DODO: A Story Of Flight"
-    },
-    {
-        "appid": 1953650,
-        "name": "Super Destronaut: Land Wars"
-    },
-    {
-        "appid": 1953660,
-        "name": "Attack of the Toy Tanks"
-    },
-    {
-        "appid": 1953670,
-        "name": "Quetzal's Call"
-    },
-    {
-        "appid": 1953680,
-        "name": "Mao's Legacy: Homeland or Death"
-    },
-    {
-        "appid": 1953740,
-        "name": "World of Warships — German Ordnung"
-    },
-    {
-        "appid": 1953760,
-        "name": "Symbiotic"
-    },
-    {
         "appid": 1953770,
         "name": "Soulitaire"
     },
@@ -65460,10 +65408,6 @@
         "name": "SALUS"
     },
     {
-        "appid": 2272040,
-        "name": "Homebound: New Beginnings"
-    },
-    {
         "appid": 2272070,
         "name": "Death Gunfire - Kill the Zombie"
     },
@@ -108729,7 +108673,7 @@
     },
     {
         "appid": 2469560,
-        "name": "Coloniser"
+        "name": "Cantos"
     },
     {
         "appid": 2469570,
@@ -120610,10 +120554,6 @@
     {
         "appid": 2528910,
         "name": "Labyrinthum"
-    },
-    {
-        "appid": 2528920,
-        "name": "The Dark Door"
     },
     {
         "appid": 2528930,
@@ -148052,10 +147992,6 @@
         "name": "Dee's Nuts 2"
     },
     {
-        "appid": 2669010,
-        "name": "Deepophobia"
-    },
-    {
         "appid": 2669030,
         "name": "Phenomena Embattled"
     },
@@ -160793,7 +160729,7 @@
     },
     {
         "appid": 2730940,
-        "name": "MyRummy®"
+        "name": "MyRummy® 2"
     },
     {
         "appid": 2730960,
@@ -181912,10 +181848,6 @@
         "name": "Dungeons & Dragons: Long Rest Tavern"
     },
     {
-        "appid": 2837700,
-        "name": "Hazelnut Latte"
-    },
-    {
         "appid": 2837710,
         "name": "Tower Of Lies"
     },
@@ -199998,5 +199930,73 @@
     {
         "appid": 2928940,
         "name": "Yarn Guardians"
+    },
+    {
+        "appid": 2928950,
+        "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
+        "appid": 2929110,
+        "name": "HOYO"
+    },
+    {
+        "appid": 2929120,
+        "name": "따님은 제가 데리고 있습니다"
+    },
+    {
+        "appid": 2929130,
+        "name": "Bloodwood Dungeon"
+    },
+    {
+        "appid": 2929140,
+        "name": "Ataegina Act I"
+    },
+    {
+        "appid": 2929160,
+        "name": "Gremlin Party '03"
+    },
+    {
+        "appid": 2929170,
+        "name": "NEW MONOPOLY®"
+    },
+    {
+        "appid": 2929180,
+        "name": "We Need Space"
     }
 ]

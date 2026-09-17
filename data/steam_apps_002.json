@@ -1,53 +1,5 @@
 [
     {
-        "appid": 1108540,
-        "name": "Zen Chess: Champion's Moves"
-    },
-    {
-        "appid": 1108550,
-        "name": "Zen Chess: Blindfold Masters"
-    },
-    {
-        "appid": 1108560,
-        "name": "罪業狂襲 - Frenzy Retribution"
-    },
-    {
-        "appid": 1108590,
-        "name": "Eldest Souls"
-    },
-    {
-        "appid": 1108600,
-        "name": "Last Moon"
-    },
-    {
-        "appid": 1108620,
-        "name": "Gangsta Woman"
-    },
-    {
-        "appid": 1108630,
-        "name": "Gythol Granditti: The Crypt of Darkness"
-    },
-    {
-        "appid": 1108640,
-        "name": "OMNIMUS"
-    },
-    {
-        "appid": 1108650,
-        "name": "Fantasy Grounds - D&D Classics: Temple of Elemental Evil (1E)"
-    },
-    {
-        "appid": 1108680,
-        "name": "Monster Girl Fantasy 2: Exposed"
-    },
-    {
-        "appid": 1108740,
-        "name": "Stick Em Up"
-    },
-    {
-        "appid": 1108770,
-        "name": "Fantasy Grounds - Zobeck Gazetteer (5E)"
-    },
-    {
         "appid": 1108780,
         "name": "The Pirate Queen"
     },
@@ -8330,10 +8282,6 @@
     {
         "appid": 1141500,
         "name": "Fantasy Grounds - Protomen of the Black Bog Post-Apocalyptic Savage Tale (SWADE)"
-    },
-    {
-        "appid": 1141510,
-        "name": "One Fantasy Shooter"
     },
     {
         "appid": 1141530,
@@ -144669,7 +144617,7 @@
     },
     {
         "appid": 1715630,
-        "name": "Satus Colony Survival"
+        "name": "TimbrianGuard"
     },
     {
         "appid": 1715660,
@@ -199998,5 +199946,57 @@
     {
         "appid": 1953540,
         "name": "Furry Shades of Gay 3: Still Gayer"
+    },
+    {
+        "appid": 1953550,
+        "name": "Forest Grump"
+    },
+    {
+        "appid": 1953580,
+        "name": "Samurai Solitaire. Threads of Fate"
+    },
+    {
+        "appid": 1953590,
+        "name": "Sailor’s Stories Solitaire"
+    },
+    {
+        "appid": 1953600,
+        "name": "Election Town"
+    },
+    {
+        "appid": 1953610,
+        "name": "Crossout — Cleaner Starter Pack"
+    },
+    {
+        "appid": 1953620,
+        "name": "Alone in the crowd"
+    },
+    {
+        "appid": 1953630,
+        "name": "DODO: A Story Of Flight"
+    },
+    {
+        "appid": 1953650,
+        "name": "Super Destronaut: Land Wars"
+    },
+    {
+        "appid": 1953660,
+        "name": "Attack of the Toy Tanks"
+    },
+    {
+        "appid": 1953670,
+        "name": "Quetzal's Call"
+    },
+    {
+        "appid": 1953680,
+        "name": "Mao's Legacy: Homeland or Death"
+    },
+    {
+        "appid": 1953740,
+        "name": "World of Warships — German Ordnung"
+    },
+    {
+        "appid": 1953760,
+        "name": "Symbiotic"
     }
 ]

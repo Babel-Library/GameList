@@ -3052,26 +3052,6 @@
         "name": "Sonic & SEGA All-Stars Racing"
     },
     {
-        "appid": 34342,
-        "name": "Total War: SHOGUN 2 - Sengoku Jidai Unit Pack"
-    },
-    {
-        "appid": 34343,
-        "name": "Total War: SHOGUN 2 - Rise of the Samurai Campaign"
-    },
-    {
-        "appid": 34345,
-        "name": "Total War: SHOGUN 2 - The Hattori Clan Pack"
-    },
-    {
-        "appid": 34346,
-        "name": "Total War: SHOGUN 2 - Battle of Kawagoe"
-    },
-    {
-        "appid": 34348,
-        "name": "Total War: SHOGUN 2 - The Ikko Ikki Clan Pack"
-    },
-    {
         "appid": 34410,
         "name": "Death to Spies: Moment of Truth"
     },
@@ -6492,36 +6472,8 @@
         "name": "Total War: SHOGUN 2"
     },
     {
-        "appid": 201271,
-        "name": "A Total War Saga: FALL OF THE SAMURAI"
-    },
-    {
         "appid": 201272,
         "name": "Total War: Shogun 2 - Blood Pack DLC"
-    },
-    {
-        "appid": 201273,
-        "name": "Total War Saga: FALL OF THE SAMURAI – The Saga Faction Pack"
-    },
-    {
-        "appid": 201274,
-        "name": "Total War Saga: FALL OF THE SAMURAI – The Obama Faction Pack"
-    },
-    {
-        "appid": 201275,
-        "name": "Total War Saga: FALL OF THE SAMURAI – The Tsu Faction Pack"
-    },
-    {
-        "appid": 201276,
-        "name": "Total War Saga: FALL OF THE SAMURAI – The Sendai Faction Pack"
-    },
-    {
-        "appid": 201277,
-        "name": "Total War: SHOGUN 2 - Dragon War Battle Pack"
-    },
-    {
-        "appid": 201279,
-        "name": "Total War: SHOGUN 2: Saints and Heroes Unit Pack"
     },
     {
         "appid": 201290,
@@ -9970,10 +9922,6 @@
     {
         "appid": 223100,
         "name": "Homefront®: The Revolution"
-    },
-    {
-        "appid": 223180,
-        "name": "Total War: SHOGUN 2 – Otomo Clan Pack DLC"
     },
     {
         "appid": 223220,
@@ -172024,6 +171972,10 @@
         "name": "Bobs Track Builder Pro"
     },
     {
+        "appid": 993280,
+        "name": "舌尖上的魔素师"
+    },
+    {
         "appid": 993290,
         "name": "JOBU-KI"
     },
@@ -199998,5 +199950,53 @@
     {
         "appid": 1108530,
         "name": "PUZZLE: OCEAN - Puzzle Pack: FISH PACK"
+    },
+    {
+        "appid": 1108540,
+        "name": "Zen Chess: Champion's Moves"
+    },
+    {
+        "appid": 1108550,
+        "name": "Zen Chess: Blindfold Masters"
+    },
+    {
+        "appid": 1108560,
+        "name": "罪業狂襲 - Frenzy Retribution"
+    },
+    {
+        "appid": 1108590,
+        "name": "Eldest Souls"
+    },
+    {
+        "appid": 1108600,
+        "name": "Last Moon"
+    },
+    {
+        "appid": 1108620,
+        "name": "Gangsta Woman"
+    },
+    {
+        "appid": 1108630,
+        "name": "Gythol Granditti: The Crypt of Darkness"
+    },
+    {
+        "appid": 1108640,
+        "name": "OMNIMUS"
+    },
+    {
+        "appid": 1108650,
+        "name": "Fantasy Grounds - D&D Classics: Temple of Elemental Evil (1E)"
+    },
+    {
+        "appid": 1108680,
+        "name": "Monster Girl Fantasy 2: Exposed"
+    },
+    {
+        "appid": 1108740,
+        "name": "Stick Em Up"
+    },
+    {
+        "appid": 1108770,
+        "name": "Fantasy Grounds - Zobeck Gazetteer (5E)"
     }
 ]

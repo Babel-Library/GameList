@@ -1,73 +1,5 @@
 [
     {
-        "appid": 2928950,
-        "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
-        "appid": 2929120,
-        "name": "따님은 제가 데리고 있습니다"
-    },
-    {
-        "appid": 2929130,
-        "name": "Bloodwood Dungeon"
-    },
-    {
-        "appid": 2929140,
-        "name": "Ataegina Act I"
-    },
-    {
-        "appid": 2929160,
-        "name": "Gremlin Party '03"
-    },
-    {
-        "appid": 2929170,
-        "name": "NEW MONOPOLY®"
-    },
-    {
-        "appid": 2929180,
-        "name": "We Need Space"
-    },
-    {
         "appid": 2929200,
         "name": "Hentai Casual Jigsaw - Vampires"
     },
@@ -49220,6 +49152,10 @@
         "name": "Water Maid"
     },
     {
+        "appid": 3175590,
+        "name": "HAUNT"
+    },
+    {
         "appid": 3175630,
         "name": "GunStar's Gambit"
     },
@@ -53094,6 +53030,10 @@
     {
         "appid": 3195330,
         "name": "The Reverend"
+    },
+    {
+        "appid": 3195340,
+        "name": "SOLITUDE: Echoes from the Bloodline"
     },
     {
         "appid": 3195350,
@@ -64456,10 +64396,6 @@
         "name": "下一站江湖Ⅱ-纯玩法DLC（免费）《寒门书生》"
     },
     {
-        "appid": 3255950,
-        "name": "Escape Protocol"
-    },
-    {
         "appid": 3255970,
         "name": "My Day Challenge"
     },
@@ -73197,7 +73133,7 @@
     },
     {
         "appid": 3303890,
-        "name": "Alien Dark Wars"
+        "name": "Other World Strike: Helicopter Rescue"
     },
     {
         "appid": 3303910,
@@ -85369,39 +85305,39 @@
     },
     {
         "appid": 3363060,
-        "name": "\"Guerilla\" Skin Set"
+        "name": "Deadside \"Guerilla\" Skin Set"
     },
     {
         "appid": 3363070,
-        "name": "\"Dragonfly\" Skin Set"
+        "name": "Deadside \"Dragonfly\" Skin Set"
     },
     {
         "appid": 3363090,
-        "name": "\"Sandstorm\" Skin Set"
+        "name": "Deadside \"Sandstorm\" Skin Set"
     },
     {
         "appid": 3363100,
-        "name": "\"Royal flush\" Skin Set"
+        "name": "Deadside \"Royal flush\" Skin Set"
     },
     {
         "appid": 3363110,
-        "name": "\"Beehive\" Skin Set"
+        "name": "Deadside \"Beehive\" Skin Set"
     },
     {
         "appid": 3363120,
-        "name": "\"Bushranger\" Skin Set"
+        "name": "Deadside \"Bushranger\" Skin Set"
     },
     {
         "appid": 3363130,
-        "name": "\"Salamander\" Skin Set"
+        "name": "Deadside \"Salamander\" Skin Set"
     },
     {
         "appid": 3363140,
-        "name": "\"Jungle\" Skin Set"
+        "name": "Deadside \"Jungle\" Skin Set"
     },
     {
         "appid": 3363150,
-        "name": "Flags Set"
+        "name": "Deadside \"Flags Set\""
     },
     {
         "appid": 3363170,
@@ -150924,6 +150860,10 @@
         "name": "Dinopirates from Inner Space"
     },
     {
+        "appid": 3704660,
+        "name": "The Mighty Wizard's Tale"
+    },
+    {
         "appid": 3704670,
         "name": "Ghost Line: Plan B"
     },
@@ -154646,6 +154586,10 @@
     {
         "appid": 3725550,
         "name": "The Ring Of Succubus Queen"
+    },
+    {
+        "appid": 3725570,
+        "name": "The Last Warrior Standing"
     },
     {
         "appid": 3725580,
@@ -174457,7 +174401,7 @@
     },
     {
         "appid": 3835100,
-        "name": "Starnded: Gardens of the Rubellite"
+        "name": "Pinkwilds"
     },
     {
         "appid": 3835160,
@@ -174542,6 +174486,10 @@
     {
         "appid": 3835550,
         "name": "Buzzopolis: Hive Incremental"
+    },
+    {
+        "appid": 3835560,
+        "name": "River Runners: Downstream"
     },
     {
         "appid": 3835570,
@@ -180354,6 +180302,10 @@
     {
         "appid": 3864230,
         "name": "Sector 92"
+    },
+    {
+        "appid": 3864280,
+        "name": "Mr. Prepper - Mountaineer DLC"
     },
     {
         "appid": 3864290,
@@ -199998,5 +199950,53 @@
     {
         "appid": 3961290,
         "name": "Fantasy Grounds - Traveller - Wrath of the Ancients"
+    },
+    {
+        "appid": 3961300,
+        "name": "Jettison"
+    },
+    {
+        "appid": 3961320,
+        "name": "Emuls: Oil & Water"
+    },
+    {
+        "appid": 3961340,
+        "name": "Ant Keeping Simulator - Species Pack 1"
+    },
+    {
+        "appid": 3961370,
+        "name": "Tornado Hunter"
+    },
+    {
+        "appid": 3961400,
+        "name": "Sands of Sarnath"
+    },
+    {
+        "appid": 3961430,
+        "name": "Mythos"
+    },
+    {
+        "appid": 3961470,
+        "name": "Fallfate: Impulsive Plinko"
+    },
+    {
+        "appid": 3961540,
+        "name": "Duck Dash"
+    },
+    {
+        "appid": 3961570,
+        "name": "Eon's Insomnium"
+    },
+    {
+        "appid": 3961580,
+        "name": "Math Frenzy"
+    },
+    {
+        "appid": 3961600,
+        "name": "Echoes of the Wind"
+    },
+    {
+        "appid": 3961630,
+        "name": "Eidolon: Fate of Fools"
     }
 ]
