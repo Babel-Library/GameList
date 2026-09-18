@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1108740,
+        "name": "Stick Em Up"
+    },
+    {
+        "appid": 1108770,
+        "name": "Fantasy Grounds - Zobeck Gazetteer (5E)"
+    },
+    {
         "appid": 1108780,
         "name": "The Pirate Queen"
     },
@@ -148093,7 +148101,7 @@
     },
     {
         "appid": 1731170,
-        "name": "Space Defender"
+        "name": "Space Defender: Frontier Squadron"
     },
     {
         "appid": 1731180,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1953680,
         "name": "Mao's Legacy: Homeland or Death"
-    },
-    {
-        "appid": 1953740,
-        "name": "World of Warships — German Ordnung"
-    },
-    {
-        "appid": 1953760,
-        "name": "Symbiotic"
     }
 ]
