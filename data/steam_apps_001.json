@@ -60192,26 +60192,6 @@
         "name": "Virtual Insanity"
     },
     {
-        "appid": 492977,
-        "name": "Rocksmith® 2014 – Misfits - “Last Caress”"
-    },
-    {
-        "appid": 492978,
-        "name": "Rocksmith® 2014 – Misfits - “Die, Die My Darling”"
-    },
-    {
-        "appid": 492979,
-        "name": "Rocksmith® 2014 – Misfits - “Where Eagles Dare”"
-    },
-    {
-        "appid": 492980,
-        "name": "Rocksmith® 2014 – Misfits - “Halloween”"
-    },
-    {
-        "appid": 492981,
-        "name": "Rocksmith® 2014 – Misfits Song Pack"
-    },
-    {
         "appid": 492982,
         "name": "Rocksmith® 2014 – Dream Theater - “Pull Me Under”"
     },
@@ -167016,10 +166996,6 @@
         "name": "蓝宝石般的被害妄想少女/Damsel with persecutory delusion"
     },
     {
-        "appid": 970530,
-        "name": "黑暗料理?!"
-    },
-    {
         "appid": 970560,
         "name": "STEINS;GATE: My Darling's Embrace"
     },
@@ -199998,5 +199974,29 @@
     {
         "appid": 1108680,
         "name": "Monster Girl Fantasy 2: Exposed"
+    },
+    {
+        "appid": 1108740,
+        "name": "Stick Em Up"
+    },
+    {
+        "appid": 1108770,
+        "name": "Fantasy Grounds - Zobeck Gazetteer (5E)"
+    },
+    {
+        "appid": 1108780,
+        "name": "The Pirate Queen"
+    },
+    {
+        "appid": 1108790,
+        "name": "Brainstorm Party ~ Royal"
+    },
+    {
+        "appid": 1108791,
+        "name": "Brainstorm Party ~ Carnival"
+    },
+    {
+        "appid": 1108792,
+        "name": "Brainstorm Party ~ RPG"
     }
 ]

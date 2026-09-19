@@ -1,29 +1,5 @@
 [
     {
-        "appid": 1108740,
-        "name": "Stick Em Up"
-    },
-    {
-        "appid": 1108770,
-        "name": "Fantasy Grounds - Zobeck Gazetteer (5E)"
-    },
-    {
-        "appid": 1108780,
-        "name": "The Pirate Queen"
-    },
-    {
-        "appid": 1108790,
-        "name": "Brainstorm Party ~ Royal"
-    },
-    {
-        "appid": 1108791,
-        "name": "Brainstorm Party ~ Carnival"
-    },
-    {
-        "appid": 1108792,
-        "name": "Brainstorm Party ~ RPG"
-    },
-    {
         "appid": 1108793,
         "name": "Brainstorm Party ~ To the Farm"
     },
@@ -40574,10 +40550,6 @@
     {
         "appid": 1273510,
         "name": "Mysterious World"
-    },
-    {
-        "appid": 1273520,
-        "name": "The Last Day Defense VR"
     },
     {
         "appid": 1273530,
@@ -94904,6 +94876,10 @@
         "name": "Droplet: States of Matter"
     },
     {
+        "appid": 1517590,
+        "name": "Municipal Ghosts"
+    },
+    {
         "appid": 1517610,
         "name": "Space 'n Lasers"
     },
@@ -95178,6 +95154,10 @@
     {
         "appid": 1518690,
         "name": "Nevermore: The Chamber Door"
+    },
+    {
+        "appid": 1518740,
+        "name": "SandFlow"
     },
     {
         "appid": 1518770,
@@ -199998,5 +199978,25 @@
     {
         "appid": 1953680,
         "name": "Mao's Legacy: Homeland or Death"
+    },
+    {
+        "appid": 1953740,
+        "name": "World of Warships — German Ordnung"
+    },
+    {
+        "appid": 1953760,
+        "name": "Symbiotic"
+    },
+    {
+        "appid": 1953770,
+        "name": "Soulitaire"
+    },
+    {
+        "appid": 1953780,
+        "name": "純愛貓娘的同居生活"
+    },
+    {
+        "appid": 1953810,
+        "name": "Fantasy Grounds - FG Victorian Map Pack 1"
     }
 ]
