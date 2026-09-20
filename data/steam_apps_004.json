@@ -1,5 +1,13 @@
 [
     {
+        "appid": 2929160,
+        "name": "Gremlin Party '03"
+    },
+    {
+        "appid": 2929170,
+        "name": "NEW MONOPOLY®"
+    },
+    {
         "appid": 2929180,
         "name": "We Need Space"
     },
@@ -23086,6 +23094,10 @@
     {
         "appid": 3045630,
         "name": "DigRogue"
+    },
+    {
+        "appid": 3045640,
+        "name": "Water Walls"
     },
     {
         "appid": 3045650,
@@ -107640,6 +107652,10 @@
         "name": "Operation HOPE - Tower Defense"
     },
     {
+        "appid": 3475450,
+        "name": "TohoKids"
+    },
+    {
         "appid": 3475470,
         "name": "Supermarket"
     },
@@ -139681,7 +139697,7 @@
     },
     {
         "appid": 3646390,
-        "name": "NEKOCLAW: Waifu Catcher"
+        "name": "NekoClaw"
     },
     {
         "appid": 3646430,
@@ -199982,21 +199998,5 @@
     {
         "appid": 3961130,
         "name": "Salvage Unlimited"
-    },
-    {
-        "appid": 3961160,
-        "name": "Eye of the Erime"
-    },
-    {
-        "appid": 3961190,
-        "name": "Fantasy Grounds - Kingdoms World Building Map Pack"
-    },
-    {
-        "appid": 3961210,
-        "name": "Fantasy Grounds - Dungeons & Dragons - Netflix - Stranger Things: Welcome to the Hellfire Club"
-    },
-    {
-        "appid": 3961220,
-        "name": "VADE RETRO SATANA"
     }
 ]
