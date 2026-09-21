@@ -1,5 +1,29 @@
 [
     {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
+        "appid": 2929110,
+        "name": "HOYO"
+    },
+    {
+        "appid": 2929120,
+        "name": "따님은 제가 데리고 있습니다"
+    },
+    {
+        "appid": 2929130,
+        "name": "Bloodwood Dungeon"
+    },
+    {
+        "appid": 2929140,
+        "name": "Ataegina Act I"
+    },
+    {
         "appid": 2929160,
         "name": "Gremlin Party '03"
     },
@@ -9662,6 +9686,10 @@
     {
         "appid": 2976140,
         "name": "Campfire Cozy Friends"
+    },
+    {
+        "appid": 2976150,
+        "name": "horseplay"
     },
     {
         "appid": 2976160,
@@ -91954,6 +91982,10 @@
     {
         "appid": 3395420,
         "name": "Peek-A-Mimic"
+    },
+    {
+        "appid": 3395430,
+        "name": "MachineCorps"
     },
     {
         "appid": 3395460,
@@ -190205,7 +190237,7 @@
     },
     {
         "appid": 3913000,
-        "name": "铁骑少女DLC - 赭石色（CavalryGirls DLC - Orcher）"
+        "name": "铁骑少女DLC - 金盏菊（CavalryGirls DLC - Calendula）"
     },
     {
         "appid": 3913020,
@@ -199966,37 +199998,5 @@
     {
         "appid": 3961000,
         "name": "Flaunt"
-    },
-    {
-        "appid": 3961050,
-        "name": "Gulo-Gulo the Tiny Pirate: Island Time"
-    },
-    {
-        "appid": 3961060,
-        "name": "Fantasy Grounds - Traveller - Whispers on the Abyss"
-    },
-    {
-        "appid": 3961080,
-        "name": "Non-violent Hero – Official Artbook & Design Works"
-    },
-    {
-        "appid": 3961090,
-        "name": "Grommet Chod"
-    },
-    {
-        "appid": 3961100,
-        "name": "Spirit Trigger"
-    },
-    {
-        "appid": 3961110,
-        "name": "Sleepover: reWake"
-    },
-    {
-        "appid": 3961120,
-        "name": "The Box is Alive"
-    },
-    {
-        "appid": 3961130,
-        "name": "Salvage Unlimited"
     }
 ]

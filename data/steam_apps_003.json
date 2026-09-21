@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1953780,
+        "name": "純愛貓娘的同居生活"
+    },
+    {
         "appid": 1953810,
         "name": "Fantasy Grounds - FG Victorian Map Pack 1"
     },
@@ -2770,6 +2774,10 @@
     {
         "appid": 1965290,
         "name": "Spellgrimage"
+    },
+    {
+        "appid": 1965300,
+        "name": "Land of Ivy"
     },
     {
         "appid": 1965320,
@@ -26190,6 +26198,10 @@
     {
         "appid": 2097000,
         "name": "Super Jigsaw Puzzle: Generations - Chile"
+    },
+    {
+        "appid": 2097020,
+        "name": "RoomRun"
     },
     {
         "appid": 2097030,
@@ -67942,6 +67954,10 @@
     {
         "appid": 2285000,
         "name": "The MisAdventures of Xenos"
+    },
+    {
+        "appid": 2285020,
+        "name": "Toxic Frontier"
     },
     {
         "appid": 2285040,
@@ -111549,7 +111565,7 @@
     },
     {
         "appid": 2483660,
-        "name": "A Story in Bronze Ware"
+        "name": "Bamboo Spring: A Story Cast in Bronze"
     },
     {
         "appid": 2483680,
@@ -165604,6 +165620,10 @@
         "name": "DESCENT: A Bunnyhopping Odyssey"
     },
     {
+        "appid": 2755250,
+        "name": "Super Truco Online"
+    },
+    {
         "appid": 2755260,
         "name": "Dome RPG"
     },
@@ -178066,6 +178086,10 @@
     {
         "appid": 2818690,
         "name": "A Short Odyssey"
+    },
+    {
+        "appid": 2818700,
+        "name": "Marked For Mayhem"
     },
     {
         "appid": 2818730,
@@ -199974,29 +199998,5 @@
     {
         "appid": 2929060,
         "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
-        "appid": 2929120,
-        "name": "따님은 제가 데리고 있습니다"
-    },
-    {
-        "appid": 2929130,
-        "name": "Bloodwood Dungeon"
-    },
-    {
-        "appid": 2929140,
-        "name": "Ataegina Act I"
     }
 ]

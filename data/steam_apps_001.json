@@ -170496,6 +170496,10 @@
         "name": "Gorky 17 – Digital Deluxe Content"
     },
     {
+        "appid": 986211,
+        "name": "Chicken Shoot Digital Deluxe Content"
+    },
+    {
         "appid": 986220,
         "name": "Lost Islands / 失落之岛"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1108791,
         "name": "Brainstorm Party ~ Carnival"
-    },
-    {
-        "appid": 1108792,
-        "name": "Brainstorm Party ~ RPG"
     }
 ]
