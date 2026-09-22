@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1953780,
-        "name": "純愛貓娘的同居生活"
-    },
-    {
-        "appid": 1953810,
-        "name": "Fantasy Grounds - FG Victorian Map Pack 1"
-    },
-    {
         "appid": 1953830,
         "name": "Fantasy Grounds - FG Victorian Map Pack 2"
     },
@@ -10892,10 +10884,6 @@
         "name": "Rhapsody III: Memories of Marl Kingdom"
     },
     {
-        "appid": 2002890,
-        "name": "DEMON OF SPEED"
-    },
-    {
         "appid": 2002970,
         "name": "Wanba Warriors DLC - Character Pack 5"
     },
@@ -13494,10 +13482,6 @@
     {
         "appid": 2015830,
         "name": "Pingo Adventure"
-    },
-    {
-        "appid": 2015840,
-        "name": "WW3 - Year 1 | Starter Pack"
     },
     {
         "appid": 2015860,
@@ -39337,7 +39321,7 @@
     },
     {
         "appid": 2155770,
-        "name": "THE MULLER-POWELL PRINCIPLE"
+        "name": "THE MULLER-POWELL PRINCIPLE: Director's Cut"
     },
     {
         "appid": 2155800,
@@ -106525,7 +106509,7 @@
     },
     {
         "appid": 2457940,
-        "name": "Dark Farm FGT"
+        "name": "DARK FARM : The Last Harvest"
     },
     {
         "appid": 2457960,
@@ -112098,10 +112082,6 @@
     {
         "appid": 2486280,
         "name": "Quinn & Flynn"
-    },
-    {
-        "appid": 2486290,
-        "name": "Guild Wars 2: Secrets of the Obscure™ Prepurchase Rewards"
     },
     {
         "appid": 2486300,
@@ -199998,5 +199978,25 @@
     {
         "appid": 2929060,
         "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
+        "appid": 2929110,
+        "name": "HOYO"
+    },
+    {
+        "appid": 2929120,
+        "name": "따님은 제가 데리고 있습니다"
+    },
+    {
+        "appid": 2929130,
+        "name": "Bloodwood Dungeon"
     }
 ]

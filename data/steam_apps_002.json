@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1108792,
-        "name": "Brainstorm Party ~ RPG"
-    },
-    {
-        "appid": 1108793,
-        "name": "Brainstorm Party ~ To the Farm"
-    },
-    {
         "appid": 1108794,
         "name": "Brainstorm Party ~ Money Money"
     },
@@ -5997,7 +5989,7 @@
     },
     {
         "appid": 1131460,
-        "name": "明日探险家"
+        "name": "Jimmy's Journey"
     },
     {
         "appid": 1131470,
@@ -175292,10 +175284,6 @@
         "name": "Snakepit Larry"
     },
     {
-        "appid": 1845040,
-        "name": "Panzers on the Steppe"
-    },
-    {
         "appid": 1845050,
         "name": "Mirrorama"
     },
@@ -180504,10 +180492,6 @@
         "name": "Pirates on Target"
     },
     {
-        "appid": 1868730,
-        "name": "Gettysburg: Fields of Valor"
-    },
-    {
         "appid": 1868750,
         "name": "Secrets For Taking"
     },
@@ -180550,6 +180534,10 @@
     {
         "appid": 1869030,
         "name": "機辯意識 (Project Court 2050)"
+    },
+    {
+        "appid": 1869060,
+        "name": "棋路地牢"
     },
     {
         "appid": 1869070,
@@ -188629,7 +188617,7 @@
     },
     {
         "appid": 1905550,
-        "name": "BattleSage"
+        "name": "BATTLESAGE"
     },
     {
         "appid": 1905580,
@@ -196732,6 +196720,10 @@
         "name": "Santo Island Incident"
     },
     {
+        "appid": 1941920,
+        "name": "Factory Island"
+    },
+    {
         "appid": 1941940,
         "name": "Memory Novel - Girls Night Out"
     },
@@ -199998,5 +199990,13 @@
     {
         "appid": 1953770,
         "name": "Soulitaire"
+    },
+    {
+        "appid": 1953780,
+        "name": "純愛貓娘的同居生活"
+    },
+    {
+        "appid": 1953810,
+        "name": "Fantasy Grounds - FG Victorian Map Pack 1"
     }
 ]

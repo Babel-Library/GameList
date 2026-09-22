@@ -1,25 +1,5 @@
 [
     {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
-        "appid": 2929120,
-        "name": "따님은 제가 데리고 있습니다"
-    },
-    {
-        "appid": 2929130,
-        "name": "Bloodwood Dungeon"
-    },
-    {
         "appid": 2929140,
         "name": "Ataegina Act I"
     },
@@ -10816,10 +10796,6 @@
         "name": "Guild Wars 2® Janthir Wilds™ Expansion"
     },
     {
-        "appid": 2982330,
-        "name": "Guild Wars 2: Janthir Wilds™ Prepurchase Rewards"
-    },
-    {
         "appid": 2982340,
         "name": "ChromaGun 2: Dye Hard"
     },
@@ -16960,6 +16936,10 @@
         "name": "Trainz 2019 DLC - ProTrain: AC4400CW Loco Bundle 1"
     },
     {
+        "appid": 3013600,
+        "name": "Age of Transport - Blue Marble"
+    },
+    {
         "appid": 3013620,
         "name": "Trainz 2022 DLC - ProTrain: AC4400CW Loco Bundle 1"
     },
@@ -18521,7 +18501,7 @@
     },
     {
         "appid": 3021540,
-        "name": "Starborne: Frontiers"
+        "name": "Starborne Frontiers"
     },
     {
         "appid": 3021550,
@@ -19630,10 +19610,6 @@
     {
         "appid": 3027980,
         "name": "Next of Kin"
-    },
-    {
-        "appid": 3027990,
-        "name": "装甲红锋"
     },
     {
         "appid": 3028010,
@@ -59096,6 +59072,10 @@
         "name": "Dustgrave: Prologue"
     },
     {
+        "appid": 3226280,
+        "name": "My Roommate is a What ?!!"
+    },
+    {
         "appid": 3226310,
         "name": "FURRY WHORES"
     },
@@ -71017,7 +70997,7 @@
     },
     {
         "appid": 3292660,
-        "name": "Fish and Ships"
+        "name": "What the Ship?! - Arena Survivor"
     },
     {
         "appid": 3292670,
@@ -98648,6 +98628,10 @@
         "name": "Bittersweet Blossoms"
     },
     {
+        "appid": 3429360,
+        "name": "1E26"
+    },
+    {
         "appid": 3429370,
         "name": "Supermrket: Año Nuevo Chino"
     },
@@ -103118,6 +103102,10 @@
     {
         "appid": 3451220,
         "name": "The Second Circle"
+    },
+    {
+        "appid": 3451250,
+        "name": "Homemaking: Build & Decorate"
     },
     {
         "appid": 3451260,
@@ -148332,10 +148320,6 @@
         "name": "Supply Chain Expansion"
     },
     {
-        "appid": 3690620,
-        "name": "Who Is Real?"
-    },
-    {
         "appid": 3690630,
         "name": "Practical Pinball"
     },
@@ -150309,7 +150293,7 @@
     },
     {
         "appid": 3701290,
-        "name": "Endless Harvest!"
+        "name": "Farm & Drive"
     },
     {
         "appid": 3701300,
@@ -165576,6 +165560,10 @@
         "name": "Street Errands"
     },
     {
+        "appid": 3788310,
+        "name": "Grimmdustry"
+    },
+    {
         "appid": 3788320,
         "name": "Quantictactoe"
     },
@@ -180150,6 +180138,10 @@
     {
         "appid": 3863140,
         "name": "Tsujigiri"
+    },
+    {
+        "appid": 3863160,
+        "name": "Breadwinner - The Loaf Life Simulator"
     },
     {
         "appid": 3863190,
@@ -195540,6 +195532,10 @@
         "name": "Nightmare Class Project"
     },
     {
+        "appid": 3939420,
+        "name": "Launch Hazard"
+    },
+    {
         "appid": 3939430,
         "name": "Kingdom Two Crowns: Decennial Royal Wardrobe"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 3961000,
         "name": "Flaunt"
+    },
+    {
+        "appid": 3961050,
+        "name": "Gulo-Gulo the Tiny Pirate: Island Time"
     }
 ]

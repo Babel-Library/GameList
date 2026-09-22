@@ -49601,7 +49601,7 @@
     },
     {
         "appid": 436150,
-        "name": "Governor of Poker 3"
+        "name": "Governor of Poker"
     },
     {
         "appid": 436160,
@@ -100412,10 +100412,6 @@
         "name": "Marooners Deluxe DLC"
     },
     {
-        "appid": 674020,
-        "name": "World War 3"
-    },
-    {
         "appid": 674090,
         "name": "Sky Haven Tycoon - Airport Simulator"
     },
@@ -121001,7 +120997,7 @@
     },
     {
         "appid": 765040,
-        "name": "Defense of the Fantasy Robots"
+        "name": "Mazing TD"
     },
     {
         "appid": 765060,
@@ -185748,10 +185744,6 @@
         "name": "Reel Fishing: Road Trip Adventure"
     },
     {
-        "appid": 1051200,
-        "name": "Trover Saves the Universe"
-    },
-    {
         "appid": 1051210,
         "name": "Sageball"
     },
@@ -199998,5 +199990,13 @@
     {
         "appid": 1108791,
         "name": "Brainstorm Party ~ Carnival"
+    },
+    {
+        "appid": 1108792,
+        "name": "Brainstorm Party ~ RPG"
+    },
+    {
+        "appid": 1108793,
+        "name": "Brainstorm Party ~ To the Farm"
     }
 ]
