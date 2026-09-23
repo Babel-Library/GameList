@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1953830,
-        "name": "Fantasy Grounds - FG Victorian Map Pack 2"
-    },
-    {
         "appid": 1953840,
         "name": "Fantasy battle islands"
     },
@@ -26332,6 +26328,10 @@
         "name": "Ka: Keepers & Assassins"
     },
     {
+        "appid": 2097640,
+        "name": "STAtIC"
+    },
+    {
         "appid": 2097670,
         "name": "Everett Isle"
     },
@@ -43410,6 +43410,10 @@
     {
         "appid": 2174790,
         "name": "Farmistic"
+    },
+    {
+        "appid": 2174800,
+        "name": "Nightmare Hunter Galaxy"
     },
     {
         "appid": 2174830,
@@ -99536,6 +99540,10 @@
         "name": "Pact of Joy: Prologue"
     },
     {
+        "appid": 2426390,
+        "name": "Farmion"
+    },
+    {
         "appid": 2426400,
         "name": "Road to Top G"
     },
@@ -115728,10 +115736,6 @@
         "name": "SON of SPARTA"
     },
     {
-        "appid": 2504900,
-        "name": "PROTOSHOCK"
-    },
-    {
         "appid": 2504910,
         "name": "Ikkarus and the Prince of Sin - Art Pack"
     },
@@ -118888,6 +118892,10 @@
         "name": "Way To Fall"
     },
     {
+        "appid": 2520700,
+        "name": "Lonely Coast: Echo of the Deep"
+    },
+    {
         "appid": 2520760,
         "name": "Fantasy Up"
     },
@@ -120362,6 +120370,10 @@
     {
         "appid": 2527760,
         "name": "Search & Find - Hidden Objects"
+    },
+    {
+        "appid": 2527810,
+        "name": "BEATVISTA"
     },
     {
         "appid": 2527820,
@@ -129417,7 +129429,7 @@
     },
     {
         "appid": 2574030,
-        "name": "巫蛇夜宴"
+        "name": "Snake Crush Survivors"
     },
     {
         "appid": 2574040,
@@ -133365,7 +133377,7 @@
     },
     {
         "appid": 2595700,
-        "name": "IDILI"
+        "name": "IDILI: Awakens"
     },
     {
         "appid": 2595710,
@@ -151554,6 +151566,10 @@
     {
         "appid": 2685820,
         "name": "Fantasy Adventure Builder - Premium Version Upgrade"
+    },
+    {
+        "appid": 2685830,
+        "name": "Rogtochess"
     },
     {
         "appid": 2685840,
@@ -199982,21 +199998,5 @@
     {
         "appid": 2929070,
         "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
-        "appid": 2929120,
-        "name": "따님은 제가 데리고 있습니다"
-    },
-    {
-        "appid": 2929130,
-        "name": "Bloodwood Dungeon"
     }
 ]
