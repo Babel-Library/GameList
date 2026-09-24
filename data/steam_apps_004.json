@@ -7100,6 +7100,10 @@
         "name": "Skel Dungeon: Heroes Must Die!"
     },
     {
+        "appid": 2963850,
+        "name": "Nothing Simulator"
+    },
+    {
         "appid": 2963870,
         "name": "Metal Slug: Awakening"
     },
@@ -66000,6 +66004,10 @@
         "name": "Tsunagari Chess School"
     },
     {
+        "appid": 3265340,
+        "name": "PIPELINE"
+    },
+    {
         "appid": 3265360,
         "name": "Industry Giant 4.0 - Official Guide"
     },
@@ -67854,6 +67862,10 @@
     {
         "appid": 3275770,
         "name": "Koshari Defense"
+    },
+    {
+        "appid": 3275780,
+        "name": "Bet Your Friends"
     },
     {
         "appid": 3275850,
@@ -100344,6 +100356,10 @@
         "name": "Clothing Supermarket Store Simulator"
     },
     {
+        "appid": 3437870,
+        "name": "Bid Master Simulator"
+    },
+    {
         "appid": 3437940,
         "name": "Sheep Escape"
     },
@@ -101394,6 +101410,10 @@
     {
         "appid": 3442890,
         "name": "Can No One Hear Me?"
+    },
+    {
+        "appid": 3442900,
+        "name": "Spirit Stream"
     },
     {
         "appid": 3442910,
@@ -103698,6 +103718,10 @@
     {
         "appid": 3454110,
         "name": "Starship Troopers: Terran Command - The Eradicators"
+    },
+    {
+        "appid": 3454120,
+        "name": "Starship Troopers: Terran Command - Tropical Terror"
     },
     {
         "appid": 3454130,
@@ -108173,7 +108197,7 @@
     },
     {
         "appid": 3478410,
-        "name": "Bulwark: Falconeer Chronicles - Verne Bannerless Pack DLC"
+        "name": "Bulwark: Falconeer Chronicles - Verne Bannerless"
     },
     {
         "appid": 3478420,
@@ -117113,7 +117137,7 @@
     },
     {
         "appid": 3530010,
-        "name": "Meow Garden"
+        "name": "猫咪花园 Meow Garden"
     },
     {
         "appid": 3530030,
@@ -139041,7 +139065,7 @@
     },
     {
         "appid": 3642760,
-        "name": "Amelorn"
+        "name": "Age of Amelorn"
     },
     {
         "appid": 3642810,
@@ -139782,6 +139806,10 @@
     {
         "appid": 3646560,
         "name": "Rainy Day"
+    },
+    {
+        "appid": 3646570,
+        "name": "Tank Odyssey"
     },
     {
         "appid": 3646590,
@@ -154064,6 +154092,10 @@
         "name": "Night Patrol"
     },
     {
+        "appid": 3722080,
+        "name": "Towering Tales"
+    },
+    {
         "appid": 3722090,
         "name": "Parasensor"
     },
@@ -154293,7 +154325,7 @@
     },
     {
         "appid": 3723370,
-        "name": "I Made This Game in 1 Year"
+        "name": "I Made This Game in 1 Year - without AI"
     },
     {
         "appid": 3723390,
@@ -169744,6 +169776,10 @@
         "name": "Grit the Dark World"
     },
     {
+        "appid": 3810900,
+        "name": "LOVE X LOVE"
+    },
+    {
         "appid": 3810920,
         "name": "琉璃鏡：萬象卡牌"
     },
@@ -174649,7 +174685,7 @@
     },
     {
         "appid": 3835840,
-        "name": "PROJECT: V.I.R.A."
+        "name": "VULTURE"
     },
     {
         "appid": 3835850,
@@ -178524,6 +178560,10 @@
         "name": "Moonlit Lanterns"
     },
     {
+        "appid": 3855160,
+        "name": "vampire girlー堕落の吸血鬼ー"
+    },
+    {
         "appid": 3855180,
         "name": "Dust Busters"
     },
@@ -181804,6 +181844,10 @@
         "name": "Dockside Dreams – Fish & Cook Simulator"
     },
     {
+        "appid": 3870940,
+        "name": "VOICES LIE"
+    },
+    {
         "appid": 3870960,
         "name": "Lost in Loss"
     },
@@ -184998,6 +185042,10 @@
     {
         "appid": 3886030,
         "name": "Threshold Control"
+    },
+    {
+        "appid": 3886040,
+        "name": "Project Paladin: The Card Wargame"
     },
     {
         "appid": 3886050,
@@ -191965,7 +192013,7 @@
     },
     {
         "appid": 3921340,
-        "name": "Tower Strike '89"
+        "name": "NTD: New Tower Defense?!"
     },
     {
         "appid": 3921350,
@@ -199950,53 +199998,5 @@
     {
         "appid": 3960500,
         "name": "Death & Taxes Multiplayer RPG"
-    },
-    {
-        "appid": 3960510,
-        "name": "Galacard: Ackian Archives"
-    },
-    {
-        "appid": 3960530,
-        "name": "Vixes"
-    },
-    {
-        "appid": 3960580,
-        "name": "Arcane Architect"
-    },
-    {
-        "appid": 3960600,
-        "name": "Warrior Cats: Clans of the Forest"
-    },
-    {
-        "appid": 3960680,
-        "name": "Rugösi - Golden Hat"
-    },
-    {
-        "appid": 3960740,
-        "name": "Sheeps"
-    },
-    {
-        "appid": 3960750,
-        "name": "Demon with a Pickaxe"
-    },
-    {
-        "appid": 3960760,
-        "name": "Enlighted"
-    },
-    {
-        "appid": 3960770,
-        "name": "Starshield"
-    },
-    {
-        "appid": 3960780,
-        "name": "Obstacle Challenge: Platform - Action"
-    },
-    {
-        "appid": 3960790,
-        "name": "Moon2999 - Explosive crossbow"
-    },
-    {
-        "appid": 3960800,
-        "name": "Murder at Chateau de Rouge"
     }
 ]

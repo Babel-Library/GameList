@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1108793,
-        "name": "Brainstorm Party ~ To the Farm"
-    },
-    {
         "appid": 1108794,
         "name": "Brainstorm Party ~ Money Money"
     },
@@ -195393,7 +195389,7 @@
     },
     {
         "appid": 1936770,
-        "name": "Among Stars"
+        "name": "Among The Stars"
     },
     {
         "appid": 1936790,
@@ -199998,5 +199994,9 @@
     {
         "appid": 1953830,
         "name": "Fantasy Grounds - FG Victorian Map Pack 2"
+    },
+    {
+        "appid": 1953840,
+        "name": "Fantasy battle islands"
     }
 ]

@@ -68712,10 +68712,6 @@
         "name": "Virtual-O"
     },
     {
-        "appid": 529030,
-        "name": "Barrow Hill: Curse of the Ancient Circle - Soundtrack"
-    },
-    {
         "appid": 529040,
         "name": "Fine China"
     },
@@ -102542,10 +102538,6 @@
     {
         "appid": 682850,
         "name": "InfinitasDM - Sci-Fi Tokens"
-    },
-    {
-        "appid": 682890,
-        "name": "Quake Champions - Platinum Packs"
     },
     {
         "appid": 682900,
@@ -153924,6 +153916,10 @@
         "name": "Me Smart Orc"
     },
     {
+        "appid": 913700,
+        "name": "Dawn Of Imperialism"
+    },
+    {
         "appid": 913710,
         "name": "Dangerous Lands - Magic and RPG"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1108792,
         "name": "Brainstorm Party ~ RPG"
+    },
+    {
+        "appid": 1108793,
+        "name": "Brainstorm Party ~ To the Farm"
     }
 ]
