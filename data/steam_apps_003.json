@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1953830,
+        "name": "Fantasy Grounds - FG Victorian Map Pack 2"
+    },
+    {
+        "appid": 1953840,
+        "name": "Fantasy battle islands"
+    },
+    {
         "appid": 1953850,
         "name": "VICE Undercover"
     },
@@ -1862,10 +1870,6 @@
     {
         "appid": 1961040,
         "name": "Zion Survivors"
-    },
-    {
-        "appid": 1961050,
-        "name": "Party Universe"
     },
     {
         "appid": 1961060,
@@ -44416,6 +44420,10 @@
         "name": "Don't Bow"
     },
     {
+        "appid": 2178750,
+        "name": "POLYFAULT"
+    },
+    {
         "appid": 2178760,
         "name": "Rose's Retirement Run"
     },
@@ -51776,6 +51784,10 @@
         "name": "My Alien Roommate"
     },
     {
+        "appid": 2210950,
+        "name": "Aethel Mine"
+    },
+    {
         "appid": 2210960,
         "name": "Police Simulator: Patrol Officers: Guardian Police Vehicle DLC"
     },
@@ -54705,7 +54717,7 @@
     },
     {
         "appid": 2224060,
-        "name": "Catrophy Trail"
+        "name": "Clumsy Claws"
     },
     {
         "appid": 2224090,
@@ -75128,6 +75140,10 @@
         "name": "Elevatrix"
     },
     {
+        "appid": 2317820,
+        "name": "Feudal Friends"
+    },
+    {
         "appid": 2317870,
         "name": "WorldWide Warfare League of Cities"
     },
@@ -80506,10 +80522,6 @@
     {
         "appid": 2342240,
         "name": "Hentai Journey"
-    },
-    {
-        "appid": 2342250,
-        "name": "Prime Monster System"
     },
     {
         "appid": 2342260,
@@ -96056,6 +96068,10 @@
         "name": "Garden of Pizzlerat"
     },
     {
+        "appid": 2409460,
+        "name": "SlimeTenPuzzle"
+    },
+    {
         "appid": 2409480,
         "name": "Distant Worlds 2: Factions - Quameno and Gizureans"
     },
@@ -103582,6 +103598,10 @@
     {
         "appid": 2444010,
         "name": "Hector The Cat - Treasure Hunter"
+    },
+    {
+        "appid": 2444040,
+        "name": "HY-宠物王国：7流星 HY-PetKingdom7:Meteor"
     },
     {
         "appid": 2444060,
@@ -160125,7 +160145,7 @@
     },
     {
         "appid": 2727620,
-        "name": "Bulwark: Falconeer Chronicles - Dreadnot Day One DLC"
+        "name": "Bulwark: Falconeer Chronicles - Dreadnot"
     },
     {
         "appid": 2727650,
@@ -170784,6 +170804,10 @@
         "name": "Mutant Boxing League VR"
     },
     {
+        "appid": 2780750,
+        "name": "Limbival"
+    },
+    {
         "appid": 2780760,
         "name": "Survive In Strange World"
     },
@@ -172493,11 +172517,11 @@
     },
     {
         "appid": 2789830,
-        "name": "Bulwark: Falconeer Chronicles - GunBoat DLC"
+        "name": "Bulwark: Falconeer Chronicles - GunBoat"
     },
     {
         "appid": 2789840,
-        "name": "Bulwark: Falconeer Chronicles - Berracutta DLC"
+        "name": "Bulwark: Falconeer Chronicles - Berracutta"
     },
     {
         "appid": 2789860,
@@ -175905,7 +175929,7 @@
     },
     {
         "appid": 2807430,
-        "name": "Gravity"
+        "name": "Gravity: Physics Puzzles"
     },
     {
         "appid": 2807460,
@@ -189580,10 +189604,6 @@
         "name": "Sojourn Past"
     },
     {
-        "appid": 2876340,
-        "name": "DotSec"
-    },
-    {
         "appid": 2876350,
         "name": "The Architects of the Universe: The Orphans"
     },
@@ -194977,7 +194997,7 @@
     },
     {
         "appid": 2903390,
-        "name": "カグラデン"
+        "name": "Kaguraden"
     },
     {
         "appid": 2903450,
@@ -199978,25 +199998,5 @@
     {
         "appid": 2929010,
         "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
         "appid": 2929080,
         "name": "Antiyoy"
     },
@@ -13952,6 +13972,10 @@
         "name": "NEON Squad Tactics"
     },
     {
+        "appid": 2998660,
+        "name": "Torreta"
+    },
+    {
         "appid": 2998670,
         "name": "Flying Frogs"
     },
@@ -15810,10 +15834,6 @@
     {
         "appid": 3008190,
         "name": "Jewel Match Solitaire Seasons - Collector's Edition"
-    },
-    {
-        "appid": 3008200,
-        "name": "PAPERHEAD EP.0"
     },
     {
         "appid": 3008210,
@@ -24269,7 +24289,7 @@
     },
     {
         "appid": 3051270,
-        "name": "FPV Worldwide"
+        "name": "FPV Worldwide: Real World Drone Simulator"
     },
     {
         "appid": 3051280,
@@ -25725,7 +25745,7 @@
     },
     {
         "appid": 3058680,
-        "name": "JUNHAO AND QIANYA"
+        "name": "FUDAN ADVENTURE"
     },
     {
         "appid": 3058690,
@@ -41772,6 +41792,10 @@
         "name": "Trap with Furry Femboy"
     },
     {
+        "appid": 3137400,
+        "name": "micro factory"
+    },
+    {
         "appid": 3137440,
         "name": "Angel Legion-DLC Cloud Dress (Red)"
     },
@@ -47165,11 +47189,11 @@
     },
     {
         "appid": 3165180,
-        "name": "Bulwark: Falconeer Chronicles - Mongres Trader Pack DLC"
+        "name": "Bulwark: Falconeer Chronicles - Mongres Trader"
     },
     {
         "appid": 3165190,
-        "name": "Bulwark: Falconeer Chronicles - Mad Lector DLC"
+        "name": "Bulwark: Falconeer Chronicles - Mad Lector"
     },
     {
         "appid": 3165200,
@@ -86856,6 +86880,10 @@
         "name": "Sid Meier's Civilization® VII: Tides of Power Collection"
     },
     {
+        "appid": 3369910,
+        "name": "Drunk Golf"
+    },
+    {
         "appid": 3369920,
         "name": "upg"
     },
@@ -112098,6 +112126,10 @@
     {
         "appid": 3500250,
         "name": "Eclipse"
+    },
+    {
+        "appid": 3500270,
+        "name": "Terrafy"
     },
     {
         "appid": 3500340,
@@ -146164,6 +146196,10 @@
         "name": "Autobahn Police Simulator 3 - Police Motorcycle"
     },
     {
+        "appid": 3679170,
+        "name": "That's Exactly What a Wolf Would Say! "
+    },
+    {
         "appid": 3679190,
         "name": "Chernobots"
     },
@@ -156838,6 +156874,10 @@
     {
         "appid": 3737520,
         "name": "Tile Tides"
+    },
+    {
+        "appid": 3737540,
+        "name": "Arbiter"
     },
     {
         "appid": 3737550,
@@ -174860,6 +174900,10 @@
         "name": "The Observatory"
     },
     {
+        "appid": 3836940,
+        "name": "Realm Nine"
+    },
+    {
         "appid": 3836960,
         "name": "ENCOUNTER BAR"
     },
@@ -178561,7 +178605,7 @@
     },
     {
         "appid": 3855160,
-        "name": "vampire girlー堕落の吸血鬼ー"
+        "name": "Vampire Girl - The Fallen Vampire -"
     },
     {
         "appid": 3855180,
@@ -180125,7 +180169,7 @@
     },
     {
         "appid": 3862770,
-        "name": "鍵穴喫茶店"
+        "name": "The Odd Cafe Case Files"
     },
     {
         "appid": 3862790,
@@ -192472,6 +192516,10 @@
         "name": "Teapot Spinner"
     },
     {
+        "appid": 3923300,
+        "name": "新熱血江湖：世界"
+    },
+    {
         "appid": 3923360,
         "name": "플라워던전-DLC : 메이지&나이츠"
     },
@@ -197653,7 +197701,7 @@
     },
     {
         "appid": 3948940,
-        "name": "異世界港V"
+        "name": "Isekai HKV"
     },
     {
         "appid": 3948960,
@@ -199950,53 +199998,5 @@
     {
         "appid": 3960280,
         "name": "She Plays Dirty"
-    },
-    {
-        "appid": 3960310,
-        "name": "Fusion Script Game Studio: iscEngine & JS-Engine"
-    },
-    {
-        "appid": 3960350,
-        "name": "Loop! Loop! Sushi"
-    },
-    {
-        "appid": 3960360,
-        "name": "Maniac Mind"
-    },
-    {
-        "appid": 3960370,
-        "name": "End Of Line"
-    },
-    {
-        "appid": 3960380,
-        "name": "Decksroom"
-    },
-    {
-        "appid": 3960400,
-        "name": "Gargoyle Garden"
-    },
-    {
-        "appid": 3960410,
-        "name": "Hot Property"
-    },
-    {
-        "appid": 3960420,
-        "name": "Dreamwrought"
-    },
-    {
-        "appid": 3960440,
-        "name": "Space Memory: Artiodactyls"
-    },
-    {
-        "appid": 3960450,
-        "name": "Echoes of the Court"
-    },
-    {
-        "appid": 3960460,
-        "name": "SCP: Hellfire"
-    },
-    {
-        "appid": 3960500,
-        "name": "Death & Taxes Multiplayer RPG"
     }
 ]

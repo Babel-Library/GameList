@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1108793,
+        "name": "Brainstorm Party ~ To the Farm"
+    },
+    {
         "appid": 1108794,
         "name": "Brainstorm Party ~ Money Money"
     },
@@ -7105,7 +7109,7 @@
     },
     {
         "appid": 1136290,
-        "name": "Kick Bot"
+        "name": "Super Kick Bot"
     },
     {
         "appid": 1136310,
@@ -53261,7 +53265,7 @@
     },
     {
         "appid": 1336910,
-        "name": "Space Launch Simulator"
+        "name": "ASTRODIGGER: SPACE SIM & ASTEROID DIGGING"
     },
     {
         "appid": 1336930,
@@ -82830,6 +82834,10 @@
     {
         "appid": 1464480,
         "name": "VR Hentai Cat"
+    },
+    {
+        "appid": 1464490,
+        "name": "冬羽"
     },
     {
         "appid": 1464500,
@@ -129486,10 +129494,6 @@
     {
         "appid": 1673310,
         "name": "If The Dream Of Star"
-    },
-    {
-        "appid": 1673320,
-        "name": "Survivor"
     },
     {
         "appid": 1673360,
@@ -179528,6 +179532,10 @@
         "name": "Kanpeki"
     },
     {
+        "appid": 1864730,
+        "name": "Fuck the Ocean"
+    },
+    {
         "appid": 1864750,
         "name": "Heeey! Park-Boy!"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1953810,
         "name": "Fantasy Grounds - FG Victorian Map Pack 1"
-    },
-    {
-        "appid": 1953830,
-        "name": "Fantasy Grounds - FG Victorian Map Pack 2"
-    },
-    {
-        "appid": 1953840,
-        "name": "Fantasy battle islands"
     }
 ]

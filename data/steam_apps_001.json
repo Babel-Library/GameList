@@ -117,7 +117,7 @@
     },
     {
         "appid": 1313,
-        "name": "SiN Gold"
+        "name": "SiN Gold (1998)"
     },
     {
         "appid": 1500,
@@ -17986,6 +17986,10 @@
     {
         "appid": 286160,
         "name": "Tabletop Simulator"
+    },
+    {
+        "appid": 286180,
+        "name": "Salticidae Story"
     },
     {
         "appid": 286200,
@@ -41469,7 +41473,7 @@
     },
     {
         "appid": 397900,
-        "name": "Business Tour - Board Game with Online Multiplayer(大富翁)"
+        "name": "Business Tour - Board Game with Online Multiplayer"
     },
     {
         "appid": 397910,
@@ -199994,9 +199998,5 @@
     {
         "appid": 1108792,
         "name": "Brainstorm Party ~ RPG"
-    },
-    {
-        "appid": 1108793,
-        "name": "Brainstorm Party ~ To the Farm"
     }
 ]
