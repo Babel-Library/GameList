@@ -32704,10 +32704,6 @@
         "name": "Another Star"
     },
     {
-        "appid": 358040,
-        "name": "VIVE Cosmos Elite"
-    },
-    {
         "appid": 358070,
         "name": "Earthtongue"
     },
@@ -60194,22 +60190,6 @@
     {
         "appid": 492880,
         "name": "Virtual Insanity"
-    },
-    {
-        "appid": 492982,
-        "name": "Rocksmith® 2014 – Dream Theater - “Pull Me Under”"
-    },
-    {
-        "appid": 492983,
-        "name": "Rocksmith® 2014 – Dream Theater - “Metropolis Part I: “The Miracle and the Sleeper””"
-    },
-    {
-        "appid": 492984,
-        "name": "Rocksmith® 2014 – Dream Theater - “On the Backs of Angels”"
-    },
-    {
-        "appid": 492985,
-        "name": "Rocksmith® 2014 – Dream Theater Song Pack"
     },
     {
         "appid": 492986,
@@ -105541,7 +105521,7 @@
     },
     {
         "appid": 696300,
-        "name": "CRACKHEAD Theme Tune"
+        "name": "Crackhead Theme Tune"
     },
     {
         "appid": 696310,
@@ -187836,10 +187816,6 @@
         "name": "Skully Pinball"
     },
     {
-        "appid": 1059220,
-        "name": "'83"
-    },
-    {
         "appid": 1059230,
         "name": "When I Was Young"
     },
@@ -199998,5 +199974,29 @@
     {
         "appid": 1108792,
         "name": "Brainstorm Party ~ RPG"
+    },
+    {
+        "appid": 1108793,
+        "name": "Brainstorm Party ~ To the Farm"
+    },
+    {
+        "appid": 1108794,
+        "name": "Brainstorm Party ~ Money Money"
+    },
+    {
+        "appid": 1108800,
+        "name": "Android Hunter A"
+    },
+    {
+        "appid": 1108820,
+        "name": "Polar Jump"
+    },
+    {
+        "appid": 1108940,
+        "name": "异星传奇/Strange Planet"
+    },
+    {
+        "appid": 1108950,
+        "name": "CopyCat"
     }
 ]

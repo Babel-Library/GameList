@@ -1,29 +1,5 @@
 [
     {
-        "appid": 1108793,
-        "name": "Brainstorm Party ~ To the Farm"
-    },
-    {
-        "appid": 1108794,
-        "name": "Brainstorm Party ~ Money Money"
-    },
-    {
-        "appid": 1108800,
-        "name": "Android Hunter A"
-    },
-    {
-        "appid": 1108820,
-        "name": "Polar Jump"
-    },
-    {
-        "appid": 1108940,
-        "name": "异星传奇/Strange Planet"
-    },
-    {
-        "appid": 1108950,
-        "name": "CopyCat"
-    },
-    {
         "appid": 1109040,
         "name": "FISTS OF INVOKERS"
     },
@@ -39948,10 +39924,6 @@
         "name": "Chronicles of Honor"
     },
     {
-        "appid": 1271440,
-        "name": "HP Reverb G2"
-    },
-    {
         "appid": 1271450,
         "name": "Sama Learning"
     },
@@ -66264,6 +66236,10 @@
         "name": "Amusemos"
     },
     {
+        "appid": 1391560,
+        "name": "Oddsmaxxing"
+    },
+    {
         "appid": 1391570,
         "name": "Two by One"
     },
@@ -90394,6 +90370,10 @@
     {
         "appid": 1497960,
         "name": "Drugs and Crime Idle - Supporter Pack"
+    },
+    {
+        "appid": 1498000,
+        "name": "TEST CHAMBER"
     },
     {
         "appid": 1498030,
@@ -116668,10 +116648,6 @@
         "name": "Cave Quest 2"
     },
     {
-        "appid": 1613900,
-        "name": "HP Reverb G2 Omnicept Edition"
-    },
-    {
         "appid": 1613950,
         "name": "Sovereign Tea"
     },
@@ -119542,10 +119518,6 @@
     {
         "appid": 1628550,
         "name": "EVIL"
-    },
-    {
-        "appid": 1628580,
-        "name": "HTC VIVE Pro 2"
     },
     {
         "appid": 1628610,
@@ -162833,7 +162805,7 @@
     },
     {
         "appid": 1795110,
-        "name": "Classic Card Games Collection"
+        "name": "150+ Classic Card Games Pack"
     },
     {
         "appid": 1795150,
@@ -199998,5 +199970,33 @@
     {
         "appid": 1953810,
         "name": "Fantasy Grounds - FG Victorian Map Pack 1"
+    },
+    {
+        "appid": 1953830,
+        "name": "Fantasy Grounds - FG Victorian Map Pack 2"
+    },
+    {
+        "appid": 1953840,
+        "name": "Fantasy battle islands"
+    },
+    {
+        "appid": 1953850,
+        "name": "VICE Undercover"
+    },
+    {
+        "appid": 1953860,
+        "name": "Garden In!"
+    },
+    {
+        "appid": 1953870,
+        "name": "Project Nautilus"
+    },
+    {
+        "appid": 1953900,
+        "name": "O-Sim 23"
+    },
+    {
+        "appid": 1953920,
+        "name": "Crescent Bloom"
     }
 ]

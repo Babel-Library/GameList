@@ -1,25 +1,5 @@
 [
     {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
         "appid": 2929080,
         "name": "Antiyoy"
     },
@@ -7542,6 +7522,10 @@
     {
         "appid": 2966190,
         "name": "火鸦 blazing crow"
+    },
+    {
+        "appid": 2966240,
+        "name": "Factory Survival"
     },
     {
         "appid": 2966260,
@@ -17198,6 +17182,10 @@
     {
         "appid": 3014630,
         "name": "Gas Station Simulator - Drive-In Cinema DLC"
+    },
+    {
+        "appid": 3014640,
+        "name": "Ariadne's Tale"
     },
     {
         "appid": 3014650,
@@ -36069,7 +36057,7 @@
     },
     {
         "appid": 3108510,
-        "name": "FlyKnight"
+        "name": "FlyKnight Enhanced Edition"
     },
     {
         "appid": 3108560,
@@ -50380,6 +50368,10 @@
         "name": "Free as birds : UAZO"
     },
     {
+        "appid": 3182130,
+        "name": "Sol"
+    },
+    {
         "appid": 3182140,
         "name": "Afterlife Reverie+"
     },
@@ -61478,10 +61470,6 @@
     {
         "appid": 3239660,
         "name": "Backrooms: The Lost Circus"
-    },
-    {
-        "appid": 3239670,
-        "name": "BEAST : Bio Exo Arena Suit Team"
     },
     {
         "appid": 3239710,
@@ -73896,6 +73884,10 @@
         "name": "Pixel Cross Stitch - Halloween Pack 2"
     },
     {
+        "appid": 3306820,
+        "name": "Pixel Cross Stitch - Halloween Pack 3"
+    },
+    {
         "appid": 3306830,
         "name": "Pixel Cross Stitch - Tribal Craze Pack 2"
     },
@@ -84770,6 +84762,10 @@
     {
         "appid": 3360150,
         "name": "Morning Star"
+    },
+    {
+        "appid": 3360160,
+        "name": "TheDeskFishTank"
     },
     {
         "appid": 3360170,
@@ -113600,6 +113596,10 @@
         "name": "Guardians of Dao"
     },
     {
+        "appid": 3508520,
+        "name": "Echoes of the Abyss"
+    },
+    {
         "appid": 3508530,
         "name": "Earthlings"
     },
@@ -142054,10 +142054,6 @@
     {
         "appid": 3657110,
         "name": "Hero Siege - Dark Ages Bard (Skin)"
-    },
-    {
-        "appid": 3657130,
-        "name": "Kinky Party"
     },
     {
         "appid": 3657150,
@@ -196186,6 +196182,10 @@
     {
         "appid": 3941950,
         "name": "Attack On Ghosts"
+    },
+    {
+        "appid": 3941960,
+        "name": "Ghost Hunter"
     },
     {
         "appid": 3941970,
