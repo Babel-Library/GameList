@@ -120516,6 +120516,10 @@
         "name": "NH Bid at MSCYPAA: The Game"
     },
     {
+        "appid": 2528790,
+        "name": "Desktop Charging Station"
+    },
+    {
         "appid": 2528800,
         "name": "Talents"
     },
@@ -147140,6 +147144,10 @@
         "name": "The OG Cake Factory"
     },
     {
+        "appid": 2665070,
+        "name": "Skifa"
+    },
+    {
         "appid": 2665090,
         "name": "Confiscator"
     },
@@ -170538,6 +170546,10 @@
     {
         "appid": 2779400,
         "name": "Intown Nightmares"
+    },
+    {
+        "appid": 2779410,
+        "name": "Pong Live"
     },
     {
         "appid": 2779420,
@@ -199986,17 +199998,5 @@
     {
         "appid": 2929040,
         "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
     }
 ]

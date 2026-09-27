@@ -1,5 +1,21 @@
 [
     {
+        "appid": 3960220,
+        "name": "Bloksie (for now)"
+    },
+    {
+        "appid": 3960240,
+        "name": "Cat Merge"
+    },
+    {
+        "appid": 3960260,
+        "name": "Grow Line Quest"
+    },
+    {
+        "appid": 3960280,
+        "name": "She Plays Dirty"
+    },
+    {
         "appid": 3960310,
         "name": "Fusion Script Game Studio: iscEngine & JS-Engine"
     },
@@ -10972,6 +10988,10 @@
         "name": "Yandere Goth BDSM 14"
     },
     {
+        "appid": 4019700,
+        "name": "Hero Chains of Destiny"
+    },
+    {
         "appid": 4019710,
         "name": "Hydra Heli - Supporter Pack"
     },
@@ -11454,6 +11474,10 @@
     {
         "appid": 4022520,
         "name": "一ノ一"
+    },
+    {
+        "appid": 4022530,
+        "name": "Genesis - The Original LPMud"
     },
     {
         "appid": 4022550,
@@ -40848,6 +40872,10 @@
         "name": "System Ascension: Idle Core"
     },
     {
+        "appid": 4185150,
+        "name": "Space Tanks"
+    },
+    {
         "appid": 4185160,
         "name": "Special Request: Chapter 1"
     },
@@ -59924,6 +59952,10 @@
         "name": "Perfect Loop - Soleris"
     },
     {
+        "appid": 4285040,
+        "name": "Golf It! - Under Construction"
+    },
+    {
         "appid": 4285070,
         "name": "Magic Hentai Juice Battle"
     },
@@ -71686,6 +71718,10 @@
     {
         "appid": 4354060,
         "name": "Nova Antarctica - Official Visual Book 「あったかい？」"
+    },
+    {
+        "appid": 4354120,
+        "name": "Ant Clicker"
     },
     {
         "appid": 4354160,
@@ -98088,6 +98124,10 @@
         "name": "Lust Arcanum Free Wallpaper Pack"
     },
     {
+        "appid": 4507270,
+        "name": "Haley Is Not Alone"
+    },
+    {
         "appid": 4507370,
         "name": "星岛之梦 Celestial isle's dream"
     },
@@ -111296,6 +111336,10 @@
         "name": "Massive Frontier"
     },
     {
+        "appid": 4578740,
+        "name": "Remain Seated"
+    },
+    {
         "appid": 4578750,
         "name": "不死精灵"
     },
@@ -115433,7 +115477,7 @@
     },
     {
         "appid": 4601700,
-        "name": "Metal Soldiers: Incremental Defense"
+        "name": "Incremental Defense"
     },
     {
         "appid": 4601710,
@@ -115558,6 +115602,10 @@
     {
         "appid": 4602470,
         "name": "Graviton Core"
+    },
+    {
+        "appid": 4602480,
+        "name": "Kristala - The Proving Grounds"
     },
     {
         "appid": 4602530,
@@ -117064,6 +117112,10 @@
         "name": "The Observation Exit"
     },
     {
+        "appid": 4611130,
+        "name": "Angler 2003"
+    },
+    {
         "appid": 4611140,
         "name": "Neofeud 2"
     },
@@ -117658,6 +117710,10 @@
     {
         "appid": 4614440,
         "name": "Cognition Test"
+    },
+    {
+        "appid": 4614470,
+        "name": "NOCEBO STATE"
     },
     {
         "appid": 4614490,
@@ -121550,6 +121606,10 @@
     {
         "appid": 4637430,
         "name": "Everything Mart"
+    },
+    {
+        "appid": 4637450,
+        "name": "DarkPath"
     },
     {
         "appid": 4637470,
@@ -126990,6 +127050,10 @@
     {
         "appid": 4672380,
         "name": "H-Virus: Succubus Outbreak"
+    },
+    {
+        "appid": 4672440,
+        "name": "Phroller: Cross-Platform VTT"
     },
     {
         "appid": 4672450,
@@ -133476,6 +133540,10 @@
         "name": "ClockOut"
     },
     {
+        "appid": 4710740,
+        "name": "涂鸦幸存者"
+    },
+    {
         "appid": 4710750,
         "name": "I Want You To Notice Me: Her Story"
     },
@@ -133926,6 +133994,10 @@
     {
         "appid": 4713560,
         "name": "Beavertale - Helmet Beaver Skin"
+    },
+    {
+        "appid": 4713590,
+        "name": "Whale Hunter"
     },
     {
         "appid": 4713660,
@@ -136962,6 +137034,10 @@
     {
         "appid": 4735470,
         "name": "The Perishing World"
+    },
+    {
+        "appid": 4735520,
+        "name": "The Helix Frontier"
     },
     {
         "appid": 4735530,
@@ -145528,6 +145604,10 @@
         "name": "KNEE SLIDE"
     },
     {
+        "appid": 4791130,
+        "name": "After Oasis TD"
+    },
+    {
         "appid": 4791140,
         "name": "MURK"
     },
@@ -153956,6 +154036,10 @@
         "name": "One Last Draw"
     },
     {
+        "appid": 4842970,
+        "name": "Please Praise the SR Girls!"
+    },
+    {
         "appid": 4842990,
         "name": "Barnburners"
     },
@@ -157346,6 +157430,10 @@
     {
         "appid": 4861480,
         "name": "Umbral Adventures"
+    },
+    {
+        "appid": 4861490,
+        "name": "Otter Cafe"
     },
     {
         "appid": 4861500,
@@ -161040,6 +161128,10 @@
         "name": "Arlo Part I: The Past"
     },
     {
+        "appid": 4883870,
+        "name": "Expedition Bonk"
+    },
+    {
         "appid": 4883880,
         "name": "CATHODE"
     },
@@ -164418,6 +164510,10 @@
     {
         "appid": 4903320,
         "name": "You Are Not the Chosen One"
+    },
+    {
+        "appid": 4903350,
+        "name": "DogaakDogaak"
     },
     {
         "appid": 4903370,
@@ -172344,6 +172440,10 @@
         "name": "Iron Courier"
     },
     {
+        "appid": 4948660,
+        "name": "You Call Yourself a Wizard?!"
+    },
+    {
         "appid": 4948670,
         "name": "怪物浪潮"
     },
@@ -173670,6 +173770,10 @@
     {
         "appid": 4956300,
         "name": "Dirtnap"
+    },
+    {
+        "appid": 4956350,
+        "name": "ももあわせ"
     },
     {
         "appid": 4956380,
@@ -177168,6 +177272,10 @@
         "name": "Desktop Companion: Alt Girl"
     },
     {
+        "appid": 4977530,
+        "name": "Surdice"
+    },
+    {
         "appid": 4977550,
         "name": "Môrgan"
     },
@@ -178037,7 +178145,7 @@
     },
     {
         "appid": 4982760,
-        "name": "MudBox"
+        "name": "MUD the BOX"
     },
     {
         "appid": 4982780,
@@ -179374,6 +179482,10 @@
     {
         "appid": 4990840,
         "name": "FAKE ME"
+    },
+    {
+        "appid": 4990890,
+        "name": "Where The Light Sleeps"
     },
     {
         "appid": 4990900,
@@ -184172,6 +184284,10 @@
         "name": "GOLF+ - Bellerive"
     },
     {
+        "appid": 5021690,
+        "name": "Giantess Naval Defense"
+    },
+    {
         "appid": 5021730,
         "name": "Loadout Rush"
     },
@@ -185492,6 +185608,10 @@
         "name": "NyanDrop"
     },
     {
+        "appid": 5030250,
+        "name": "Sacrifice"
+    },
+    {
         "appid": 5030270,
         "name": "Puttiverse"
     },
@@ -185866,6 +185986,10 @@
     {
         "appid": 5032360,
         "name": "Dronerush"
+    },
+    {
+        "appid": 5032390,
+        "name": "Stackers"
     },
     {
         "appid": 5032440,
@@ -186466,6 +186590,10 @@
     {
         "appid": 5035880,
         "name": "QuizForge"
+    },
+    {
+        "appid": 5035900,
+        "name": "Микита Пилипович і степова антикитера"
     },
     {
         "appid": 5035910,
@@ -191328,6 +191456,10 @@
         "name": "Submarine Together"
     },
     {
+        "appid": 5067340,
+        "name": "Elata Park"
+    },
+    {
         "appid": 5067360,
         "name": "Thank You Bus Driver"
     },
@@ -192884,6 +193016,10 @@
         "name": "FOTBackrooms"
     },
     {
+        "appid": 5077170,
+        "name": "Goblin Dodge"
+    },
+    {
         "appid": 5077220,
         "name": "PETRIVORE"
     },
@@ -193554,6 +193690,10 @@
     {
         "appid": 5081800,
         "name": "Flash The Floppy Fish"
+    },
+    {
+        "appid": 5081810,
+        "name": "Thirst or Bust"
     },
     {
         "appid": 5081910,
@@ -194976,6 +195116,10 @@
         "name": "Root Cause"
     },
     {
+        "appid": 5091180,
+        "name": "TellioBall"
+    },
+    {
         "appid": 5091190,
         "name": "The Wife Down the Hall - Creampie Sex During the Blackout"
     },
@@ -195086,6 +195230,10 @@
     {
         "appid": 5091900,
         "name": "Prigod Idle"
+    },
+    {
+        "appid": 5091920,
+        "name": "Pavlova Belongs to Us!"
     },
     {
         "appid": 5091930,
@@ -195952,6 +196100,10 @@
         "name": "First Move: Classic Games Collection"
     },
     {
+        "appid": 5098400,
+        "name": "GuitarVee"
+    },
+    {
         "appid": 5098440,
         "name": "TerraNova Engine"
     },
@@ -195982,6 +196134,10 @@
     {
         "appid": 5098600,
         "name": "CAT BURGLARS™"
+    },
+    {
+        "appid": 5098640,
+        "name": "Screen Regions"
     },
     {
         "appid": 5098650,
@@ -198760,6 +198916,10 @@
         "name": "影袭"
     },
     {
+        "appid": 5117870,
+        "name": "Antillia"
+    },
+    {
         "appid": 5117880,
         "name": "Laplana"
     },
@@ -199838,165 +199998,5 @@
     {
         "appid": 5125230,
         "name": "World of Tanks — Krupp-Steyr Waffenträger Pack (VII German Tank Destroyer)"
-    },
-    {
-        "appid": 5125250,
-        "name": "Saga Star"
-    },
-    {
-        "appid": 5125260,
-        "name": "Island Farm"
-    },
-    {
-        "appid": 5125290,
-        "name": "Not Ready for Service"
-    },
-    {
-        "appid": 5125300,
-        "name": "Primal Clicker: Build, Hunt, Explore"
-    },
-    {
-        "appid": 5125310,
-        "name": "STARVAULT"
-    },
-    {
-        "appid": 5125320,
-        "name": "Night Drive"
-    },
-    {
-        "appid": 5125370,
-        "name": "涂鸦学院"
-    },
-    {
-        "appid": 5125390,
-        "name": "CARRIAGES"
-    },
-    {
-        "appid": 5125400,
-        "name": "Pebble Idle Island"
-    },
-    {
-        "appid": 5125410,
-        "name": "Kill Step"
-    },
-    {
-        "appid": 5125470,
-        "name": "Rage Mountain Rally"
-    },
-    {
-        "appid": 5125490,
-        "name": "Sicarios"
-    },
-    {
-        "appid": 5125590,
-        "name": "Shelved"
-    },
-    {
-        "appid": 5125600,
-        "name": "Curious Paws: Pawsitive Journey"
-    },
-    {
-        "appid": 5125620,
-        "name": "BlockScavenger"
-    },
-    {
-        "appid": 5125660,
-        "name": "Three Lambs"
-    },
-    {
-        "appid": 5125670,
-        "name": "Rap Or Die"
-    },
-    {
-        "appid": 5125700,
-        "name": "Seven Sins Poker"
-    },
-    {
-        "appid": 5125750,
-        "name": "Odd Express"
-    },
-    {
-        "appid": 5125780,
-        "name": "Pixel Planet Survivor"
-    },
-    {
-        "appid": 5125790,
-        "name": "Puzzles Are Better Together"
-    },
-    {
-        "appid": 5125800,
-        "name": "Pose This!"
-    },
-    {
-        "appid": 5125860,
-        "name": "Offsync"
-    },
-    {
-        "appid": 5125880,
-        "name": "Three Kingdoms Born"
-    },
-    {
-        "appid": 5125890,
-        "name": "Puzzle Arrows: The Original"
-    },
-    {
-        "appid": 5125930,
-        "name": "Clawstral"
-    },
-    {
-        "appid": 5125950,
-        "name": "Jurassic World Evolution 3: Prehistoric East"
-    },
-    {
-        "appid": 5125980,
-        "name": "Ascend Idle: Chronicles"
-    },
-    {
-        "appid": 5125990,
-        "name": "You'll Be Mined"
-    },
-    {
-        "appid": 5126060,
-        "name": "BOOMSTICKS"
-    },
-    {
-        "appid": 5126080,
-        "name": "Archronica"
-    },
-    {
-        "appid": 5126110,
-        "name": "Feed The Frog King: Incremental TD"
-    },
-    {
-        "appid": 5126120,
-        "name": "Chick N' Gun"
-    },
-    {
-        "appid": 5126150,
-        "name": "Cats Must Be Petted! - An Incremental Game About Petting Cats"
-    },
-    {
-        "appid": 5126160,
-        "name": "Tall Orders"
-    },
-    {
-        "appid": 5126170,
-        "name": "Phasewright"
-    },
-    {
-        "appid": 5126190,
-        "name": "MALEDICTION"
-    },
-    {
-        "appid": 5126210,
-        "name": "ProximaClient"
-    },
-    {
-        "appid": 5126230,
-        "name": "Drawmi: Creature Collector"
-    },
-    {
-        "appid": 5126250,
-        "name": "Drawmi: Twin Stick"
     }
 ]

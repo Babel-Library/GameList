@@ -1,5 +1,17 @@
 [
     {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
         "appid": 2929080,
         "name": "Antiyoy"
     },
@@ -1962,6 +1974,10 @@
     {
         "appid": 2939550,
         "name": "Urayama | ウラヤマ"
+    },
+    {
+        "appid": 2939560,
+        "name": "Gloomdelve"
     },
     {
         "appid": 2939570,
@@ -39997,7 +40013,7 @@
     },
     {
         "appid": 3128040,
-        "name": "逆风翻盘"
+        "name": "Infiltrate Sector 27"
     },
     {
         "appid": 3128060,
@@ -109481,7 +109497,7 @@
     },
     {
         "appid": 3485110,
-        "name": "Witness Sickness"
+        "name": "Sickness Says"
     },
     {
         "appid": 3485160,
@@ -189005,7 +189021,7 @@
     },
     {
         "appid": 3905960,
-        "name": "Watchstander: COLREGS/Rules of the Road Training Administrator"
+        "name": "Watchstander: CORTA — COLREGS / Rules of the Road Training Administrator"
     },
     {
         "appid": 3906000,
@@ -199982,21 +199998,5 @@
     {
         "appid": 3960200,
         "name": "Backrooms: Missing Persons"
-    },
-    {
-        "appid": 3960220,
-        "name": "Bloksie (for now)"
-    },
-    {
-        "appid": 3960240,
-        "name": "Cat Merge"
-    },
-    {
-        "appid": 3960260,
-        "name": "Grow Line Quest"
-    },
-    {
-        "appid": 3960280,
-        "name": "She Plays Dirty"
     }
 ]

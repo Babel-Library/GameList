@@ -33308,10 +33308,6 @@
         "name": "Soda Star"
     },
     {
-        "appid": 360730,
-        "name": "Cards and Castles"
-    },
-    {
         "appid": 360740,
         "name": "Downwell"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1108950,
         "name": "CopyCat"
+    },
+    {
+        "appid": 1109040,
+        "name": "FISTS OF INVOKERS"
     }
 ]
