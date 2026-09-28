@@ -105516,10 +105516,6 @@
         "name": "SOLE"
     },
     {
-        "appid": 696300,
-        "name": "Crackhead Theme Tune"
-    },
-    {
         "appid": 696310,
         "name": "The Ghost of Joe Papp"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1109040,
         "name": "FISTS OF INVOKERS"
+    },
+    {
+        "appid": 1109050,
+        "name": "Tales of ARISE - Pre-Order Bonus Pack"
     }
 ]
