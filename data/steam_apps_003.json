@@ -8728,10 +8728,6 @@
         "name": "Holy Journey of Salvation"
     },
     {
-        "appid": 1993770,
-        "name": "PITCHvr™ Vision"
-    },
-    {
         "appid": 1993800,
         "name": "RPG Maker VX Ace - NPC Voices"
     },
@@ -16230,14 +16226,6 @@
     {
         "appid": 2051320,
         "name": "STAR OCEAN THE DIVINE FORCE DIGITAL DELUXE UPGRADE"
-    },
-    {
-        "appid": 2051350,
-        "name": "PITCHvr™ Vision - College"
-    },
-    {
-        "appid": 2051351,
-        "name": "PITCHvr™ Vision - Pro"
     },
     {
         "appid": 2051360,
@@ -25882,18 +25870,6 @@
     {
         "appid": 2095910,
         "name": "Kyivan Rus"
-    },
-    {
-        "appid": 2095920,
-        "name": "PITCHvr™ Vision - High School Expanded"
-    },
-    {
-        "appid": 2095921,
-        "name": "PITCHvr™ Vision - College Expanded"
-    },
-    {
-        "appid": 2095922,
-        "name": "PITCHvr™ Vision - Pro Expanded"
     },
     {
         "appid": 2095930,
@@ -42622,14 +42598,6 @@
     {
         "appid": 2171270,
         "name": "Legend of Feather"
-    },
-    {
-        "appid": 2171280,
-        "name": "Movavi Video Editor 2023"
-    },
-    {
-        "appid": 2171290,
-        "name": "Movavi Video Suite 2023 Steam Edition - An all-in-one video maker: an editor, converter, screen recorder, and more!"
     },
     {
         "appid": 2171300,
@@ -124365,7 +124333,7 @@
     },
     {
         "appid": 2549030,
-        "name": "Blackboard Darkness"
+        "name": "Sculpturn"
     },
     {
         "appid": 2549040,
@@ -135369,7 +135337,7 @@
     },
     {
         "appid": 2605970,
-        "name": "精灵戏剧：复读机不会获得幸福"
+        "name": "Fairy Comedy: A Love Hard To Find"
     },
     {
         "appid": 2605990,
@@ -154658,6 +154626,10 @@
     {
         "appid": 2700610,
         "name": "Assetto Corsa Competizione - 24H Nürburgring Pack"
+    },
+    {
+        "appid": 2700640,
+        "name": "Pigeon Online World"
     },
     {
         "appid": 2700650,
@@ -175116,10 +175088,6 @@
         "name": "Shadow Touched"
     },
     {
-        "appid": 2803360,
-        "name": "Project L33T: Founders Edition"
-    },
-    {
         "appid": 2803370,
         "name": "SHORT FUSE"
     },
@@ -181620,6 +181588,10 @@
         "name": "Breakthru"
     },
     {
+        "appid": 2836350,
+        "name": "ecoSYSTEMS"
+    },
+    {
         "appid": 2836380,
         "name": "Journey to the West - Dark Invasion"
     },
@@ -182098,6 +182070,10 @@
     {
         "appid": 2838520,
         "name": "Starfall Odyssey"
+    },
+    {
+        "appid": 2838540,
+        "name": "Dying in the Sun"
     },
     {
         "appid": 2838550,
@@ -199998,5 +199974,29 @@
     {
         "appid": 2929020,
         "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
+        "appid": 2929110,
+        "name": "HOYO"
     }
 ]

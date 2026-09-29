@@ -1,29 +1,5 @@
 [
     {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
         "appid": 2929120,
         "name": "따님은 제가 데리고 있습니다"
     },
@@ -12637,7 +12613,7 @@
     },
     {
         "appid": 2991650,
-        "name": "Dawn : Animated Aerowar Audioplay"
+        "name": "DAWN AEROWAR"
     },
     {
         "appid": 2991680,
@@ -45184,6 +45160,10 @@
         "name": "Aegis Force: The Scorian War"
     },
     {
+        "appid": 3154570,
+        "name": "Monster Farm"
+    },
+    {
         "appid": 3154590,
         "name": "100 Find Kitties: Pirates"
     },
@@ -68788,6 +68768,10 @@
         "name": "Jumper Jon"
     },
     {
+        "appid": 3281110,
+        "name": "Crooklock"
+    },
+    {
         "appid": 3281130,
         "name": "World of Outlaws: Dirt Racing 24 Gold Edition"
     },
@@ -70957,7 +70941,7 @@
     },
     {
         "appid": 3292310,
-        "name": "弥留之地"
+        "name": "Dying Land"
     },
     {
         "appid": 3292320,
@@ -78182,10 +78166,6 @@
     {
         "appid": 3328480,
         "name": "TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-"
-    },
-    {
-        "appid": 3328490,
-        "name": "Airport Control 27"
     },
     {
         "appid": 3328500,
@@ -91629,7 +91609,7 @@
     },
     {
         "appid": 3393500,
-        "name": "Monument"
+        "name": "Shitbox Together"
     },
     {
         "appid": 3393510,
@@ -95130,10 +95110,6 @@
     {
         "appid": 3411020,
         "name": "Villages & Dungeons"
-    },
-    {
-        "appid": 3411030,
-        "name": "The Killer Pass: Season 1"
     },
     {
         "appid": 3411040,
@@ -113180,6 +113156,10 @@
         "name": "Teios Journey"
     },
     {
+        "appid": 3506080,
+        "name": "LAB Engine"
+    },
+    {
         "appid": 3506090,
         "name": "FlopShot"
     },
@@ -113990,6 +113970,10 @@
     {
         "appid": 3510410,
         "name": "Starship Traveller (Fighting Fantasy Classics)"
+    },
+    {
+        "appid": 3510430,
+        "name": "Auto Battles World: Idle RPG"
     },
     {
         "appid": 3510450,
@@ -119406,6 +119390,10 @@
     {
         "appid": 3542960,
         "name": "초요소녀 리리나 2 (Choyo Girl Lilina 2)"
+    },
+    {
+        "appid": 3542970,
+        "name": "Drag & Match 3"
     },
     {
         "appid": 3543000,
@@ -152268,6 +152256,10 @@
         "name": "Tarot Awakening"
     },
     {
+        "appid": 3711870,
+        "name": "Spartan One"
+    },
+    {
         "appid": 3711890,
         "name": "Fantasy Grounds - Pathfinder 2 RPG - NPC Core"
     },
@@ -167288,6 +167280,10 @@
         "name": "Phantom Playhouse"
     },
     {
+        "appid": 3796880,
+        "name": "Foxi's Day & Night Kitchen"
+    },
+    {
         "appid": 3796960,
         "name": "Elemental: Reforged"
     },
@@ -168438,6 +168434,10 @@
     {
         "appid": 3803760,
         "name": "Hand Meat Walker"
+    },
+    {
+        "appid": 3803770,
+        "name": "U.S. 666"
     },
     {
         "appid": 3803780,
@@ -179672,6 +179672,10 @@
         "name": "Victoriam"
     },
     {
+        "appid": 3860370,
+        "name": "Handymen Together"
+    },
+    {
         "appid": 3860380,
         "name": "Molten Knight"
     },
@@ -179806,6 +179810,10 @@
     {
         "appid": 3861120,
         "name": "Hangtime!"
+    },
+    {
+        "appid": 3861130,
+        "name": "Stellarsaurs"
     },
     {
         "appid": 3861140,
@@ -188166,6 +188174,10 @@
     {
         "appid": 3901840,
         "name": "Urban Paranoia"
+    },
+    {
+        "appid": 3901850,
+        "name": "Desktop Duck"
     },
     {
         "appid": 3901860,
@@ -199986,17 +199998,5 @@
     {
         "appid": 3960150,
         "name": "SKYSAVIOR Helicopter Services"
-    },
-    {
-        "appid": 3960160,
-        "name": "Mad Cleaners"
-    },
-    {
-        "appid": 3960170,
-        "name": "Fabulous Fool"
-    },
-    {
-        "appid": 3960190,
-        "name": "AESOS"
     }
 ]

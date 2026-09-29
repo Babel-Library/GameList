@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1109070,
-        "name": "接头 / Contact Point"
-    },
-    {
         "appid": 1109080,
         "name": "Prison Ball: Full Blown"
     },
@@ -7578,6 +7574,10 @@
     {
         "appid": 1138850,
         "name": "Heavenly Bodies"
+    },
+    {
+        "appid": 1138880,
+        "name": "Stemmies"
     },
     {
         "appid": 1138900,
@@ -71525,7 +71525,7 @@
     },
     {
         "appid": 1416190,
-        "name": "Fatiao发条：自动化工具"
+        "name": "Fatiao Agent"
     },
     {
         "appid": 1416200,
@@ -125861,7 +125861,7 @@
     },
     {
         "appid": 1657770,
-        "name": "Virtual ULTIMATE Beach Dancer [HD+]"
+        "name": "Virtual Bikini Beach Dancer [HD+]"
     },
     {
         "appid": 1657780,

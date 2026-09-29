@@ -5185,7 +5185,7 @@
     },
     {
         "appid": 65540,
-        "name": "Gothic 1"
+        "name": "Gothic 1 Classic"
     },
     {
         "appid": 65560,
@@ -6466,10 +6466,6 @@
     {
         "appid": 201230,
         "name": "EverQuest II"
-    },
-    {
-        "appid": 201270,
-        "name": "Total War: SHOGUN 2"
     },
     {
         "appid": 201272,
@@ -14760,10 +14756,6 @@
         "name": "STARWHAL"
     },
     {
-        "appid": 263040,
-        "name": "Bot Colony"
-    },
-    {
         "appid": 263060,
         "name": "Blockstorm"
     },
@@ -18893,7 +18885,7 @@
     },
     {
         "appid": 292030,
-        "name": "The Witcher 3: Wild Hunt - Complete Edition"
+        "name": "The Witcher 3: Wild Hunt — Remastered"
     },
     {
         "appid": 292050,
@@ -55538,10 +55530,6 @@
     {
         "appid": 464450,
         "name": "DoDonPachi Resurrection"
-    },
-    {
-        "appid": 464460,
-        "name": "XO-Planets OST"
     },
     {
         "appid": 464480,
@@ -118405,7 +118393,7 @@
     },
     {
         "appid": 754010,
-        "name": "Medicalholodeck’s Spatial OS: Train surgery, create digital twins with AI and DICOM, and study human anatomy and medicine"
+        "name": "Medicalholodeck – Medical imaging, AI and anatomy in 3D"
     },
     {
         "appid": 754040,
@@ -143432,6 +143420,10 @@
         "name": "Crossroads Inn Anniversary Edition"
     },
     {
+        "appid": 867300,
+        "name": "Ricochet: Moonlit Gardens"
+    },
+    {
         "appid": 867380,
         "name": "Up Left Out"
     },
@@ -153266,6 +153258,10 @@
     {
         "appid": 910540,
         "name": "Moon River"
+    },
+    {
+        "appid": 910550,
+        "name": "MONO CHAMELEON"
     },
     {
         "appid": 910560,
@@ -199998,5 +199994,9 @@
     {
         "appid": 1109050,
         "name": "Tales of ARISE - Pre-Order Bonus Pack"
+    },
+    {
+        "appid": 1109070,
+        "name": "接头 / Contact Point"
     }
 ]
