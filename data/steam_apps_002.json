@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1109080,
-        "name": "Prison Ball: Full Blown"
-    },
-    {
-        "appid": 1109100,
-        "name": "El Tesoro de Isla Alcachofa"
-    },
-    {
         "appid": 1109110,
         "name": "Ghost Land"
     },
@@ -26480,24 +26472,8 @@
         "name": "Mr. Fast"
     },
     {
-        "appid": 1213380,
-        "name": "RPG Maker MV - Japanese Anime Voices：Male Character Series Vol.4"
-    },
-    {
-        "appid": 1213382,
-        "name": "RPG Maker MV - Japanese Anime Voices：Male Character Series Vol.3"
-    },
-    {
-        "appid": 1213384,
-        "name": "RPG Maker MV - Japanese Anime Voices：Male Character Series Vol.2"
-    },
-    {
         "appid": 1213385,
         "name": "RPG Maker MV - 90s Golden Age RPG Vibes"
-    },
-    {
-        "appid": 1213386,
-        "name": "RPG Maker MV - Japanese Anime Voices：Male Character Series Vol.1"
     },
     {
         "appid": 1213390,
@@ -26660,44 +26636,12 @@
         "name": "TRIOS - lofi beats / numbers to chill to"
     },
     {
-        "appid": 1214090,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices：Male Character Series Vol.1"
-    },
-    {
         "appid": 1214091,
         "name": "RPG Maker VX Ace - 90s Golden Age RPG Vibes"
     },
     {
-        "appid": 1214092,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices：Male Character Series Vol.2"
-    },
-    {
-        "appid": 1214094,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices：Male Character Series Vol.3"
-    },
-    {
-        "appid": 1214096,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices：Male Character Series Vol.4"
-    },
-    {
-        "appid": 1214110,
-        "name": "Visual Novel Maker - Japanese Anime Voices：Male Character Series Vol.1"
-    },
-    {
         "appid": 1214111,
         "name": "Visual Novel Maker - 90s Golden Age RPG Vibes"
-    },
-    {
-        "appid": 1214112,
-        "name": "Visual Novel Maker - Japanese Anime Voices：Male Character Series Vol.2"
-    },
-    {
-        "appid": 1214114,
-        "name": "Visual Novel Maker - Japanese Anime Voices：Male Character Series Vol.3"
-    },
-    {
-        "appid": 1214116,
-        "name": "Visual Novel Maker - Japanese Anime Voices：Male Character Series Vol.4"
     },
     {
         "appid": 1214130,
@@ -30250,30 +30194,6 @@
     {
         "appid": 1229740,
         "name": "LUX SINE"
-    },
-    {
-        "appid": 1229820,
-        "name": "RPG Maker MV - Japanese Anime Voices：Male Character Series Vol.6"
-    },
-    {
-        "appid": 1229830,
-        "name": "RPG Maker MV - Japanese Anime Voices：Male Character Series Vol.5"
-    },
-    {
-        "appid": 1229840,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices：Male Character Series Vol.5"
-    },
-    {
-        "appid": 1229850,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices：Male Character Series Vol.6"
-    },
-    {
-        "appid": 1229860,
-        "name": "Visual Novel Maker - Japanese Anime Voices：Male Character Series Vol.5"
-    },
-    {
-        "appid": 1229870,
-        "name": "Visual Novel Maker - Japanese Anime Voices：Male Character Series Vol.6"
     },
     {
         "appid": 1229880,
@@ -35652,14 +35572,6 @@
         "name": "RPG Maker MV - Prehistoria"
     },
     {
-        "appid": 1254173,
-        "name": "RPG Maker MV - Japanese Anime Voices：Male Character Series Vol.7"
-    },
-    {
-        "appid": 1254174,
-        "name": "RPG Maker MV - Japanese Anime Voices：Male Character Series Vol.8"
-    },
-    {
         "appid": 1254175,
         "name": "RPG Maker MV - Eberouge Background Image Pack 3"
     },
@@ -35676,28 +35588,12 @@
         "name": "RPG Maker VX Ace - Spirits of Adventure"
     },
     {
-        "appid": 1254191,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices：Male Character Series Vol.8"
-    },
-    {
-        "appid": 1254192,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices：Male Character Series Vol.7"
-    },
-    {
         "appid": 1254200,
         "name": "Warp Factor"
     },
     {
         "appid": 1254210,
         "name": "Visual Novel Maker - Spirits of Adventure"
-    },
-    {
-        "appid": 1254211,
-        "name": "Visual Novel Maker - Japanese Anime Voices：Male Character Series Vol.8"
-    },
-    {
-        "appid": 1254212,
-        "name": "Visual Novel Maker - Japanese Anime Voices：Male Character Series Vol.7"
     },
     {
         "appid": 1254240,
@@ -51688,10 +51584,6 @@
         "name": "RPG Maker MV - Time Fantasy Faces"
     },
     {
-        "appid": 1330213,
-        "name": "RPG Maker MV - Fantastic Piano Collection"
-    },
-    {
         "appid": 1330214,
         "name": "RPG Maker MV - User Interface Material"
     },
@@ -51952,10 +51844,6 @@
         "name": "RPG Maker VX Ace - Time Fantasy Faces"
     },
     {
-        "appid": 1331114,
-        "name": "RPG Maker VX Ace - Fantastic Piano Collection"
-    },
-    {
         "appid": 1331115,
         "name": "RPG Maker VX Ace - Light Novel Pop Music Vol.1"
     },
@@ -51966,10 +51854,6 @@
     {
         "appid": 1331130,
         "name": "Visual Novel Maker - Nature Soundscapes"
-    },
-    {
-        "appid": 1331140,
-        "name": "Visual Novel Maker - Fantastic Piano Collection"
     },
     {
         "appid": 1331150,
@@ -75840,10 +75724,6 @@
         "name": "RPG Maker VX Ace - Mystery Music Library Vol.2"
     },
     {
-        "appid": 1433582,
-        "name": "RPG Maker VX Ace - Japanese Anime Voices: Male Character Series Vol.9"
-    },
-    {
         "appid": 1433583,
         "name": "RPG Maker VX Ace - Light Novel Electric World"
     },
@@ -75862,10 +75742,6 @@
     {
         "appid": 1433603,
         "name": "RPG Maker MV - Eberouge Event Picture Pack 1"
-    },
-    {
-        "appid": 1433604,
-        "name": "RPG Maker MV - Japanese Anime Voices: Male Character Series Vol.9"
     },
     {
         "appid": 1433605,
@@ -75896,10 +75772,6 @@
         "name": "RPG Maker MZ - Eberouge Event Picture Pack1"
     },
     {
-        "appid": 1433660,
-        "name": "RPG Maker MZ - Japanese Anime Voices: Male Character Series Vol.9"
-    },
-    {
         "appid": 1433670,
         "name": "RPG Maker MZ - RPG Character Pack 3"
     },
@@ -75918,10 +75790,6 @@
     {
         "appid": 1433720,
         "name": "Visual Novel Maker - Mystery Music Library Vol.2"
-    },
-    {
-        "appid": 1433730,
-        "name": "Visual Novel Maker - Japanese Anime Voices: Male Character Series Vol.9"
     },
     {
         "appid": 1433740,
@@ -113488,10 +113356,6 @@
         "name": "RPG Maker MZ - Another World Heroine Generator for MZ"
     },
     {
-        "appid": 1598510,
-        "name": "RPG Maker MZ - Fun and Comical Anime Music"
-    },
-    {
         "appid": 1598520,
         "name": "RPG Maker MZ - Future Electric RPG Collection"
     },
@@ -114550,18 +114414,6 @@
     {
         "appid": 1603310,
         "name": "PLUG WARS - The Game"
-    },
-    {
-        "appid": 1603320,
-        "name": "RPG Maker VX Ace - Fun and Comical Anime Music"
-    },
-    {
-        "appid": 1603330,
-        "name": "RPG Maker MV - Fun and Comical Anime Music"
-    },
-    {
-        "appid": 1603340,
-        "name": "Visual Novel Maker - Fun and Comical Anime Music"
     },
     {
         "appid": 1603410,
@@ -137829,7 +137681,7 @@
     },
     {
         "appid": 1698850,
-        "name": "Mage Tower: Call of Zadeus"
+        "name": "Mage Tower"
     },
     {
         "appid": 1698870,
@@ -157500,6 +157352,10 @@
         "name": "Outbreak: Contagious Memories"
     },
     {
+        "appid": 1772960,
+        "name": "FLECK"
+    },
+    {
         "appid": 1773060,
         "name": "Shoot Trip Die"
     },
@@ -170862,6 +170718,10 @@
     {
         "appid": 1825830,
         "name": "Trainz 2022 DLC - Mojave Sub Division"
+    },
+    {
+        "appid": 1825840,
+        "name": "House Zero"
     },
     {
         "appid": 1825850,
@@ -192912,10 +192772,6 @@
         "name": "Galpa the no limbs guy"
     },
     {
-        "appid": 1925710,
-        "name": "Mirror Spirits"
-    },
-    {
         "appid": 1925730,
         "name": "Block Breaker"
     },
@@ -199998,5 +199854,149 @@
     {
         "appid": 1953920,
         "name": "Crescent Bloom"
+    },
+    {
+        "appid": 1953930,
+        "name": "Fantasy Grounds - Surviving the Arctic"
+    },
+    {
+        "appid": 1953940,
+        "name": "Fantasy Grounds - Level Up Trials & Treasure"
+    },
+    {
+        "appid": 1953960,
+        "name": "Destoria: The Withering"
+    },
+    {
+        "appid": 1953970,
+        "name": "MATH EXPRESSions"
+    },
+    {
+        "appid": 1953980,
+        "name": "Worm Goes to Hell"
+    },
+    {
+        "appid": 1954010,
+        "name": "Escape from Deathmark Dungeon"
+    },
+    {
+        "appid": 1954020,
+        "name": "Cupid Kiss"
+    },
+    {
+        "appid": 1954050,
+        "name": "Memory Shards"
+    },
+    {
+        "appid": 1954060,
+        "name": "No Extra Regrets For The Future CG Gallery"
+    },
+    {
+        "appid": 1954070,
+        "name": "Egg Ascent"
+    },
+    {
+        "appid": 1954090,
+        "name": "Fantasy Grounds - Mini-Dungeons Bundle #186-190"
+    },
+    {
+        "appid": 1954100,
+        "name": "Bunny Hop : Eggstreme"
+    },
+    {
+        "appid": 1954130,
+        "name": "Meifumado"
+    },
+    {
+        "appid": 1954160,
+        "name": "To Pixelia"
+    },
+    {
+        "appid": 1954190,
+        "name": "Winter Ember - Digital Comic: Issues 0-4"
+    },
+    {
+        "appid": 1954200,
+        "name": "Kena: Bridge of Spirits"
+    },
+    {
+        "appid": 1954210,
+        "name": "Speedboat League"
+    },
+    {
+        "appid": 1954230,
+        "name": "森令"
+    },
+    {
+        "appid": 1954240,
+        "name": "Galaxy Gang"
+    },
+    {
+        "appid": 1954250,
+        "name": "Dragon's Dilemma"
+    },
+    {
+        "appid": 1954260,
+        "name": "RhyVerse"
+    },
+    {
+        "appid": 1954300,
+        "name": "Porcupine's Fate"
+    },
+    {
+        "appid": 1954310,
+        "name": "Doomsday"
+    },
+    {
+        "appid": 1954330,
+        "name": "洪荒五行界"
+    },
+    {
+        "appid": 1954340,
+        "name": "Aeons Past"
+    },
+    {
+        "appid": 1954360,
+        "name": "Hotel Paradise"
+    },
+    {
+        "appid": 1954380,
+        "name": "挖掘机大战挖掘机 / Mine Clash"
+    },
+    {
+        "appid": 1954420,
+        "name": "麻雀一番街"
+    },
+    {
+        "appid": 1954430,
+        "name": "【早咲きのくろゆり】追加シナリオ「花と樹の内緒の話1」"
+    },
+    {
+        "appid": 1954440,
+        "name": "OneShotRogue"
+    },
+    {
+        "appid": 1954520,
+        "name": "修理行 Dullpain"
+    },
+    {
+        "appid": 1954550,
+        "name": "Project Hover"
+    },
+    {
+        "appid": 1954570,
+        "name": "死亡地牢 Death Dungeon"
+    },
+    {
+        "appid": 1954590,
+        "name": "DERELICT KINGDOM: THE ANCIENT LIE"
+    },
+    {
+        "appid": 1954610,
+        "name": "Koh-Lanta: Le Retour des Aventuriers"
+    },
+    {
+        "appid": 1954640,
+        "name": "真空战姬"
     }
 ]

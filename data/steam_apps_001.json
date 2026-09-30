@@ -16096,10 +16096,6 @@
         "name": "The Last Federation"
     },
     {
-        "appid": 273110,
-        "name": "Counter-Strike Nexon"
-    },
-    {
         "appid": 273150,
         "name": "Castlevania: Lords of Shadow 2 - Armored Dracula Costume"
     },
@@ -20474,10 +20470,6 @@
     {
         "appid": 300630,
         "name": "Pure Chess Grandmaster Edition"
-    },
-    {
-        "appid": 300820,
-        "name": "Disney•Pixar Toy Story 3: The Video Game"
     },
     {
         "appid": 300840,
@@ -88153,7 +88145,7 @@
     },
     {
         "appid": 616680,
-        "name": "Monster Showdown"
+        "name": "Monster Showdown VR"
     },
     {
         "appid": 616690,
@@ -199998,5 +199990,13 @@
     {
         "appid": 1109070,
         "name": "接头 / Contact Point"
+    },
+    {
+        "appid": 1109080,
+        "name": "Prison Ball: Full Blown"
+    },
+    {
+        "appid": 1109100,
+        "name": "El Tesoro de Isla Alcachofa"
     }
 ]
