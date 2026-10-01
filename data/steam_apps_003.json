@@ -8260,10 +8260,6 @@
         "name": "Demons Happened"
     },
     {
-        "appid": 1992100,
-        "name": "Gas Station Simulator - Shady Deals DLC"
-    },
-    {
         "appid": 1992110,
         "name": "FIND YOUR WINGS"
     },
@@ -14657,7 +14653,7 @@
     },
     {
         "appid": 2023160,
-        "name": "Monster Showdown: Prologue"
+        "name": "Monster Showdown VR Prologue"
     },
     {
         "appid": 2023170,
@@ -30617,7 +30613,7 @@
     },
     {
         "appid": 2116280,
-        "name": "Lady of Dreams"
+        "name": "LoD"
     },
     {
         "appid": 2116290,
@@ -72640,6 +72636,10 @@
         "name": "Golazo! 2: Pixel Stars"
     },
     {
+        "appid": 2309180,
+        "name": "Halloween Tidy Up"
+    },
+    {
         "appid": 2309210,
         "name": "Fantasy Grounds - Pathfinder RPG - GameMastery Map Pack: Magic Academy"
     },
@@ -81477,7 +81477,7 @@
     },
     {
         "appid": 2349110,
-        "name": "Lunarwardens"
+        "name": "Lunar Wardens"
     },
     {
         "appid": 2349130,
@@ -102073,7 +102073,7 @@
     },
     {
         "appid": 2439510,
-        "name": "Doomsday: The Seven Deadly Sins"
+        "name": "Doomsday: Undead Bride"
     },
     {
         "appid": 2439530,
@@ -110376,10 +110376,6 @@
         "name": "零度撤离 Zero Degrees"
     },
     {
-        "appid": 2479830,
-        "name": "The Braves"
-    },
-    {
         "appid": 2479840,
         "name": "Pawn Planet"
     },
@@ -112178,6 +112174,10 @@
     {
         "appid": 2488540,
         "name": "Crimson Capes"
+    },
+    {
+        "appid": 2488560,
+        "name": "Abandoned Hearts"
     },
     {
         "appid": 2488570,
@@ -116761,7 +116761,7 @@
     },
     {
         "appid": 2512180,
-        "name": "The Texas Chain Saw Massacre - Slaughter Family Execution Pack 1"
+        "name": "The Texas Chain Saw Massacre - Execution Pack 1"
     },
     {
         "appid": 2512190,
@@ -139009,7 +139009,7 @@
     },
     {
         "appid": 2627220,
-        "name": "The Texas Chain Saw Massacre - Slaughter Family Bloody Skins Pack"
+        "name": "The Texas Chain Saw Massacre - Bloody Skins Pack"
     },
     {
         "appid": 2627240,
@@ -146789,7 +146789,7 @@
     },
     {
         "appid": 2665340,
-        "name": "The Texas Chain Saw Massacre - Slaughter Family Execution Pack 2"
+        "name": "The Texas Chain Saw Massacre - Execution Pack 2"
     },
     {
         "appid": 2665370,

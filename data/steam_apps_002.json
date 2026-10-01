@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1109110,
-        "name": "Ghost Land"
-    },
-    {
         "appid": 1109130,
         "name": "逝去的回忆3：四叶草之梦"
     },
@@ -81384,6 +81380,10 @@
         "name": "Memories of Tomorrow"
     },
     {
+        "appid": 1459050,
+        "name": "Keycap: Tidy Up!"
+    },
+    {
         "appid": 1459070,
         "name": "FADE"
     },
@@ -127261,7 +127261,7 @@
     },
     {
         "appid": 1665500,
-        "name": "Hypnagogia 無限の夢 Boundless Dreams"
+        "name": "Hypnagogia² 無限の夢 Boundless Dreams"
     },
     {
         "appid": 1665520,
@@ -164452,10 +164452,6 @@
         "name": "The Shattered Elements Arena"
     },
     {
-        "appid": 1801200,
-        "name": "Plunger Boyz"
-    },
-    {
         "appid": 1801220,
         "name": "God Damn The Garden"
     },
@@ -184938,6 +184934,10 @@
     {
         "appid": 1888520,
         "name": "AI Stories"
+    },
+    {
+        "appid": 1888550,
+        "name": "哥布林的资本主义时代"
     },
     {
         "appid": 1888560,

@@ -1573,7 +1573,7 @@
     },
     {
         "appid": 2939560,
-        "name": "Gloomdelve"
+        "name": "Headstone"
     },
     {
         "appid": 2939570,
@@ -3081,7 +3081,7 @@
     },
     {
         "appid": 2946830,
-        "name": "The Texas Chain Saw Massacre - Sissy Outfit Pack 1"
+        "name": "The Texas Chain Saw Massacre - Sissy Outfit 1"
     },
     {
         "appid": 2946840,
@@ -9225,11 +9225,11 @@
     },
     {
         "appid": 2975770,
-        "name": "The Texas Chain Saw Massacre - Nancy Outfit 1 - Prim 'N Proper"
+        "name": "The Texas Chain Saw Massacre - Nancy Outfit 1"
     },
     {
         "appid": 2975780,
-        "name": "The Texas Chain Saw Massacre - Johnny Outfit 1 - Razor-sharp"
+        "name": "The Texas Chain Saw Massacre - Johnny Outfit 1"
     },
     {
         "appid": 2975790,
@@ -32204,10 +32204,6 @@
         "name": "Dungeons & Kingdoms"
     },
     {
-        "appid": 3092150,
-        "name": "Better Me Tree: Boot Camp"
-    },
-    {
         "appid": 3092170,
         "name": "Seiden - Costume1"
     },
@@ -38072,6 +38068,10 @@
         "name": "Pretty Sweet! Healing Guardian"
     },
     {
+        "appid": 3120010,
+        "name": "Kipple"
+    },
+    {
         "appid": 3120020,
         "name": "Kings of Hell"
     },
@@ -42050,6 +42050,10 @@
     {
         "appid": 3140750,
         "name": "Waifu World"
+    },
+    {
+        "appid": 3140770,
+        "name": "Hackebein's Object Tracking"
     },
     {
         "appid": 3140780,
@@ -47010,6 +47014,10 @@
     {
         "appid": 3165970,
         "name": "Lustful Chemistry: Adult Art Pack"
+    },
+    {
+        "appid": 3165990,
+        "name": "StageTime"
     },
     {
         "appid": 3166030,
@@ -53197,7 +53205,7 @@
     },
     {
         "appid": 3197420,
-        "name": "The Texas Chain Saw Massacre - Sissy Ivy Outfit"
+        "name": "The Texas Chain Saw Massacre - Sissy Outfit 2"
     },
     {
         "appid": 3197430,
@@ -65797,7 +65805,7 @@
     },
     {
         "appid": 3266370,
-        "name": "The Texas Chain Saw Massacre - Hands Suspenders Outfit"
+        "name": "The Texas Chain Saw Massacre - Hands Outfit 1"
     },
     {
         "appid": 3266380,
@@ -72170,6 +72178,10 @@
     {
         "appid": 3300520,
         "name": "The Ardron Universe"
+    },
+    {
+        "appid": 3300530,
+        "name": "Festival Inc."
     },
     {
         "appid": 3300570,
@@ -82302,10 +82314,6 @@
     {
         "appid": 3350110,
         "name": "The Alchemist & His Battle-Scarred Homunculus"
-    },
-    {
-        "appid": 3350140,
-        "name": "漢字でGO! 集英社マンガ祭"
     },
     {
         "appid": 3350160,
@@ -93968,6 +93976,10 @@
         "name": "BlockGame"
     },
     {
+        "appid": 3406880,
+        "name": "Roxy Raccoon's Pinball Panic - Fruit Frenzy"
+    },
+    {
         "appid": 3406890,
         "name": "东方神域传 ~在游戏里展示威严~"
     },
@@ -101934,10 +101946,6 @@
     {
         "appid": 3446990,
         "name": "FUBUKI ～zero in on Holoearth～ HOLOLIVE ALTERNATIVE"
-    },
-    {
-        "appid": 3447000,
-        "name": "米姆米姆哈"
     },
     {
         "appid": 3447010,
@@ -121744,6 +121752,10 @@
         "name": "The Fruit Game"
     },
     {
+        "appid": 3557160,
+        "name": "After ICEY"
+    },
+    {
         "appid": 3557190,
         "name": "Comic Store Simulator"
     },
@@ -124758,6 +124770,10 @@
     {
         "appid": 3572580,
         "name": "Hachishaku"
+    },
+    {
+        "appid": 3572620,
+        "name": "Imagical"
     },
     {
         "appid": 3572640,
@@ -139325,7 +139341,7 @@
     },
     {
         "appid": 3645730,
-        "name": "Backrooms: Imposter"
+        "name": "Noclip: Entity"
     },
     {
         "appid": 3645760,
@@ -144396,10 +144412,6 @@
         "name": "Tacit"
     },
     {
-        "appid": 3670560,
-        "name": "temp"
-    },
-    {
         "appid": 3670570,
         "name": "Bounce 2"
     },
@@ -147481,7 +147493,7 @@
     },
     {
         "appid": 3688050,
-        "name": "Plain Pride"
+        "name": "Whispering White Oak"
     },
     {
         "appid": 3688080,
@@ -157866,10 +157878,6 @@
     {
         "appid": 3744900,
         "name": "Hollow Jump"
-    },
-    {
-        "appid": 3744910,
-        "name": "黄色猫片：爆射"
     },
     {
         "appid": 3744950,
@@ -177636,6 +177644,10 @@
         "name": "Fairies Circus"
     },
     {
+        "appid": 3852390,
+        "name": "CubeMate"
+    },
+    {
         "appid": 3852400,
         "name": "Dig Deeper"
     },
@@ -179352,6 +179364,10 @@
         "name": "SUBMERSIBLE - Aquanaut Update"
     },
     {
+        "appid": 3860480,
+        "name": "My Little Bento Shop"
+    },
+    {
         "appid": 3860490,
         "name": "VAL-YOU: Future Europe"
     },
@@ -180061,7 +180077,7 @@
     },
     {
         "appid": 3863740,
-        "name": "捏捏桌宠"
+        "name": "NeeNee Deskpals"
     },
     {
         "appid": 3863760,
@@ -181746,6 +181762,10 @@
     {
         "appid": 3871890,
         "name": "Satsuman"
+    },
+    {
+        "appid": 3871920,
+        "name": "The Attic: Fear of the Dark"
     },
     {
         "appid": 3871940,
@@ -189372,10 +189392,6 @@
         "name": "Brick Layer"
     },
     {
-        "appid": 3909550,
-        "name": "Occult Shop Clicker"
-    },
-    {
         "appid": 3909570,
         "name": "Pawker"
     },
@@ -189753,7 +189769,7 @@
     },
     {
         "appid": 3911730,
-        "name": "100 Cats Lost in Undersea Wonders"
+        "name": "100 Cats Lost in Atlantis Find & Color"
     },
     {
         "appid": 3911740,
@@ -194257,7 +194273,7 @@
     },
     {
         "appid": 3934270,
-        "name": "How Many Dudes?"
+        "name": "How Many Dudes? The Roguelike Autobattler"
     },
     {
         "appid": 3934280,
@@ -199982,21 +199998,5 @@
     {
         "appid": 3961980,
         "name": "Critters Breakout"
-    },
-    {
-        "appid": 3961990,
-        "name": "第一次挂机"
-    },
-    {
-        "appid": 3962000,
-        "name": "Without A Doubt"
-    },
-    {
-        "appid": 3962020,
-        "name": "EXD - Extra Dimensional"
-    },
-    {
-        "appid": 3962040,
-        "name": "Ranchbound"
     }
 ]
