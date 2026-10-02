@@ -1,17 +1,5 @@
 [
     {
-        "appid": 2931140,
-        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
-    },
-    {
-        "appid": 2931160,
-        "name": "The Aching Aversion"
-    },
-    {
-        "appid": 2931170,
-        "name": "Don't drop luggage! - 荷物を落とすな！ -"
-    },
-    {
         "appid": 2931200,
         "name": "蓝宝石奇遇 Sapphire and girls"
     },
@@ -6568,10 +6556,6 @@
         "name": "MoonMan Adventures"
     },
     {
-        "appid": 2963080,
-        "name": "Slice Adventure"
-    },
-    {
         "appid": 2963100,
         "name": "ErMa (Early Mammal)"
     },
@@ -11337,7 +11321,7 @@
     },
     {
         "appid": 2987180,
-        "name": "ACTION GAME MAKER"
+        "name": "ACTION GAME MAKER G"
     },
     {
         "appid": 2987200,
@@ -13122,6 +13106,10 @@
     {
         "appid": 2996390,
         "name": "Scavenged By Sunset"
+    },
+    {
+        "appid": 2996420,
+        "name": "ADAPTERS: Tower of Primus"
     },
     {
         "appid": 2996430,
@@ -31456,10 +31444,6 @@
         "name": "Dark Light: Survivor"
     },
     {
-        "appid": 3088080,
-        "name": "Linha de Fogo FPS"
-    },
-    {
         "appid": 3088090,
         "name": "ビビッター追加ミニゲーム「ベアミ危機一髪！」"
     },
@@ -31994,6 +31978,10 @@
     {
         "appid": 3091030,
         "name": "Robot's Fate: Alice"
+    },
+    {
+        "appid": 3091040,
+        "name": "Haul Yeah!"
     },
     {
         "appid": 3091090,
@@ -50926,6 +50914,10 @@
     {
         "appid": 3187330,
         "name": "Sierra Ridge Technologies"
+    },
+    {
+        "appid": 3187340,
+        "name": "Food Truck Frenzy"
     },
     {
         "appid": 3187360,
@@ -75433,7 +75425,7 @@
     },
     {
         "appid": 3316150,
-        "name": "the doll museum"
+        "name": "The Doll Museum"
     },
     {
         "appid": 3316170,
@@ -89066,10 +89058,6 @@
     {
         "appid": 3382860,
         "name": "Monkeround"
-    },
-    {
-        "appid": 3382870,
-        "name": "Cheese Racer"
     },
     {
         "appid": 3382880,
@@ -116768,10 +116756,6 @@
         "name": "StarHunter"
     },
     {
-        "appid": 3529820,
-        "name": "Uworld"
-    },
-    {
         "appid": 3529870,
         "name": "晓慧同学的完美推理"
     },
@@ -116797,7 +116781,7 @@
     },
     {
         "appid": 3530010,
-        "name": "猫咪花园 Meow Garden"
+        "name": "Meow Garden"
     },
     {
         "appid": 3530030,
@@ -120337,7 +120321,7 @@
     },
     {
         "appid": 3550220,
-        "name": "Phantom Vice Auto\t"
+        "name": "Phantom Streets"
     },
     {
         "appid": 3550240,
@@ -132924,6 +132908,10 @@
         "name": "Her Last Piece - Supporter Pack"
     },
     {
+        "appid": 3613220,
+        "name": "Tiny Trawler"
+    },
+    {
         "appid": 3613230,
         "name": "DnB Starfighter"
     },
@@ -141488,10 +141476,6 @@
         "name": "天書：仙途"
     },
     {
-        "appid": 3656300,
-        "name": "Kreya: Cursed Rings"
-    },
-    {
         "appid": 3656320,
         "name": "PUP BOY COWBOY: Infinite Desert Edition"
     },
@@ -149574,6 +149558,10 @@
     {
         "appid": 3698980,
         "name": "Europa Universalis V: Premium Upgrade"
+    },
+    {
+        "appid": 3698990,
+        "name": "Europa Universalis V: Across the Pillars"
     },
     {
         "appid": 3699010,
@@ -176552,6 +176540,10 @@
         "name": "Ragnarock - Summer Skin Pack"
     },
     {
+        "appid": 3846890,
+        "name": "First Layer: 3D Printing Simulator"
+    },
+    {
         "appid": 3846900,
         "name": "Sword Sage: Awakening"
     },
@@ -189789,11 +189781,11 @@
     },
     {
         "appid": 3911780,
-        "name": "100 Cats Lost in Halloween Havoc"
+        "name": "100 Cats Lost in Halloween Find & Color"
     },
     {
         "appid": 3911790,
-        "name": "100 Cats Lost in Da Vinci’s Workshop"
+        "name": "100 Cats Lost in Da Vinci Find & Color"
     },
     {
         "appid": 3911800,
@@ -198880,6 +198872,10 @@
         "name": "ステータス確認探偵"
     },
     {
+        "appid": 3956200,
+        "name": "Memento Memori"
+    },
+    {
         "appid": 3956280,
         "name": "Flying Aces: Legend of the Red Baron"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 3961980,
         "name": "Critters Breakout"
+    },
+    {
+        "appid": 3961990,
+        "name": "第一次挂机"
     }
 ]

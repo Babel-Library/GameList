@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1954650,
-        "name": "Roley's Arcade Collection"
-    },
-    {
-        "appid": 1954680,
-        "name": "Story in the Dream World 3 -Sinister Island's Mysterious Mist-"
-    },
-    {
-        "appid": 1954710,
-        "name": "Minion Masters - Frost Dragon's Lair"
-    },
-    {
-        "appid": 1954720,
-        "name": "Tameshi"
-    },
-    {
-        "appid": 1954750,
-        "name": "Acquitted"
-    },
-    {
         "appid": 1954810,
         "name": "World of Warships — Long Live the King"
     },
@@ -57384,6 +57364,10 @@
         "name": "VRC Pro - Bash Pit Stadium track pack (2)"
     },
     {
+        "appid": 2237587,
+        "name": "VRC Pro: myCandy Arena track pack (5)"
+    },
+    {
         "appid": 2237588,
         "name": "VRC Pro Lostallo track expansion pack (2)"
     },
@@ -65289,7 +65273,7 @@
     },
     {
         "appid": 2274050,
-        "name": "SlovSurvival"
+        "name": "StarMetalCrusaders"
     },
     {
         "appid": 2274070,
@@ -94416,10 +94400,6 @@
         "name": "Xyleron"
     },
     {
-        "appid": 2404310,
-        "name": "Eternal Return - Starter Pack"
-    },
-    {
         "appid": 2404330,
         "name": "捕快阿七：病镇 Bailiff A Qi:Sick town"
     },
@@ -123297,7 +123277,7 @@
     },
     {
         "appid": 2545390,
-        "name": "FrostFire -Battle Frenzy-"
+        "name": "FrostFire: Battle Frenzy"
     },
     {
         "appid": 2545400,
@@ -161460,6 +161440,10 @@
         "name": "Hazard School : Bully Fight"
     },
     {
+        "appid": 2736730,
+        "name": "One Wallpaper OwO"
+    },
+    {
         "appid": 2736740,
         "name": "Writeway"
     },
@@ -180780,6 +180764,10 @@
         "name": "不香の花 - Snow Flower"
     },
     {
+        "appid": 2834510,
+        "name": "Poop with Friends"
+    },
+    {
         "appid": 2834520,
         "name": "Typing Tales"
     },
@@ -186713,7 +186701,7 @@
     },
     {
         "appid": 2863680,
-        "name": "ZERO PARADES: For Dead Spies"
+        "name": "ZERO PARADES: Director's Cut"
     },
     {
         "appid": 2863690,
@@ -199998,5 +199986,17 @@
     {
         "appid": 2931110,
         "name": "Let's Puzzle - Verdant Realms Pack"
+    },
+    {
+        "appid": 2931140,
+        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
+    },
+    {
+        "appid": 2931160,
+        "name": "The Aching Aversion"
+    },
+    {
+        "appid": 2931170,
+        "name": "Don't drop luggage! - 荷物を落とすな！ -"
     }
 ]
