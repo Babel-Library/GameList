@@ -1,9 +1,5 @@
 [
     {
-        "appid": 2931200,
-        "name": "蓝宝石奇遇 Sapphire and girls"
-    },
-    {
         "appid": 2931220,
         "name": "Shroud"
     },
@@ -17456,6 +17452,10 @@
         "name": "Paragnosia"
     },
     {
+        "appid": 3017600,
+        "name": "Nyx the Knight"
+    },
+    {
         "appid": 3017610,
         "name": "Hyper Tag"
     },
@@ -31444,6 +31444,10 @@
         "name": "Dark Light: Survivor"
     },
     {
+        "appid": 3088080,
+        "name": "Linha de Fogo FPS"
+    },
+    {
         "appid": 3088090,
         "name": "ビビッター追加ミニゲーム「ベアミ危機一髪！」"
     },
@@ -43701,7 +43705,7 @@
     },
     {
         "appid": 3149450,
-        "name": "Stillmere"
+        "name": "A Place Out Here"
     },
     {
         "appid": 3149460,
@@ -86644,10 +86648,6 @@
         "name": "EXFIL Founders Pack"
     },
     {
-        "appid": 3370670,
-        "name": "Synth Riders Experience™ - Barbie™ Dance 'n Dream"
-    },
-    {
         "appid": 3370680,
         "name": "Violet Muscle Pain"
     },
@@ -93330,6 +93330,10 @@
     {
         "appid": 3403540,
         "name": "Space Grunts: Chrono Shard"
+    },
+    {
+        "appid": 3403550,
+        "name": "Galanost"
     },
     {
         "appid": 3403560,
@@ -141944,10 +141948,6 @@
         "name": "Poarker"
     },
     {
-        "appid": 3659010,
-        "name": "Labyris"
-    },
-    {
         "appid": 3659020,
         "name": "Idle Guy: Life Simulator games"
     },
@@ -143814,6 +143814,10 @@
     {
         "appid": 3667730,
         "name": "Console Store Simulator"
+    },
+    {
+        "appid": 3667750,
+        "name": "SatW Guesser"
     },
     {
         "appid": 3667770,
@@ -146149,7 +146153,7 @@
     },
     {
         "appid": 3680760,
-        "name": "Yazuke"
+        "name": "Yazuke: Destroy The Halloween"
     },
     {
         "appid": 3680770,
@@ -148644,6 +148648,10 @@
         "name": "Dumpyland"
     },
     {
+        "appid": 3693930,
+        "name": "Skies End"
+    },
+    {
         "appid": 3693970,
         "name": "Plant Tales"
     },
@@ -150458,6 +150466,10 @@
     {
         "appid": 3703530,
         "name": "War Grid Hero"
+    },
+    {
+        "appid": 3703550,
+        "name": "Astrowar"
     },
     {
         "appid": 3703570,
@@ -154333,7 +154345,7 @@
     },
     {
         "appid": 3725380,
-        "name": "Archlyphion: Migration"
+        "name": "Arclyphion: Migration"
     },
     {
         "appid": 3725390,
@@ -156466,6 +156478,10 @@
     {
         "appid": 3737190,
         "name": "Milking Mira! No, wait—Milking Sophie?!"
+    },
+    {
+        "appid": 3737290,
+        "name": "Sealed Below"
     },
     {
         "appid": 3737310,
@@ -169118,10 +169134,6 @@
     {
         "appid": 3809350,
         "name": "Seeking The Guardian: Reflection"
-    },
-    {
-        "appid": 3809360,
-        "name": "Pirate Skulls and Sails Online"
     },
     {
         "appid": 3809370,
@@ -193136,6 +193148,10 @@
         "name": "Frenzy Freak Fantasy"
     },
     {
+        "appid": 3928570,
+        "name": "Wurzzle"
+    },
+    {
         "appid": 3928600,
         "name": "Coconut CEO Idle"
     },
@@ -199982,21 +199998,5 @@
     {
         "appid": 3961920,
         "name": "Yandere Goth BDSM 3"
-    },
-    {
-        "appid": 3961940,
-        "name": "Liora's Price of Dignity"
-    },
-    {
-        "appid": 3961950,
-        "name": "Layang Atma"
-    },
-    {
-        "appid": 3961980,
-        "name": "Critters Breakout"
-    },
-    {
-        "appid": 3961990,
-        "name": "第一次挂机"
     }
 ]

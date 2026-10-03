@@ -1,29 +1,5 @@
 [
     {
-        "appid": 1109130,
-        "name": "逝去的回忆3：四叶草之梦"
-    },
-    {
-        "appid": 1109160,
-        "name": "Giants Uprising"
-    },
-    {
-        "appid": 1109170,
-        "name": "Happy Grumps"
-    },
-    {
-        "appid": 1109180,
-        "name": "SRPG Studio Dark World Background"
-    },
-    {
-        "appid": 1109190,
-        "name": "SRPG Studio Foreign Land Background"
-    },
-    {
-        "appid": 1109200,
-        "name": "Train Simulator: Totham – Passengers, Power & Freight Route Add-On"
-    },
-    {
         "appid": 1109202,
         "name": "Train Simulator: ÖBB 5047 DMU Add-On"
     },
@@ -114756,6 +114732,10 @@
         "name": "Atlantis Adventure VR"
     },
     {
+        "appid": 1605370,
+        "name": "Boxing Manager"
+    },
+    {
         "appid": 1605430,
         "name": "Roots of Tomorrow"
     },
@@ -126086,6 +126066,10 @@
     {
         "appid": 1660110,
         "name": "Decent Into Sector 32"
+    },
+    {
+        "appid": 1660130,
+        "name": "First Spartan"
     },
     {
         "appid": 1660150,
@@ -184917,7 +184901,7 @@
     },
     {
         "appid": 1888550,
-        "name": "哥布林的资本主义时代"
+        "name": "The capitalist world of Goblin"
     },
     {
         "appid": 1888560,
@@ -199998,5 +199982,21 @@
     {
         "appid": 1954750,
         "name": "Acquitted"
+    },
+    {
+        "appid": 1954810,
+        "name": "World of Warships — Long Live the King"
+    },
+    {
+        "appid": 1954830,
+        "name": "MILK ME DARLING"
+    },
+    {
+        "appid": 1954840,
+        "name": "Fractured Sanity"
+    },
+    {
+        "appid": 1954880,
+        "name": "剑冢 Swords Tomb"
     }
 ]

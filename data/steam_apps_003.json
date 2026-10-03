@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1954810,
-        "name": "World of Warships — Long Live the King"
-    },
-    {
-        "appid": 1954830,
-        "name": "MILK ME DARLING"
-    },
-    {
-        "appid": 1954840,
-        "name": "Fractured Sanity"
-    },
-    {
-        "appid": 1954880,
-        "name": "剑冢 Swords Tomb"
-    },
-    {
         "appid": 1954900,
         "name": "Numina - Part 2"
     },
@@ -27574,6 +27558,10 @@
     {
         "appid": 2104060,
         "name": "Jigsaw Puzzle - Futanari Pool Party"
+    },
+    {
+        "appid": 2104080,
+        "name": "Discharge Pending"
     },
     {
         "appid": 2104100,
@@ -70453,7 +70441,7 @@
     },
     {
         "appid": 2298960,
-        "name": "Mimic Hunters"
+        "name": "The Mimic: Magic Prop Hunt"
     },
     {
         "appid": 2298990,
@@ -103212,6 +103200,10 @@
         "name": "Mines Of Moritania"
     },
     {
+        "appid": 2444400,
+        "name": "Patch Zero"
+    },
+    {
         "appid": 2444420,
         "name": "Sunya"
     },
@@ -107081,7 +107073,7 @@
     },
     {
         "appid": 2463030,
-        "name": "Humans & Vampires"
+        "name": " Humans & Vampires"
     },
     {
         "appid": 2463040,
@@ -134586,6 +134578,10 @@
     {
         "appid": 2603860,
         "name": "地底防衛軍 ～剣と魔法と虫の群れ～"
+    },
+    {
+        "appid": 2603870,
+        "name": "Aftergale"
     },
     {
         "appid": 2603880,
@@ -199998,5 +199994,9 @@
     {
         "appid": 2931170,
         "name": "Don't drop luggage! - 荷物を落とすな！ -"
+    },
+    {
+        "appid": 2931200,
+        "name": "蓝宝石奇遇 Sapphire and girls"
     }
 ]
