@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2931200,
+        "name": "蓝宝石奇遇 Sapphire and girls"
+    },
+    {
         "appid": 2931220,
         "name": "Shroud"
     },
@@ -58357,7 +58361,7 @@
     },
     {
         "appid": 3224490,
-        "name": "Dark Light"
+        "name": "Terra Custodes: Dark Light and the Seven Guardians"
     },
     {
         "appid": 3224520,
@@ -86462,6 +86466,10 @@
     {
         "appid": 3369700,
         "name": "The Tower of Eden"
+    },
+    {
+        "appid": 3369720,
+        "name": "Nuria's Redemption"
     },
     {
         "appid": 3369760,
@@ -121678,6 +121686,10 @@
     {
         "appid": 3556910,
         "name": "DynamicDesktop"
+    },
+    {
+        "appid": 3556940,
+        "name": "Rune Runners"
     },
     {
         "appid": 3556960,
@@ -199986,17 +199998,5 @@
     {
         "appid": 3961890,
         "name": "Room 713"
-    },
-    {
-        "appid": 3961900,
-        "name": "Cosplay Shop Simulator"
-    },
-    {
-        "appid": 3961910,
-        "name": "Backrooms: The Familiar Place"
-    },
-    {
-        "appid": 3961920,
-        "name": "Yandere Goth BDSM 3"
     }
 ]

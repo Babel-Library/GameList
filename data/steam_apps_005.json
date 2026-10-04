@@ -1,5 +1,17 @@
 [
     {
+        "appid": 3961900,
+        "name": "Cosplay Shop Simulator"
+    },
+    {
+        "appid": 3961910,
+        "name": "Backrooms: The Familiar Place"
+    },
+    {
+        "appid": 3961920,
+        "name": "Yandere Goth BDSM 3"
+    },
+    {
         "appid": 3961940,
         "name": "Liora's Price of Dignity"
     },
@@ -7110,6 +7122,10 @@
     {
         "appid": 3999440,
         "name": "The Erased Student"
+    },
+    {
+        "appid": 3999450,
+        "name": "Not Going Back: Before"
     },
     {
         "appid": 3999460,
@@ -25110,6 +25126,10 @@
     {
         "appid": 4103090,
         "name": "Maloomify the Ocean"
+    },
+    {
+        "appid": 4103140,
+        "name": "Windfall: Shards of Memory"
     },
     {
         "appid": 4103150,
@@ -47608,6 +47628,10 @@
         "name": "Bossie Ball"
     },
     {
+        "appid": 4221270,
+        "name": "Cauldron Chaos"
+    },
+    {
         "appid": 4221310,
         "name": "Chrono CCG"
     },
@@ -68596,6 +68620,10 @@
         "name": "BOXROOM"
     },
     {
+        "appid": 4335470,
+        "name": "Voidboy"
+    },
+    {
         "appid": 4335520,
         "name": "Monty's Idle Mine"
     },
@@ -71378,6 +71406,10 @@
     {
         "appid": 4352290,
         "name": "Testimony - Night Underground"
+    },
+    {
+        "appid": 4352350,
+        "name": "Vita Somnium Life"
     },
     {
         "appid": 4352360,
@@ -78606,6 +78638,10 @@
     {
         "appid": 4397680,
         "name": "Spell Sniffers"
+    },
+    {
+        "appid": 4397690,
+        "name": "Tainted"
     },
     {
         "appid": 4397730,
@@ -94648,6 +94684,10 @@
         "name": "Lights out, run"
     },
     {
+        "appid": 4492590,
+        "name": "Nexaris"
+    },
+    {
         "appid": 4492610,
         "name": "Their Story."
     },
@@ -95970,6 +96010,10 @@
     {
         "appid": 4496710,
         "name": "慾望王座"
+    },
+    {
+        "appid": 4496740,
+        "name": "刷到爆"
     },
     {
         "appid": 4496780,
@@ -140752,6 +140796,10 @@
         "name": "Bento Days"
     },
     {
+        "appid": 4759320,
+        "name": "Solakrats"
+    },
+    {
         "appid": 4759340,
         "name": "Arcane Idle"
     },
@@ -147090,6 +147138,10 @@
     {
         "appid": 4799760,
         "name": "The Black Shift"
+    },
+    {
+        "appid": 4799860,
+        "name": "YOUSWAR"
     },
     {
         "appid": 4799870,
@@ -153668,6 +153720,10 @@
         "name": "Breachers: Outbreak"
     },
     {
+        "appid": 4839220,
+        "name": "Friendly Fire Club"
+    },
+    {
         "appid": 4839300,
         "name": "CivilBrawling"
     },
@@ -157426,6 +157482,10 @@
     {
         "appid": 4859610,
         "name": "Unburied"
+    },
+    {
+        "appid": 4859620,
+        "name": "The Elder Jade"
     },
     {
         "appid": 4859660,
@@ -162232,6 +162292,10 @@
         "name": "SOUL MIXER"
     },
     {
+        "appid": 4888030,
+        "name": "Achluophobia: Dark Forest Escape"
+    },
+    {
         "appid": 4888040,
         "name": "Soldier Offensive"
     },
@@ -164662,6 +164726,10 @@
     {
         "appid": 4901700,
         "name": "Grievance: Eye for an Eye"
+    },
+    {
+        "appid": 4901710,
+        "name": "In Two The Paint"
     },
     {
         "appid": 4901780,
@@ -169032,6 +169100,10 @@
         "name": "Stellar Wreck"
     },
     {
+        "appid": 4926160,
+        "name": "Dice Sort Together: Arcane Hall"
+    },
+    {
         "appid": 4926180,
         "name": "No Man's Mines"
     },
@@ -172780,6 +172852,10 @@
         "name": "Remy Thornfield: Royal Dreams"
     },
     {
+        "appid": 4947470,
+        "name": "歸宿之國1：餘話"
+    },
+    {
         "appid": 4947510,
         "name": "Bloodtroupe"
     },
@@ -176400,6 +176476,10 @@
         "name": "MobMate Vulkan Acceleration Pack"
     },
     {
+        "appid": 4967760,
+        "name": "Purrrfect Immortal"
+    },
+    {
         "appid": 4967770,
         "name": "Fast Point"
     },
@@ -176666,6 +176746,10 @@
     {
         "appid": 4969580,
         "name": "Bubble Anima"
+    },
+    {
+        "appid": 4969600,
+        "name": "Pine Creek: Prologue"
     },
     {
         "appid": 4969630,
@@ -182709,7 +182793,7 @@
     },
     {
         "appid": 5006850,
-        "name": "MECCHA ROGUE"
+        "name": "MECCHA HORROR"
     },
     {
         "appid": 5006870,
@@ -182826,6 +182910,10 @@
     {
         "appid": 5007540,
         "name": "Desktop Pal"
+    },
+    {
+        "appid": 5007550,
+        "name": "Statemakers"
     },
     {
         "appid": 5007580,
@@ -183994,6 +184082,10 @@
     {
         "appid": 5014940,
         "name": "Clickendo"
+    },
+    {
+        "appid": 5014950,
+        "name": "PANCHIGI: Coin Slap Showdown"
     },
     {
         "appid": 5014960,
@@ -185780,6 +185872,10 @@
         "name": "Axis Football 2027"
     },
     {
+        "appid": 5026810,
+        "name": "Fresh Stacker"
+    },
+    {
         "appid": 5026820,
         "name": "Pixel Lust: Hentai Girls Puzzle"
     },
@@ -186666,6 +186762,10 @@
     {
         "appid": 5031600,
         "name": "PortPlay"
+    },
+    {
+        "appid": 5031620,
+        "name": "The Parallel Existence of Allen McDiggins"
     },
     {
         "appid": 5031640,
@@ -188900,6 +189000,10 @@
         "name": "Stella Astrum"
     },
     {
+        "appid": 5045020,
+        "name": "FleetBane"
+    },
+    {
         "appid": 5045040,
         "name": "Traymon World: Taskbar Monster RPG"
     },
@@ -190292,6 +190396,10 @@
         "name": "Mazlide"
     },
     {
+        "appid": 5053670,
+        "name": "Electric Noosphere"
+    },
+    {
         "appid": 5053690,
         "name": "Heaven? Maybe Later"
     },
@@ -191106,6 +191214,10 @@
     {
         "appid": 5059040,
         "name": "Game Arena X"
+    },
+    {
+        "appid": 5059090,
+        "name": "Night Intake"
     },
     {
         "appid": 5059110,
@@ -193432,6 +193544,10 @@
         "name": "Interpolate"
     },
     {
+        "appid": 5073900,
+        "name": "M.A.S.K."
+    },
+    {
         "appid": 5073940,
         "name": "They’ll Hang You for That Face"
     },
@@ -195660,6 +195776,10 @@
         "name": "The Team Seven"
     },
     {
+        "appid": 5088360,
+        "name": "Immigration Simulator"
+    },
+    {
         "appid": 5088380,
         "name": "The Sounding Dark"
     },
@@ -197490,6 +197610,10 @@
     {
         "appid": 5100080,
         "name": "Ghostyard"
+    },
+    {
+        "appid": 5100090,
+        "name": "The Painting War: Three Thrones"
     },
     {
         "appid": 5100140,
@@ -199332,6 +199456,10 @@
         "name": "ContractVille - Rent Expansion"
     },
     {
+        "appid": 5112580,
+        "name": "Cozy Island Cleaner"
+    },
+    {
         "appid": 5112690,
         "name": "Soul Monsters: Dice RPG - Radan's Journey"
     },
@@ -199870,133 +199998,5 @@
     {
         "appid": 5116610,
         "name": "Master Gourmet Cook"
-    },
-    {
-        "appid": 5116620,
-        "name": "Grumpy Hero Grinder"
-    },
-    {
-        "appid": 5116630,
-        "name": "Panda Minesweeper"
-    },
-    {
-        "appid": 5116650,
-        "name": "Space Couch Command"
-    },
-    {
-        "appid": 5116670,
-        "name": "Glitchy Bots"
-    },
-    {
-        "appid": 5116690,
-        "name": "Shattered‑Realm Corridor"
-    },
-    {
-        "appid": 5116740,
-        "name": "New Frontier9"
-    },
-    {
-        "appid": 5116750,
-        "name": "Violet Stardust"
-    },
-    {
-        "appid": 5116760,
-        "name": "Sky Strike Overdrive"
-    },
-    {
-        "appid": 5116770,
-        "name": "花札ノ巫孤 / Blooming Solitude: Priestess of Hanafuda"
-    },
-    {
-        "appid": 5116780,
-        "name": "Chess 3: The Final Chapter"
-    },
-    {
-        "appid": 5116800,
-        "name": "Last Solace"
-    },
-    {
-        "appid": 5116820,
-        "name": "Rexclaw Companions"
-    },
-    {
-        "appid": 5116850,
-        "name": "Pray Your God!"
-    },
-    {
-        "appid": 5116860,
-        "name": "Hakodate 1983: A City Pop Delivery Story"
-    },
-    {
-        "appid": 5116880,
-        "name": "CATAL CARTA"
-    },
-    {
-        "appid": 5116890,
-        "name": "PaintScape"
-    },
-    {
-        "appid": 5116940,
-        "name": "ciaocargo"
-    },
-    {
-        "appid": 5116960,
-        "name": "寻真仙侠传"
-    },
-    {
-        "appid": 5117000,
-        "name": "DROWNSCROLL"
-    },
-    {
-        "appid": 5117020,
-        "name": "RIPGRAZE"
-    },
-    {
-        "appid": 5117030,
-        "name": "Ray: Shards of Light"
-    },
-    {
-        "appid": 5117080,
-        "name": "CartWare"
-    },
-    {
-        "appid": 5117090,
-        "name": "Take Me in Totality"
-    },
-    {
-        "appid": 5117110,
-        "name": "万古仙途"
-    },
-    {
-        "appid": 5117120,
-        "name": "Blackmere"
-    },
-    {
-        "appid": 5117160,
-        "name": "File Corruption"
-    },
-    {
-        "appid": 5117200,
-        "name": "Half Hour RPG"
-    },
-    {
-        "appid": 5117210,
-        "name": "Roads Beneath The Crown"
-    },
-    {
-        "appid": 5117220,
-        "name": "Mind The Quota"
-    },
-    {
-        "appid": 5117230,
-        "name": "Spell Death"
-    },
-    {
-        "appid": 5117250,
-        "name": "Tidying Simulator"
-    },
-    {
-        "appid": 5117280,
-        "name": "Carrot Clicker"
     }
 ]
