@@ -17532,6 +17532,10 @@
         "name": "Digi-Dodgy®"
     },
     {
+        "appid": 3018000,
+        "name": "Zynpo Chess"
+    },
+    {
         "appid": 3018030,
         "name": "Nightwalk Simulator"
     },
@@ -53621,7 +53625,7 @@
     },
     {
         "appid": 3199530,
-        "name": "Dark Ruins"
+        "name": "Dark Ruins: Nine Dragons Pulling the Coffin"
     },
     {
         "appid": 3199540,
@@ -93288,6 +93292,10 @@
         "name": "Train Simulator: 060-EA Locomotive"
     },
     {
+        "appid": 3403210,
+        "name": "TS Marketplace: Engadin Line Scenario Pack Vol.1"
+    },
+    {
         "appid": 3403220,
         "name": "TS Marketplace: Portsmouth Direct Line: London Waterloo - Portsmouth Harbour Scenario Pack 01"
     },
@@ -98730,6 +98738,10 @@
     {
         "appid": 3431630,
         "name": "AHAPIKA – Heroic Agency"
+    },
+    {
+        "appid": 3431650,
+        "name": "Digital Artmaster: Volume 8"
     },
     {
         "appid": 3431670,
@@ -141484,10 +141496,6 @@
         "name": "ノーラと時を戻さない魔法"
     },
     {
-        "appid": 3656270,
-        "name": "Touchdown Poker"
-    },
-    {
         "appid": 3656280,
         "name": "天書：仙途"
     },
@@ -145434,6 +145442,10 @@
     {
         "appid": 3676670,
         "name": "Ashborn"
+    },
+    {
+        "appid": 3676680,
+        "name": "Temple oF Glyphs "
     },
     {
         "appid": 3676700,
@@ -199986,17 +199998,5 @@
     {
         "appid": 3961860,
         "name": "Shadows of the Deepforge"
-    },
-    {
-        "appid": 3961870,
-        "name": "Coinborne"
-    },
-    {
-        "appid": 3961880,
-        "name": "新.伪自由书"
-    },
-    {
-        "appid": 3961890,
-        "name": "Room 713"
     }
 ]
