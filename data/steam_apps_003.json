@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1954900,
-        "name": "Numina - Part 2"
-    },
-    {
-        "appid": 1954910,
-        "name": "Alienate! (A Trivia Game)"
-    },
-    {
         "appid": 1954920,
         "name": "World of Warships — Way of the Warrior"
     },
@@ -230,6 +222,10 @@
     {
         "appid": 1956140,
         "name": "A HAUNTED HISTORY"
+    },
+    {
+        "appid": 1956160,
+        "name": "On The Outside"
     },
     {
         "appid": 1956180,
@@ -169112,10 +169108,6 @@
         "name": "Welcome to the Backrooms"
     },
     {
-        "appid": 2774730,
-        "name": "While Evil Reigns"
-    },
-    {
         "appid": 2774740,
         "name": "Angel Legion-DLC Shaohua (Blue)"
     },
@@ -181066,6 +181058,10 @@
     {
         "appid": 2835840,
         "name": "\"The Hardest Game in the Universe 2: Bridging to the Third Chapter"
+    },
+    {
+        "appid": 2835880,
+        "name": "Locus Solaris"
     },
     {
         "appid": 2835890,
@@ -199998,5 +199994,9 @@
     {
         "appid": 2931170,
         "name": "Don't drop luggage! - 荷物を落とすな！ -"
+    },
+    {
+        "appid": 2931200,
+        "name": "蓝宝石奇遇 Sapphire and girls"
     }
 ]

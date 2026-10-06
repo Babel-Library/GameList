@@ -1,9 +1,5 @@
 [
     {
-        "appid": 2931200,
-        "name": "蓝宝石奇遇 Sapphire and girls"
-    },
-    {
         "appid": 2931220,
         "name": "Shroud"
     },
@@ -2144,6 +2140,10 @@
         "name": "Rastignac: Wastelands"
     },
     {
+        "appid": 2942610,
+        "name": "Mission: Mars"
+    },
+    {
         "appid": 2942620,
         "name": "寻回小队 Recovery Team"
     },
@@ -4261,7 +4261,7 @@
     },
     {
         "appid": 2952160,
-        "name": "Cryptmaster Artbook"
+        "name": "Cryptmaster Art Book"
     },
     {
         "appid": 2952180,
@@ -27096,6 +27096,10 @@
         "name": "Nuke Bomberman"
     },
     {
+        "appid": 3066940,
+        "name": "Immortal Engine"
+    },
+    {
         "appid": 3066950,
         "name": "Survivalo"
     },
@@ -27854,10 +27858,6 @@
     {
         "appid": 3070570,
         "name": "The Paradixion: Christmas"
-    },
-    {
-        "appid": 3070580,
-        "name": "The Home: Into The Woods"
     },
     {
         "appid": 3070590,
@@ -44545,7 +44545,7 @@
     },
     {
         "appid": 3153170,
-        "name": "Slayer Mage: My First RPG"
+        "name": "SLAYER MAGE: My First RPG"
     },
     {
         "appid": 3153190,
@@ -59218,6 +59218,10 @@
     {
         "appid": 3228800,
         "name": "Neon Highways"
+    },
+    {
+        "appid": 3228860,
+        "name": "Boost and Zombies"
     },
     {
         "appid": 3228880,
@@ -99953,7 +99957,7 @@
     },
     {
         "appid": 3437580,
-        "name": "Descension"
+        "name": "Descension RPG"
     },
     {
         "appid": 3437600,
@@ -106582,6 +106586,10 @@
     {
         "appid": 3471370,
         "name": "Unnatural Beauties"
+    },
+    {
+        "appid": 3471380,
+        "name": "Star Purr"
     },
     {
         "appid": 3471390,
@@ -113613,7 +113621,7 @@
     },
     {
         "appid": 3510430,
-        "name": "Auto Battles World: Idle RPG"
+        "name": "9999+ Weapons: Idle RPG"
     },
     {
         "appid": 3510450,
@@ -137489,7 +137497,7 @@
     },
     {
         "appid": 3635750,
-        "name": "REPOSE - Artbook"
+        "name": "REPOSE - Art Book"
     },
     {
         "appid": 3635800,
@@ -149570,6 +149578,10 @@
     {
         "appid": 3698830,
         "name": "Infernal Antlers"
+    },
+    {
+        "appid": 3698890,
+        "name": "Nova's"
     },
     {
         "appid": 3698900,
@@ -178868,6 +178880,10 @@
         "name": "Hentai Night Club"
     },
     {
+        "appid": 3857940,
+        "name": "孤岛核心"
+    },
+    {
         "appid": 3857950,
         "name": "HH TRAP: Reality's Glitch"
     },
@@ -191116,6 +191132,10 @@
         "name": "Frutigeropolis: The Promised City"
     },
     {
+        "appid": 3918260,
+        "name": "Revery Effect"
+    },
+    {
         "appid": 3918340,
         "name": "Overtime Syndrome - A Late Night Shift Story"
     },
@@ -199978,25 +199998,5 @@
     {
         "appid": 3961710,
         "name": "Prosrochennyy"
-    },
-    {
-        "appid": 3961740,
-        "name": "PaJinko"
-    },
-    {
-        "appid": 3961760,
-        "name": "Moe Mekuri Oppai Party"
-    },
-    {
-        "appid": 3961820,
-        "name": "Kindling"
-    },
-    {
-        "appid": 3961850,
-        "name": "Void Raid"
-    },
-    {
-        "appid": 3961860,
-        "name": "Shadows of the Deepforge"
     }
 ]

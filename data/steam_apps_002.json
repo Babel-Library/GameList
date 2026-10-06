@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1109202,
-        "name": "Train Simulator: ÖBB 5047 DMU Add-On"
-    },
-    {
         "appid": 1109203,
         "name": "Train Simulator: East Midlands BR Class 222 DEMU Add-On"
     },
@@ -1793,7 +1789,7 @@
     },
     {
         "appid": 1115791,
-        "name": "Etherborn - Digital Art and Design Book"
+        "name": "Etherborn - Art Book"
     },
     {
         "appid": 1115830,
@@ -68560,10 +68556,6 @@
         "name": "Paper Beast - Folded Edition"
     },
     {
-        "appid": 1403840,
-        "name": "Gecata by Movavi 6 – Streaming and Game Recording Software"
-    },
-    {
         "appid": 1403850,
         "name": "Mars Colony Builder"
     },
@@ -72410,10 +72402,6 @@
     {
         "appid": 1420880,
         "name": "月圆之夜 - 存钱罐 / Night of Full Moon - Piggy Bank"
-    },
-    {
-        "appid": 1420930,
-        "name": "Movavi Slideshow Maker 8"
     },
     {
         "appid": 1420950,
@@ -77046,6 +77034,10 @@
     {
         "appid": 1440600,
         "name": "Rogue Empire - Dark Heroes"
+    },
+    {
+        "appid": 1440640,
+        "name": "Wavefront: Vanguard"
     },
     {
         "appid": 1440670,
@@ -199998,5 +199990,13 @@
     {
         "appid": 1954880,
         "name": "剑冢 Swords Tomb"
+    },
+    {
+        "appid": 1954900,
+        "name": "Numina - Part 2"
+    },
+    {
+        "appid": 1954910,
+        "name": "Alienate! (A Trivia Game)"
     }
 ]
