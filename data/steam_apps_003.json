@@ -1,5 +1,25 @@
 [
     {
+        "appid": 1954830,
+        "name": "MILK ME DARLING"
+    },
+    {
+        "appid": 1954840,
+        "name": "Fractured Sanity"
+    },
+    {
+        "appid": 1954880,
+        "name": "剑冢 Swords Tomb"
+    },
+    {
+        "appid": 1954900,
+        "name": "Numina - Part 2"
+    },
+    {
+        "appid": 1954910,
+        "name": "Alienate! (A Trivia Game)"
+    },
+    {
         "appid": 1954920,
         "name": "World of Warships — Way of the Warrior"
     },
@@ -39856,6 +39876,10 @@
         "name": "strategy battles"
     },
     {
+        "appid": 2160130,
+        "name": "Orion's Reach"
+    },
+    {
         "appid": 2160190,
         "name": "Journey Into Darkness"
     },
@@ -57201,7 +57225,7 @@
     },
     {
         "appid": 2236920,
-        "name": "Save the Earth"
+        "name": "Eco inc. Save the Earth"
     },
     {
         "appid": 2236930,
@@ -113829,7 +113853,7 @@
     },
     {
         "appid": 2496790,
-        "name": "Beach Vacation Simulator"
+        "name": "Beach Day Simulator"
     },
     {
         "appid": 2496800,
@@ -118166,6 +118190,10 @@
     {
         "appid": 2519310,
         "name": "僵尸禁地:艾希"
+    },
+    {
+        "appid": 2519340,
+        "name": "INSECT"
     },
     {
         "appid": 2519370,
@@ -174980,6 +175008,10 @@
         "name": "MIRO"
     },
     {
+        "appid": 2804950,
+        "name": "Ball or Nothing"
+    },
+    {
         "appid": 2804960,
         "name": "リプレイベルスイカスロットライクゲーム"
     },
@@ -195128,6 +195160,10 @@
         "name": "SEX HELP"
     },
     {
+        "appid": 2906250,
+        "name": "Hidden Cats in Beijing"
+    },
+    {
         "appid": 2906260,
         "name": "Hidden Cats in Barcelona"
     },
@@ -199962,41 +199998,5 @@
     {
         "appid": 2931010,
         "name": "Res Extensa"
-    },
-    {
-        "appid": 2931030,
-        "name": "Bug Bite Tower Defence"
-    },
-    {
-        "appid": 2931040,
-        "name": "Poor Thief"
-    },
-    {
-        "appid": 2931080,
-        "name": "Holy Clash Cards - Expansion Pack"
-    },
-    {
-        "appid": 2931100,
-        "name": "Let's Puzzle - Celestial Wonders Pack"
-    },
-    {
-        "appid": 2931110,
-        "name": "Let's Puzzle - Verdant Realms Pack"
-    },
-    {
-        "appid": 2931140,
-        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
-    },
-    {
-        "appid": 2931160,
-        "name": "The Aching Aversion"
-    },
-    {
-        "appid": 2931170,
-        "name": "Don't drop luggage! - 荷物を落とすな！ -"
-    },
-    {
-        "appid": 2931200,
-        "name": "蓝宝石奇遇 Sapphire and girls"
     }
 ]
