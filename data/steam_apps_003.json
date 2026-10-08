@@ -1,57 +1,5 @@
 [
     {
-        "appid": 1954830,
-        "name": "MILK ME DARLING"
-    },
-    {
-        "appid": 1954840,
-        "name": "Fractured Sanity"
-    },
-    {
-        "appid": 1954880,
-        "name": "剑冢 Swords Tomb"
-    },
-    {
-        "appid": 1954900,
-        "name": "Numina - Part 2"
-    },
-    {
-        "appid": 1954910,
-        "name": "Alienate! (A Trivia Game)"
-    },
-    {
-        "appid": 1954920,
-        "name": "World of Warships — Way of the Warrior"
-    },
-    {
-        "appid": 1954930,
-        "name": "Stronghold’s Dungeon"
-    },
-    {
-        "appid": 1954950,
-        "name": "Order of Battle: Allies Victorious"
-    },
-    {
-        "appid": 1954980,
-        "name": "Coloring Pixels - Tarot Pack"
-    },
-    {
-        "appid": 1954990,
-        "name": "Wieldo"
-    },
-    {
-        "appid": 1955000,
-        "name": "3D PUZZLE - Alchemist House"
-    },
-    {
-        "appid": 1955010,
-        "name": "Hard Ball Wikie"
-    },
-    {
-        "appid": 1955030,
-        "name": "SCP: EVENT CLASSIFIED"
-    },
-    {
         "appid": 1955040,
         "name": "The Aquatic Messenger"
     },
@@ -11708,6 +11656,10 @@
         "name": "Right and Down"
     },
     {
+        "appid": 2008060,
+        "name": "99 Fails Lite"
+    },
+    {
         "appid": 2008100,
         "name": "Rule the Waves 3"
     },
@@ -20312,6 +20264,10 @@
         "name": "ExpressLane"
     },
     {
+        "appid": 2071640,
+        "name": "Nova by Open Launch"
+    },
+    {
         "appid": 2071690,
         "name": "Rhapsody: A Musical Adventure - Digital Art Book"
     },
@@ -24362,6 +24318,10 @@
     {
         "appid": 2089840,
         "name": "Sonic Frontiers: Sonic Adventure 2 Shoes"
+    },
+    {
+        "appid": 2089850,
+        "name": "Sky On Fire : 1940"
     },
     {
         "appid": 2089890,
@@ -43138,6 +43098,10 @@
     {
         "appid": 2175150,
         "name": "ARGH!"
+    },
+    {
+        "appid": 2175160,
+        "name": "Tirade"
     },
     {
         "appid": 2175170,
@@ -66213,7 +66177,7 @@
     },
     {
         "appid": 2278940,
-        "name": "Noxia Somnia"
+        "name": "Toxic Dream"
     },
     {
         "appid": 2278950,
@@ -68053,7 +68017,7 @@
     },
     {
         "appid": 2287090,
-        "name": "烁光暗影"
+        "name": "Shadow of Scintilla"
     },
     {
         "appid": 2287100,
@@ -75229,7 +75193,7 @@
     },
     {
         "appid": 2320480,
-        "name": "Unsevered"
+        "name": "UNSEVERED"
     },
     {
         "appid": 2320500,
@@ -83800,6 +83764,10 @@
         "name": "Hundred Acre Wood"
     },
     {
+        "appid": 2359350,
+        "name": "FarmZ"
+    },
+    {
         "appid": 2359370,
         "name": "Saltaria"
     },
@@ -87054,6 +87022,10 @@
     {
         "appid": 2373600,
         "name": "Knowledge Fever"
+    },
+    {
+        "appid": 2373610,
+        "name": "Stream Slayers"
     },
     {
         "appid": 2373620,
@@ -96894,6 +96866,10 @@
     {
         "appid": 2415180,
         "name": "Cute Puzzles!!!"
+    },
+    {
+        "appid": 2415210,
+        "name": "Okey Online"
     },
     {
         "appid": 2415240,
@@ -114366,10 +114342,6 @@
     {
         "appid": 2499520,
         "name": "Be My Horde"
-    },
-    {
-        "appid": 2499540,
-        "name": "Selection Kingdom: Level 1 - Limited -"
     },
     {
         "appid": 2499570,
@@ -140822,6 +140794,10 @@
     {
         "appid": 2636200,
         "name": "Petey Pedro unBEETable Adventure"
+    },
+    {
+        "appid": 2636240,
+        "name": "Pokodoro"
     },
     {
         "appid": 2636260,
@@ -182877,7 +182853,7 @@
     },
     {
         "appid": 2844300,
-        "name": "PickaLegend"
+        "name": "Pick a Legend"
     },
     {
         "appid": 2844310,
@@ -199998,5 +199974,29 @@
     {
         "appid": 2931010,
         "name": "Res Extensa"
+    },
+    {
+        "appid": 2931030,
+        "name": "Bug Bite Tower Defence"
+    },
+    {
+        "appid": 2931040,
+        "name": "Poor Thief"
+    },
+    {
+        "appid": 2931080,
+        "name": "Holy Clash Cards - Expansion Pack"
+    },
+    {
+        "appid": 2931100,
+        "name": "Let's Puzzle - Celestial Wonders Pack"
+    },
+    {
+        "appid": 2931110,
+        "name": "Let's Puzzle - Verdant Realms Pack"
+    },
+    {
+        "appid": 2931140,
+        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
     }
 ]

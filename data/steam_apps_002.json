@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1109180,
-        "name": "SRPG Studio Dark World Background"
-    },
-    {
-        "appid": 1109190,
-        "name": "SRPG Studio Foreign Land Background"
-    },
-    {
         "appid": 1109200,
         "name": "Train Simulator: Totham – Passengers, Power & Freight Route Add-On"
     },
@@ -12028,10 +12020,6 @@
         "name": "SONG OF HORROR - Episode 3"
     },
     {
-        "appid": 1157250,
-        "name": "Anomaly Zone"
-    },
-    {
         "appid": 1157260,
         "name": "GEESE vs CTHULHU"
     },
@@ -19912,24 +19900,12 @@
         "name": "Bouncy Bob: Episode 2 - Soundtrack"
     },
     {
-        "appid": 1187760,
-        "name": "Anomaly Zone - Starter Kit"
-    },
-    {
         "appid": 1187780,
         "name": "Displace"
     },
     {
         "appid": 1187790,
         "name": "FULLCHOKE : Clay Shooting VR"
-    },
-    {
-        "appid": 1187820,
-        "name": "Anomaly Zone - Hockey Mask"
-    },
-    {
-        "appid": 1187821,
-        "name": "Anomaly Zone - Pumpkin Helmet"
     },
     {
         "appid": 1187830,
@@ -24270,30 +24246,6 @@
     {
         "appid": 1205100,
         "name": "OMSI 2 Add-On Regiobus i200"
-    },
-    {
-        "appid": 1205110,
-        "name": "Anomaly Zone - Cat Mask"
-    },
-    {
-        "appid": 1205111,
-        "name": "Anomaly Zone - Bear Mask"
-    },
-    {
-        "appid": 1205112,
-        "name": "Anomaly Zone - Rabbit Mask"
-    },
-    {
-        "appid": 1205113,
-        "name": "Anomaly Zone - Evil Rabbit"
-    },
-    {
-        "appid": 1205114,
-        "name": "Anomaly Zone - Imperial Hat"
-    },
-    {
-        "appid": 1205115,
-        "name": "Anomaly Zone - Cheburashka Mask"
     },
     {
         "appid": 1205130,
@@ -46854,10 +46806,6 @@
     {
         "appid": 1302660,
         "name": "Wish - Beyond Fate"
-    },
-    {
-        "appid": 1302700,
-        "name": "Realm of the hero"
     },
     {
         "appid": 1302720,
@@ -199998,5 +199946,57 @@
     {
         "appid": 1954810,
         "name": "World of Warships — Long Live the King"
+    },
+    {
+        "appid": 1954830,
+        "name": "MILK ME DARLING"
+    },
+    {
+        "appid": 1954840,
+        "name": "Fractured Sanity"
+    },
+    {
+        "appid": 1954880,
+        "name": "剑冢 Swords Tomb"
+    },
+    {
+        "appid": 1954900,
+        "name": "Numina - Part 2"
+    },
+    {
+        "appid": 1954910,
+        "name": "Alienate! (A Trivia Game)"
+    },
+    {
+        "appid": 1954920,
+        "name": "World of Warships — Way of the Warrior"
+    },
+    {
+        "appid": 1954930,
+        "name": "Stronghold’s Dungeon"
+    },
+    {
+        "appid": 1954950,
+        "name": "Order of Battle: Allies Victorious"
+    },
+    {
+        "appid": 1954980,
+        "name": "Coloring Pixels - Tarot Pack"
+    },
+    {
+        "appid": 1954990,
+        "name": "Wieldo"
+    },
+    {
+        "appid": 1955000,
+        "name": "3D PUZZLE - Alchemist House"
+    },
+    {
+        "appid": 1955010,
+        "name": "Hard Ball Wikie"
+    },
+    {
+        "appid": 1955030,
+        "name": "SCP: EVENT CLASSIFIED"
     }
 ]

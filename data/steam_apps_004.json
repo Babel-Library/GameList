@@ -1,29 +1,5 @@
 [
     {
-        "appid": 2931030,
-        "name": "Bug Bite Tower Defence"
-    },
-    {
-        "appid": 2931040,
-        "name": "Poor Thief"
-    },
-    {
-        "appid": 2931080,
-        "name": "Holy Clash Cards - Expansion Pack"
-    },
-    {
-        "appid": 2931100,
-        "name": "Let's Puzzle - Celestial Wonders Pack"
-    },
-    {
-        "appid": 2931110,
-        "name": "Let's Puzzle - Verdant Realms Pack"
-    },
-    {
-        "appid": 2931140,
-        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
-    },
-    {
         "appid": 2931160,
         "name": "The Aching Aversion"
     },
@@ -28113,7 +28089,7 @@
     },
     {
         "appid": 3071770,
-        "name": "Midnight Shift"
+        "name": "Midnight Shift Remastered"
     },
     {
         "appid": 3071810,
@@ -45712,6 +45688,10 @@
         "name": "Lynked: Banner of the Spark"
     },
     {
+        "appid": 3159580,
+        "name": "Dear Occupant"
+    },
+    {
         "appid": 3159620,
         "name": "Emergency Exit"
     },
@@ -46954,6 +46934,10 @@
     {
         "appid": 3165560,
         "name": "Squirmish: Halloweenies 6-Card Booster Pack"
+    },
+    {
+        "appid": 3165580,
+        "name": "Trade Wings"
     },
     {
         "appid": 3165590,
@@ -78384,6 +78368,10 @@
         "name": "Locked in my Darkness 2: The Room"
     },
     {
+        "appid": 3330940,
+        "name": "Caravan Carnage: Fruity Road"
+    },
+    {
         "appid": 3330960,
         "name": "USA Nature's Trails Jigsaw Edition - Expansion Pack 3"
     },
@@ -81094,10 +81082,6 @@
     {
         "appid": 3344030,
         "name": "VIDeoPHOBIA"
-    },
-    {
-        "appid": 3344040,
-        "name": "Crypto Mining Tycoon"
     },
     {
         "appid": 3344150,
@@ -84688,10 +84672,6 @@
         "name": "Watermelon Simulator"
     },
     {
-        "appid": 3361280,
-        "name": "Sattelite"
-    },
-    {
         "appid": 3361290,
         "name": "Funko Fusion - Wicked Movie Pack 1"
     },
@@ -88064,6 +88044,10 @@
         "name": "Seal of Solitomb"
     },
     {
+        "appid": 3377240,
+        "name": "SLURDLE"
+    },
+    {
         "appid": 3377260,
         "name": "Exploding Kittens® 2: Santa Claws Pack"
     },
@@ -90646,6 +90630,10 @@
     {
         "appid": 3390430,
         "name": "SKRYZE"
+    },
+    {
+        "appid": 3390460,
+        "name": "Kitchen Traitor"
     },
     {
         "appid": 3390470,
@@ -95357,7 +95345,7 @@
     },
     {
         "appid": 3413490,
-        "name": "The Misadventures of Magical Girl Luna"
+        "name": "The (mis)adventures of Magical Girl Luna"
     },
     {
         "appid": 3413500,
@@ -100185,7 +100173,7 @@
     },
     {
         "appid": 3438570,
-        "name": "No Reply"
+        "name": "BEER"
     },
     {
         "appid": 3438590,
@@ -126864,10 +126852,6 @@
         "name": "!mrak"
     },
     {
-        "appid": 3582320,
-        "name": "Inazuma Eleven Team Builder"
-    },
-    {
         "appid": 3582340,
         "name": "紅蜘蛛/Red Spider リマスター版 制作応援 ver."
     },
@@ -138044,6 +138028,10 @@
         "name": "Fantasy Grounds - Dragonix's Deadly Denizens II"
     },
     {
+        "appid": 3638270,
+        "name": "Derail Party"
+    },
+    {
         "appid": 3638280,
         "name": "Iteration"
     },
@@ -138218,6 +138206,10 @@
     {
         "appid": 3639100,
         "name": "No Customers Left"
+    },
+    {
+        "appid": 3639110,
+        "name": "Terror In The Shadowrealms"
     },
     {
         "appid": 3639120,
@@ -143496,6 +143488,10 @@
         "name": "夢の終わり - Upon the Dream's End -"
     },
     {
+        "appid": 3665700,
+        "name": "Myrridon"
+    },
+    {
         "appid": 3665740,
         "name": "Hope Town"
     },
@@ -143578,6 +143574,10 @@
     {
         "appid": 3666130,
         "name": "街漓芳传 - 数字设定集"
+    },
+    {
+        "appid": 3666140,
+        "name": "Balkan Vice: Callatis"
     },
     {
         "appid": 3666160,
@@ -145701,7 +145701,7 @@
     },
     {
         "appid": 3678260,
-        "name": "Slacker: Job Simulator"
+        "name": "Slacker"
     },
     {
         "appid": 3678270,
@@ -148454,10 +148454,6 @@
     {
         "appid": 3692240,
         "name": "Deer Hunting Camp"
-    },
-    {
-        "appid": 3692250,
-        "name": "As I Survive"
     },
     {
         "appid": 3692260,
@@ -154772,6 +154768,10 @@
         "name": "Мир кораблей — Ударная волна"
     },
     {
+        "appid": 3726900,
+        "name": "SORCERER'S DELIGHT"
+    },
+    {
         "appid": 3726940,
         "name": "Pickle Panic"
     },
@@ -155029,7 +155029,7 @@
     },
     {
         "appid": 3728550,
-        "name": "Game Shop Simulator"
+        "name": "Console Dealer Simulator"
     },
     {
         "appid": 3728570,
@@ -160366,10 +160366,6 @@
     {
         "appid": 3758980,
         "name": "NO STRAIGHT ROADS 2"
-    },
-    {
-        "appid": 3758990,
-        "name": "Vanguard Protocol"
     },
     {
         "appid": 3759000,
@@ -177520,6 +177516,10 @@
         "name": "ScareCrow Hunting VR"
     },
     {
+        "appid": 3851350,
+        "name": "GATO PARTY"
+    },
+    {
         "appid": 3851370,
         "name": "Home for Friends: Beloved Pets Collector's Edition"
     },
@@ -183436,6 +183436,10 @@
         "name": "T.B.M ~The Blueppers Mayhem~"
     },
     {
+        "appid": 3879650,
+        "name": "Out Of Orbit"
+    },
+    {
         "appid": 3879660,
         "name": "OverField"
     },
@@ -184877,7 +184881,7 @@
     },
     {
         "appid": 3886040,
-        "name": "Project Paladin: The Card Wargame"
+        "name": "Hexwake"
     },
     {
         "appid": 3886050,
@@ -188914,6 +188918,10 @@
     {
         "appid": 3906690,
         "name": "Diamond Painting"
+    },
+    {
+        "appid": 3906730,
+        "name": "Torched"
     },
     {
         "appid": 3906740,
@@ -197120,6 +197128,10 @@
         "name": "Escape or Die"
     },
     {
+        "appid": 3947120,
+        "name": "Dead of Darkness 2"
+    },
+    {
         "appid": 3947130,
         "name": "Lords and Pirates"
     },
@@ -198046,10 +198058,6 @@
     {
         "appid": 3951360,
         "name": "3-Bit Explorer"
-    },
-    {
-        "appid": 3951370,
-        "name": "VULTURE - The Droner"
     },
     {
         "appid": 3951400,
@@ -199990,13 +199998,5 @@
     {
         "appid": 3961300,
         "name": "Jettison"
-    },
-    {
-        "appid": 3961320,
-        "name": "Emuls: Oil & Water"
-    },
-    {
-        "appid": 3961340,
-        "name": "Ant Keeping Simulator - Species Pack 1"
     }
 ]
