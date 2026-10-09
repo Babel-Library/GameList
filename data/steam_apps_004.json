@@ -1,5 +1,49 @@
 [
     {
+        "appid": 2930930,
+        "name": "Card Clash Chronicles"
+    },
+    {
+        "appid": 2930950,
+        "name": "Dream of Things 物之梦"
+    },
+    {
+        "appid": 2930960,
+        "name": "Angel Legion-DLC Charming Mystery (Red)"
+    },
+    {
+        "appid": 2930990,
+        "name": "Picscape"
+    },
+    {
+        "appid": 2931010,
+        "name": "Res Extensa"
+    },
+    {
+        "appid": 2931030,
+        "name": "Bug Bite Tower Defence"
+    },
+    {
+        "appid": 2931040,
+        "name": "Poor Thief"
+    },
+    {
+        "appid": 2931080,
+        "name": "Holy Clash Cards - Expansion Pack"
+    },
+    {
+        "appid": 2931100,
+        "name": "Let's Puzzle - Celestial Wonders Pack"
+    },
+    {
+        "appid": 2931110,
+        "name": "Let's Puzzle - Verdant Realms Pack"
+    },
+    {
+        "appid": 2931140,
+        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
+    },
+    {
         "appid": 2931160,
         "name": "The Aching Aversion"
     },
@@ -36237,7 +36281,7 @@
     },
     {
         "appid": 3111080,
-        "name": "Secret Agent Wizard Boy and the International Crime Syndicate"
+        "name": "Secret Agent Wizard Boy"
     },
     {
         "appid": 3111130,
@@ -38570,6 +38614,10 @@
     {
         "appid": 3122670,
         "name": "Ferrous: Digital Edition"
+    },
+    {
+        "appid": 3122680,
+        "name": "Night of the Living Toys"
     },
     {
         "appid": 3122690,
@@ -41232,10 +41280,6 @@
         "name": "Space Menace 2"
     },
     {
-        "appid": 3136390,
-        "name": "Pixel Collector - More Tickets"
-    },
-    {
         "appid": 3136400,
         "name": "The Train Station"
     },
@@ -41522,6 +41566,10 @@
     {
         "appid": 3138060,
         "name": "Esport Manager: Road To Major"
+    },
+    {
+        "appid": 3138080,
+        "name": "Some Things Stay Broken"
     },
     {
         "appid": 3138090,
@@ -50846,10 +50894,6 @@
     {
         "appid": 3186680,
         "name": "It Paints Me"
-    },
-    {
-        "appid": 3186710,
-        "name": "Pixel Collector - Premium Lottery"
     },
     {
         "appid": 3186760,
@@ -62313,7 +62357,7 @@
     },
     {
         "appid": 3245300,
-        "name": "Shattered Sun"
+        "name": "SUNREND"
     },
     {
         "appid": 3245310,
@@ -65541,7 +65585,7 @@
     },
     {
         "appid": 3264710,
-        "name": "Mishaka Ubivaka"
+        "name": "GUN RAT classic"
     },
     {
         "appid": 3264720,
@@ -69066,6 +69110,10 @@
     {
         "appid": 3284340,
         "name": "The Madness of Billiards"
+    },
+    {
+        "appid": 3284360,
+        "name": "Vibes TCG"
     },
     {
         "appid": 3284390,
@@ -77836,6 +77884,10 @@
         "name": "TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-"
     },
     {
+        "appid": 3328490,
+        "name": "Airport Control 27"
+    },
+    {
         "appid": 3328500,
         "name": "Shadows of Truth VR"
     },
@@ -81241,7 +81293,7 @@
     },
     {
         "appid": 3344910,
-        "name": "Paradale"
+        "name": "Tzark - The First Rift"
     },
     {
         "appid": 3344920,
@@ -84310,6 +84362,10 @@
     {
         "appid": 3359540,
         "name": "Sex Supermarket"
+    },
+    {
+        "appid": 3359550,
+        "name": "Sahar: Night Shift"
     },
     {
         "appid": 3359560,
@@ -103208,10 +103264,6 @@
         "name": "Spear"
     },
     {
-        "appid": 3453010,
-        "name": "Demonfall"
-    },
-    {
         "appid": 3453020,
         "name": "The Planetary Archive"
     },
@@ -104942,6 +104994,10 @@
     {
         "appid": 3461300,
         "name": "I'm Truely a Good Guy!"
+    },
+    {
+        "appid": 3461340,
+        "name": "Starship Duel"
     },
     {
         "appid": 3461410,
@@ -120548,6 +120604,10 @@
         "name": "INVERTA"
     },
     {
+        "appid": 3550940,
+        "name": "叫魂"
+    },
+    {
         "appid": 3550990,
         "name": "Master of Pieces © Jigsaw Puzzle DLC - Women's Day"
     },
@@ -128556,6 +128616,10 @@
         "name": "Bloodright"
     },
     {
+        "appid": 3590820,
+        "name": "珠宝之王"
+    },
+    {
         "appid": 3590830,
         "name": "Blackjack"
     },
@@ -130838,6 +130902,10 @@
     {
         "appid": 3602240,
         "name": "Prime World Legends"
+    },
+    {
+        "appid": 3602260,
+        "name": "The Escapists 3"
     },
     {
         "appid": 3602270,
@@ -141226,10 +141294,6 @@
     {
         "appid": 3654610,
         "name": "Dead Hourz"
-    },
-    {
-        "appid": 3654640,
-        "name": "Dew"
     },
     {
         "appid": 3654650,
@@ -151748,6 +151812,10 @@
         "name": "Color-Origin"
     },
     {
+        "appid": 3710650,
+        "name": "Little Prince Tyger"
+    },
+    {
         "appid": 3710770,
         "name": "GlobalQuarantine"
     },
@@ -158832,10 +158900,6 @@
         "name": "ChopstickSimulator"
     },
     {
-        "appid": 3750300,
-        "name": "Orpheus"
-    },
-    {
         "appid": 3750310,
         "name": "Who Fart ?"
     },
@@ -160210,6 +160274,10 @@
     {
         "appid": 3758030,
         "name": "Mini Drift Car - Earnings Doubled for Diamonds (x2)"
+    },
+    {
+        "appid": 3758050,
+        "name": "Kva Krj Farm"
     },
     {
         "appid": 3758070,
@@ -183036,6 +183104,10 @@
         "name": "Twincantation"
     },
     {
+        "appid": 3877770,
+        "name": "Journey to Jericho"
+    },
+    {
         "appid": 3877790,
         "name": "Hunter's Moon: A Sovereign Syndicate Adventure"
     },
@@ -199324,6 +199396,10 @@
         "name": "an unplayable game?!"
     },
     {
+        "appid": 3957900,
+        "name": "A Day with Wuki"
+    },
+    {
         "appid": 3957950,
         "name": "Undockable"
     },
@@ -199922,81 +199998,5 @@
     {
         "appid": 3960930,
         "name": "Umbral Crown: Mark"
-    },
-    {
-        "appid": 3960940,
-        "name": "The Kindling"
-    },
-    {
-        "appid": 3960970,
-        "name": "Grunt - The Wrestling Game"
-    },
-    {
-        "appid": 3960990,
-        "name": "Gallery Nocturnea"
-    },
-    {
-        "appid": 3961000,
-        "name": "Flaunt"
-    },
-    {
-        "appid": 3961050,
-        "name": "Gulo-Gulo the Tiny Pirate: Island Time"
-    },
-    {
-        "appid": 3961060,
-        "name": "Fantasy Grounds - Traveller - Whispers on the Abyss"
-    },
-    {
-        "appid": 3961080,
-        "name": "Non-violent Hero – Official Artbook & Design Works"
-    },
-    {
-        "appid": 3961090,
-        "name": "Grommet Chod"
-    },
-    {
-        "appid": 3961100,
-        "name": "Spirit Trigger"
-    },
-    {
-        "appid": 3961110,
-        "name": "Sleepover: reWake"
-    },
-    {
-        "appid": 3961120,
-        "name": "The Box is Alive"
-    },
-    {
-        "appid": 3961130,
-        "name": "Salvage Unlimited"
-    },
-    {
-        "appid": 3961160,
-        "name": "Eye of the Erime"
-    },
-    {
-        "appid": 3961190,
-        "name": "Fantasy Grounds - Kingdoms World Building Map Pack"
-    },
-    {
-        "appid": 3961210,
-        "name": "Fantasy Grounds - Dungeons & Dragons - Netflix - Stranger Things: Welcome to the Hellfire Club"
-    },
-    {
-        "appid": 3961220,
-        "name": "VADE RETRO SATANA"
-    },
-    {
-        "appid": 3961250,
-        "name": "Fantasy Grounds - Traveller - The Fifth Frontier War: Armies of the Fifth Frontier War"
-    },
-    {
-        "appid": 3961290,
-        "name": "Fantasy Grounds - Traveller - Wrath of the Ancients"
-    },
-    {
-        "appid": 3961300,
-        "name": "Jettison"
     }
 ]

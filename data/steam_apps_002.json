@@ -6784,10 +6784,6 @@
         "name": "Pictoglyph"
     },
     {
-        "appid": 1135320,
-        "name": "VR瓦割り / VR roof tile"
-    },
-    {
         "appid": 1135370,
         "name": "Star Girl Proxima"
     },
@@ -10392,10 +10388,6 @@
         "name": "The Ancient Labyrinth"
     },
     {
-        "appid": 1150420,
-        "name": "Junk"
-    },
-    {
         "appid": 1150440,
         "name": "Aliens: Dark Descent"
     },
@@ -11665,7 +11657,7 @@
     },
     {
         "appid": 1155840,
-        "name": "Everlight"
+        "name": "Ian Calle's Magnum Opus"
     },
     {
         "appid": 1155850,
@@ -12086,10 +12078,6 @@
     {
         "appid": 1157550,
         "name": "Generation Zero® - Alpine Unrest"
-    },
-    {
-        "appid": 1157600,
-        "name": "You Never Listen"
     },
     {
         "appid": 1157620,
@@ -38621,7 +38609,7 @@
     },
     {
         "appid": 1266680,
-        "name": "Strobophagia | Rave Horror"
+        "name": "STROBO | Rave Horror"
     },
     {
         "appid": 1266690,
@@ -90212,6 +90200,10 @@
         "name": "Zombie Army 4: Ragnarök – Parts I & II"
     },
     {
+        "appid": 1498330,
+        "name": "Little Lands"
+    },
+    {
         "appid": 1498380,
         "name": "Learning jigsaw - Animals"
     },
@@ -91098,10 +91090,6 @@
     {
         "appid": 1501510,
         "name": "Parallel Olympus"
-    },
-    {
-        "appid": 1501520,
-        "name": "Let's HoBBee"
     },
     {
         "appid": 1501540,
@@ -92438,10 +92426,6 @@
     {
         "appid": 1507430,
         "name": "Mayhem Fortress"
-    },
-    {
-        "appid": 1507440,
-        "name": "Apollo 3000: Wild Space"
     },
     {
         "appid": 1507450,
@@ -117288,6 +117272,10 @@
         "name": "Flag Color Number - Painting and Coloring"
     },
     {
+        "appid": 1619280,
+        "name": "Machinarium 2"
+    },
+    {
         "appid": 1619290,
         "name": "Andromeda Wars"
     },
@@ -134616,6 +134604,10 @@
         "name": "Escape to Mars"
     },
     {
+        "appid": 1690400,
+        "name": "Kula"
+    },
+    {
         "appid": 1690420,
         "name": "DIRT 5 - Wild Spirits Pack"
     },
@@ -150986,6 +150978,10 @@
     {
         "appid": 1744200,
         "name": "City Legends: The Curse of the Crimson Shadow Collector's Edition"
+    },
+    {
+        "appid": 1744230,
+        "name": "Kula 2"
     },
     {
         "appid": 1744260,
@@ -170980,10 +170976,6 @@
         "name": "Black Ink 2023 Upgrade"
     },
     {
-        "appid": 1827240,
-        "name": "Plague Lords: Witch Hunt"
-    },
-    {
         "appid": 1827250,
         "name": "Disciples: Liberation - Paths to Madness"
     },
@@ -181878,6 +181870,10 @@
     {
         "appid": 1874720,
         "name": "Elf World Adventure: Part 1"
+    },
+    {
+        "appid": 1874750,
+        "name": "Fishing the Unknown"
     },
     {
         "appid": 1874770,
@@ -199998,5 +199994,9 @@
     {
         "appid": 1955030,
         "name": "SCP: EVENT CLASSIFIED"
+    },
+    {
+        "appid": 1955040,
+        "name": "The Aquatic Messenger"
     }
 ]

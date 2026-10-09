@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1955040,
-        "name": "The Aquatic Messenger"
-    },
-    {
         "appid": 1955090,
         "name": "KeepUp Survival - Tropical Island Map"
     },
@@ -4338,6 +4334,10 @@
     {
         "appid": 1973200,
         "name": "Late photographer 4 Ablum"
+    },
+    {
+        "appid": 1973210,
+        "name": "CourseCraze"
     },
     {
         "appid": 1973230,
@@ -26706,10 +26706,6 @@
     {
         "appid": 2100340,
         "name": "Liminalia"
-    },
-    {
-        "appid": 2100360,
-        "name": "Berlin Maniacs"
     },
     {
         "appid": 2100390,
@@ -70416,6 +70412,10 @@
         "name": "Breast Simulator"
     },
     {
+        "appid": 2298890,
+        "name": "The Forgemage"
+    },
+    {
         "appid": 2298900,
         "name": "Vacation Adventures: Cruise Director 8 Collectors Edition"
     },
@@ -78452,6 +78452,10 @@
         "name": "SHIRIME: The Curse of Butt-Eye"
     },
     {
+        "appid": 2334900,
+        "name": "Libi"
+    },
+    {
         "appid": 2334910,
         "name": "The Chalice of Illusion"
     },
@@ -84204,6 +84208,10 @@
         "name": "Toy Shire"
     },
     {
+        "appid": 2361490,
+        "name": "The Kitchen Must Grow"
+    },
+    {
         "appid": 2361500,
         "name": "FarmTech"
     },
@@ -84326,6 +84334,10 @@
     {
         "appid": 2361990,
         "name": "Save Iron Globe - Supporter pack"
+    },
+    {
+        "appid": 2362000,
+        "name": "Gossip Inc."
     },
     {
         "appid": 2362010,
@@ -87482,6 +87494,10 @@
     {
         "appid": 2375780,
         "name": "Beam Eye Tracker"
+    },
+    {
+        "appid": 2375790,
+        "name": "Aftergods"
     },
     {
         "appid": 2375810,
@@ -103049,7 +103065,7 @@
     },
     {
         "appid": 2443700,
-        "name": "8D Character Creator"
+        "name": "8D Creators"
     },
     {
         "appid": 2443740,
@@ -109793,7 +109809,7 @@
     },
     {
         "appid": 2477110,
-        "name": "To Last"
+        "name": "Chess Duel"
     },
     {
         "appid": 2477130,
@@ -117630,6 +117646,10 @@
     {
         "appid": 2516940,
         "name": "The August Before: Chapter One"
+    },
+    {
+        "appid": 2516950,
+        "name": "Zoo Break - The Great Escape"
     },
     {
         "appid": 2516980,
@@ -133985,7 +134005,7 @@
     },
     {
         "appid": 2600850,
-        "name": "Lighthouse"
+        "name": "Paralight"
     },
     {
         "appid": 2600860,
@@ -140797,7 +140817,7 @@
     },
     {
         "appid": 2636240,
-        "name": "Pokodoro"
+        "name": "Pocodoro"
     },
     {
         "appid": 2636260,
@@ -165572,6 +165592,10 @@
         "name": "Iron Trails: Outlaw Pursuit"
     },
     {
+        "appid": 2757440,
+        "name": "TCG: FANTASY Card Collection"
+    },
+    {
         "appid": 2757450,
         "name": "Treasure Atlas"
     },
@@ -173792,6 +173816,10 @@
         "name": "One Last Job"
     },
     {
+        "appid": 2798730,
+        "name": "Icebreaker"
+    },
+    {
         "appid": 2798790,
         "name": "Pawnholm"
     },
@@ -174486,6 +174514,10 @@
     {
         "appid": 2802330,
         "name": "House Builder - The Atomic Age DLC"
+    },
+    {
+        "appid": 2802340,
+        "name": "Ragdoll Robotics"
     },
     {
         "appid": 2802350,
@@ -178918,6 +178950,10 @@
     {
         "appid": 2824970,
         "name": "Christmas Countdown"
+    },
+    {
+        "appid": 2824980,
+        "name": "Castlepult"
     },
     {
         "appid": 2824990,
@@ -183850,6 +183886,10 @@
     {
         "appid": 2848970,
         "name": "SUIKAWA LEAD"
+    },
+    {
+        "appid": 2848990,
+        "name": "Mates and Crates"
     },
     {
         "appid": 2849000,
@@ -190102,6 +190142,10 @@
     {
         "appid": 2880920,
         "name": "Shadow of the Ninja - Reborn Digital Soundtrack"
+    },
+    {
+        "appid": 2880950,
+        "name": "MyXiyou"
     },
     {
         "appid": 2880960,
@@ -199954,49 +199998,5 @@
     {
         "appid": 2930910,
         "name": "宅府诡话-Mysteries of the Manor"
-    },
-    {
-        "appid": 2930930,
-        "name": "Card Clash Chronicles"
-    },
-    {
-        "appid": 2930950,
-        "name": "Dream of Things 物之梦"
-    },
-    {
-        "appid": 2930960,
-        "name": "Angel Legion-DLC Charming Mystery (Red)"
-    },
-    {
-        "appid": 2930990,
-        "name": "Picscape"
-    },
-    {
-        "appid": 2931010,
-        "name": "Res Extensa"
-    },
-    {
-        "appid": 2931030,
-        "name": "Bug Bite Tower Defence"
-    },
-    {
-        "appid": 2931040,
-        "name": "Poor Thief"
-    },
-    {
-        "appid": 2931080,
-        "name": "Holy Clash Cards - Expansion Pack"
-    },
-    {
-        "appid": 2931100,
-        "name": "Let's Puzzle - Celestial Wonders Pack"
-    },
-    {
-        "appid": 2931110,
-        "name": "Let's Puzzle - Verdant Realms Pack"
-    },
-    {
-        "appid": 2931140,
-        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
     }
 ]
