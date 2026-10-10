@@ -1,77 +1,5 @@
 [
     {
-        "appid": 2930930,
-        "name": "Card Clash Chronicles"
-    },
-    {
-        "appid": 2930950,
-        "name": "Dream of Things 物之梦"
-    },
-    {
-        "appid": 2930960,
-        "name": "Angel Legion-DLC Charming Mystery (Red)"
-    },
-    {
-        "appid": 2930990,
-        "name": "Picscape"
-    },
-    {
-        "appid": 2931010,
-        "name": "Res Extensa"
-    },
-    {
-        "appid": 2931030,
-        "name": "Bug Bite Tower Defence"
-    },
-    {
-        "appid": 2931040,
-        "name": "Poor Thief"
-    },
-    {
-        "appid": 2931080,
-        "name": "Holy Clash Cards - Expansion Pack"
-    },
-    {
-        "appid": 2931100,
-        "name": "Let's Puzzle - Celestial Wonders Pack"
-    },
-    {
-        "appid": 2931110,
-        "name": "Let's Puzzle - Verdant Realms Pack"
-    },
-    {
-        "appid": 2931140,
-        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
-    },
-    {
-        "appid": 2931160,
-        "name": "The Aching Aversion"
-    },
-    {
-        "appid": 2931170,
-        "name": "Don't drop luggage! - 荷物を落とすな！ -"
-    },
-    {
-        "appid": 2931200,
-        "name": "蓝宝石奇遇 Sapphire and girls"
-    },
-    {
-        "appid": 2931220,
-        "name": "Shroud"
-    },
-    {
-        "appid": 2931260,
-        "name": "Dungeon Keeper: Labyrinth Legacy"
-    },
-    {
-        "appid": 2931270,
-        "name": "The Fight: Aftermath"
-    },
-    {
-        "appid": 2931280,
-        "name": "Legends Resurrected Online"
-    },
-    {
         "appid": 2931300,
         "name": "星际远航：寻宝"
     },
@@ -9240,10 +9168,6 @@
         "name": "Office: Boss's Mystery"
     },
     {
-        "appid": 2975660,
-        "name": "Keyboard Tennis"
-    },
-    {
         "appid": 2975680,
         "name": "腐朽默示 / Revelation of Decay"
     },
@@ -15998,6 +15922,10 @@
     {
         "appid": 3010520,
         "name": "Pub Sim"
+    },
+    {
+        "appid": 3010530,
+        "name": "True Crime Engine"
     },
     {
         "appid": 3010540,
@@ -23269,7 +23197,7 @@
     },
     {
         "appid": 3047900,
-        "name": "C.A.S.H. - Commerce And Stealthy Heists"
+        "name": "RootWood Ranch"
     },
     {
         "appid": 3047910,
@@ -39097,7 +39025,7 @@
     },
     {
         "appid": 3125250,
-        "name": "STORROR Parkour Pro"
+        "name": "STORROR Parkour PRO"
     },
     {
         "appid": 3125260,
@@ -56478,6 +56406,10 @@
     {
         "appid": 3214190,
         "name": "边缘空间"
+    },
+    {
+        "appid": 3214200,
+        "name": "I will not Flee"
     },
     {
         "appid": 3214220,
@@ -91601,7 +91533,7 @@
     },
     {
         "appid": 3394910,
-        "name": "月之扉"
+        "name": "求和之路"
     },
     {
         "appid": 3394930,
@@ -95914,6 +95846,10 @@
     {
         "appid": 3416230,
         "name": "深夜1時の交換手"
+    },
+    {
+        "appid": 3416250,
+        "name": "Horizon Rush"
     },
     {
         "appid": 3416260,
@@ -106378,10 +106314,6 @@
     {
         "appid": 3469860,
         "name": "Nferium TaskForce"
-    },
-    {
-        "appid": 3469880,
-        "name": "Welcome to Camp Blue Lake"
     },
     {
         "appid": 3469890,
@@ -121452,6 +121384,10 @@
         "name": "BedTimeStory"
     },
     {
+        "appid": 3555060,
+        "name": "AYAAM"
+    },
+    {
         "appid": 3555070,
         "name": "Shadowveil: Legend of the Five Rings - The Record of Eihi"
     },
@@ -127686,6 +127622,10 @@
     {
         "appid": 3585930,
         "name": "Pan's Permia"
+    },
+    {
+        "appid": 3585970,
+        "name": "Endeavor: Deep Sea"
     },
     {
         "appid": 3585980,
@@ -135640,6 +135580,10 @@
         "name": "Dungeon Drops"
     },
     {
+        "appid": 3625880,
+        "name": "MoonBurn"
+    },
+    {
         "appid": 3625890,
         "name": "SQUASER 7"
     },
@@ -138014,6 +137958,10 @@
     {
         "appid": 3637800,
         "name": "Tales of The Nightmares™ Episode One"
+    },
+    {
+        "appid": 3637810,
+        "name": "Theos"
     },
     {
         "appid": 3637820,
@@ -146412,6 +146360,10 @@
         "name": "ABYSSAL BLADE"
     },
     {
+        "appid": 3681390,
+        "name": "酷鉄のオシゴト"
+    },
+    {
         "appid": 3681410,
         "name": "Desktop Mate 重音テト DLC"
     },
@@ -151408,6 +151360,10 @@
         "name": "Whispers of Wings Jigsaw Puzzles - Expansion Pack 1"
     },
     {
+        "appid": 3708600,
+        "name": "Village vs Rock"
+    },
+    {
         "appid": 3708610,
         "name": "TAKE THEM DOWN"
     },
@@ -151986,10 +151942,6 @@
     {
         "appid": 3711480,
         "name": "Monstergasm"
-    },
-    {
-        "appid": 3711490,
-        "name": "Oxidus Tales"
     },
     {
         "appid": 3711530,
@@ -155273,7 +155225,7 @@
     },
     {
         "appid": 3729580,
-        "name": "Legion"
+        "name": "Emberhall"
     },
     {
         "appid": 3729600,
@@ -167594,6 +167546,10 @@
     {
         "appid": 3800230,
         "name": "Blood Bear"
+    },
+    {
+        "appid": 3800240,
+        "name": "Lockdown Dom"
     },
     {
         "appid": 3800260,
@@ -179938,6 +179894,10 @@
     {
         "appid": 3862350,
         "name": "Hentai Pair - Pixel BDSM Cyberpunk DLC 🔞"
+    },
+    {
+        "appid": 3862360,
+        "name": "Goblin Mode: Loot & Lunacy"
     },
     {
         "appid": 3862380,
@@ -199998,5 +199958,45 @@
     {
         "appid": 3960930,
         "name": "Umbral Crown: Mark"
+    },
+    {
+        "appid": 3960940,
+        "name": "The Kindling"
+    },
+    {
+        "appid": 3960970,
+        "name": "Grunt - The Wrestling Game"
+    },
+    {
+        "appid": 3960990,
+        "name": "Gallery Nocturnea"
+    },
+    {
+        "appid": 3961000,
+        "name": "Flaunt"
+    },
+    {
+        "appid": 3961050,
+        "name": "Gulo-Gulo the Tiny Pirate: Island Time"
+    },
+    {
+        "appid": 3961060,
+        "name": "Fantasy Grounds - Traveller - Whispers on the Abyss"
+    },
+    {
+        "appid": 3961080,
+        "name": "Non-violent Hero – Official Artbook & Design Works"
+    },
+    {
+        "appid": 3961090,
+        "name": "Grommet Chod"
+    },
+    {
+        "appid": 3961100,
+        "name": "Spirit Trigger"
+    },
+    {
+        "appid": 3961110,
+        "name": "Sleepover: reWake"
     }
 ]

@@ -63784,22 +63784,6 @@
         "name": "Last Stitch Goodnight"
     },
     {
-        "appid": 509633,
-        "name": "Rocksmith® 2014 Edition – Remastered – The Fray - “How to Save a Life”"
-    },
-    {
-        "appid": 509634,
-        "name": "Rocksmith® 2014 Edition – Remastered – Shinedown - “Simple Man”"
-    },
-    {
-        "appid": 509635,
-        "name": "Rocksmith® 2014 Edition – Remastered – Crossfade - “Cold”"
-    },
-    {
-        "appid": 509636,
-        "name": "Rocksmith® 2014 Edition – Remastered – 2000s Mix Song Pack II"
-    },
-    {
         "appid": 509637,
         "name": "Rocksmith® 2014 Edition – Remastered – Yes - “Roundabout”"
     },
@@ -83694,10 +83678,6 @@
     {
         "appid": 595520,
         "name": "FINAL FANTASY XII THE ZODIAC AGE"
-    },
-    {
-        "appid": 595550,
-        "name": "Mastema: Out of Hell"
     },
     {
         "appid": 595560,
@@ -119249,7 +119229,7 @@
     },
     {
         "appid": 757700,
-        "name": "Dungeon's Barrage"
+        "name": "Dungeons Barrage"
     },
     {
         "appid": 757730,
@@ -168880,22 +168860,6 @@
         "name": "Brick Breaker Halloween"
     },
     {
-        "appid": 979460,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Battle BG No.1 Village/Field"
-    },
-    {
-        "appid": 979461,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Battle BG No.2 Woods/Riverside"
-    },
-    {
-        "appid": 979462,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Battle BG No.3 Rocks/Cliff"
-    },
-    {
-        "appid": 979463,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Battle BG No.4 Dungeon/Cave"
-    },
-    {
         "appid": 979464,
         "name": "RPG Maker MV - Retro Fantasy Music Pack Vol 2"
     },
@@ -188548,14 +188512,6 @@
         "name": "Songs of Skydale"
     },
     {
-        "appid": 1062490,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Classic Monsters Pack No.1"
-    },
-    {
-        "appid": 1062491,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Classic Monsters Pack No.2"
-    },
-    {
         "appid": 1062492,
         "name": "RPG Maker MV - Everywhere, Everytime Music Pack"
     },
@@ -190822,6 +190778,10 @@
     {
         "appid": 1071350,
         "name": "Little One - A Visual Novel"
+    },
+    {
+        "appid": 1071360,
+        "name": "Greyward: Castaway Survival"
     },
     {
         "appid": 1071420,
@@ -197380,18 +197340,6 @@
         "name": "RPG Maker MV - Visustella Modern City Vol 1"
     },
     {
-        "appid": 1097891,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Giant Monsters Pack No.1"
-    },
-    {
-        "appid": 1097892,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Event BG No.2 Inn"
-    },
-    {
-        "appid": 1097893,
-        "name": "RPG Maker MV - TOKIWA GRAPHICS Event BG No.1 Blacksmith/Tool shop"
-    },
-    {
         "appid": 1097894,
         "name": "RPG Maker MV - 8bit RPG ME Perfect Collection"
     },
@@ -197410,14 +197358,6 @@
     {
         "appid": 1097960,
         "name": "ClickRaid2"
-    },
-    {
-        "appid": 1097970,
-        "name": "Visual Novel Maker - TOKIWA GRAPHICS Event BG No.2 Inn"
-    },
-    {
-        "appid": 1097980,
-        "name": "Visual Novel Maker - TOKIWA GRAPHICS Event BG No.1 Blacksmith/Tool shop"
     },
     {
         "appid": 1097990,
@@ -199998,5 +199938,65 @@
     {
         "appid": 1109190,
         "name": "SRPG Studio Foreign Land Background"
+    },
+    {
+        "appid": 1109200,
+        "name": "Train Simulator: Totham – Passengers, Power & Freight Route Add-On"
+    },
+    {
+        "appid": 1109202,
+        "name": "Train Simulator: ÖBB 5047 DMU Add-On"
+    },
+    {
+        "appid": 1109203,
+        "name": "Train Simulator: East Midlands BR Class 222 DEMU Add-On"
+    },
+    {
+        "appid": 1109204,
+        "name": "TS Marketplace: Chicago Racetrack Scenario Pack 01 Add-On"
+    },
+    {
+        "appid": 1109205,
+        "name": "Train Simulator: Bernina Line: Poschiavo - Tirano Route Add-On"
+    },
+    {
+        "appid": 1109206,
+        "name": "Train Simulator: Union Pacific SD9043MAC Loco Add-On"
+    },
+    {
+        "appid": 1109207,
+        "name": "Train Simulator: DB BR 146.5 & BR 668.2 ‘Intercity 2’ Loco Add-On"
+    },
+    {
+        "appid": 1109208,
+        "name": "Train Simulator: RhB Enhancement Pack 04 Add-On"
+    },
+    {
+        "appid": 1109209,
+        "name": "Train Simulator: Norddeutsche-Bahn: Kiel - Lübeck Route Add-On"
+    },
+    {
+        "appid": 1109220,
+        "name": "Pencil Fantastic"
+    },
+    {
+        "appid": 1109240,
+        "name": "Pixel Art Monster - Expansion Pack 3"
+    },
+    {
+        "appid": 1109270,
+        "name": "Fantasy Grounds - Meanders Map Pack: Fantasy City Winter (Map Pack)"
+    },
+    {
+        "appid": 1109280,
+        "name": "Back To Hell"
+    },
+    {
+        "appid": 1109300,
+        "name": "Volt Patrol - Stealth Driving"
+    },
+    {
+        "appid": 1109310,
+        "name": "Expansion"
     }
 ]
