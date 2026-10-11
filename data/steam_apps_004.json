@@ -1,5 +1,13 @@
 [
     {
+        "appid": 2931270,
+        "name": "The Fight: Aftermath"
+    },
+    {
+        "appid": 2931280,
+        "name": "Legends Resurrected Online"
+    },
+    {
         "appid": 2931300,
         "name": "星际远航：寻宝"
     },
@@ -26344,6 +26352,10 @@
         "name": "KAMITSUBAKI CITY ENSEMBLE - Extra Pack \"HARDCORE TANO*C Remix\""
     },
     {
+        "appid": 3063380,
+        "name": "Nodal"
+    },
+    {
         "appid": 3063390,
         "name": "Crash-Land Fantasy"
     },
@@ -32810,6 +32822,10 @@
     {
         "appid": 3095030,
         "name": "The Upper Hand"
+    },
+    {
+        "appid": 3095070,
+        "name": "The Dark Aegis"
     },
     {
         "appid": 3095100,
@@ -58670,10 +58686,6 @@
     {
         "appid": 3225900,
         "name": "Phantompunk"
-    },
-    {
-        "appid": 3225930,
-        "name": "Rotate or Die"
     },
     {
         "appid": 3225940,
@@ -165820,6 +165832,10 @@
         "name": "龍神的新娘外傳：御鈴綺譚"
     },
     {
+        "appid": 3790410,
+        "name": "Card Shop: Tidy Up the Trading Cards!"
+    },
+    {
         "appid": 3790430,
         "name": "aSHRIMPFRIEDthisRICE?"
     },
@@ -195684,6 +195700,10 @@
         "name": "Halloween 2048"
     },
     {
+        "appid": 3940270,
+        "name": "BugFactory"
+    },
+    {
         "appid": 3940290,
         "name": "ARCTIC CTHULHU"
     },
@@ -199978,25 +199998,5 @@
     {
         "appid": 3961050,
         "name": "Gulo-Gulo the Tiny Pirate: Island Time"
-    },
-    {
-        "appid": 3961060,
-        "name": "Fantasy Grounds - Traveller - Whispers on the Abyss"
-    },
-    {
-        "appid": 3961080,
-        "name": "Non-violent Hero – Official Artbook & Design Works"
-    },
-    {
-        "appid": 3961090,
-        "name": "Grommet Chod"
-    },
-    {
-        "appid": 3961100,
-        "name": "Spirit Trigger"
-    },
-    {
-        "appid": 3961110,
-        "name": "Sleepover: reWake"
     }
 ]

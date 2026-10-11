@@ -97308,6 +97308,10 @@
         "name": "Warsim: The Realm of Aslona"
     },
     {
+        "appid": 659550,
+        "name": "When Games Collide"
+    },
+    {
         "appid": 659560,
         "name": "VITATIO"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1109300,
         "name": "Volt Patrol - Stealth Driving"
-    },
-    {
-        "appid": 1109310,
-        "name": "Expansion"
     }
 ]
