@@ -1,5 +1,33 @@
 [
     {
+        "appid": 2931110,
+        "name": "Let's Puzzle - Verdant Realms Pack"
+    },
+    {
+        "appid": 2931140,
+        "name": "SEARCH AND RESCUE | Snowman From Outer Space"
+    },
+    {
+        "appid": 2931160,
+        "name": "The Aching Aversion"
+    },
+    {
+        "appid": 2931170,
+        "name": "Don't drop luggage! - 荷物を落とすな！ -"
+    },
+    {
+        "appid": 2931200,
+        "name": "蓝宝石奇遇 Sapphire and girls"
+    },
+    {
+        "appid": 2931220,
+        "name": "Shroud"
+    },
+    {
+        "appid": 2931260,
+        "name": "Dungeon Keeper: Labyrinth Legacy"
+    },
+    {
         "appid": 2931270,
         "name": "The Fight: Aftermath"
     },
@@ -10118,6 +10146,10 @@
     {
         "appid": 2980760,
         "name": "VERTIG8"
+    },
+    {
+        "appid": 2980770,
+        "name": "死灵工厂"
     },
     {
         "appid": 2980790,
@@ -53664,6 +53696,10 @@
         "name": "Mia and me"
     },
     {
+        "appid": 3199640,
+        "name": "Bonk & Boom"
+    },
+    {
         "appid": 3199650,
         "name": "Pathologic 3"
     },
@@ -59756,6 +59792,10 @@
         "name": "The Bleakest Keep"
     },
     {
+        "appid": 3231540,
+        "name": "FaceTrack"
+    },
+    {
         "appid": 3231550,
         "name": "Corridor Geodesic"
     },
@@ -63477,7 +63517,7 @@
     },
     {
         "appid": 3252340,
-        "name": "Clue/Cluedo: Polar Research Station Crime Scene Bundle"
+        "name": "Clue/Cluedo: Polar Research Station Expansion"
     },
     {
         "appid": 3252350,
@@ -80558,6 +80598,10 @@
     {
         "appid": 3341540,
         "name": "Neptunia Riders VS Dogoos Costume Set"
+    },
+    {
+        "appid": 3341600,
+        "name": "Roof by Roof"
     },
     {
         "appid": 3341610,
@@ -99708,6 +99752,10 @@
         "name": "YIN YANG SEX"
     },
     {
+        "appid": 3436200,
+        "name": "THE TOWER ~ CONTRACT ~"
+    },
+    {
         "appid": 3436220,
         "name": "U.F.F.C - Ultimate Fuckin’ Fuckable Championship"
     },
@@ -100838,6 +100886,10 @@
     {
         "appid": 3441580,
         "name": "MiniGolf Showdown"
+    },
+    {
+        "appid": 3441590,
+        "name": "HinterGald"
     },
     {
         "appid": 3441600,
@@ -123024,6 +123076,10 @@
         "name": "Secret Love Temple"
     },
     {
+        "appid": 3563440,
+        "name": "Creeper World 5"
+    },
+    {
         "appid": 3563450,
         "name": "Renegade Rush"
     },
@@ -142125,7 +142181,7 @@
     },
     {
         "appid": 3659490,
-        "name": "Clue/Cluedo: Noir Crime Scene"
+        "name": "Clue/Cluedo: Noir Mansion Expansion"
     },
     {
         "appid": 3659540,
@@ -147338,6 +147394,10 @@
     {
         "appid": 3686670,
         "name": "Beware of Space Dragons"
+    },
+    {
+        "appid": 3686720,
+        "name": "Find Alien"
     },
     {
         "appid": 3686730,
@@ -162596,6 +162656,10 @@
         "name": "Sketch Top"
     },
     {
+        "appid": 3771870,
+        "name": "Snake rush"
+    },
+    {
         "appid": 3771880,
         "name": "Opus Scriba"
     },
@@ -176041,7 +176105,7 @@
     },
     {
         "appid": 3843710,
-        "name": "桌面小狗酱"
+        "name": "永恒少女和天使"
     },
     {
         "appid": 3843730,
@@ -199934,69 +199998,5 @@
     {
         "appid": 3960680,
         "name": "Rugösi - Golden Hat"
-    },
-    {
-        "appid": 3960740,
-        "name": "Sheeps"
-    },
-    {
-        "appid": 3960750,
-        "name": "Demon with a Pickaxe"
-    },
-    {
-        "appid": 3960760,
-        "name": "Enlighted"
-    },
-    {
-        "appid": 3960770,
-        "name": "Starshield"
-    },
-    {
-        "appid": 3960780,
-        "name": "Obstacle Challenge: Platform - Action"
-    },
-    {
-        "appid": 3960790,
-        "name": "Moon2999 - Explosive crossbow"
-    },
-    {
-        "appid": 3960800,
-        "name": "Murder at Chateau de Rouge"
-    },
-    {
-        "appid": 3960830,
-        "name": "沙威猫传奇：黑帮预制菜"
-    },
-    {
-        "appid": 3960860,
-        "name": "Bloomino"
-    },
-    {
-        "appid": 3960910,
-        "name": "Parcel Pals"
-    },
-    {
-        "appid": 3960930,
-        "name": "Umbral Crown: Mark"
-    },
-    {
-        "appid": 3960940,
-        "name": "The Kindling"
-    },
-    {
-        "appid": 3960970,
-        "name": "Grunt - The Wrestling Game"
-    },
-    {
-        "appid": 3960990,
-        "name": "Gallery Nocturnea"
-    },
-    {
-        "appid": 3961000,
-        "name": "Flaunt"
-    },
-    {
-        "appid": 3961050,
-        "name": "Gulo-Gulo the Tiny Pirate: Island Time"
     }
 ]
