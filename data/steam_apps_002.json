@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1109300,
-        "name": "Volt Patrol - Stealth Driving"
-    },
-    {
-        "appid": 1109310,
-        "name": "Expansion"
-    },
-    {
-        "appid": 1109330,
-        "name": "Boobs vs Zombies - Wallpapers"
-    },
-    {
-        "appid": 1109331,
-        "name": "Boobs vs Zombies - Hintbook"
-    },
-    {
         "appid": 1109340,
         "name": "Tennis. Amazing tournament"
     },
@@ -7358,6 +7342,10 @@
     {
         "appid": 1138030,
         "name": "灵卡大师 Master of LinCard"
+    },
+    {
+        "appid": 1138080,
+        "name": "斗地主少女 Landlord Girls"
     },
     {
         "appid": 1138100,
@@ -55636,6 +55624,10 @@
         "name": "GALAXY CRISIS"
     },
     {
+        "appid": 1349120,
+        "name": "球球少女/Pinball Girls"
+    },
+    {
         "appid": 1349130,
         "name": "Fear of The Unknown"
     },
@@ -73598,6 +73590,10 @@
     {
         "appid": 1424940,
         "name": "Two Point Hospital: SEGA 60th Items"
+    },
+    {
+        "appid": 1424950,
+        "name": "球球少女_DLC18"
     },
     {
         "appid": 1424960,
@@ -108934,6 +108930,10 @@
     {
         "appid": 1580640,
         "name": "银魂：Silver Soul"
+    },
+    {
+        "appid": 1580680,
+        "name": "Psychonesis"
     },
     {
         "appid": 1580730,
@@ -166596,6 +166596,10 @@
         "name": "Free for fALL"
     },
     {
+        "appid": 1808780,
+        "name": "祖玛少女/Zuma Girls"
+    },
+    {
         "appid": 1808800,
         "name": "Duck Simulator 2"
     },
@@ -194964,6 +194968,10 @@
         "name": "Glory's Fools"
     },
     {
+        "appid": 1936110,
+        "name": "Quantum Go"
+    },
+    {
         "appid": 1936130,
         "name": "Bunker 2322"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1955380,
         "name": "Sarissa and the Legendary Sword"
-    },
-    {
-        "appid": 1955390,
-        "name": "Playable Mockup"
-    },
-    {
-        "appid": 1955400,
-        "name": "Methods: The Detective Competition - The Fascinations of Lord Loomy"
     }
 ]

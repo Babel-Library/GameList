@@ -3525,7 +3525,7 @@
     },
     {
         "appid": 39500,
-        "name": "Gothic® 3"
+        "name": "Gothic 3 Classic"
     },
     {
         "appid": 39510,
@@ -35729,7 +35729,7 @@
     },
     {
         "appid": 371510,
-        "name": "Gunnheim"
+        "name": "Gunnheim: Remastered"
     },
     {
         "appid": 371520,
@@ -126180,10 +126180,6 @@
         "name": "Maidens of a Hollow Dream"
     },
     {
-        "appid": 789750,
-        "name": "Idle Earth"
-    },
-    {
         "appid": 789760,
         "name": "DEAD OR SCHOOL"
     },
@@ -176016,10 +176012,6 @@
         "name": "PASHTET"
     },
     {
-        "appid": 1010190,
-        "name": "Awesome Upgrades for Idle Earth"
-    },
-    {
         "appid": 1010230,
         "name": "Bleep Bloop"
     },
@@ -176854,10 +176846,6 @@
     {
         "appid": 1013070,
         "name": "Estellium Legends"
-    },
-    {
-        "appid": 1013100,
-        "name": "Mage"
     },
     {
         "appid": 1013110,
@@ -184390,10 +184378,6 @@
     {
         "appid": 1045620,
         "name": "Atelier Lulua ~The Scion of Arland~"
-    },
-    {
-        "appid": 1045630,
-        "name": "Mage - Enchanted"
     },
     {
         "appid": 1045650,
@@ -199998,5 +199982,21 @@
     {
         "appid": 1109280,
         "name": "Back To Hell"
+    },
+    {
+        "appid": 1109300,
+        "name": "Volt Patrol - Stealth Driving"
+    },
+    {
+        "appid": 1109310,
+        "name": "Expansion"
+    },
+    {
+        "appid": 1109330,
+        "name": "Boobs vs Zombies - Wallpapers"
+    },
+    {
+        "appid": 1109331,
+        "name": "Boobs vs Zombies - Hintbook"
     }
 ]

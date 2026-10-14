@@ -1,5 +1,29 @@
 [
     {
+        "appid": 2930990,
+        "name": "Picscape"
+    },
+    {
+        "appid": 2931010,
+        "name": "Res Extensa"
+    },
+    {
+        "appid": 2931030,
+        "name": "Bug Bite Tower Defence"
+    },
+    {
+        "appid": 2931040,
+        "name": "Poor Thief"
+    },
+    {
+        "appid": 2931080,
+        "name": "Holy Clash Cards - Expansion Pack"
+    },
+    {
+        "appid": 2931100,
+        "name": "Let's Puzzle - Celestial Wonders Pack"
+    },
+    {
         "appid": 2931110,
         "name": "Let's Puzzle - Verdant Realms Pack"
     },
@@ -2450,10 +2474,6 @@
     {
         "appid": 2943960,
         "name": "Face of Fear: The Forester"
-    },
-    {
-        "appid": 2943970,
-        "name": "Red Crew 2"
     },
     {
         "appid": 2943980,
@@ -8882,6 +8902,10 @@
     {
         "appid": 2973580,
         "name": "Hidden FPS Shooting Top-Down 3D"
+    },
+    {
+        "appid": 2973590,
+        "name": "Lady Godiva 2129.AD"
     },
     {
         "appid": 2973610,
@@ -23506,10 +23530,6 @@
     {
         "appid": 3049460,
         "name": "Milking Mira!"
-    },
-    {
-        "appid": 3049470,
-        "name": "Galactic Fruit"
     },
     {
         "appid": 3049480,
@@ -60584,6 +60604,10 @@
         "name": "Creepy Crawling"
     },
     {
+        "appid": 3236080,
+        "name": "老虎机少女 Slot Girls"
+    },
+    {
         "appid": 3236110,
         "name": "Highrisers Couch Co-Op"
     },
@@ -64706,6 +64730,10 @@
     {
         "appid": 3259660,
         "name": "Pick Me Up"
+    },
+    {
+        "appid": 3259670,
+        "name": "Age of Medieval"
     },
     {
         "appid": 3259680,
@@ -76112,6 +76140,10 @@
         "name": "Comical Sara"
     },
     {
+        "appid": 3319470,
+        "name": "Don Bradman Cricket Jr"
+    },
+    {
         "appid": 3319510,
         "name": "Jet Fighters with Friends 4"
     },
@@ -85260,6 +85292,10 @@
         "name": "Puyo! Sokoban"
     },
     {
+        "appid": 3363650,
+        "name": "Runes of Shadow"
+    },
+    {
         "appid": 3363660,
         "name": "Blackthorn Arena: Reforged - Supporter Pack"
     },
@@ -88894,6 +88930,10 @@
     {
         "appid": 3381340,
         "name": "TransGenDeer"
+    },
+    {
+        "appid": 3381350,
+        "name": "老虎机少女 Slot Girls DLC"
     },
     {
         "appid": 3381370,
@@ -102928,6 +102968,10 @@
         "name": "FROST: Quiet Light"
     },
     {
+        "appid": 3451360,
+        "name": "Untitled 2D Isometric RPG"
+    },
+    {
         "appid": 3451380,
         "name": "Game of Grass"
     },
@@ -107202,10 +107246,6 @@
     {
         "appid": 3474120,
         "name": "Dream of YukiHana - 雪花的夢"
-    },
-    {
-        "appid": 3474130,
-        "name": "Dice x Dice — A Dicebuilder Roguelike"
     },
     {
         "appid": 3474140,
@@ -111898,10 +111938,6 @@
     {
         "appid": 3500510,
         "name": "ADVANCED V.G. Saturn Tribute"
-    },
-    {
-        "appid": 3500530,
-        "name": "Optimize Man: Gymcel"
     },
     {
         "appid": 3500580,
@@ -117841,7 +117877,7 @@
     },
     {
         "appid": 3535270,
-        "name": "螺钉与浮城 Bolt & Whalington"
+        "name": "Bolt of Whalington"
     },
     {
         "appid": 3535290,
@@ -125240,10 +125276,6 @@
         "name": "Make Capybara Happy"
     },
     {
-        "appid": 3574360,
-        "name": "Battlefield™ 6 - Phantom Upgrade"
-    },
-    {
         "appid": 3574510,
         "name": "Serre"
     },
@@ -130720,6 +130752,10 @@
         "name": "Vegas Craps by Pokerist"
     },
     {
+        "appid": 3601460,
+        "name": "Sonic Racing: CrossWorlds - Avatar Legends Pack"
+    },
+    {
         "appid": 3601470,
         "name": "Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Pack"
     },
@@ -134970,6 +135006,10 @@
     {
         "appid": 3622420,
         "name": "Jackroid"
+    },
+    {
+        "appid": 3622430,
+        "name": "心跳留学计划"
     },
     {
         "appid": 3622450,
@@ -153597,7 +153637,7 @@
     },
     {
         "appid": 3720250,
-        "name": "miscreant"
+        "name": "Miscreant"
     },
     {
         "appid": 3720260,
@@ -154786,6 +154826,10 @@
     {
         "appid": 3726500,
         "name": "The Last Heroine"
+    },
+    {
+        "appid": 3726510,
+        "name": "The Fish"
     },
     {
         "appid": 3726570,
@@ -156730,6 +156774,10 @@
     {
         "appid": 3737570,
         "name": "NoFlash - Expansion Package"
+    },
+    {
+        "appid": 3737580,
+        "name": "I NEED GUAN GUAN"
     },
     {
         "appid": 3737600,
@@ -182237,7 +182285,7 @@
     },
     {
         "appid": 3873120,
-        "name": "Food Delivery Simulator 2026 - Prologue"
+        "name": "Food Delivery Simulator 2027 - Prologue"
     },
     {
         "appid": 3873130,
@@ -184234,10 +184282,6 @@
     {
         "appid": 3882370,
         "name": "水晶传说(Pantheons Clash: Crystal)"
-    },
-    {
-        "appid": 3882380,
-        "name": "Algatraz"
     },
     {
         "appid": 3882400,
@@ -195769,7 +195813,7 @@
     },
     {
         "appid": 3940270,
-        "name": "BugFactory"
+        "name": "Bug Factory"
     },
     {
         "appid": 3940290,
@@ -198161,7 +198205,7 @@
     },
     {
         "appid": 3951320,
-        "name": "Sellsword Tales Prologue"
+        "name": "Sellsword Tales"
     },
     {
         "appid": 3951330,
@@ -199954,49 +199998,5 @@
     {
         "appid": 3960380,
         "name": "Decksroom"
-    },
-    {
-        "appid": 3960400,
-        "name": "Gargoyle Garden"
-    },
-    {
-        "appid": 3960410,
-        "name": "Hot Property"
-    },
-    {
-        "appid": 3960420,
-        "name": "Dreamwrought"
-    },
-    {
-        "appid": 3960440,
-        "name": "Space Memory: Artiodactyls"
-    },
-    {
-        "appid": 3960450,
-        "name": "Echoes of the Court"
-    },
-    {
-        "appid": 3960460,
-        "name": "SCP: Hellfire"
-    },
-    {
-        "appid": 3960500,
-        "name": "Death & Taxes Multiplayer RPG"
-    },
-    {
-        "appid": 3960510,
-        "name": "Galacard: Ackian Archives"
-    },
-    {
-        "appid": 3960530,
-        "name": "Vixes"
-    },
-    {
-        "appid": 3960580,
-        "name": "Arcane Architect"
-    },
-    {
-        "appid": 3960600,
-        "name": "Warrior Cats: Clans of the Forest"
     }
 ]
