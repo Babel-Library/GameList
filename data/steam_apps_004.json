@@ -1,5 +1,93 @@
 [
     {
+        "appid": 2930500,
+        "name": "DNA: Episode 4"
+    },
+    {
+        "appid": 2930550,
+        "name": "Parts of the Elephant"
+    },
+    {
+        "appid": 2930570,
+        "name": "The Adventures of Emoji 4: Fly High Mouse Remastered"
+    },
+    {
+        "appid": 2930580,
+        "name": "Puzzlehub: Businesswoman Hentai"
+    },
+    {
+        "appid": 2930600,
+        "name": "To The Skies!"
+    },
+    {
+        "appid": 2930620,
+        "name": "Killer Vegetable"
+    },
+    {
+        "appid": 2930640,
+        "name": "Naals Tales"
+    },
+    {
+        "appid": 2930660,
+        "name": "Bomber Royale"
+    },
+    {
+        "appid": 2930680,
+        "name": "人类动物园简易设定集 Human Zoo Settings"
+    },
+    {
+        "appid": 2930700,
+        "name": "candyhouse"
+    },
+    {
+        "appid": 2930710,
+        "name": "Little Planet"
+    },
+    {
+        "appid": 2930720,
+        "name": "Birds Huddled Together"
+    },
+    {
+        "appid": 2930770,
+        "name": "CrateMage"
+    },
+    {
+        "appid": 2930840,
+        "name": "Forest Simulator 2025"
+    },
+    {
+        "appid": 2930850,
+        "name": "梦幻诗篇"
+    },
+    {
+        "appid": 2930880,
+        "name": "Angel Legion-DLC BayGoddess(White II)"
+    },
+    {
+        "appid": 2930890,
+        "name": "Papercut Art Gallery-Growth"
+    },
+    {
+        "appid": 2930900,
+        "name": "帝国末日前的学院狂想"
+    },
+    {
+        "appid": 2930910,
+        "name": "宅府诡话-Mysteries of the Manor"
+    },
+    {
+        "appid": 2930930,
+        "name": "Card Clash Chronicles"
+    },
+    {
+        "appid": 2930950,
+        "name": "Dream of Things 物之梦"
+    },
+    {
+        "appid": 2930960,
+        "name": "Angel Legion-DLC Charming Mystery (Red)"
+    },
+    {
         "appid": 2930990,
         "name": "Picscape"
     },
@@ -24485,7 +24573,7 @@
     },
     {
         "appid": 3053950,
-        "name": "Dungeon Rampage"
+        "name": "Dungeon Rampage Remastered"
     },
     {
         "appid": 3053960,
@@ -26774,6 +26862,10 @@
     {
         "appid": 3065030,
         "name": "The Caribou Trail"
+    },
+    {
+        "appid": 3065070,
+        "name": "Touhou Rumble Banquet"
     },
     {
         "appid": 3065080,
@@ -31861,7 +31953,7 @@
     },
     {
         "appid": 3089860,
-        "name": "Food Delivery Simulator 2026"
+        "name": "Food Delivery Simulator 2027"
     },
     {
         "appid": 3089870,
@@ -48720,6 +48812,10 @@
         "name": "Hasteventure"
     },
     {
+        "appid": 3174460,
+        "name": "墨渊牌"
+    },
+    {
         "appid": 3174480,
         "name": "Return to campus"
     },
@@ -53086,6 +53182,10 @@
     {
         "appid": 3196590,
         "name": "仙之气"
+    },
+    {
+        "appid": 3196610,
+        "name": "AFTERZERO - The Last Drive"
     },
     {
         "appid": 3196620,
@@ -93428,10 +93528,6 @@
         "name": "Pau e Pedra"
     },
     {
-        "appid": 3403310,
-        "name": "Ever Hotter"
-    },
-    {
         "appid": 3403340,
         "name": "Lust Goddess — Mascot Morana"
     },
@@ -99277,7 +99373,7 @@
     },
     {
         "appid": 3433550,
-        "name": "Late Night Mystery"
+        "name": "Misterios Ocultos"
     },
     {
         "appid": 3433600,
@@ -101618,10 +101714,6 @@
     {
         "appid": 3444740,
         "name": "Goo Hunter"
-    },
-    {
-        "appid": 3444750,
-        "name": "Most Quietly"
     },
     {
         "appid": 3444760,
@@ -106682,10 +106774,6 @@
     {
         "appid": 3471210,
         "name": "聖靈之石"
-    },
-    {
-        "appid": 3471220,
-        "name": "Orbion"
     },
     {
         "appid": 3471240,
@@ -112818,6 +112906,10 @@
     {
         "appid": 3505390,
         "name": "Car Crash X"
+    },
+    {
+        "appid": 3505400,
+        "name": "LETS GO HUNTING"
     },
     {
         "appid": 3505410,
@@ -119352,6 +119444,10 @@
         "name": "Shadows of the Blade"
     },
     {
+        "appid": 3543880,
+        "name": "Starfold"
+    },
+    {
         "appid": 3543890,
         "name": "Boat Together"
     },
@@ -119806,6 +119902,10 @@
     {
         "appid": 3546720,
         "name": "Dominated by: My Bully's Daughter"
+    },
+    {
+        "appid": 3546750,
+        "name": "Arcynth"
     },
     {
         "appid": 3546760,
@@ -122424,6 +122524,10 @@
         "name": "Fourleaf Fields"
     },
     {
+        "appid": 3560080,
+        "name": "Eight Bells"
+    },
+    {
         "appid": 3560100,
         "name": "Rope It Two"
     },
@@ -124774,6 +124878,10 @@
     {
         "appid": 3571940,
         "name": "Demon of the time"
+    },
+    {
+        "appid": 3571980,
+        "name": "Keymaker"
     },
     {
         "appid": 3572020,
@@ -140313,7 +140421,7 @@
     },
     {
         "appid": 3649840,
-        "name": "ゾンビポリス ～ゾンビ刑事と凍てつく真夏のお正月～"
+        "name": "Zombie Police: Midsummer Unhappy New Year"
     },
     {
         "appid": 3649860,
@@ -142358,6 +142466,10 @@
     {
         "appid": 3660150,
         "name": "Gun Traders"
+    },
+    {
+        "appid": 3660160,
+        "name": "To Shake, or Not to Shake"
     },
     {
         "appid": 3660210,
@@ -144962,6 +145074,10 @@
     {
         "appid": 3672520,
         "name": "Castle Forbidden"
+    },
+    {
+        "appid": 3672530,
+        "name": "Jump Team Fire Fight"
     },
     {
         "appid": 3672540,
@@ -154368,6 +154484,10 @@
         "name": "GeoLight"
     },
     {
+        "appid": 3724030,
+        "name": "Writer's Block"
+    },
+    {
         "appid": 3724100,
         "name": "Luminas: Parasite Reign"
     },
@@ -155362,10 +155482,6 @@
     {
         "appid": 3729700,
         "name": "Kaiju Cleanup"
-    },
-    {
-        "appid": 3729710,
-        "name": "咒怨迷邸：重生"
     },
     {
         "appid": 3729730,
@@ -156528,6 +156644,10 @@
         "name": "SuprSketch"
     },
     {
+        "appid": 3735980,
+        "name": "Guardian Order"
+    },
+    {
         "appid": 3736030,
         "name": "Telepathic"
     },
@@ -157162,6 +157282,10 @@
     {
         "appid": 3739920,
         "name": "math is hard"
+    },
+    {
+        "appid": 3739930,
+        "name": "Slime Slash VR"
     },
     {
         "appid": 3739960,
@@ -161284,6 +161408,10 @@
         "name": "CreateDun"
     },
     {
+        "appid": 3763200,
+        "name": "Garden of Bones"
+    },
+    {
         "appid": 3763230,
         "name": "Hentai Blackjack"
     },
@@ -165354,6 +165482,10 @@
     {
         "appid": 3787050,
         "name": "It Works: Electronics Repair Simulator"
+    },
+    {
+        "appid": 3787110,
+        "name": "Random Poker Defence"
     },
     {
         "appid": 3787120,
@@ -170592,6 +170724,10 @@
         "name": "RESTORER"
     },
     {
+        "appid": 3815080,
+        "name": "Frutiger Horizon"
+    },
+    {
         "appid": 3815100,
         "name": "Soulscape2 Fragments of The Present"
     },
@@ -174630,6 +174766,10 @@
     {
         "appid": 3835780,
         "name": "The Black Signal: DLC Pack: Void Comics"
+    },
+    {
+        "appid": 3835800,
+        "name": "Urine Trouble: PEE V PEE ™"
     },
     {
         "appid": 3835810,
@@ -181777,7 +181917,7 @@
     },
     {
         "appid": 3870720,
-        "name": "World Tree Defender - Seedlings of Yggdrasil "
+        "name": "World Tree Defender - Tower Defense"
     },
     {
         "appid": 3870750,
@@ -195560,6 +195700,10 @@
         "name": "黑小丑的迷宫 Black Joker's Maze"
     },
     {
+        "appid": 3939120,
+        "name": "Sumalia"
+    },
+    {
         "appid": 3939130,
         "name": "Bofkin Island 2"
     },
@@ -199854,149 +199998,5 @@
     {
         "appid": 3959730,
         "name": "Rochinko"
-    },
-    {
-        "appid": 3959750,
-        "name": "Grove Bound"
-    },
-    {
-        "appid": 3959760,
-        "name": "Serre"
-    },
-    {
-        "appid": 3959830,
-        "name": "Rotate Maze: G.O.T.S"
-    },
-    {
-        "appid": 3959840,
-        "name": "无尽回环 Endless Loop"
-    },
-    {
-        "appid": 3959850,
-        "name": "Ruins Of Fear"
-    },
-    {
-        "appid": 3959870,
-        "name": "Soul Stream"
-    },
-    {
-        "appid": 3959890,
-        "name": "Tap Tap Loot"
-    },
-    {
-        "appid": 3959900,
-        "name": "BE LOST"
-    },
-    {
-        "appid": 3959910,
-        "name": "焙比魔药桌"
-    },
-    {
-        "appid": 3959930,
-        "name": "Star Witch"
-    },
-    {
-        "appid": 3959950,
-        "name": "Rhombus"
-    },
-    {
-        "appid": 3959960,
-        "name": "魅魔貓的報恩"
-    },
-    {
-        "appid": 3959970,
-        "name": "Dead Gods Realm: Morar"
-    },
-    {
-        "appid": 3959980,
-        "name": "【Live2D & フルボイス】幼馴染のヒモ姉とのゆったり性活"
-    },
-    {
-        "appid": 3959990,
-        "name": "魔法女孩"
-    },
-    {
-        "appid": 3960010,
-        "name": "True Abstraction: Forbidden"
-    },
-    {
-        "appid": 3960020,
-        "name": "Store It! - Supporter-Erweiterung"
-    },
-    {
-        "appid": 3960080,
-        "name": "启程吧波姆"
-    },
-    {
-        "appid": 3960090,
-        "name": "Withering Age"
-    },
-    {
-        "appid": 3960110,
-        "name": "Oiran Survival: Edo Yokai Rush"
-    },
-    {
-        "appid": 3960120,
-        "name": "ZeroZeta"
-    },
-    {
-        "appid": 3960140,
-        "name": "Underpond"
-    },
-    {
-        "appid": 3960150,
-        "name": "SKYSAVIOR Helicopter Services"
-    },
-    {
-        "appid": 3960160,
-        "name": "Mad Cleaners"
-    },
-    {
-        "appid": 3960170,
-        "name": "Fabulous Fool"
-    },
-    {
-        "appid": 3960190,
-        "name": "AESOS"
-    },
-    {
-        "appid": 3960200,
-        "name": "Backrooms: Missing Persons"
-    },
-    {
-        "appid": 3960220,
-        "name": "Bloksie (for now)"
-    },
-    {
-        "appid": 3960240,
-        "name": "Cat Merge"
-    },
-    {
-        "appid": 3960260,
-        "name": "Grow Line Quest"
-    },
-    {
-        "appid": 3960280,
-        "name": "She Plays Dirty"
-    },
-    {
-        "appid": 3960310,
-        "name": "Fusion Script Game Studio: iscEngine & JS-Engine"
-    },
-    {
-        "appid": 3960350,
-        "name": "Loop! Loop! Sushi"
-    },
-    {
-        "appid": 3960360,
-        "name": "Maniac Mind"
-    },
-    {
-        "appid": 3960370,
-        "name": "End Of Line"
-    },
-    {
-        "appid": 3960380,
-        "name": "Decksroom"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1109310,
+        "name": "Expansion"
+    },
+    {
+        "appid": 1109330,
+        "name": "Boobs vs Zombies - Wallpapers"
+    },
+    {
+        "appid": 1109331,
+        "name": "Boobs vs Zombies - Hintbook"
+    },
+    {
         "appid": 1109340,
         "name": "Tennis. Amazing tournament"
     },
@@ -1305,7 +1317,7 @@
     },
     {
         "appid": 1114230,
-        "name": "Gear Puzzle: the inheritance of grandpa"
+        "name": "Gear Enigmas"
     },
     {
         "appid": 1114260,
@@ -22474,6 +22486,14 @@
     {
         "appid": 1198820,
         "name": "Monster Girl Garden"
+    },
+    {
+        "appid": 1198830,
+        "name": "RTK14: Scenario [Battle of Yiling]"
+    },
+    {
+        "appid": 1198831,
+        "name": "RTK14: Scenario [Autumn Winds in Wuzhangyuan]"
     },
     {
         "appid": 1198832,
@@ -107740,6 +107760,10 @@
         "name": "JUNK: The Legend of Junichi Kato"
     },
     {
+        "appid": 1576170,
+        "name": "Chinese Parents - E-Sports Life DLC"
+    },
+    {
         "appid": 1576190,
         "name": "mir"
     },
@@ -129102,6 +129126,10 @@
     {
         "appid": 1673020,
         "name": "All Ashes and Illusions"
+    },
+    {
+        "appid": 1673030,
+        "name": "NyanGo"
     },
     {
         "appid": 1673040,
@@ -157381,7 +157409,7 @@
     },
     {
         "appid": 1773940,
-        "name": "Sphere: Flying Cities | Save the World - Bonus Content"
+        "name": "Sphere: Flying Cities | Deluxe Edition - Bonus Content"
     },
     {
         "appid": 1773960,
@@ -159950,6 +159978,10 @@
     {
         "appid": 1784280,
         "name": "Fantasy Grounds - Treasury of the Pharaohs"
+    },
+    {
+        "appid": 1784300,
+        "name": "Wookland"
     },
     {
         "appid": 1784310,
@@ -165040,6 +165072,10 @@
         "name": "Yes My Lord"
     },
     {
+        "appid": 1802860,
+        "name": "大富翁少女/Rich Girls"
+    },
+    {
         "appid": 1802870,
         "name": "Secret Pie (Adult Version)"
     },
@@ -165198,6 +165234,10 @@
     {
         "appid": 1803470,
         "name": "World Tree"
+    },
+    {
+        "appid": 1803480,
+        "name": "Just Pickin' Apples"
     },
     {
         "appid": 1803490,
@@ -167910,6 +167950,10 @@
     {
         "appid": 1814400,
         "name": "Sirberia Front"
+    },
+    {
+        "appid": 1814450,
+        "name": "大富翁少女 18DLC"
     },
     {
         "appid": 1814460,
@@ -171182,10 +171226,6 @@
     {
         "appid": 1828420,
         "name": "Survive The Island Online"
-    },
-    {
-        "appid": 1828450,
-        "name": "Squirrel Knight"
     },
     {
         "appid": 1828490,
@@ -199958,45 +199998,5 @@
     {
         "appid": 1955150,
         "name": "Lux Ex: Cyber Initiation"
-    },
-    {
-        "appid": 1955160,
-        "name": "MEARTH"
-    },
-    {
-        "appid": 1955200,
-        "name": "Gate Builders"
-    },
-    {
-        "appid": 1955230,
-        "name": "Penny’s Big Breakaway"
-    },
-    {
-        "appid": 1955260,
-        "name": "Nightmare Rooms VR"
-    },
-    {
-        "appid": 1955300,
-        "name": "VOIDHUNTER"
-    },
-    {
-        "appid": 1955310,
-        "name": "The Eyes"
-    },
-    {
-        "appid": 1955320,
-        "name": "Cars 'n Guns"
-    },
-    {
-        "appid": 1955330,
-        "name": "Save Room - Organization Puzzle"
-    },
-    {
-        "appid": 1955340,
-        "name": "Super Raft Boat Together"
-    },
-    {
-        "appid": 1955380,
-        "name": "Sarissa and the Legendary Sword"
     }
 ]

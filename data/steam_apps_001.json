@@ -36353,7 +36353,7 @@
     },
     {
         "appid": 374500,
-        "name": "ENDLESS™ Legend - Shadows"
+        "name": "ENDLESS Legend™ - Shadows"
     },
     {
         "appid": 374510,
@@ -45229,7 +45229,7 @@
     },
     {
         "appid": 415700,
-        "name": "ENDLESS™ Legend - Echoes of Auriga"
+        "name": "ENDLESS Legend™ - Echoes of Auriga"
     },
     {
         "appid": 415710,
@@ -45237,7 +45237,7 @@
     },
     {
         "appid": 415720,
-        "name": "ENDLESS™ Legend - Forges of Creation Update"
+        "name": "ENDLESS Legend™ - Forges of Creation Update"
     },
     {
         "appid": 415730,
@@ -66741,7 +66741,7 @@
     },
     {
         "appid": 521220,
-        "name": "ENDLESS™ Legend - Tempest"
+        "name": "ENDLESS Legend™ - Tempest"
     },
     {
         "appid": 521230,
@@ -84697,7 +84697,7 @@
     },
     {
         "appid": 600560,
-        "name": "ENDLESS™ Legend - Forgotten Love Add-on"
+        "name": "ENDLESS Legend™ - Forgotten Love Add-on"
     },
     {
         "appid": 600580,
@@ -88370,6 +88370,10 @@
     {
         "appid": 617890,
         "name": "Detective Hank and the Golden Sneeze Soundtrack"
+    },
+    {
+        "appid": 617920,
+        "name": "Basher Beatdown"
     },
     {
         "appid": 617960,
@@ -98302,6 +98306,10 @@
     {
         "appid": 664360,
         "name": "Trainz 2019 DLC: Shortline Railroad"
+    },
+    {
+        "appid": 664370,
+        "name": "Still Above: Orbital Refuge"
     },
     {
         "appid": 664390,
@@ -110237,7 +110245,7 @@
     },
     {
         "appid": 718570,
-        "name": "ENDLESS™ Legend - Digital Artbook"
+        "name": "ENDLESS Legend™ - Digital Artbook"
     },
     {
         "appid": 718590,
@@ -140473,7 +140481,7 @@
     },
     {
         "appid": 854750,
-        "name": "ENDLESS™ Legend - Inferno"
+        "name": "ENDLESS Legend™ - Inferno"
     },
     {
         "appid": 854770,
@@ -170925,7 +170933,7 @@
     },
     {
         "appid": 988450,
-        "name": "ENDLESS™ Legend - Symbiosis"
+        "name": "ENDLESS Legend™ - Symbiosis"
     },
     {
         "appid": 988470,
@@ -181010,6 +181018,10 @@
     {
         "appid": 1029790,
         "name": "Qubes"
+    },
+    {
+        "appid": 1029800,
+        "name": "AstroRealms"
     },
     {
         "appid": 1029820,
@@ -199986,17 +199998,5 @@
     {
         "appid": 1109300,
         "name": "Volt Patrol - Stealth Driving"
-    },
-    {
-        "appid": 1109310,
-        "name": "Expansion"
-    },
-    {
-        "appid": 1109330,
-        "name": "Boobs vs Zombies - Wallpapers"
-    },
-    {
-        "appid": 1109331,
-        "name": "Boobs vs Zombies - Hintbook"
     }
 ]
