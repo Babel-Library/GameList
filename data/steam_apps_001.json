@@ -6468,6 +6468,10 @@
         "name": "EverQuest II"
     },
     {
+        "appid": 201270,
+        "name": "Total War: SHOGUN 2"
+    },
+    {
         "appid": 201272,
         "name": "Total War: Shogun 2 - Blood Pack DLC"
     },
@@ -24932,6 +24936,10 @@
         "name": "Move or Die"
     },
     {
+        "appid": 323880,
+        "name": "Seedling"
+    },
+    {
         "appid": 324030,
         "name": "Alien: Isolation - Deluxe Edition DLC"
     },
@@ -38162,6 +38170,10 @@
     {
         "appid": 382350,
         "name": "Devil's Bluff"
+    },
+    {
+        "appid": 382370,
+        "name": "BreakFree"
     },
     {
         "appid": 382380,
@@ -66238,10 +66250,6 @@
     {
         "appid": 518280,
         "name": "Dead End Junction"
-    },
-    {
-        "appid": 518370,
-        "name": "Livelock: Original Soundtrack"
     },
     {
         "appid": 518580,
@@ -104024,6 +104032,10 @@
         "name": "★ Fallalypse ★"
     },
     {
+        "appid": 689540,
+        "name": "Endless Reach"
+    },
+    {
         "appid": 689550,
         "name": "Galaxy of Pen & Paper - OST"
     },
@@ -136553,7 +136565,7 @@
     },
     {
         "appid": 837380,
-        "name": "DeoVR - VR Video Streaming Platform"
+        "name": "DeoVR Classic - VR Video Player"
     },
     {
         "appid": 837390,
@@ -166158,10 +166170,6 @@
     {
         "appid": 967100,
         "name": "Curfew"
-    },
-    {
-        "appid": 967120,
-        "name": "Cursed Mansion"
     },
     {
         "appid": 967130,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1109270,
         "name": "Fantasy Grounds - Meanders Map Pack: Fantasy City Winter (Map Pack)"
-    },
-    {
-        "appid": 1109280,
-        "name": "Back To Hell"
-    },
-    {
-        "appid": 1109300,
-        "name": "Volt Patrol - Stealth Driving"
     }
 ]

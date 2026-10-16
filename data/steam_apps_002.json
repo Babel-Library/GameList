@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1109280,
+        "name": "Back To Hell"
+    },
+    {
+        "appid": 1109300,
+        "name": "Volt Patrol - Stealth Driving"
+    },
+    {
         "appid": 1109310,
         "name": "Expansion"
     },
@@ -92533,7 +92541,7 @@
     },
     {
         "appid": 1508190,
-        "name": "Finding Words: A Fantasy Book"
+        "name": "Clarice: The Storyteller to Finding Words"
     },
     {
         "appid": 1508200,
@@ -153236,6 +153244,10 @@
         "name": "Flying Universe"
     },
     {
+        "appid": 1753150,
+        "name": "MoltKeeper"
+    },
+    {
         "appid": 1753160,
         "name": "Legend of Labot: The Golden Pearl"
     },
@@ -166718,10 +166730,6 @@
     {
         "appid": 1809190,
         "name": "Ballex² - Map Editor (BME Pro)"
-    },
-    {
-        "appid": 1809200,
-        "name": "RPG Maker MZ -  TOKIWA GRAPHICS Battle BG No.1 Village/Field"
     },
     {
         "appid": 1809210,
@@ -187200,6 +187208,10 @@
         "name": "Dolmenjord - Viking Islands"
     },
     {
+        "appid": 1899960,
+        "name": "ArcanoPlay"
+    },
+    {
         "appid": 1899980,
         "name": "Monster Island"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 1955100,
         "name": "怯懦 Cowardice"
-    },
-    {
-        "appid": 1955110,
-        "name": "Star Stuff"
-    },
-    {
-        "appid": 1955120,
-        "name": "Nemire"
-    },
-    {
-        "appid": 1955150,
-        "name": "Lux Ex: Cyber Initiation"
     }
 ]

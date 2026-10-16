@@ -1,5 +1,33 @@
 [
     {
+        "appid": 2930320,
+        "name": "Pharmacy Simulator"
+    },
+    {
+        "appid": 2930330,
+        "name": "Vikings: Valhalla Saga"
+    },
+    {
+        "appid": 2930340,
+        "name": "Into The Mine"
+    },
+    {
+        "appid": 2930350,
+        "name": "False God"
+    },
+    {
+        "appid": 2930380,
+        "name": "Magic Trap"
+    },
+    {
+        "appid": 2930390,
+        "name": "Falco Tunes"
+    },
+    {
+        "appid": 2930410,
+        "name": "Cyber Seekers: Conquest"
+    },
+    {
         "appid": 2930500,
         "name": "DNA: Episode 4"
     },
@@ -778,6 +806,10 @@
     {
         "appid": 2934730,
         "name": "DEFENDit - Sponsor"
+    },
+    {
+        "appid": 2934750,
+        "name": "Brew Almighty"
     },
     {
         "appid": 2934780,
@@ -3404,6 +3436,10 @@
         "name": "Hidden Vintage House Top-Down 3D"
     },
     {
+        "appid": 2947770,
+        "name": "TFZP: The F*ing Zombie Project"
+    },
+    {
         "appid": 2947780,
         "name": "Dashlab"
     },
@@ -5090,6 +5126,10 @@
     {
         "appid": 2955600,
         "name": "Paranoid"
+    },
+    {
+        "appid": 2955610,
+        "name": "Gun Wizard"
     },
     {
         "appid": 2955630,
@@ -41544,6 +41584,10 @@
         "name": "Trap with Furry Femboy"
     },
     {
+        "appid": 3137380,
+        "name": "Partylaugh"
+    },
+    {
         "appid": 3137400,
         "name": "micro factory"
     },
@@ -42454,6 +42498,10 @@
     {
         "appid": 3142030,
         "name": "Trainz 2022 DLC - Pro Train: Altoona Works"
+    },
+    {
+        "appid": 3142050,
+        "name": "Warborne Above Ashes"
     },
     {
         "appid": 3142060,
@@ -43828,6 +43876,10 @@
         "name": "Arq Of The Abyss"
     },
     {
+        "appid": 3149210,
+        "name": "Hking's Block Arena"
+    },
+    {
         "appid": 3149250,
         "name": "Chicken Defense War - Tower Defense"
     },
@@ -44533,7 +44585,7 @@
     },
     {
         "appid": 3152340,
-        "name": "Kyndykan"
+        "name": "North Tale: Kyndykan"
     },
     {
         "appid": 3152370,
@@ -55464,6 +55516,10 @@
         "name": "A Dragon's Dawn: The Last Fire"
     },
     {
+        "appid": 3208010,
+        "name": "Mojing"
+    },
+    {
         "appid": 3208020,
         "name": "INFOCUS"
     },
@@ -60318,6 +60374,10 @@
     {
         "appid": 3233970,
         "name": "Loop"
+    },
+    {
+        "appid": 3233980,
+        "name": "主公别跑"
     },
     {
         "appid": 3233990,
@@ -71264,10 +71324,6 @@
         "name": "Astra Village"
     },
     {
-        "appid": 3294850,
-        "name": "Cursed Mansion - Rose Witch Costume"
-    },
-    {
         "appid": 3294880,
         "name": "不安ごと"
     },
@@ -71778,6 +71834,10 @@
     {
         "appid": 3297370,
         "name": "Golf Up"
+    },
+    {
+        "appid": 3297390,
+        "name": "Desire and Consequence"
     },
     {
         "appid": 3297420,
@@ -72646,6 +72706,10 @@
     {
         "appid": 3301740,
         "name": "TCG Master Trader"
+    },
+    {
+        "appid": 3301780,
+        "name": "FolcDark Harvest Them"
     },
     {
         "appid": 3301790,
@@ -82220,6 +82284,10 @@
         "name": "Skuf for altushki"
     },
     {
+        "appid": 3348610,
+        "name": "Encryption"
+    },
+    {
         "appid": 3348640,
         "name": "TSAREVNA. Age of Tales"
     },
@@ -83814,6 +83882,10 @@
     {
         "appid": 3356360,
         "name": "Moorhuhn Winter Edition"
+    },
+    {
+        "appid": 3356420,
+        "name": "Better Days Pending"
     },
     {
         "appid": 3356440,
@@ -94770,6 +94842,10 @@
     {
         "appid": 3409630,
         "name": "Ninja"
+    },
+    {
+        "appid": 3409650,
+        "name": "Gunnar Malakor"
     },
     {
         "appid": 3409660,
@@ -128320,6 +128396,10 @@
         "name": "Bogos Binted?"
     },
     {
+        "appid": 3588500,
+        "name": "Wasteward"
+    },
+    {
         "appid": 3588510,
         "name": "Byte & Brew"
     },
@@ -138181,7 +138261,7 @@
     },
     {
         "appid": 3637810,
-        "name": "Theos"
+        "name": "Crystallcaller"
     },
     {
         "appid": 3637820,
@@ -138998,6 +139078,10 @@
     {
         "appid": 3642440,
         "name": "Luxman Moonlit Market"
+    },
+    {
+        "appid": 3642490,
+        "name": "Nisa"
     },
     {
         "appid": 3642500,
@@ -143548,6 +143632,10 @@
         "name": "Brugmansia"
     },
     {
+        "appid": 3664970,
+        "name": "Night Creatures"
+    },
+    {
         "appid": 3664990,
         "name": "Too Many Captains"
     },
@@ -145009,7 +145097,7 @@
     },
     {
         "appid": 3672240,
-        "name": "Game of hearts"
+        "name": "DEAD or LUCKY: Game of Hearts"
     },
     {
         "appid": 3672250,
@@ -157140,6 +157228,10 @@
         "name": "The Lord of the Rings: Return to Moria™ Beorn's Lodge Pack DLC"
     },
     {
+        "appid": 3739120,
+        "name": "FaceRobots"
+    },
+    {
         "appid": 3739150,
         "name": "Asymm"
     },
@@ -165114,6 +165206,10 @@
     {
         "appid": 3785590,
         "name": "Delfini"
+    },
+    {
+        "appid": 3785630,
+        "name": "我不加班 - I Don't Do Overtime"
     },
     {
         "appid": 3785640,
@@ -175728,6 +175824,10 @@
         "name": "Twelve Mental Patients"
     },
     {
+        "appid": 3840770,
+        "name": "Shapesetter"
+    },
+    {
         "appid": 3840810,
         "name": "Microwave Yourself"
     },
@@ -176918,10 +177018,6 @@
     {
         "appid": 3846800,
         "name": "吸血鬼的起床: 精灵幻剑录幸存者 (Vampire Awakening: Elven Sword Chronicles Survival)"
-    },
-    {
-        "appid": 3846830,
-        "name": "Total War: SHOGUN 2 - Complete Edition"
     },
     {
         "appid": 3846840,
@@ -183913,7 +184009,7 @@
     },
     {
         "appid": 3880360,
-        "name": "蜉蝣之国的囚徒"
+        "name": "Prisoner of the Ephemeral Kingdom"
     },
     {
         "appid": 3880380,
@@ -195597,7 +195693,7 @@
     },
     {
         "appid": 3938710,
-        "name": "Tail of Desire"
+        "name": "Tail of Desire: Remastered"
     },
     {
         "appid": 3938720,
@@ -196746,6 +196842,10 @@
     {
         "appid": 3944130,
         "name": "Elf World Adventure 9: Summer Episode!"
+    },
+    {
+        "appid": 3944170,
+        "name": "Crescent Isle"
     },
     {
         "appid": 3944190,
@@ -199898,105 +199998,5 @@
     {
         "appid": 3959340,
         "name": "Monster Hunter Wilds - Pendant: F Barina Balloon"
-    },
-    {
-        "appid": 3959350,
-        "name": "Monster Hunter Wilds - Pendant: Athos Balloon"
-    },
-    {
-        "appid": 3959360,
-        "name": "Light Bearer"
-    },
-    {
-        "appid": 3959370,
-        "name": "8-bitBot"
-    },
-    {
-        "appid": 3959400,
-        "name": "The Remains and The Residue"
-    },
-    {
-        "appid": 3959430,
-        "name": "动物城大法官"
-    },
-    {
-        "appid": 3959440,
-        "name": "Tokyo Xtreme Racer Guest Rival Vol. 1"
-    },
-    {
-        "appid": 3959460,
-        "name": "外星反骨仔"
-    },
-    {
-        "appid": 3959480,
-        "name": "Somewhere, A Cat Sleeps"
-    },
-    {
-        "appid": 3959500,
-        "name": "Angel Legion-DLC Judgment Maiden (Black)"
-    },
-    {
-        "appid": 3959520,
-        "name": "mother's kiss"
-    },
-    {
-        "appid": 3959530,
-        "name": "Landscaper Simulator"
-    },
-    {
-        "appid": 3959590,
-        "name": "Typing Break"
-    },
-    {
-        "appid": 3959600,
-        "name": "Animaze - Nash"
-    },
-    {
-        "appid": 3959610,
-        "name": "Animaze - Zyntheris"
-    },
-    {
-        "appid": 3959620,
-        "name": "Animaze - Azuro"
-    },
-    {
-        "appid": 3959630,
-        "name": "Animaze - Sludgekin"
-    },
-    {
-        "appid": 3959640,
-        "name": "Animaze - Liss"
-    },
-    {
-        "appid": 3959660,
-        "name": "Mars Attracts - Making The Game Featurette"
-    },
-    {
-        "appid": 3959670,
-        "name": "Mars Attracts - Starter Pack"
-    },
-    {
-        "appid": 3959680,
-        "name": "Angel Legion-DLC Special Investigation E"
-    },
-    {
-        "appid": 3959690,
-        "name": "SAMU Game"
-    },
-    {
-        "appid": 3959700,
-        "name": "Asteranova"
-    },
-    {
-        "appid": 3959710,
-        "name": "Samurai by Reiner Knizia"
-    },
-    {
-        "appid": 3959720,
-        "name": "Our Little Brothers"
-    },
-    {
-        "appid": 3959730,
-        "name": "Rochinko"
     }
 ]

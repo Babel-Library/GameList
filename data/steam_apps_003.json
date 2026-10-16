@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
         "appid": 1955160,
         "name": "MEARTH"
     },
@@ -22816,6 +22828,10 @@
         "name": "Come Together"
     },
     {
+        "appid": 2082600,
+        "name": "ECO's Journey"
+    },
+    {
         "appid": 2082620,
         "name": "Loot Express Delivery Service"
     },
@@ -24798,10 +24814,6 @@
     {
         "appid": 2092180,
         "name": "Underwater battles"
-    },
-    {
-        "appid": 2092190,
-        "name": "Nomori: Prologue"
     },
     {
         "appid": 2092200,
@@ -53500,6 +53512,10 @@
         "name": "Being a DIK: Season 3 - The complete official guide"
     },
     {
+        "appid": 2220950,
+        "name": "Rustwater"
+    },
+    {
         "appid": 2220970,
         "name": "Calm Cove"
     },
@@ -66994,6 +67010,10 @@
     {
         "appid": 2282740,
         "name": "BATSUGUN Saturn Tribute Boosted"
+    },
+    {
+        "appid": 2282750,
+        "name": "Black Widow II"
     },
     {
         "appid": 2282760,
@@ -96988,6 +97008,10 @@
         "name": "MorDobble - Spot The Match"
     },
     {
+        "appid": 2415880,
+        "name": "CyberIdle"
+    },
+    {
         "appid": 2415890,
         "name": "Paint By Numbers - 8-Bit World Ep. 2"
     },
@@ -122756,6 +122780,10 @@
         "name": "Soul War"
     },
     {
+        "appid": 2542400,
+        "name": "Carpoli - Car Board Game"
+    },
+    {
         "appid": 2542430,
         "name": "5050"
     },
@@ -138057,7 +138085,7 @@
     },
     {
         "appid": 2622140,
-        "name": "Virtual Handheld: VR Gaming Overlay"
+        "name": "[Virtual Handheld] Play Non-VR Games in VR!"
     },
     {
         "appid": 2622170,
@@ -147425,7 +147453,7 @@
     },
     {
         "appid": 2668100,
-        "name": "Hungry Legion"
+        "name": "UVI: Us vs Infinity"
     },
     {
         "appid": 2668110,
@@ -149418,6 +149446,10 @@
     {
         "appid": 2677370,
         "name": "College Sex - Episode 4"
+    },
+    {
+        "appid": 2677390,
+        "name": "The Cube Will Kill You"
     },
     {
         "appid": 2677400,
@@ -153542,10 +153574,6 @@
     {
         "appid": 2696850,
         "name": "Xeno Runners"
-    },
-    {
-        "appid": 2696880,
-        "name": "Cursed Mansion - Rose Christmas Costume"
     },
     {
         "appid": 2696890,
@@ -191904,6 +191932,10 @@
         "name": "The Bible - AI Narration (Bark TTS)"
     },
     {
+        "appid": 2888810,
+        "name": "MEATRASH"
+    },
+    {
         "appid": 2888830,
         "name": "DAISY THE SWIMMER"
     },
@@ -199512,10 +199544,6 @@
         "name": "Triptych Book I: Blockhead"
     },
     {
-        "appid": 2928260,
-        "name": "Cursed Mansion - Rose Qipao Costume"
-    },
-    {
         "appid": 2928270,
         "name": "TIME SOUL"
     },
@@ -199970,33 +199998,5 @@
     {
         "appid": 2930290,
         "name": "Love at The Milky Way Diner"
-    },
-    {
-        "appid": 2930320,
-        "name": "Pharmacy Simulator"
-    },
-    {
-        "appid": 2930330,
-        "name": "Vikings: Valhalla Saga"
-    },
-    {
-        "appid": 2930340,
-        "name": "Into The Mine"
-    },
-    {
-        "appid": 2930350,
-        "name": "False God"
-    },
-    {
-        "appid": 2930380,
-        "name": "Magic Trap"
-    },
-    {
-        "appid": 2930390,
-        "name": "Falco Tunes"
-    },
-    {
-        "appid": 2930410,
-        "name": "Cyber Seekers: Conquest"
     }
 ]
