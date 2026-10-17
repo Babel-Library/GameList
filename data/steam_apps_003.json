@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1955040,
+        "name": "The Aquatic Messenger"
+    },
+    {
+        "appid": 1955090,
+        "name": "KeepUp Survival - Tropical Island Map"
+    },
+    {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
+    },
+    {
         "appid": 1955110,
         "name": "Star Stuff"
     },
@@ -64916,10 +64928,6 @@
         "name": "Firework Simulator"
     },
     {
-        "appid": 2271900,
-        "name": "Mana's Manual"
-    },
-    {
         "appid": 2271920,
         "name": "Bubble Troops"
     },
@@ -81860,6 +81868,10 @@
         "name": "H Girl 2"
     },
     {
+        "appid": 2350690,
+        "name": "District Null"
+    },
+    {
         "appid": 2350700,
         "name": "Project Apidom"
     },
@@ -83526,10 +83538,6 @@
     {
         "appid": 2358150,
         "name": "Not Waste Wood"
-    },
-    {
-        "appid": 2358160,
-        "name": "Little Crab Fisher"
     },
     {
         "appid": 2358170,
@@ -130140,6 +130148,10 @@
         "name": "SCP: Rulebreaker"
     },
     {
+        "appid": 2580250,
+        "name": "ElectricWorks"
+    },
+    {
         "appid": 2580280,
         "name": "FungEye"
     },
@@ -150640,10 +150652,6 @@
         "name": "Best Elf: Art Collection"
     },
     {
-        "appid": 2683100,
-        "name": "To The Hall Of The Mountain King"
-    },
-    {
         "appid": 2683110,
         "name": "Mushroom Age"
     },
@@ -161392,6 +161400,10 @@
         "name": "The Galactic Harem Handbook: Chapter 2 - NSFW Sci-Fi Porn"
     },
     {
+        "appid": 2736170,
+        "name": "Glowfall"
+    },
+    {
         "appid": 2736190,
         "name": "Danger Ramps"
     },
@@ -163081,7 +163093,7 @@
     },
     {
         "appid": 2743550,
-        "name": "RIFTINVADERS"
+        "name": "Rift Invaders"
     },
     {
         "appid": 2743560,
@@ -189588,6 +189600,10 @@
         "name": "Super Onion Boy+"
     },
     {
+        "appid": 2877650,
+        "name": "Words Collide"
+    },
+    {
         "appid": 2877660,
         "name": "Jitter"
     },
@@ -199982,21 +199998,5 @@
     {
         "appid": 2930250,
         "name": "幻想郷大激突 : Touhou Impact"
-    },
-    {
-        "appid": 2930260,
-        "name": "Astrovoid: Invasion"
-    },
-    {
-        "appid": 2930270,
-        "name": "Tackle for Loss"
-    },
-    {
-        "appid": 2930280,
-        "name": "0101"
-    },
-    {
-        "appid": 2930290,
-        "name": "Love at The Milky Way Diner"
     }
 ]

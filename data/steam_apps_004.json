@@ -1,5 +1,21 @@
 [
     {
+        "appid": 2930260,
+        "name": "Astrovoid: Invasion"
+    },
+    {
+        "appid": 2930270,
+        "name": "Tackle for Loss"
+    },
+    {
+        "appid": 2930280,
+        "name": "0101"
+    },
+    {
+        "appid": 2930290,
+        "name": "Love at The Milky Way Diner"
+    },
+    {
         "appid": 2930320,
         "name": "Pharmacy Simulator"
     },
@@ -14822,10 +14838,6 @@
     {
         "appid": 3004180,
         "name": "Curse of Dares"
-    },
-    {
-        "appid": 3004230,
-        "name": "Delta Strike"
     },
     {
         "appid": 3004260,
@@ -41168,6 +41180,10 @@
         "name": "TowerUp: Breakout"
     },
     {
+        "appid": 3135480,
+        "name": "Iron Stride"
+    },
+    {
         "appid": 3135490,
         "name": "Satisfrustration"
     },
@@ -47618,6 +47634,10 @@
     {
         "appid": 3168200,
         "name": "Subzero Stealth"
+    },
+    {
+        "appid": 3168210,
+        "name": "Falafel King"
     },
     {
         "appid": 3168230,
@@ -61657,7 +61677,7 @@
     },
     {
         "appid": 3241110,
-        "name": "封神"
+        "name": "ÃÂ¥ÃÂ°ÃÂÃÂ§ÃÂ¥ÃÂ"
     },
     {
         "appid": 3241120,
@@ -62862,10 +62882,6 @@
     {
         "appid": 3247130,
         "name": "Liquor Love Lady"
-    },
-    {
-        "appid": 3247150,
-        "name": "PLAYTOWN: Genesis"
     },
     {
         "appid": 3247190,
@@ -72846,6 +72862,10 @@
     {
         "appid": 3302540,
         "name": "Veil : Black Blood"
+    },
+    {
+        "appid": 3302550,
+        "name": "Tumbletail"
     },
     {
         "appid": 3302560,
@@ -89144,6 +89164,10 @@
         "name": "Age of History 2: Definitive Edition"
     },
     {
+        "appid": 3381720,
+        "name": "Divooka™ Compute"
+    },
+    {
         "appid": 3381760,
         "name": "Plant poker"
     },
@@ -99640,6 +99664,10 @@
         "name": "Scary Ferry"
     },
     {
+        "appid": 3434510,
+        "name": "云里物理"
+    },
+    {
         "appid": 3434530,
         "name": "Mechanized Corps: Rebirth"
     },
@@ -102462,6 +102490,10 @@
     {
         "appid": 3447770,
         "name": "Casino Heist: Aruba Official Artbook"
+    },
+    {
+        "appid": 3447800,
+        "name": "Recycle Rivals"
     },
     {
         "appid": 3447820,
@@ -124124,10 +124156,6 @@
         "name": "Mumble Pines: The Arrival"
     },
     {
-        "appid": 3567030,
-        "name": "名もなき塔"
-    },
-    {
         "appid": 3567040,
         "name": "Lovely Lady RPG"
     },
@@ -133102,10 +133130,6 @@
     {
         "appid": 3612300,
         "name": "Fool's Trigger"
-    },
-    {
-        "appid": 3612310,
-        "name": "名もなき塔設定資料集"
     },
     {
         "appid": 3612320,
@@ -175076,6 +175100,10 @@
         "name": "Wukong 2088"
     },
     {
+        "appid": 3837070,
+        "name": "Enchantalot"
+    },
+    {
         "appid": 3837080,
         "name": "Lightcore Guardians"
     },
@@ -184764,6 +184792,10 @@
         "name": "Card Conquest"
     },
     {
+        "appid": 3883590,
+        "name": "HeroQuest: Digital Edition"
+    },
+    {
         "appid": 3883600,
         "name": "DOXU"
     },
@@ -185750,6 +185782,10 @@
     {
         "appid": 3888520,
         "name": "NTBSS: Special Ninjutsu: Awakened \"Tailed Beast\" Complete Pack"
+    },
+    {
+        "appid": 3888530,
+        "name": "Crystal Adventure"
     },
     {
         "appid": 3888580,
@@ -192774,10 +192810,6 @@
     {
         "appid": 3923720,
         "name": "Faction Reticent"
-    },
-    {
-        "appid": 3923740,
-        "name": "Empty Box: 空盒子"
     },
     {
         "appid": 3923750,
@@ -199966,37 +199998,5 @@
     {
         "appid": 3959230,
         "name": "Daisy la Fleur"
-    },
-    {
-        "appid": 3959240,
-        "name": "shaBomb"
-    },
-    {
-        "appid": 3959250,
-        "name": "Click to Civ"
-    },
-    {
-        "appid": 3959270,
-        "name": "Utawarerumono: ZAN - DLC Character: Oshtor"
-    },
-    {
-        "appid": 3959280,
-        "name": "Utawarerumono: ZAN - DLC Character: Munechika"
-    },
-    {
-        "appid": 3959310,
-        "name": "Monster Hunter Wilds - Pendant: F Hope Balloon"
-    },
-    {
-        "appid": 3959320,
-        "name": "Monster Hunter Wilds - Pendant: F Arkveld Balloon"
-    },
-    {
-        "appid": 3959330,
-        "name": "Monster Hunter Wilds - Pendant: F Rompopolo Balloon"
-    },
-    {
-        "appid": 3959340,
-        "name": "Monster Hunter Wilds - Pendant: F Barina Balloon"
     }
 ]
