@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1955010,
+        "name": "Hard Ball Wikie"
+    },
+    {
+        "appid": 1955030,
+        "name": "SCP: EVENT CLASSIFIED"
+    },
+    {
         "appid": 1955040,
         "name": "The Aquatic Messenger"
     },
@@ -86941,7 +86949,7 @@
     },
     {
         "appid": 2372910,
-        "name": "FolcDark"
+        "name": "FolcDark: Yuripari's Nightmare"
     },
     {
         "appid": 2372930,
@@ -199990,13 +199998,5 @@
     {
         "appid": 2930210,
         "name": "MY DOG!"
-    },
-    {
-        "appid": 2930240,
-        "name": "Clean Sweep"
-    },
-    {
-        "appid": 2930250,
-        "name": "幻想郷大激突 : Touhou Impact"
     }
 ]

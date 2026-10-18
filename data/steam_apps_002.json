@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1109240,
+        "name": "Pixel Art Monster - Expansion Pack 3"
+    },
+    {
+        "appid": 1109270,
+        "name": "Fantasy Grounds - Meanders Map Pack: Fantasy City Winter (Map Pack)"
+    },
+    {
         "appid": 1109280,
         "name": "Back To Hell"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1955000,
         "name": "3D PUZZLE - Alchemist House"
-    },
-    {
-        "appid": 1955010,
-        "name": "Hard Ball Wikie"
-    },
-    {
-        "appid": 1955030,
-        "name": "SCP: EVENT CLASSIFIED"
     }
 ]

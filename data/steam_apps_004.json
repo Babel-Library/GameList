@@ -1,5 +1,13 @@
 [
     {
+        "appid": 2930240,
+        "name": "Clean Sweep"
+    },
+    {
+        "appid": 2930250,
+        "name": "幻想郷大激突 : Touhou Impact"
+    },
+    {
         "appid": 2930260,
         "name": "Astrovoid: Invasion"
     },
@@ -181172,6 +181180,10 @@
         "name": "Killer Chat! Original Edition - Ultimate Valentine's Bundle"
     },
     {
+        "appid": 3866460,
+        "name": "Prison 41"
+    },
+    {
         "appid": 3866510,
         "name": "Fantasy Grounds - Arora: Age of Desolation"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 3959150,
         "name": "Dance of Elements"
-    },
-    {
-        "appid": 3959160,
-        "name": "Your Weight"
-    },
-    {
-        "appid": 3959180,
-        "name": "AMazeing Racer"
-    },
-    {
-        "appid": 3959230,
-        "name": "Daisy la Fleur"
     }
 ]

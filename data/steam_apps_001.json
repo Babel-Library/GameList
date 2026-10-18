@@ -145840,6 +145840,10 @@
         "name": "World Soccer Strikers '91"
     },
     {
+        "appid": 877900,
+        "name": "Clanker Calamity"
+    },
+    {
         "appid": 877910,
         "name": "Time Drifter"
     },
@@ -190160,6 +190164,10 @@
         "name": "SKALD: Against the Black Priory"
     },
     {
+        "appid": 1069170,
+        "name": "Diggers Down"
+    },
+    {
         "appid": 1069180,
         "name": "Drop Kick Zombie!"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1109220,
         "name": "Pencil Fantastic"
-    },
-    {
-        "appid": 1109240,
-        "name": "Pixel Art Monster - Expansion Pack 3"
-    },
-    {
-        "appid": 1109270,
-        "name": "Fantasy Grounds - Meanders Map Pack: Fantasy City Winter (Map Pack)"
     }
 ]
