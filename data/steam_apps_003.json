@@ -1,25 +1,5 @@
 [
     {
-        "appid": 1955010,
-        "name": "Hard Ball Wikie"
-    },
-    {
-        "appid": 1955030,
-        "name": "SCP: EVENT CLASSIFIED"
-    },
-    {
-        "appid": 1955040,
-        "name": "The Aquatic Messenger"
-    },
-    {
-        "appid": 1955090,
-        "name": "KeepUp Survival - Tropical Island Map"
-    },
-    {
-        "appid": 1955100,
-        "name": "怯懦 Cowardice"
-    },
-    {
         "appid": 1955110,
         "name": "Star Stuff"
     },
@@ -107528,6 +107508,10 @@
         "name": "Fantasy Grounds - Pathfinder RPG - Giantslayer AP 6: Shadow of the Storm Tyrant"
     },
     {
+        "appid": 2465030,
+        "name": "3D Nuclear Reactor Simulator"
+    },
+    {
         "appid": 2465060,
         "name": "Hollow Mine"
     },
@@ -148712,6 +148696,10 @@
         "name": "Winter Games Challenge"
     },
     {
+        "appid": 2673600,
+        "name": "DeskTrack"
+    },
+    {
         "appid": 2673660,
         "name": "Sonar Shock"
     },
@@ -155921,7 +155909,7 @@
     },
     {
         "appid": 2708040,
-        "name": "Keelblade (formerly Triarchy)"
+        "name": "Keelblade"
     },
     {
         "appid": 2708120,
@@ -189265,7 +189253,7 @@
     },
     {
         "appid": 2876030,
-        "name": "Archery Pro VR"
+        "name": "Archery Pro with James Jean Trickshots"
     },
     {
         "appid": 2876050,
@@ -199998,5 +199986,17 @@
     {
         "appid": 2930210,
         "name": "MY DOG!"
+    },
+    {
+        "appid": 2930240,
+        "name": "Clean Sweep"
+    },
+    {
+        "appid": 2930250,
+        "name": "幻想郷大激突 : Touhou Impact"
+    },
+    {
+        "appid": 2930260,
+        "name": "Astrovoid: Invasion"
     }
 ]

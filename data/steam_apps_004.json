@@ -1,17 +1,5 @@
 [
     {
-        "appid": 2930240,
-        "name": "Clean Sweep"
-    },
-    {
-        "appid": 2930250,
-        "name": "幻想郷大激突 : Touhou Impact"
-    },
-    {
-        "appid": 2930260,
-        "name": "Astrovoid: Invasion"
-    },
-    {
         "appid": 2930270,
         "name": "Tackle for Loss"
     },
@@ -53385,7 +53373,7 @@
     },
     {
         "appid": 3197180,
-        "name": "偷天换命 Hack Fate"
+        "name": "Hack Fate"
     },
     {
         "appid": 3197190,
@@ -71274,6 +71262,10 @@
     {
         "appid": 3294500,
         "name": "Dead Apples Dare"
+    },
+    {
+        "appid": 3294510,
+        "name": "Quantum Paradigms"
     },
     {
         "appid": 3294540,
@@ -89749,7 +89741,7 @@
     },
     {
         "appid": 3384370,
-        "name": "Sand Eaters"
+        "name": "SAND EATERS™"
     },
     {
         "appid": 3384380,
@@ -130013,7 +130005,7 @@
     },
     {
         "appid": 3596560,
-        "name": "Garden Gingdom"
+        "name": "Stack & Brew"
     },
     {
         "appid": 3596580,
@@ -162634,6 +162626,10 @@
     {
         "appid": 3769590,
         "name": "Fantasy Grounds - Traveller Core Rulebook Update 2022"
+    },
+    {
+        "appid": 3769660,
+        "name": "Iron Stakes"
     },
     {
         "appid": 3769710,
@@ -199998,5 +199994,9 @@
     {
         "appid": 3959150,
         "name": "Dance of Elements"
+    },
+    {
+        "appid": 3959160,
+        "name": "Your Weight"
     }
 ]

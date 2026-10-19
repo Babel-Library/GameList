@@ -55069,7 +55069,7 @@
     },
     {
         "appid": 462830,
-        "name": "Airline Director 2 - Tycoon Game"
+        "name": "Airline Director 2"
     },
     {
         "appid": 462860,
@@ -63794,30 +63794,6 @@
     {
         "appid": 509620,
         "name": "Last Stitch Goodnight"
-    },
-    {
-        "appid": 509637,
-        "name": "Rocksmith® 2014 Edition – Remastered – Yes - “Roundabout”"
-    },
-    {
-        "appid": 509638,
-        "name": "Rocksmith® 2014 Edition – Remastered – Yes - “Owner of a Lonely Heart”"
-    },
-    {
-        "appid": 509639,
-        "name": "Rocksmith® 2014 Edition – Remastered – Yes - “Heart of the Sunrise”"
-    },
-    {
-        "appid": 509640,
-        "name": "Rocksmith® 2014 Edition – Remastered – Yes - “Starship Trooper”"
-    },
-    {
-        "appid": 509641,
-        "name": "Rocksmith® 2014 Edition – Remastered – Yes - “I’ve Seen All Good People”"
-    },
-    {
-        "appid": 509642,
-        "name": "Rocksmith® 2014 Edition – Remastered – Yes Song Pack"
     },
     {
         "appid": 509643,
@@ -134088,6 +134064,10 @@
         "name": "Nobody Knows"
     },
     {
+        "appid": 824530,
+        "name": "Duck Casino: Gambling Simulator"
+    },
+    {
         "appid": 824540,
         "name": "Arrow Ventura VR"
     },
@@ -199998,5 +199978,25 @@
     {
         "appid": 1109220,
         "name": "Pencil Fantastic"
+    },
+    {
+        "appid": 1109240,
+        "name": "Pixel Art Monster - Expansion Pack 3"
+    },
+    {
+        "appid": 1109270,
+        "name": "Fantasy Grounds - Meanders Map Pack: Fantasy City Winter (Map Pack)"
+    },
+    {
+        "appid": 1109280,
+        "name": "Back To Hell"
+    },
+    {
+        "appid": 1109300,
+        "name": "Volt Patrol - Stealth Driving"
+    },
+    {
+        "appid": 1109310,
+        "name": "Expansion"
     }
 ]
