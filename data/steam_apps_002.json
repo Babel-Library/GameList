@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1109330,
-        "name": "Boobs vs Zombies - Wallpapers"
-    },
-    {
-        "appid": 1109331,
-        "name": "Boobs vs Zombies - Hintbook"
-    },
-    {
-        "appid": 1109340,
-        "name": "Tennis. Amazing tournament"
-    },
-    {
         "appid": 1109350,
         "name": "ANCIENT SOULS : The Governor"
     },
@@ -34474,10 +34462,6 @@
     {
         "appid": 1249700,
         "name": "Warspace"
-    },
-    {
-        "appid": 1249730,
-        "name": "Spacewalk Defender"
     },
     {
         "appid": 1249740,
@@ -89492,10 +89476,6 @@
         "name": "Fly The Cloud"
     },
     {
-        "appid": 1495270,
-        "name": "The Unmarked"
-    },
-    {
         "appid": 1495280,
         "name": "Mouse Hero"
     },
@@ -112614,10 +112594,6 @@
     {
         "appid": 1595950,
         "name": "A Strange Hotel"
-    },
-    {
-        "appid": 1595970,
-        "name": "Vestenelon"
     },
     {
         "appid": 1596010,
@@ -159612,10 +159588,6 @@
         "name": "FireAirPlan"
     },
     {
-        "appid": 1782670,
-        "name": "Tru Or Die"
-    },
-    {
         "appid": 1782700,
         "name": "The Night Walkers"
     },
@@ -190708,6 +190680,10 @@
         "name": "Crowd Simulator - Hats DLC"
     },
     {
+        "appid": 1916760,
+        "name": "Project Paranormal"
+    },
+    {
         "appid": 1916790,
         "name": "Oust"
     },
@@ -199998,5 +199974,29 @@
     {
         "appid": 1955100,
         "name": "怯懦 Cowardice"
+    },
+    {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
+        "appid": 1955160,
+        "name": "MEARTH"
+    },
+    {
+        "appid": 1955200,
+        "name": "Gate Builders"
+    },
+    {
+        "appid": 1955230,
+        "name": "Penny’s Big Breakaway"
     }
 ]

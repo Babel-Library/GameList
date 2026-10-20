@@ -1028,6 +1028,10 @@
         "name": "白噪生存指南"
     },
     {
+        "appid": 2935990,
+        "name": "CursorSkins"
+    },
+    {
         "appid": 2936000,
         "name": "暖雪 Warm Snow - 官方美术设定集"
     },
@@ -38256,6 +38260,10 @@
         "name": "Legion and Tavern"
     },
     {
+        "appid": 3119970,
+        "name": "Love is a Roguelite (or LIAR for short)"
+    },
+    {
         "appid": 3119980,
         "name": "Welcome: A Cozy Estuary"
     },
@@ -49528,6 +49536,10 @@
         "name": "UNION SURVIVORS"
     },
     {
+        "appid": 3178040,
+        "name": "Deja-Vu of the Dead"
+    },
+    {
         "appid": 3178050,
         "name": "AI Solitaire - Pool Party"
     },
@@ -50533,7 +50545,7 @@
     },
     {
         "appid": 3183790,
-        "name": "Defense Of Fort Burton"
+        "name": "Lexy Defense"
     },
     {
         "appid": 3183800,
@@ -80520,6 +80532,10 @@
         "name": "False World"
     },
     {
+        "appid": 3339970,
+        "name": "WendyQuest: Legend of the Four Corner Stones"
+    },
+    {
         "appid": 3339980,
         "name": "Forza Horizon 5 Nissan Retro Rides Car Pack"
     },
@@ -106292,6 +106308,10 @@
         "name": "Lyndaria: Shadows of the Past DLC"
     },
     {
+        "appid": 3468040,
+        "name": "FixIt"
+    },
+    {
         "appid": 3468050,
         "name": "Borıng. - Credits"
     },
@@ -109938,6 +109958,10 @@
     {
         "appid": 3488200,
         "name": "SuperQuest"
+    },
+    {
+        "appid": 3488210,
+        "name": "Holoverse Armada"
     },
     {
         "appid": 3488220,
@@ -127809,7 +127833,7 @@
     },
     {
         "appid": 3585360,
-        "name": "九渊"
+        "name": "Nether Abyss"
     },
     {
         "appid": 3585380,
@@ -129829,7 +129853,7 @@
     },
     {
         "appid": 3595710,
-        "name": "SCOPECREEP"
+        "name": "ScopeCreep"
     },
     {
         "appid": 3595720,
@@ -153580,6 +153604,10 @@
         "name": "Lust Sisters 🔞"
     },
     {
+        "appid": 3718540,
+        "name": "Brickino: The 3D Domino Game"
+    },
+    {
         "appid": 3718550,
         "name": "Don’t Tell Mom: I Fed My Stepsister 💦😳"
     },
@@ -163946,6 +163974,10 @@
     {
         "appid": 3777620,
         "name": "SnowRunner - Season 18: Patch & Power"
+    },
+    {
+        "appid": 3777630,
+        "name": "SnowRunner - Season 19: Research & Restore"
     },
     {
         "appid": 3777650,
@@ -174812,6 +174844,10 @@
         "name": "汉武大帝传-平阳公主专属飒装DLC"
     },
     {
+        "appid": 3835350,
+        "name": "Grab! Grab! Grab!"
+    },
+    {
         "appid": 3835410,
         "name": "Eyes Behind"
     },
@@ -176326,6 +176362,10 @@
     {
         "appid": 3843130,
         "name": "Astrobound"
+    },
+    {
+        "appid": 3843190,
+        "name": "PinUp Archery"
     },
     {
         "appid": 3843210,
@@ -180978,22 +181018,6 @@
     {
         "appid": 3865690,
         "name": "Hyper Vyper"
-    },
-    {
-        "appid": 3865720,
-        "name": "Last Epoch - Primal Traveler Supporter Pack"
-    },
-    {
-        "appid": 3865730,
-        "name": "Last Epoch - Primal Templar Supporter Pack"
-    },
-    {
-        "appid": 3865740,
-        "name": "Last Epoch - Primal Vanquisher Supporter Pack"
-    },
-    {
-        "appid": 3865750,
-        "name": "Last Epoch - Primal Legend Supporter Pack"
     },
     {
         "appid": 3865780,
@@ -187798,6 +187822,10 @@
     {
         "appid": 3898090,
         "name": "Super Firefighter"
+    },
+    {
+        "appid": 3898140,
+        "name": "Dig Out"
     },
     {
         "appid": 3898150,
@@ -199970,33 +199998,5 @@
     {
         "appid": 3959000,
         "name": "Yandere Goth BDSM 2"
-    },
-    {
-        "appid": 3959020,
-        "name": "Imagine Sisyphus Happy"
-    },
-    {
-        "appid": 3959050,
-        "name": "Siegeturtle"
-    },
-    {
-        "appid": 3959060,
-        "name": "Sign Off \"Upgrade\" DLC"
-    },
-    {
-        "appid": 3959100,
-        "name": "XXX Pussy House"
-    },
-    {
-        "appid": 3959110,
-        "name": "DOOM Dawn"
-    },
-    {
-        "appid": 3959150,
-        "name": "Dance of Elements"
-    },
-    {
-        "appid": 3959160,
-        "name": "Your Weight"
     }
 ]
