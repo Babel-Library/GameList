@@ -1,5 +1,29 @@
 [
     {
+        "appid": 2930160,
+        "name": "Nightmare Kart"
+    },
+    {
+        "appid": 2930170,
+        "name": "Sheep Sweep"
+    },
+    {
+        "appid": 2930210,
+        "name": "MY DOG!"
+    },
+    {
+        "appid": 2930240,
+        "name": "Clean Sweep"
+    },
+    {
+        "appid": 2930250,
+        "name": "幻想郷大激突 : Touhou Impact"
+    },
+    {
+        "appid": 2930260,
+        "name": "Astrovoid: Invasion"
+    },
+    {
         "appid": 2930270,
         "name": "Tackle for Loss"
     },
@@ -374,6 +398,10 @@
     {
         "appid": 2932600,
         "name": "Float Your Goat"
+    },
+    {
+        "appid": 2932650,
+        "name": "CrossPieces Arena"
     },
     {
         "appid": 2932660,
@@ -19204,6 +19232,10 @@
         "name": "Crazy Captain Cannon - Mission: Billionaire Buster"
     },
     {
+        "appid": 3026390,
+        "name": "Bomb And Conquer"
+    },
+    {
         "appid": 3026430,
         "name": "Esports Team Manager"
     },
@@ -24222,10 +24254,6 @@
     {
         "appid": 3052400,
         "name": "Ghostboy Soundtrack and Artbook"
-    },
-    {
-        "appid": 3052420,
-        "name": "The Better Deal - Part I"
     },
     {
         "appid": 3052430,
@@ -87584,6 +87612,10 @@
         "name": "Afei's Trouble"
     },
     {
+        "appid": 3373790,
+        "name": "Battle Planes Multiplayer"
+    },
+    {
         "appid": 3373800,
         "name": "Relaxing Fields"
     },
@@ -93629,7 +93661,7 @@
     },
     {
         "appid": 3403210,
-        "name": "TS Marketplace: Engadin Line Scenario Pack Vol.1"
+        "name": "TS Marketplace: Engadin Linie Scenario Pack Vol.1"
     },
     {
         "appid": 3403220,
@@ -98660,6 +98692,10 @@
         "name": "Bittersweet Blossoms"
     },
     {
+        "appid": 3429350,
+        "name": "PARALLAXIS"
+    },
+    {
         "appid": 3429360,
         "name": "1E26"
     },
@@ -98950,6 +98986,10 @@
     {
         "appid": 3430920,
         "name": "Roadside Egg Stand"
+    },
+    {
+        "appid": 3430930,
+        "name": "Malloc"
     },
     {
         "appid": 3430960,
@@ -105105,7 +105145,7 @@
     },
     {
         "appid": 3460440,
-        "name": "Only Up: Chan Chained Together"
+        "name": "Chans Up: Chained Together"
     },
     {
         "appid": 3460500,
@@ -132924,6 +132964,10 @@
         "name": "Gagged Love: Tomboy Romance"
     },
     {
+        "appid": 3610770,
+        "name": "Dead Miles"
+    },
+    {
         "appid": 3610780,
         "name": "El gaucho Martín Fierro"
     },
@@ -134534,6 +134578,10 @@
     {
         "appid": 3619100,
         "name": "Gluttony Gods - The Book of Gluttony"
+    },
+    {
+        "appid": 3619110,
+        "name": "BIER RUSH!"
     },
     {
         "appid": 3619120,
@@ -142165,7 +142213,7 @@
     },
     {
         "appid": 3657320,
-        "name": "Pelikeeper: A Cute TD Adventure"
+        "name": "Pelikeeper: A TD Adventure"
     },
     {
         "appid": 3657370,
@@ -152476,6 +152524,10 @@
         "name": "THE DAY I WILL DIE"
     },
     {
+        "appid": 3712310,
+        "name": "Factopia"
+    },
+    {
         "appid": 3712340,
         "name": "Cosmic Destroyer"
     },
@@ -154638,10 +154690,6 @@
     {
         "appid": 3724300,
         "name": "Toto's Journey"
-    },
-    {
-        "appid": 3724310,
-        "name": "PLAYTOWN: Chapter 3"
     },
     {
         "appid": 3724330,
@@ -169668,6 +169716,10 @@
         "name": "Seeking The Guardian: Reflection"
     },
     {
+        "appid": 3809360,
+        "name": "Pirate Skulls and Sails Online"
+    },
+    {
         "appid": 3809370,
         "name": "Clubbed"
     },
@@ -182376,6 +182428,10 @@
         "name": "Hotdog: The Videogame"
     },
     {
+        "appid": 3872130,
+        "name": "Magenta Down"
+    },
+    {
         "appid": 3872160,
         "name": "Envido"
     },
@@ -190834,6 +190890,10 @@
     {
         "appid": 3914220,
         "name": "Beasts of Bermuda - Utahraptor Supporter Warpaint"
+    },
+    {
+        "appid": 3914240,
+        "name": "Beasts of Bermuda - Zupaysaurus Supporter Warpaint"
     },
     {
         "appid": 3914250,
@@ -199938,65 +199998,5 @@
     {
         "appid": 3958640,
         "name": "Crawling Angels"
-    },
-    {
-        "appid": 3958650,
-        "name": "Unfriend"
-    },
-    {
-        "appid": 3958660,
-        "name": "Rated R"
-    },
-    {
-        "appid": 3958680,
-        "name": "Sunset Racing"
-    },
-    {
-        "appid": 3958690,
-        "name": "Diablo® IV: Lord of Hatred™"
-    },
-    {
-        "appid": 3958820,
-        "name": "Drive Me Broke"
-    },
-    {
-        "appid": 3958830,
-        "name": "After Hours: Library"
-    },
-    {
-        "appid": 3958840,
-        "name": "朕不想死！"
-    },
-    {
-        "appid": 3958860,
-        "name": "荒岛钓鱼记"
-    },
-    {
-        "appid": 3958880,
-        "name": "Rosemary Village"
-    },
-    {
-        "appid": 3958900,
-        "name": "生存纪元"
-    },
-    {
-        "appid": 3958940,
-        "name": "山海牌 ShanHai Card"
-    },
-    {
-        "appid": 3958950,
-        "name": "Upload Labs - Time Generator"
-    },
-    {
-        "appid": 3958960,
-        "name": "Upload Labs - Permanent Boosts"
-    },
-    {
-        "appid": 3958980,
-        "name": "Mostroscopy - Medea"
-    },
-    {
-        "appid": 3959000,
-        "name": "Yandere Goth BDSM 2"
     }
 ]

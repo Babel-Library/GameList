@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1109331,
+        "name": "Boobs vs Zombies - Hintbook"
+    },
+    {
+        "appid": 1109340,
+        "name": "Tennis. Amazing tournament"
+    },
+    {
         "appid": 1109350,
         "name": "ANCIENT SOULS : The Governor"
     },
@@ -53845,7 +53853,7 @@
     },
     {
         "appid": 1341160,
-        "name": "Infinite Tournament Paintball"
+        "name": "Infinite: Tournament Paintball"
     },
     {
         "appid": 1341170,
@@ -112002,10 +112010,6 @@
     {
         "appid": 1593360,
         "name": "DCS: Mi-24P HIND"
-    },
-    {
-        "appid": 1593370,
-        "name": "Stickforge"
     },
     {
         "appid": 1593390,
@@ -184356,6 +184360,10 @@
         "name": "东方魔法书学院 touhou magic book academy"
     },
     {
+        "appid": 1886760,
+        "name": "Before We Fall"
+    },
+    {
         "appid": 1886800,
         "name": "3 Minute Heroes - Jester & Necromancer Heroes + Skins"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1955160,
         "name": "MEARTH"
-    },
-    {
-        "appid": 1955200,
-        "name": "Gate Builders"
-    },
-    {
-        "appid": 1955230,
-        "name": "Penny’s Big Breakaway"
     }
 ]

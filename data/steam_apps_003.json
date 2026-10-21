@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1955200,
+        "name": "Gate Builders"
+    },
+    {
+        "appid": 1955230,
+        "name": "Penny’s Big Breakaway"
+    },
+    {
         "appid": 1955260,
         "name": "Nightmare Rooms VR"
     },
@@ -106,10 +114,6 @@
     {
         "appid": 1955790,
         "name": "Roots Of Rebirth"
-    },
-    {
-        "appid": 1955800,
-        "name": "TRANSFORMERS: EARTHSPARK - Expedition"
     },
     {
         "appid": 1955820,
@@ -22485,7 +22489,7 @@
     },
     {
         "appid": 2081350,
-        "name": "Summoner Tale"
+        "name": "Summoner's Tale"
     },
     {
         "appid": 2081360,
@@ -66116,6 +66120,10 @@
         "name": "Deck of the Dead"
     },
     {
+        "appid": 2278570,
+        "name": "Mahalle Kıraathanesi"
+    },
+    {
         "appid": 2278600,
         "name": "Carta Nostra"
     },
@@ -80082,6 +80090,10 @@
     {
         "appid": 2342340,
         "name": "Save My Dreams"
+    },
+    {
+        "appid": 2342350,
+        "name": "Tileria"
     },
     {
         "appid": 2342360,
@@ -94554,6 +94566,10 @@
     {
         "appid": 2404970,
         "name": "Parallel Paths"
+    },
+    {
+        "appid": 2404980,
+        "name": "A Game About Shredding Everything"
     },
     {
         "appid": 2404990,
@@ -119086,6 +119102,10 @@
     {
         "appid": 2523720,
         "name": "Gears of War: Reloaded"
+    },
+    {
+        "appid": 2523740,
+        "name": "DreamWorks Shrek 2 Remastered"
     },
     {
         "appid": 2523770,
@@ -152725,7 +152745,7 @@
     },
     {
         "appid": 2692660,
-        "name": "Car Mechanic Simulator 2026"
+        "name": "Car Mechanic Simulator 2027"
     },
     {
         "appid": 2692690,
@@ -170349,7 +170369,7 @@
     },
     {
         "appid": 2780090,
-        "name": "青春模拟器"
+        "name": "青春模拟器：重返校园"
     },
     {
         "appid": 2780100,
@@ -177041,7 +177061,7 @@
     },
     {
         "appid": 2814920,
-        "name": "Spawn World"
+        "name": "Blood Banner"
     },
     {
         "appid": 2814930,
@@ -179062,6 +179082,10 @@
     {
         "appid": 2825030,
         "name": "Resurrection : Nuke Island"
+    },
+    {
+        "appid": 2825040,
+        "name": "The Benchmark"
     },
     {
         "appid": 2825070,
@@ -199974,29 +199998,5 @@
     {
         "appid": 2930150,
         "name": "DeSoloFender"
-    },
-    {
-        "appid": 2930160,
-        "name": "Nightmare Kart"
-    },
-    {
-        "appid": 2930170,
-        "name": "Sheep Sweep"
-    },
-    {
-        "appid": 2930210,
-        "name": "MY DOG!"
-    },
-    {
-        "appid": 2930240,
-        "name": "Clean Sweep"
-    },
-    {
-        "appid": 2930250,
-        "name": "幻想郷大激突 : Touhou Impact"
-    },
-    {
-        "appid": 2930260,
-        "name": "Astrovoid: Invasion"
     }
 ]
