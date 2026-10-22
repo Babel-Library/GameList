@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
+        "appid": 1955160,
+        "name": "MEARTH"
+    },
+    {
         "appid": 1955200,
         "name": "Gate Builders"
     },
@@ -15460,6 +15472,10 @@
         "name": "A toad well travelled"
     },
     {
+        "appid": 2026710,
+        "name": "Regen Protocol"
+    },
+    {
         "appid": 2026720,
         "name": "Dormiveglia"
     },
@@ -24306,6 +24322,10 @@
     {
         "appid": 2089850,
         "name": "Sky On Fire : 1940"
+    },
+    {
+        "appid": 2089870,
+        "name": "RouteDom"
     },
     {
         "appid": 2089890,
@@ -64220,6 +64240,10 @@
         "name": "Junkyard Fury 2 - Project Annihilation"
     },
     {
+        "appid": 2268770,
+        "name": "Legato"
+    },
+    {
         "appid": 2268780,
         "name": "Cosmic Guardians"
     },
@@ -77456,6 +77480,10 @@
         "name": "VICO 3: TALE OF THE SEVEN SEAS"
     },
     {
+        "appid": 2330710,
+        "name": "Extrapolation"
+    },
+    {
         "appid": 2330720,
         "name": "ChipWits"
     },
@@ -77734,6 +77762,10 @@
     {
         "appid": 2331920,
         "name": "HOLYHUNT"
+    },
+    {
+        "appid": 2331930,
+        "name": "VOIDRUSH"
     },
     {
         "appid": 2331950,
@@ -90125,7 +90157,7 @@
     },
     {
         "appid": 2385590,
-        "name": "Telluria"
+        "name": "Telluria: Till Dawn Returns"
     },
     {
         "appid": 2385620,
@@ -124232,6 +124264,10 @@
         "name": "Lust Island🌴[18+]"
     },
     {
+        "appid": 2550150,
+        "name": "Voor De Kroon - 15th Century Armory Pack"
+    },
+    {
         "appid": 2550160,
         "name": "Voor De Kroon - 14th Century Armory Pack"
     },
@@ -131170,6 +131206,10 @@
     {
         "appid": 2586040,
         "name": "Memory Patches"
+    },
+    {
+        "appid": 2586050,
+        "name": "Math Time"
     },
     {
         "appid": 2586060,
@@ -174032,6 +174072,10 @@
         "name": "Darlo 64"
     },
     {
+        "appid": 2799440,
+        "name": "Grandma's House"
+    },
+    {
         "appid": 2799460,
         "name": "SUSHIDO"
     },
@@ -199954,49 +199998,5 @@
     {
         "appid": 2930000,
         "name": "Kunkun Terror Express-Ultimate Fan Edition(upgrade)"
-    },
-    {
-        "appid": 2930010,
-        "name": "No Way Out"
-    },
-    {
-        "appid": 2930020,
-        "name": "Chillax"
-    },
-    {
-        "appid": 2930030,
-        "name": "Oath of the Necromancer"
-    },
-    {
-        "appid": 2930040,
-        "name": "Mercapolis"
-    },
-    {
-        "appid": 2930070,
-        "name": "Balance"
-    },
-    {
-        "appid": 2930080,
-        "name": "Trading Towns"
-    },
-    {
-        "appid": 2930110,
-        "name": "CrimeBloc"
-    },
-    {
-        "appid": 2930120,
-        "name": "愤怒的孙子们"
-    },
-    {
-        "appid": 2930130,
-        "name": "ROVA"
-    },
-    {
-        "appid": 2930140,
-        "name": "Cat Got Your Tongue"
-    },
-    {
-        "appid": 2930150,
-        "name": "DeSoloFender"
     }
 ]

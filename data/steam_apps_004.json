@@ -1,5 +1,49 @@
 [
     {
+        "appid": 2930010,
+        "name": "No Way Out"
+    },
+    {
+        "appid": 2930020,
+        "name": "Chillax"
+    },
+    {
+        "appid": 2930030,
+        "name": "Oath of the Necromancer"
+    },
+    {
+        "appid": 2930040,
+        "name": "Mercapolis"
+    },
+    {
+        "appid": 2930070,
+        "name": "Balance"
+    },
+    {
+        "appid": 2930080,
+        "name": "Trading Towns"
+    },
+    {
+        "appid": 2930110,
+        "name": "CrimeBloc"
+    },
+    {
+        "appid": 2930120,
+        "name": "愤怒的孙子们"
+    },
+    {
+        "appid": 2930130,
+        "name": "ROVA"
+    },
+    {
+        "appid": 2930140,
+        "name": "Cat Got Your Tongue"
+    },
+    {
+        "appid": 2930150,
+        "name": "DeSoloFender"
+    },
+    {
         "appid": 2930160,
         "name": "Nightmare Kart"
     },
@@ -24736,6 +24780,10 @@
         "name": "Luna and the Wasted City of Sin"
     },
     {
+        "appid": 3054400,
+        "name": "阴桃花 - 真（Real）结局"
+    },
+    {
         "appid": 3054410,
         "name": "Bushside Rangers"
     },
@@ -30870,6 +30918,10 @@
     {
         "appid": 3084880,
         "name": "Defy The Abyss"
+    },
+    {
+        "appid": 3084890,
+        "name": "Rebel Sector"
     },
     {
         "appid": 3084900,
@@ -38289,7 +38341,7 @@
     },
     {
         "appid": 3119970,
-        "name": "Love is a Roguelite (or LIAR for short)"
+        "name": "Love is a Roguelite"
     },
     {
         "appid": 3119980,
@@ -48190,10 +48242,6 @@
     {
         "appid": 3170770,
         "name": "Lab 77"
-    },
-    {
-        "appid": 3170790,
-        "name": "Dungeon Gore: Lost Treasury"
     },
     {
         "appid": 3170800,
@@ -73408,6 +73456,10 @@
         "name": "Survivors Under Siege"
     },
     {
+        "appid": 3305020,
+        "name": "A Tale of Titans"
+    },
+    {
         "appid": 3305030,
         "name": "GEMINI DISORDER – Artbook"
     },
@@ -76514,10 +76566,6 @@
     {
         "appid": 3320290,
         "name": "DreamlessGirl - Skin Pack Rose-Hued Uniforms"
-    },
-    {
-        "appid": 3320310,
-        "name": "Escape the Laser Trap"
     },
     {
         "appid": 3320320,
@@ -89214,6 +89262,10 @@
     {
         "appid": 3381720,
         "name": "Divooka™ Compute"
+    },
+    {
+        "appid": 3381740,
+        "name": "Eisenkiefer"
     },
     {
         "appid": 3381760,
@@ -120984,6 +121036,10 @@
         "name": "Zaccaria Pinball - Magic Castle Deluxe Pinball Table"
     },
     {
+        "appid": 3551290,
+        "name": "Tidy Garage"
+    },
+    {
         "appid": 3551300,
         "name": "Tale of Darkness"
     },
@@ -124433,7 +124489,7 @@
     },
     {
         "appid": 3568300,
-        "name": "In a Bit of Tales"
+        "name": "In a Bit of Tales | Daybloom Project"
     },
     {
         "appid": 3568320,
@@ -150745,7 +150801,7 @@
     },
     {
         "appid": 3702140,
-        "name": "Gunblade Ranger"
+        "name": "Blade Gunner"
     },
     {
         "appid": 3702160,
@@ -153769,7 +153825,7 @@
     },
     {
         "appid": 3719130,
-        "name": "Bluegrass: Mindfulness Simulator"
+        "name": "Bluegrass"
     },
     {
         "appid": 3719140,
@@ -164964,6 +165020,10 @@
         "name": "Depths Of Apollyon"
     },
     {
+        "appid": 3783350,
+        "name": "Ways of Time"
+    },
+    {
         "appid": 3783370,
         "name": "ReDrop"
     },
@@ -172741,7 +172801,7 @@
     },
     {
         "appid": 3824140,
-        "name": "Evomon World"
+        "name": "EvoMon World"
     },
     {
         "appid": 3824170,
@@ -174086,6 +174146,10 @@
     {
         "appid": 3831590,
         "name": "Red Circuit Rebellion"
+    },
+    {
+        "appid": 3831610,
+        "name": "Yatai Master"
     },
     {
         "appid": 3831630,
@@ -184846,6 +184910,10 @@
     {
         "appid": 3883420,
         "name": "四十四次日落"
+    },
+    {
+        "appid": 3883440,
+        "name": "FireBirds: Drone Simulator"
     },
     {
         "appid": 3883470,
@@ -197084,6 +197152,10 @@
         "name": "Escape the Maze"
     },
     {
+        "appid": 3944830,
+        "name": "Just Trust Me"
+    },
+    {
         "appid": 3944850,
         "name": "Statecraft"
     },
@@ -199926,77 +199998,5 @@
     {
         "appid": 3958260,
         "name": "Total City Defence"
-    },
-    {
-        "appid": 3958270,
-        "name": "Voidwalker"
-    },
-    {
-        "appid": 3958320,
-        "name": " Sid Meier's Civilization® VII: Edward Teach Pack"
-    },
-    {
-        "appid": 3958330,
-        "name": "Sid Meier's Civilization® VII: Republic of Pirates Pack"
-    },
-    {
-        "appid": 3958340,
-        "name": "Sid Meier's Civilization® VII: Tonga Pack"
-    },
-    {
-        "appid": 3958350,
-        "name": "Civilization VII - DLC 4 - Sayyida al Hurra"
-    },
-    {
-        "appid": 3958360,
-        "name": "Sid Meier's Civilization® VII: Ottomans Pack"
-    },
-    {
-        "appid": 3958370,
-        "name": "Civilization VII - DLC 6 - Iceland"
-    },
-    {
-        "appid": 3958380,
-        "name": "Sid Meier's Civilization® VII: Tides of Power Collection - Wonder Pack"
-    },
-    {
-        "appid": 3958390,
-        "name": "Project: Haste"
-    },
-    {
-        "appid": 3958410,
-        "name": "Cancer Crusher USA"
-    },
-    {
-        "appid": 3958460,
-        "name": "LOOPEDAL"
-    },
-    {
-        "appid": 3958490,
-        "name": "Ultima Statio"
-    },
-    {
-        "appid": 3958510,
-        "name": "The evil mouse"
-    },
-    {
-        "appid": 3958550,
-        "name": "Wilva"
-    },
-    {
-        "appid": 3958590,
-        "name": "공포의 PC방"
-    },
-    {
-        "appid": 3958600,
-        "name": "Jaxx Blorgin's UFO Jam"
-    },
-    {
-        "appid": 3958620,
-        "name": "起業×経営体験ゲーム『おいでよ！スタートアップ村』フェニックス編"
-    },
-    {
-        "appid": 3958640,
-        "name": "Crawling Angels"
     }
 ]

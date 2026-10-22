@@ -38949,7 +38949,7 @@
     },
     {
         "appid": 386180,
-        "name": "Crossout"
+        "name": "Crossout Remastered"
     },
     {
         "appid": 386200,
@@ -54354,6 +54354,10 @@
     {
         "appid": 459900,
         "name": "Sokos"
+    },
+    {
+        "appid": 459920,
+        "name": "Serious Sam: The Third Encounter"
     },
     {
         "appid": 459940,
@@ -199994,9 +199998,5 @@
     {
         "appid": 1109310,
         "name": "Expansion"
-    },
-    {
-        "appid": 1109330,
-        "name": "Boobs vs Zombies - Wallpapers"
     }
 ]

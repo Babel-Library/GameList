@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1109330,
+        "name": "Boobs vs Zombies - Wallpapers"
+    },
+    {
         "appid": 1109331,
         "name": "Boobs vs Zombies - Hintbook"
     },
@@ -76981,7 +76985,7 @@
     },
     {
         "appid": 1440860,
-        "name": "Page Visiting Hours"
+        "name": "Past Visiting Hours"
     },
     {
         "appid": 1440870,
@@ -85556,6 +85560,10 @@
         "name": "The Legion of Maelstrom"
     },
     {
+        "appid": 1478190,
+        "name": "The Sugar Coast"
+    },
+    {
         "appid": 1478200,
         "name": "HVOR: Confrontation"
     },
@@ -92650,6 +92658,10 @@
     {
         "appid": 1508770,
         "name": "Selfpolis"
+    },
+    {
+        "appid": 1508790,
+        "name": "仙妖宗门"
     },
     {
         "appid": 1508800,
@@ -159548,10 +159560,6 @@
         "name": "GoonyaFighter - New battle style: \"Super Untouchable Goonya Fighters!!\""
     },
     {
-        "appid": 1782510,
-        "name": "The Grugs: Origins"
-    },
-    {
         "appid": 1782520,
         "name": "Marble Puzzle Blast - Rescue Adventure"
     },
@@ -160917,7 +160925,7 @@
     },
     {
         "appid": 1788060,
-        "name": "Candy House in the Dark Forest"
+        "name": "CANDY HOUSE in the DARK FOREST"
     },
     {
         "appid": 1788080,
@@ -186656,6 +186664,10 @@
         "name": "Brothers"
     },
     {
+        "appid": 1897180,
+        "name": "Where is my other sock?"
+    },
+    {
         "appid": 1897200,
         "name": "Coloring Pixels - Cute Pack"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 1955110,
         "name": "Star Stuff"
-    },
-    {
-        "appid": 1955120,
-        "name": "Nemire"
-    },
-    {
-        "appid": 1955150,
-        "name": "Lux Ex: Cyber Initiation"
-    },
-    {
-        "appid": 1955160,
-        "name": "MEARTH"
     }
 ]
