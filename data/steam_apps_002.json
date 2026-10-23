@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1109330,
-        "name": "Boobs vs Zombies - Wallpapers"
-    },
-    {
-        "appid": 1109331,
-        "name": "Boobs vs Zombies - Hintbook"
-    },
-    {
         "appid": 1109340,
         "name": "Tennis. Amazing tournament"
     },
@@ -11681,7 +11673,7 @@
     },
     {
         "appid": 1156250,
-        "name": "Exorcism of the Legion (Last Rites)"
+        "name": "Exorcism of the Legion (Last Rites) VR"
     },
     {
         "appid": 1156270,
@@ -96640,6 +96632,10 @@
         "name": "PolyCore Defense"
     },
     {
+        "appid": 1526940,
+        "name": "Trains Together"
+    },
+    {
         "appid": 1527010,
         "name": "Beyond The Pines"
     },
@@ -100434,6 +100430,10 @@
     {
         "appid": 1545050,
         "name": "Beyond the Eyes"
+    },
+    {
+        "appid": 1545060,
+        "name": "Epic Wings 2"
     },
     {
         "appid": 1545080,
@@ -113194,6 +113194,10 @@
     {
         "appid": 1598441,
         "name": "Back 4 Blood Annual Pass"
+    },
+    {
+        "appid": 1598442,
+        "name": "Back 4 Blood Ultimate Edition Digital Content"
     },
     {
         "appid": 1598470,
@@ -190220,6 +190224,10 @@
         "name": "Scapegoat"
     },
     {
+        "appid": 1914260,
+        "name": "Spellstrider"
+    },
+    {
         "appid": 1914270,
         "name": "Ultimate Super Bean"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1955090,
         "name": "KeepUp Survival - Tropical Island Map"
-    },
-    {
-        "appid": 1955100,
-        "name": "怯懦 Cowardice"
-    },
-    {
-        "appid": 1955110,
-        "name": "Star Stuff"
     }
 ]

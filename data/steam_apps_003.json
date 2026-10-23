@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
+    },
+    {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
         "appid": 1955120,
         "name": "Nemire"
     },
@@ -3318,10 +3326,6 @@
     {
         "appid": 1968540,
         "name": "Crafting Town"
-    },
-    {
-        "appid": 1968570,
-        "name": "The Quintessential Quintuplets OMOIDE VR ~ITSUKI~"
     },
     {
         "appid": 1968600,
@@ -26185,7 +26189,7 @@
     },
     {
         "appid": 2098250,
-        "name": "Shaytan"
+        "name": "Whispers of the Fall"
     },
     {
         "appid": 2098260,
@@ -47048,10 +47052,6 @@
         "name": "Naturia"
     },
     {
-        "appid": 2191890,
-        "name": "Ghostwage"
-    },
-    {
         "appid": 2191900,
         "name": "Nyanco Impact - NSFW Pack"
     },
@@ -56270,10 +56270,6 @@
     {
         "appid": 2232970,
         "name": "Sisters hypnosis sex"
-    },
-    {
-        "appid": 2233020,
-        "name": "The Quintessential Quintuplets OMOIDE VR ~YOTSUBA~"
     },
     {
         "appid": 2233040,
@@ -67438,6 +67434,10 @@
     {
         "appid": 2284650,
         "name": "Sweet Dreams Dahlia"
+    },
+    {
+        "appid": 2284660,
+        "name": "Everything Bites"
     },
     {
         "appid": 2284680,
@@ -148892,10 +148892,6 @@
         "name": "Bear Jojo"
     },
     {
-        "appid": 2674310,
-        "name": "Global Transit Manager"
-    },
-    {
         "appid": 2674340,
         "name": "School Hero"
     },
@@ -150038,6 +150034,10 @@
     {
         "appid": 2679660,
         "name": "Traveler's Refrain"
+    },
+    {
+        "appid": 2679670,
+        "name": "DriftNo"
     },
     {
         "appid": 2679690,
@@ -170604,6 +170604,10 @@
         "name": "Waven - Drhell's Bells Pack"
     },
     {
+        "appid": 2781120,
+        "name": "Temporal Distortion"
+    },
+    {
         "appid": 2781130,
         "name": "Remnant Records - Supporter Pack"
     },
@@ -171181,7 +171185,7 @@
     },
     {
         "appid": 2784180,
-        "name": "バレないように裸コートで露出するセレカさん"
+        "name": "Seleka-san who Exposes unnoticed with Naked Coat"
     },
     {
         "appid": 2784210,
@@ -182620,10 +182624,6 @@
         "name": "Galactic Counselors"
     },
     {
-        "appid": 2842410,
-        "name": "Elfenberg"
-    },
-    {
         "appid": 2842420,
         "name": "1000 Cuts: Jomaku"
     },
@@ -185070,6 +185070,10 @@
     {
         "appid": 2853870,
         "name": "Take off a mask"
+    },
+    {
+        "appid": 2853880,
+        "name": "The Lords' Game"
     },
     {
         "appid": 2853890,
@@ -193556,6 +193560,10 @@
         "name": "Empire Builder"
     },
     {
+        "appid": 2896600,
+        "name": "Candy Land"
+    },
+    {
         "appid": 2896610,
         "name": "Candela: Colorless Dreams"
     },
@@ -198524,10 +198532,6 @@
         "name": "捏鼠妙妙屋"
     },
     {
-        "appid": 2922790,
-        "name": "Arena of Trophies"
-    },
-    {
         "appid": 2922800,
         "name": "Quackdzilla: Pool Cleaning Simulator"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929960,
         "name": "Planet Game"
-    },
-    {
-        "appid": 2930000,
-        "name": "Kunkun Terror Express-Ultimate Fan Edition(upgrade)"
     }
 ]

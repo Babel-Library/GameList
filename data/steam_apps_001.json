@@ -18073,7 +18073,7 @@
     },
     {
         "appid": 286690,
-        "name": "Metro 2033 Redux"
+        "name": "METRO 2033 Redux"
     },
     {
         "appid": 286730,
@@ -18217,7 +18217,7 @@
     },
     {
         "appid": 287390,
-        "name": "Metro: Last Light Redux"
+        "name": "METRO Last Light Redux"
     },
     {
         "appid": 287450,
@@ -66062,10 +66062,6 @@
     {
         "appid": 517470,
         "name": "King of Booze: Drinking Game"
-    },
-    {
-        "appid": 517480,
-        "name": "VHSoverdose"
     },
     {
         "appid": 517500,
@@ -178248,10 +178244,6 @@
         "name": "La Douche"
     },
     {
-        "appid": 1019690,
-        "name": "Ghost Buster 3D"
-    },
-    {
         "appid": 1019700,
         "name": "Fighting Spree 3D"
     },
@@ -199998,5 +199990,13 @@
     {
         "appid": 1109310,
         "name": "Expansion"
+    },
+    {
+        "appid": 1109330,
+        "name": "Boobs vs Zombies - Wallpapers"
+    },
+    {
+        "appid": 1109331,
+        "name": "Boobs vs Zombies - Hintbook"
     }
 ]
