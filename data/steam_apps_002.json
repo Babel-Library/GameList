@@ -1,29 +1,5 @@
 [
     {
-        "appid": 1109340,
-        "name": "Tennis. Amazing tournament"
-    },
-    {
-        "appid": 1109350,
-        "name": "ANCIENT SOULS : The Governor"
-    },
-    {
-        "appid": 1109360,
-        "name": "Hentai Mosaique Fix-IT Shoppe"
-    },
-    {
-        "appid": 1109400,
-        "name": "Dino Delivery"
-    },
-    {
-        "appid": 1109410,
-        "name": "Perspective"
-    },
-    {
-        "appid": 1109420,
-        "name": "The Luminist"
-    },
-    {
         "appid": 1109460,
         "name": "There is No GreenDam"
     },
@@ -20270,10 +20246,6 @@
     {
         "appid": 1189490,
         "name": "觅长生"
-    },
-    {
-        "appid": 1189520,
-        "name": "Street Hoop"
     },
     {
         "appid": 1189590,
@@ -61828,10 +61800,6 @@
         "name": "Dead or Mad"
     },
     {
-        "appid": 1373430,
-        "name": "Leisure Suit Larry - Wet Dreams Dry Twice"
-    },
-    {
         "appid": 1373440,
         "name": "Picross for a Cause"
     },
@@ -81614,10 +81582,6 @@
     {
         "appid": 1460870,
         "name": "Amazing Pyramids: Rebirth"
-    },
-    {
-        "appid": 1460880,
-        "name": "Leisure Suit Larry - Wet Dreams Don't Dry Artbook"
     },
     {
         "appid": 1460910,
@@ -184833,7 +184797,7 @@
     },
     {
         "appid": 1888550,
-        "name": "The capitalist world of Goblin"
+        "name": "The Wonderful World of Goblins"
     },
     {
         "appid": 1888560,
@@ -187298,6 +187262,10 @@
     {
         "appid": 1900540,
         "name": "Calrivar Cluster"
+    },
+    {
+        "appid": 1900590,
+        "name": "Blackout"
     },
     {
         "appid": 1900630,
@@ -199998,5 +199966,37 @@
     {
         "appid": 1955090,
         "name": "KeepUp Survival - Tropical Island Map"
+    },
+    {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
+    },
+    {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
+        "appid": 1955160,
+        "name": "MEARTH"
+    },
+    {
+        "appid": 1955200,
+        "name": "Gate Builders"
+    },
+    {
+        "appid": 1955230,
+        "name": "Penny’s Big Breakaway"
+    },
+    {
+        "appid": 1955260,
+        "name": "Nightmare Rooms VR"
     }
 ]

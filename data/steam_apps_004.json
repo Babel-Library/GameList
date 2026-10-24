@@ -1,17 +1,5 @@
 [
     {
-        "appid": 2930000,
-        "name": "Kunkun Terror Express-Ultimate Fan Edition(upgrade)"
-    },
-    {
-        "appid": 2930010,
-        "name": "No Way Out"
-    },
-    {
-        "appid": 2930020,
-        "name": "Chillax"
-    },
-    {
         "appid": 2930030,
         "name": "Oath of the Necromancer"
     },
@@ -10820,6 +10808,10 @@
         "name": "Abyssal"
     },
     {
+        "appid": 2983060,
+        "name": "Backroom Brawl"
+    },
+    {
         "appid": 2983070,
         "name": "MouseVentures"
     },
@@ -13581,7 +13573,7 @@
     },
     {
         "appid": 2997450,
-        "name": "Only Up: SKIBIDI"
+        "name": "Climbing with Skibidi"
     },
     {
         "appid": 2997460,
@@ -16234,6 +16226,10 @@
     {
         "appid": 3010670,
         "name": "Two Doors"
+    },
+    {
+        "appid": 3010690,
+        "name": "Abyssal Station"
     },
     {
         "appid": 3010750,
@@ -49724,6 +49720,10 @@
         "name": "CrimSaw"
     },
     {
+        "appid": 3179030,
+        "name": "Total Loss"
+    },
+    {
         "appid": 3179040,
         "name": "Frontier Hunter - DLC : Mother's Trial"
     },
@@ -71668,6 +71668,10 @@
         "name": "Meander Land"
     },
     {
+        "appid": 3296130,
+        "name": "Loot Before Dusk"
+    },
+    {
         "appid": 3296160,
         "name": "Wendigo's Outside"
     },
@@ -78584,6 +78588,10 @@
         "name": "Magic Puzzle King 2: Rolling Cat"
     },
     {
+        "appid": 3330230,
+        "name": "AI Learning Simulator"
+    },
+    {
         "appid": 3330250,
         "name": "Ithya: Magic Studies"
     },
@@ -79606,6 +79614,10 @@
     {
         "appid": 3334990,
         "name": "Relicbound"
+    },
+    {
+        "appid": 3335010,
+        "name": "Tumbledown"
     },
     {
         "appid": 3335020,
@@ -86272,6 +86284,10 @@
         "name": "Blob : Theme Pack 01"
     },
     {
+        "appid": 3366850,
+        "name": "Snipers & Airdrops"
+    },
+    {
         "appid": 3366870,
         "name": "Fatal Research"
     },
@@ -87909,7 +87925,7 @@
     },
     {
         "appid": 3374800,
-        "name": "PUSS! 【♄】ｏｔｈｅｒｗｏｒｌｄ"
+        "name": "PUSS! 【♄】 otherworld"
     },
     {
         "appid": 3374820,
@@ -104486,6 +104502,10 @@
     {
         "appid": 3456880,
         "name": "Pinball Simulator"
+    },
+    {
+        "appid": 3456900,
+        "name": "Mega Million Fish"
     },
     {
         "appid": 3456910,
@@ -138425,7 +138445,7 @@
     },
     {
         "appid": 3637810,
-        "name": "Crystallcaller"
+        "name": "Crystalcaller"
     },
     {
         "appid": 3637820,
@@ -144956,6 +144976,10 @@
         "name": "BlackGate"
     },
     {
+        "appid": 3670480,
+        "name": "Anomaly Manual: Aquarium"
+    },
+    {
         "appid": 3670490,
         "name": "Echoes of Eclipse"
     },
@@ -149114,6 +149138,10 @@
     {
         "appid": 3693190,
         "name": "Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage"
+    },
+    {
+        "appid": 3693220,
+        "name": "Troublemaker 3: Fallen Dynasty"
     },
     {
         "appid": 3693230,
@@ -170144,6 +170172,10 @@
         "name": "PAC-MAN WORLD 2 Re-PAC - Sonic the Hedgehog Collaboration Set"
     },
     {
+        "appid": 3810960,
+        "name": "Sting Operation"
+    },
+    {
         "appid": 3810970,
         "name": "Lost Galaxy: Echoes of War"
     },
@@ -183632,6 +183664,10 @@
         "name": "Hunter's Moon: A Sovereign Syndicate Adventure"
     },
     {
+        "appid": 3877810,
+        "name": "Crispy Billiards"
+    },
+    {
         "appid": 3877830,
         "name": "Beachside Cafe Simulator"
     },
@@ -184674,6 +184710,10 @@
     {
         "appid": 3882160,
         "name": "ハルスベリヤ叙事詩2.5：設定資料集"
+    },
+    {
+        "appid": 3882170,
+        "name": "WISP"
     },
     {
         "appid": 3882180,
@@ -192949,7 +192989,7 @@
     },
     {
         "appid": 3923500,
-        "name": "ROOM 413"
+        "name": "Investigation of Room 413"
     },
     {
         "appid": 3923590,
@@ -199308,6 +199348,10 @@
         "name": "Yinglet Creator"
     },
     {
+        "appid": 3954570,
+        "name": "Lamplight Yard"
+    },
+    {
         "appid": 3954580,
         "name": "Star Trek: Infection"
     },
@@ -199954,49 +199998,5 @@
     {
         "appid": 3957950,
         "name": "Undockable"
-    },
-    {
-        "appid": 3957960,
-        "name": "Ether Core"
-    },
-    {
-        "appid": 3957980,
-        "name": "Lumines Arise Digital Deluxe DLC"
-    },
-    {
-        "appid": 3958020,
-        "name": "Lily's Lil Video Shop!"
-    },
-    {
-        "appid": 3958030,
-        "name": "Digital Scape"
-    },
-    {
-        "appid": 3958040,
-        "name": "Wanech's C.A.N."
-    },
-    {
-        "appid": 3958060,
-        "name": "CUFFBUST: Fly Guys - Drone Pack"
-    },
-    {
-        "appid": 3958070,
-        "name": "CUFFBUST: Drippy Stuff - Cosmetic Expansion Pack"
-    },
-    {
-        "appid": 3958080,
-        "name": "Pixel Shinobi"
-    },
-    {
-        "appid": 3958150,
-        "name": "Park it at All Costs!"
-    },
-    {
-        "appid": 3958160,
-        "name": "One Turret"
-    },
-    {
-        "appid": 3958200,
-        "name": "FROB"
     }
 ]

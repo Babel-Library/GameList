@@ -63796,26 +63796,6 @@
         "name": "Last Stitch Goodnight"
     },
     {
-        "appid": 509643,
-        "name": "Rocksmith® 2014 Edition – Remastered – White Zombie  - “Black Sunshine”"
-    },
-    {
-        "appid": 509644,
-        "name": "Rocksmith® 2014 Edition – Remastered – Rob Zombie  - “Dragula”"
-    },
-    {
-        "appid": 509645,
-        "name": "Rocksmith® 2014 Edition – Remastered – Rob Zombie  - “Living Dead Girl”"
-    },
-    {
-        "appid": 509646,
-        "name": "Rocksmith® 2014 Edition – Remastered – Rob Zombie  - “Superbeast”"
-    },
-    {
-        "appid": 509647,
-        "name": "Rocksmith® 2014 Edition – Remastered – Zombie Song Pack"
-    },
-    {
         "appid": 509648,
         "name": "Rocksmith® 2014 Edition - Remastered – Panic! At The Disco - “Ballad of Mona Lisa”"
     },
@@ -121094,10 +121074,6 @@
     {
         "appid": 765830,
         "name": "Zaccaria Pinball - Campaign Mode"
-    },
-    {
-        "appid": 765870,
-        "name": "Leisure Suit Larry - Wet Dreams Don't Dry"
     },
     {
         "appid": 765880,
@@ -199998,5 +199974,29 @@
     {
         "appid": 1109331,
         "name": "Boobs vs Zombies - Hintbook"
+    },
+    {
+        "appid": 1109340,
+        "name": "Tennis. Amazing tournament"
+    },
+    {
+        "appid": 1109350,
+        "name": "ANCIENT SOULS : The Governor"
+    },
+    {
+        "appid": 1109360,
+        "name": "Hentai Mosaique Fix-IT Shoppe"
+    },
+    {
+        "appid": 1109400,
+        "name": "Dino Delivery"
+    },
+    {
+        "appid": 1109410,
+        "name": "Perspective"
+    },
+    {
+        "appid": 1109420,
+        "name": "The Luminist"
     }
 ]
