@@ -1,5 +1,25 @@
 [
     {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
+        "appid": 1955160,
+        "name": "MEARTH"
+    },
+    {
+        "appid": 1955200,
+        "name": "Gate Builders"
+    },
+    {
+        "appid": 1955230,
+        "name": "Penny’s Big Breakaway"
+    },
+    {
+        "appid": 1955260,
+        "name": "Nightmare Rooms VR"
+    },
+    {
         "appid": 1955300,
         "name": "VOIDHUNTER"
     },
@@ -120368,6 +120388,10 @@
         "name": "Anime Angels (feat. Tomozero)"
     },
     {
+        "appid": 2529630,
+        "name": "SOUL BET PARTY"
+    },
+    {
         "appid": 2529710,
         "name": "Modulor"
     },
@@ -176276,6 +176300,10 @@
         "name": "Ensnared"
     },
     {
+        "appid": 2810490,
+        "name": "Card Shards"
+    },
+    {
         "appid": 2810500,
         "name": "Thievery: Online"
     },
@@ -199970,33 +199998,5 @@
     {
         "appid": 2929830,
         "name": "Megan's Adventure"
-    },
-    {
-        "appid": 2929840,
-        "name": "Dreams and bubbles"
-    },
-    {
-        "appid": 2929880,
-        "name": "Z-Factor"
-    },
-    {
-        "appid": 2929890,
-        "name": "Cyborg City"
-    },
-    {
-        "appid": 2929960,
-        "name": "Planet Game"
-    },
-    {
-        "appid": 2930000,
-        "name": "Kunkun Terror Express-Ultimate Fan Edition(upgrade)"
-    },
-    {
-        "appid": 2930010,
-        "name": "No Way Out"
-    },
-    {
-        "appid": 2930020,
-        "name": "Chillax"
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "appid": 2929840,
+        "name": "Dreams and bubbles"
+    },
+    {
+        "appid": 2929880,
+        "name": "Z-Factor"
+    },
+    {
+        "appid": 2929890,
+        "name": "Cyborg City"
+    },
+    {
+        "appid": 2929960,
+        "name": "Planet Game"
+    },
+    {
+        "appid": 2930000,
+        "name": "Kunkun Terror Express-Ultimate Fan Edition(upgrade)"
+    },
+    {
+        "appid": 2930010,
+        "name": "No Way Out"
+    },
+    {
+        "appid": 2930020,
+        "name": "Chillax"
+    },
+    {
         "appid": 2930030,
         "name": "Oath of the Necromancer"
     },
@@ -51650,6 +51678,10 @@
     {
         "appid": 3189030,
         "name": "The Amen Variations"
+    },
+    {
+        "appid": 3189060,
+        "name": "Pirate Privateer"
     },
     {
         "appid": 3189070,
@@ -161856,6 +161888,10 @@
         "name": "Lone City: Founder's Prestige Pack"
     },
     {
+        "appid": 3764220,
+        "name": "Lone City: The Ashen Archives"
+    },
+    {
         "appid": 3764230,
         "name": "JustRun"
     },
@@ -183440,6 +183476,10 @@
         "name": "The Man in the Park 2: The Second Man in the Park"
     },
     {
+        "appid": 3876560,
+        "name": "Obsidian Tower"
+    },
+    {
         "appid": 3876590,
         "name": "Cozy Factory"
     },
@@ -199958,45 +199998,5 @@
     {
         "appid": 3957700,
         "name": "Funko Fusion - Happy Funkoween Pack"
-    },
-    {
-        "appid": 3957720,
-        "name": "Grim Pastures: Outlaws"
-    },
-    {
-        "appid": 3957770,
-        "name": "Hot Meals Fast Wheels"
-    },
-    {
-        "appid": 3957780,
-        "name": "Teddy Horses"
-    },
-    {
-        "appid": 3957810,
-        "name": "Beghost"
-    },
-    {
-        "appid": 3957840,
-        "name": "Strato Freaks DX"
-    },
-    {
-        "appid": 3957860,
-        "name": "6 rooms"
-    },
-    {
-        "appid": 3957870,
-        "name": "A Dream You Had Before the Dream You Had Before the Dream"
-    },
-    {
-        "appid": 3957890,
-        "name": "an unplayable game?!"
-    },
-    {
-        "appid": 3957900,
-        "name": "A Day with Wuki"
-    },
-    {
-        "appid": 3957950,
-        "name": "Undockable"
     }
 ]

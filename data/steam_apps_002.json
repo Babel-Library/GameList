@@ -53592,6 +53592,10 @@
         "name": "Blu : Chronicles of Talpa"
     },
     {
+        "appid": 1339980,
+        "name": "HS of Death"
+    },
+    {
         "appid": 1339990,
         "name": "Fantasy Grounds - Star Battles: Nebulae and Asteroids Space Map Pack"
     },
@@ -91132,6 +91136,10 @@
         "name": "R18Plus Monster Girl You-ki chan"
     },
     {
+        "appid": 1502130,
+        "name": "Color With Friends"
+    },
+    {
         "appid": 1502140,
         "name": "Sengoku: Shadow Strikers"
     },
@@ -96662,6 +96670,10 @@
     {
         "appid": 1527380,
         "name": "引力魔方(Gravity rubik's cube)"
+    },
+    {
+        "appid": 1527410,
+        "name": "Morse Operator"
     },
     {
         "appid": 1527420,
@@ -114162,6 +114174,10 @@
     {
         "appid": 1602990,
         "name": "POG"
+    },
+    {
+        "appid": 1603000,
+        "name": "HEDZ Reloaded"
     },
     {
         "appid": 1603010,
@@ -190200,6 +190216,10 @@
         "name": "Ultimate Super Bean"
     },
     {
+        "appid": 1914280,
+        "name": "Inkwell Infinity"
+    },
+    {
         "appid": 1914330,
         "name": "Sprites at Play"
     },
@@ -199978,25 +199998,5 @@
     {
         "appid": 1955120,
         "name": "Nemire"
-    },
-    {
-        "appid": 1955150,
-        "name": "Lux Ex: Cyber Initiation"
-    },
-    {
-        "appid": 1955160,
-        "name": "MEARTH"
-    },
-    {
-        "appid": 1955200,
-        "name": "Gate Builders"
-    },
-    {
-        "appid": 1955230,
-        "name": "Penny’s Big Breakaway"
-    },
-    {
-        "appid": 1955260,
-        "name": "Nightmare Rooms VR"
     }
 ]
