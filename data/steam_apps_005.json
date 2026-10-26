@@ -1,5 +1,9 @@
 [
     {
+        "appid": 3957700,
+        "name": "Funko Fusion - Happy Funkoween Pack"
+    },
+    {
         "appid": 3957720,
         "name": "Grim Pastures: Outlaws"
     },
@@ -33768,6 +33772,10 @@
         "name": "Wings Of Rage"
     },
     {
+        "appid": 4143640,
+        "name": "Reef Break"
+    },
+    {
         "appid": 4143660,
         "name": "さいはて駅[黄昏電鐵]公式設定資料集・アートワーク"
     },
@@ -38474,6 +38482,10 @@
     {
         "appid": 4168110,
         "name": "Wake Up and Jump!"
+    },
+    {
+        "appid": 4168160,
+        "name": "Dajimo Arena: Team Showdown"
     },
     {
         "appid": 4168170,
@@ -92696,6 +92708,10 @@
         "name": "DRYER DRAMA"
     },
     {
+        "appid": 4466380,
+        "name": "Army of the Potomac"
+    },
+    {
         "appid": 4466390,
         "name": "Spellrite"
     },
@@ -100206,6 +100222,10 @@
     {
         "appid": 4508450,
         "name": "Death Dealer"
+    },
+    {
+        "appid": 4508470,
+        "name": "Out of Sync"
     },
     {
         "appid": 4508500,
@@ -110214,6 +110234,10 @@
     {
         "appid": 4560820,
         "name": "Beetle Sumo"
+    },
+    {
+        "appid": 4560830,
+        "name": "Terminal Drift"
     },
     {
         "appid": 4560840,
@@ -137074,6 +137098,10 @@
     {
         "appid": 4716300,
         "name": "Penguin, but why?"
+    },
+    {
+        "appid": 4716310,
+        "name": "Asterium"
     },
     {
         "appid": 4716320,
@@ -165004,6 +165032,10 @@
         "name": "Vermin God"
     },
     {
+        "appid": 4884980,
+        "name": "龙游记·断角"
+    },
+    {
         "appid": 4885010,
         "name": "Daymark"
     },
@@ -165933,7 +165965,7 @@
     },
     {
         "appid": 4889930,
-        "name": "AKIBA LOST ドラマムービー"
+        "name": "AKIBA LOST - Drama Movie"
     },
     {
         "appid": 4889940,
@@ -171524,6 +171556,10 @@
         "name": "Tally Man"
     },
     {
+        "appid": 4919780,
+        "name": "讨喜的桌面物语"
+    },
+    {
         "appid": 4919850,
         "name": "Glory"
     },
@@ -172606,6 +172642,10 @@
     {
         "appid": 4925890,
         "name": "Mischief House"
+    },
+    {
+        "appid": 4925920,
+        "name": "獸化論"
     },
     {
         "appid": 4925930,
@@ -179061,7 +179101,7 @@
     },
     {
         "appid": 4961330,
-        "name": "叠叠不休"
+        "name": "StackOn"
     },
     {
         "appid": 4961370,
@@ -196876,6 +196916,10 @@
         "name": "World of Warships — West Virginia ’41 Pack"
     },
     {
+        "appid": 5064940,
+        "name": "Maycrest Heights"
+    },
+    {
         "appid": 5064950,
         "name": "Pick a Door"
     },
@@ -199954,49 +199998,5 @@
     {
         "appid": 5083290,
         "name": "Neighbor Craft"
-    },
-    {
-        "appid": 5083370,
-        "name": "Whisker Tinkers"
-    },
-    {
-        "appid": 5083390,
-        "name": "Coin Rush"
-    },
-    {
-        "appid": 5083410,
-        "name": "Tales of Pagodia"
-    },
-    {
-        "appid": 5083420,
-        "name": "Seed State"
-    },
-    {
-        "appid": 5083440,
-        "name": "BRUTAL DERBY"
-    },
-    {
-        "appid": 5083470,
-        "name": "ORACLE: Humanity, Automated"
-    },
-    {
-        "appid": 5083490,
-        "name": "Dijkstra Order"
-    },
-    {
-        "appid": 5083510,
-        "name": "Duelist: Idle Expedition - Supporter Pack"
-    },
-    {
-        "appid": 5083520,
-        "name": "Duelist: Idle Expedition - Beginner Pack"
-    },
-    {
-        "appid": 5083560,
-        "name": "Coindrop Dungeon"
-    },
-    {
-        "appid": 5083610,
-        "name": "Grand Snow Rider"
     }
 ]

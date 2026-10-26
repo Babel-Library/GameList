@@ -151448,6 +151448,10 @@
         "name": "Speak of the Devil I: A Deathly Proposition"
     },
     {
+        "appid": 2686600,
+        "name": "Throneheart: Rise of a Dynasty"
+    },
+    {
         "appid": 2686630,
         "name": "Voyagers of Nera"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929820,
         "name": "IRIS"
-    },
-    {
-        "appid": 2929830,
-        "name": "Megan's Adventure"
     }
 ]
