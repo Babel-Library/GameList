@@ -42388,6 +42388,10 @@
         "name": "soundStrider"
     },
     {
+        "appid": 1283480,
+        "name": "Mossback"
+    },
+    {
         "appid": 1283500,
         "name": "Euphoria: Supreme Mechanics"
     },
@@ -44528,10 +44532,6 @@
         "name": "Grim Tales: The Generous Gift Collector's Edition"
     },
     {
-        "appid": 1292160,
-        "name": "Launch Break"
-    },
-    {
         "appid": 1292170,
         "name": "Krush Kill 'N Destroy Xtreme"
     },
@@ -45682,6 +45682,10 @@
     {
         "appid": 1297900,
         "name": "Gothic 1 Remake"
+    },
+    {
+        "appid": 1297910,
+        "name": "世界第一游戏公司"
     },
     {
         "appid": 1297950,
@@ -56210,6 +56214,10 @@
     {
         "appid": 1351720,
         "name": "Sharks of Mars: Prologue"
+    },
+    {
+        "appid": 1351740,
+        "name": "Maximum Aura"
     },
     {
         "appid": 1351780,
@@ -148212,6 +148220,10 @@
         "name": "THE IDOLM@STER STARLIT SEASON - E-mail Bundle From Everyone"
     },
     {
+        "appid": 1732710,
+        "name": "Celesthral"
+    },
+    {
         "appid": 1732720,
         "name": "周松传"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 1955090,
         "name": "KeepUp Survival - Tropical Island Map"
-    },
-    {
-        "appid": 1955100,
-        "name": "怯懦 Cowardice"
-    },
-    {
-        "appid": 1955110,
-        "name": "Star Stuff"
-    },
-    {
-        "appid": 1955120,
-        "name": "Nemire"
     }
 ]

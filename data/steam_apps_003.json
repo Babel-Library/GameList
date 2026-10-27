@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
+    },
+    {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
         "appid": 1955150,
         "name": "Lux Ex: Cyber Initiation"
     },
@@ -41760,6 +41772,10 @@
         "name": "Hero Jumper Demo"
     },
     {
+        "appid": 2169180,
+        "name": "V Rising - Haunted Nights Castle Pack"
+    },
+    {
         "appid": 2169190,
         "name": "Hack & Schlitz - Dwarf"
     },
@@ -51677,7 +51693,7 @@
     },
     {
         "appid": 2212620,
-        "name": "SnowGlobe"
+        "name": "Island Detector"
     },
     {
         "appid": 2212650,
@@ -121365,7 +121381,7 @@
     },
     {
         "appid": 2534390,
-        "name": "tri MI no"
+        "name": "triMIno"
     },
     {
         "appid": 2534430,
@@ -138578,6 +138594,10 @@
     {
         "appid": 2624130,
         "name": "Dungeon 3D - Viking DLC"
+    },
+    {
+        "appid": 2624150,
+        "name": "MADiSON: The Maxwells' Curse"
     },
     {
         "appid": 2624160,
@@ -170512,10 +170532,6 @@
         "name": "デジプラコレクション まるごと鉄道！ミニ ～JR九州編～"
     },
     {
-        "appid": 2780600,
-        "name": "Dark Investigation : Experiment"
-    },
-    {
         "appid": 2780640,
         "name": "The Cyber Masquerade"
     },
@@ -199982,21 +199998,5 @@
     {
         "appid": 2929730,
         "name": "Cat Bait"
-    },
-    {
-        "appid": 2929740,
-        "name": "My Christmas Present"
-    },
-    {
-        "appid": 2929770,
-        "name": "Spine & Quill"
-    },
-    {
-        "appid": 2929790,
-        "name": "ACROFLOW"
-    },
-    {
-        "appid": 2929820,
-        "name": "IRIS"
     }
 ]

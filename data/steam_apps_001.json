@@ -19260,10 +19260,6 @@
         "name": "Galcon 2: Galactic Conquest"
     },
     {
-        "appid": 294180,
-        "name": "Realm of the Mad God: Steam Booster Pack"
-    },
-    {
         "appid": 294190,
         "name": "A-Men 2"
     },
@@ -22210,10 +22206,6 @@
     {
         "appid": 310890,
         "name": "Breach & Clear: Deadline Rebirth (2016)"
-    },
-    {
-        "appid": 310950,
-        "name": "Street Fighter V"
     },
     {
         "appid": 310970,
@@ -31514,6 +31506,10 @@
     {
         "appid": 352450,
         "name": "Taro the Sneaky Ninja"
+    },
+    {
+        "appid": 352500,
+        "name": "Task Bar Isekai"
     },
     {
         "appid": 352520,
@@ -72728,10 +72724,6 @@
         "name": "Rezrog"
     },
     {
-        "appid": 548380,
-        "name": "Realm of the Mad God: Halloween Pack"
-    },
-    {
         "appid": 548390,
         "name": "Gimbal Gravity"
     },
@@ -77734,6 +77726,10 @@
     {
         "appid": 570720,
         "name": "Fantasy Grounds - Islands of Plunder: Tarin's Crown (PFRPG)"
+    },
+    {
+        "appid": 570740,
+        "name": "Keep an Eye"
     },
     {
         "appid": 570750,
@@ -129554,6 +129550,10 @@
     {
         "appid": 804270,
         "name": "Chex Quest HD"
+    },
+    {
+        "appid": 804280,
+        "name": "Starwake"
     },
     {
         "appid": 804290,
