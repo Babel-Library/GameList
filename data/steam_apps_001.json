@@ -34560,6 +34560,10 @@
         "name": "Flying Tigers: Shadows Over China - Official Soundtrack"
     },
     {
+        "appid": 366460,
+        "name": "Pavel Quest"
+    },
+    {
         "appid": 366510,
         "name": "Ruzar - The Life Stone"
     },
@@ -57492,10 +57496,6 @@
         "name": "Song of the Deep - Soundtrack"
     },
     {
-        "appid": 475230,
-        "name": "Street Fighter V - A Shadow Falls (Cinematic Story Expansion)"
-    },
-    {
         "appid": 475240,
         "name": "ORCS"
     },
@@ -58070,10 +58070,6 @@
     {
         "appid": 480500,
         "name": "Dogfight Elite"
-    },
-    {
-        "appid": 480520,
-        "name": "Street Fighter V - Capcom Pro Tour 2016 Pack"
     },
     {
         "appid": 480560,
@@ -82522,10 +82518,6 @@
     {
         "appid": 590720,
         "name": "Cobalt WASD"
-    },
-    {
-        "appid": 590750,
-        "name": "Street Fighter V - Capcom Pro Tour 2017 Premier Pass"
     },
     {
         "appid": 590760,
@@ -121132,6 +121124,10 @@
         "name": "Kaz Ball"
     },
     {
+        "appid": 766270,
+        "name": "Block Garden"
+    },
+    {
         "appid": 766280,
         "name": "A Light in the Dark"
     },
@@ -126050,10 +126046,6 @@
     {
         "appid": 789450,
         "name": "Zim's Word Game"
-    },
-    {
-        "appid": 789460,
-        "name": "Street Fighter V - Capcom Pro Tour: 2018 Premier Pass"
     },
     {
         "appid": 789480,
@@ -172416,10 +172408,6 @@
         "name": "Maestro: Dark Talent Collector's Edition"
     },
     {
-        "appid": 995950,
-        "name": "Street Fighter V - Capcom Pro Tour: 2019 Premier Pass"
-    },
-    {
         "appid": 995980,
         "name": "Fae Tactics"
     },
@@ -189432,6 +189420,10 @@
         "name": "GOD WARS The Complete Legend - True Three Sacred Treasures Set"
     },
     {
+        "appid": 1066070,
+        "name": "Cave In: Miner Rescue Team"
+    },
+    {
         "appid": 1066090,
         "name": "守护未来 GUARD THE FUTURE"
     },
@@ -199998,5 +199990,13 @@
     {
         "appid": 1109420,
         "name": "The Luminist"
+    },
+    {
+        "appid": 1109460,
+        "name": "There is No GreenDam"
+    },
+    {
+        "appid": 1109470,
+        "name": "LiLy's Revenge: Broken"
     }
 ]

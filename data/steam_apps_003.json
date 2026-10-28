@@ -1,45 +1,5 @@
 [
     {
-        "appid": 1955100,
-        "name": "怯懦 Cowardice"
-    },
-    {
-        "appid": 1955110,
-        "name": "Star Stuff"
-    },
-    {
-        "appid": 1955120,
-        "name": "Nemire"
-    },
-    {
-        "appid": 1955150,
-        "name": "Lux Ex: Cyber Initiation"
-    },
-    {
-        "appid": 1955160,
-        "name": "MEARTH"
-    },
-    {
-        "appid": 1955200,
-        "name": "Gate Builders"
-    },
-    {
-        "appid": 1955230,
-        "name": "Penny’s Big Breakaway"
-    },
-    {
-        "appid": 1955260,
-        "name": "Nightmare Rooms VR"
-    },
-    {
-        "appid": 1955300,
-        "name": "VOIDHUNTER"
-    },
-    {
-        "appid": 1955310,
-        "name": "The Eyes"
-    },
-    {
         "appid": 1955320,
         "name": "Cars 'n Guns"
     },
@@ -1694,10 +1654,6 @@
     {
         "appid": 1961410,
         "name": "Askaya: Remnants of Ajuna"
-    },
-    {
-        "appid": 1961460,
-        "name": "PROJECT: PLAYTIME"
     },
     {
         "appid": 1961480,
@@ -13122,6 +13078,10 @@
     {
         "appid": 2015130,
         "name": "Thrae"
+    },
+    {
+        "appid": 2015140,
+        "name": "Overdrive"
     },
     {
         "appid": 2015160,
@@ -24782,6 +24742,10 @@
     {
         "appid": 2092010,
         "name": "Attack of the Trafalas®"
+    },
+    {
+        "appid": 2092020,
+        "name": "Kastrava"
     },
     {
         "appid": 2092030,
@@ -59086,10 +59050,6 @@
     {
         "appid": 2245330,
         "name": "Tin Edge"
-    },
-    {
-        "appid": 2245370,
-        "name": "Another Man's Wife"
     },
     {
         "appid": 2245390,
@@ -127848,6 +127808,10 @@
         "name": "剑隐/Hidden Sword"
     },
     {
+        "appid": 2567120,
+        "name": "Pet Pals"
+    },
+    {
         "appid": 2567140,
         "name": "Flower in Us Digital Wallpaper"
     },
@@ -147580,6 +147544,10 @@
         "name": "Spellarium 10"
     },
     {
+        "appid": 2668250,
+        "name": "Dragona: Fireborne"
+    },
+    {
         "appid": 2668290,
         "name": "Warhammer 40,000: Boltgun - Forges of Corruption Expansion"
     },
@@ -149814,6 +149782,10 @@
     {
         "appid": 2678560,
         "name": "Gridmaster"
+    },
+    {
+        "appid": 2678570,
+        "name": "Hit The Buzzer"
     },
     {
         "appid": 2678590,
@@ -155657,7 +155629,7 @@
     },
     {
         "appid": 2706440,
-        "name": "Holomancer"
+        "name": "Obu"
     },
     {
         "appid": 2706450,
@@ -199998,5 +199970,33 @@
     {
         "appid": 2929730,
         "name": "Cat Bait"
+    },
+    {
+        "appid": 2929740,
+        "name": "My Christmas Present"
+    },
+    {
+        "appid": 2929770,
+        "name": "Spine & Quill"
+    },
+    {
+        "appid": 2929790,
+        "name": "ACROFLOW"
+    },
+    {
+        "appid": 2929820,
+        "name": "IRIS"
+    },
+    {
+        "appid": 2929830,
+        "name": "Megan's Adventure"
+    },
+    {
+        "appid": 2929840,
+        "name": "Dreams and bubbles"
+    },
+    {
+        "appid": 2929880,
+        "name": "Z-Factor"
     }
 ]

@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1109460,
-        "name": "There is No GreenDam"
-    },
-    {
-        "appid": 1109470,
-        "name": "LiLy's Revenge: Broken"
-    },
-    {
         "appid": 1109480,
         "name": "Mega Man Zero/ZX Legacy Collection - Mega Man Zero/ZX Reploid Remixes"
     },
@@ -10248,14 +10240,6 @@
         "name": "KobberParty - Castle Explorer"
     },
     {
-        "appid": 1150190,
-        "name": "Street Fighter V - Champion Edition Upgrade Kit"
-    },
-    {
-        "appid": 1150195,
-        "name": "Street Fighter V - Champion Edition Special Color"
-    },
-    {
         "appid": 1150230,
         "name": "VR Nostalgia 5"
     },
@@ -15738,10 +15722,6 @@
     {
         "appid": 1172530,
         "name": "Daylife in Japan - Pixel Art Jigsaw Puzzle"
-    },
-    {
-        "appid": 1172540,
-        "name": "Street Fighter V - Champion Edition Special Wallpapers"
     },
     {
         "appid": 1172600,
@@ -30682,10 +30662,6 @@
     {
         "appid": 1233090,
         "name": "Mommy - Artbook"
-    },
-    {
-        "appid": 1233100,
-        "name": "Street Fighter V - Capcom Pro Tour: 2020 Premier Pass"
     },
     {
         "appid": 1233120,
@@ -68740,14 +68716,6 @@
         "name": "Synthwave Glider"
     },
     {
-        "appid": 1405400,
-        "name": "Street Fighter V - SFL2020 UYU Costumes Bundle"
-    },
-    {
-        "appid": 1405401,
-        "name": "Street Fighter V - SFL2020 NASR Costumes Bundle"
-    },
-    {
         "appid": 1405440,
         "name": "The Horror Of Salazar House"
     },
@@ -74484,6 +74452,10 @@
         "name": "Kaputte Kranz Chap1"
     },
     {
+        "appid": 1429060,
+        "name": "Your place"
+    },
+    {
         "appid": 1429070,
         "name": "The Illuminati Simulator"
     },
@@ -78400,6 +78372,10 @@
         "name": "Mandew vs the Colorless Curse"
     },
     {
+        "appid": 1447420,
+        "name": "Burg Battle"
+    },
+    {
         "appid": 1447430,
         "name": "小黑盒加速器"
     },
@@ -79173,7 +79149,7 @@
     },
     {
         "appid": 1450460,
-        "name": "CUSTOM ORDER MAID 3D2 it's a Night Magic + GP01"
+        "name": "CUSTOM ORDER MAID 3D2 it's a Night Magic + GP-01"
     },
     {
         "appid": 1450530,
@@ -84464,10 +84440,6 @@
         "name": "G.NOM"
     },
     {
-        "appid": 1473430,
-        "name": "Street Fighter V - Season 5 Premium Pass"
-    },
-    {
         "appid": 1473440,
         "name": "Yuhha: Stolen Treasure WALLPAPER PACK"
     },
@@ -84658,10 +84630,6 @@
     {
         "appid": 1474220,
         "name": "Wonder Defense: Chapter Earth"
-    },
-    {
-        "appid": 1474240,
-        "name": "Street Fighter V - Season 5 Special Wallpapers"
     },
     {
         "appid": 1474280,
@@ -91366,10 +91334,6 @@
     {
         "appid": 1503000,
         "name": "The Chaos Gene"
-    },
-    {
-        "appid": 1503030,
-        "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
     },
     {
         "appid": 1503040,
@@ -135497,7 +135461,7 @@
     },
     {
         "appid": 1693070,
-        "name": "THE MADHOUSE | 感染屋敷"
+        "name": "THE MADHOUSE: INFECTION"
     },
     {
         "appid": 1693090,
@@ -156617,7 +156581,7 @@
     },
     {
         "appid": 1769710,
-        "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic +GP02"
+        "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic + GP-02"
     },
     {
         "appid": 1769720,
@@ -170658,10 +170622,6 @@
     {
         "appid": 1825930,
         "name": "孤岛海妖 The Sea-demon"
-    },
-    {
-        "appid": 1825950,
-        "name": "Street Fighter V - Capcom Pro Tour: 2022 Premier Pass"
     },
     {
         "appid": 1825970,
@@ -199998,5 +199958,45 @@
     {
         "appid": 1955090,
         "name": "KeepUp Survival - Tropical Island Map"
+    },
+    {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
+    },
+    {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
+        "appid": 1955160,
+        "name": "MEARTH"
+    },
+    {
+        "appid": 1955200,
+        "name": "Gate Builders"
+    },
+    {
+        "appid": 1955230,
+        "name": "Penny’s Big Breakaway"
+    },
+    {
+        "appid": 1955260,
+        "name": "Nightmare Rooms VR"
+    },
+    {
+        "appid": 1955300,
+        "name": "VOIDHUNTER"
+    },
+    {
+        "appid": 1955310,
+        "name": "The Eyes"
     }
 ]

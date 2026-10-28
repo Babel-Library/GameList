@@ -1,33 +1,5 @@
 [
     {
-        "appid": 2929740,
-        "name": "My Christmas Present"
-    },
-    {
-        "appid": 2929770,
-        "name": "Spine & Quill"
-    },
-    {
-        "appid": 2929790,
-        "name": "ACROFLOW"
-    },
-    {
-        "appid": 2929820,
-        "name": "IRIS"
-    },
-    {
-        "appid": 2929830,
-        "name": "Megan's Adventure"
-    },
-    {
-        "appid": 2929840,
-        "name": "Dreams and bubbles"
-    },
-    {
-        "appid": 2929880,
-        "name": "Z-Factor"
-    },
-    {
         "appid": 2929890,
         "name": "Cyborg City"
     },
@@ -1018,6 +990,10 @@
     {
         "appid": 2935380,
         "name": "Little Fire Girl Fights Final Boss / 小紅姐掉站终极Boss!"
+    },
+    {
+        "appid": 2935390,
+        "name": "save"
     },
     {
         "appid": 2935400,
@@ -3350,6 +3326,10 @@
     {
         "appid": 2946780,
         "name": "Read Only Memories: NEURODIVER - Game Manual"
+    },
+    {
+        "appid": 2946800,
+        "name": "Proverbial"
     },
     {
         "appid": 2946810,
@@ -39232,6 +39212,10 @@
         "name": "Liquor Store Simulator"
     },
     {
+        "appid": 3124570,
+        "name": "Crosshair Overlay"
+    },
+    {
         "appid": 3124580,
         "name": "of the Devil - Episode 1"
     },
@@ -58040,6 +58024,10 @@
         "name": "Mind Hole"
     },
     {
+        "appid": 3220460,
+        "name": "Lucky Scoop"
+    },
+    {
         "appid": 3220470,
         "name": "Moonlit"
     },
@@ -61132,6 +61120,10 @@
         "name": "Elementix"
     },
     {
+        "appid": 3237510,
+        "name": "The Alters: Deluxe Outfits"
+    },
+    {
         "appid": 3237520,
         "name": "The Alters: Last Variable"
     },
@@ -62877,39 +62869,15 @@
     },
     {
         "appid": 3246290,
-        "name": "0101 - Classic Bonus Levels 1"
+        "name": "0101 - Crossflip Bonus Levels"
     },
     {
         "appid": 3246300,
-        "name": "0101 - Pusher Bonus Levels 1"
+        "name": "0101 - Pusher Bonus Levels"
     },
     {
         "appid": 3246310,
-        "name": "0101 - Counter Bonus Levels 1"
-    },
-    {
-        "appid": 3246320,
-        "name": "0101 - Classic Bonus Levels 2"
-    },
-    {
-        "appid": 3246330,
-        "name": "0101 - Pusher Bonus Levels 2"
-    },
-    {
-        "appid": 3246340,
-        "name": "0101 - Counter Bonus Levels 2"
-    },
-    {
-        "appid": 3246350,
-        "name": "0101 - Classic Bonus Levels 3"
-    },
-    {
-        "appid": 3246360,
-        "name": "0101 - Pusher Bonus Levels 3"
-    },
-    {
-        "appid": 3246370,
-        "name": "0101 - Counter Bonus Levels 3"
+        "name": "0101 - Counter Bonus Levels"
     },
     {
         "appid": 3246420,
@@ -100080,10 +100048,6 @@
         "name": "Timer"
     },
     {
-        "appid": 3435840,
-        "name": "Card Bundler: Complete Collection"
-    },
-    {
         "appid": 3435870,
         "name": "Don't Fall Down"
     },
@@ -117578,6 +117542,10 @@
     {
         "appid": 3531490,
         "name": "Treeplanter: Plant real trees🌲"
+    },
+    {
+        "appid": 3531510,
+        "name": "Clocklooped: Prison 12"
     },
     {
         "appid": 3531520,
@@ -135760,10 +135728,6 @@
         "name": "Fantasy Grounds - Pathfinder RPG - Pathfinder Module: Cult of the Ebon Destroyers"
     },
     {
-        "appid": 3624020,
-        "name": "BULLET YEETERS"
-    },
-    {
         "appid": 3624040,
         "name": "Fantasy Grounds - D&D Classics - MC14 Monstrous Compendium Fiend Folio Appendix (2E)"
     },
@@ -136678,6 +136642,10 @@
     {
         "appid": 3628580,
         "name": "Digging the Forgotten Cave"
+    },
+    {
+        "appid": 3628590,
+        "name": "Too Big To Fail"
     },
     {
         "appid": 3628600,
@@ -172784,6 +172752,10 @@
         "name": "Legends of Amberland III: The Crimson Tower"
     },
     {
+        "appid": 3823530,
+        "name": "Emberbound: Three Pyres"
+    },
+    {
         "appid": 3823560,
         "name": "A Dream That Changes Everything"
     },
@@ -175734,6 +175706,10 @@
     {
         "appid": 3838820,
         "name": "Mirage Miracle Quest"
+    },
+    {
+        "appid": 3838860,
+        "name": "FPV Stuff"
     },
     {
         "appid": 3838900,
@@ -198048,6 +198024,10 @@
         "name": "Waste The Fallen"
     },
     {
+        "appid": 3948170,
+        "name": "Understory"
+    },
+    {
         "appid": 3948190,
         "name": "Rattenwalzer -Песня о борьбе и жизни человеческой-"
     },
@@ -198922,6 +198902,10 @@
     {
         "appid": 3952070,
         "name": "Nitro Turtles"
+    },
+    {
+        "appid": 3952080,
+        "name": "FEARSFROMARS"
     },
     {
         "appid": 3952090,
@@ -199998,5 +199982,21 @@
     {
         "appid": 3957650,
         "name": "Ropeat"
+    },
+    {
+        "appid": 3957680,
+        "name": "They Will Come"
+    },
+    {
+        "appid": 3957700,
+        "name": "Funko Fusion - Happy Funkoween Pack"
+    },
+    {
+        "appid": 3957720,
+        "name": "Grim Pastures: Outlaws"
+    },
+    {
+        "appid": 3957770,
+        "name": "Hot Meals Fast Wheels"
     }
 ]
