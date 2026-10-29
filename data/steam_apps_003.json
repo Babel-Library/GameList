@@ -16552,6 +16552,10 @@
         "name": "NEORUNNERS"
     },
     {
+        "appid": 2054440,
+        "name": "The Intruder"
+    },
+    {
         "appid": 2054470,
         "name": "Way of the Hunter - Aurora Shores"
     },
@@ -32437,7 +32441,7 @@
     },
     {
         "appid": 2125870,
-        "name": "30 Days Another"
+        "name": "30 Days"
     },
     {
         "appid": 2125880,
@@ -47152,6 +47156,10 @@
         "name": "Aunewyth"
     },
     {
+        "appid": 2192440,
+        "name": "Light the Void"
+    },
+    {
         "appid": 2192460,
         "name": "Clockwork Owl"
     },
@@ -59900,6 +59908,10 @@
         "name": "Kao the Kangaroo - Bend the Rooles"
     },
     {
+        "appid": 2249680,
+        "name": "Time Defense"
+    },
+    {
         "appid": 2249690,
         "name": "Super Death Game SHOW! VR"
     },
@@ -71258,6 +71270,10 @@
     {
         "appid": 2302990,
         "name": "Vacuum Warrior - Idle Game"
+    },
+    {
+        "appid": 2303000,
+        "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 3"
     },
     {
         "appid": 2303060,
@@ -102105,7 +102121,7 @@
     },
     {
         "appid": 2439510,
-        "name": "Doomsday: Undead Bride"
+        "name": "Doomsday: Last Survivors"
     },
     {
         "appid": 2439530,
@@ -127789,7 +127805,7 @@
     },
     {
         "appid": 2567040,
-        "name": "Only UP"
+        "name": "Girl Up"
     },
     {
         "appid": 2567050,
@@ -150280,6 +150296,10 @@
         "name": "Incarnation"
     },
     {
+        "appid": 2680820,
+        "name": "Earthlings"
+    },
+    {
         "appid": 2680830,
         "name": "写给妖精的情诗（love poem written for a fairy、妖精への情詩）"
     },
@@ -162174,6 +162194,10 @@
     {
         "appid": 2739700,
         "name": "Taimanin Yukikaze"
+    },
+    {
+        "appid": 2739730,
+        "name": "Knight Amount"
     },
     {
         "appid": 2739750,
@@ -182140,10 +182164,6 @@
         "name": "Necrosweeper"
     },
     {
-        "appid": 2839920,
-        "name": "Crossout — Ronin"
-    },
-    {
         "appid": 2839940,
         "name": "The Tomb of Corruption"
     },
@@ -199978,25 +199998,5 @@
     {
         "appid": 2929770,
         "name": "Spine & Quill"
-    },
-    {
-        "appid": 2929790,
-        "name": "ACROFLOW"
-    },
-    {
-        "appid": 2929820,
-        "name": "IRIS"
-    },
-    {
-        "appid": 2929830,
-        "name": "Megan's Adventure"
-    },
-    {
-        "appid": 2929840,
-        "name": "Dreams and bubbles"
-    },
-    {
-        "appid": 2929880,
-        "name": "Z-Factor"
     }
 ]

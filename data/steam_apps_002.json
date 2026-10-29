@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1109480,
-        "name": "Mega Man Zero/ZX Legacy Collection - Mega Man Zero/ZX Reploid Remixes"
-    },
-    {
         "appid": 1109490,
         "name": "The Cherry Orchard"
     },
@@ -43892,6 +43888,10 @@
         "name": "The Confession"
     },
     {
+        "appid": 1289650,
+        "name": "ASHGATE"
+    },
+    {
         "appid": 1289660,
         "name": "Fantasy Grounds - D&D Adventurers League 09-13 The Swarmed Heart"
     },
@@ -71132,6 +71132,10 @@
         "name": "The Dark: Survival RPG"
     },
     {
+        "appid": 1416020,
+        "name": "Ally Gory: The Great Mushroom Hunt"
+    },
+    {
         "appid": 1416040,
         "name": "Cocoa Loco"
     },
@@ -97626,10 +97630,6 @@
     {
         "appid": 1532180,
         "name": "Evo\\Wave"
-    },
-    {
-        "appid": 1532190,
-        "name": "Halo: CE Mod Tools - MCC"
     },
     {
         "appid": 1532200,

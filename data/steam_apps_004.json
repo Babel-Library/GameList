@@ -1,5 +1,25 @@
 [
     {
+        "appid": 2929790,
+        "name": "ACROFLOW"
+    },
+    {
+        "appid": 2929820,
+        "name": "IRIS"
+    },
+    {
+        "appid": 2929830,
+        "name": "Megan's Adventure"
+    },
+    {
+        "appid": 2929840,
+        "name": "Dreams and bubbles"
+    },
+    {
+        "appid": 2929880,
+        "name": "Z-Factor"
+    },
+    {
         "appid": 2929890,
         "name": "Cyborg City"
     },
@@ -22744,14 +22764,6 @@
         "name": "Cluminati"
     },
     {
-        "appid": 3044350,
-        "name": "Nazi Zombies"
-    },
-    {
-        "appid": 3044360,
-        "name": "Nazi Zombies - Supporter Pack"
-    },
-    {
         "appid": 3044370,
         "name": "7 Meters away - Wallpaper"
     },
@@ -25914,6 +25926,10 @@
     {
         "appid": 3059950,
         "name": "Pixel Puzzles Ultimate: Masquerade"
+    },
+    {
+        "appid": 3060000,
+        "name": "Pixel Puzzles Ultimate: Poema Del Mar"
     },
     {
         "appid": 3060010,
@@ -75729,7 +75745,7 @@
     },
     {
         "appid": 3315720,
-        "name": "位面领主：海盗与低语 Another World: Pirates And The Great Old Gods"
+        "name": "位面故事：百合梦 Tales of the Planes: Lily's Dream"
     },
     {
         "appid": 3315730,
@@ -89190,6 +89206,10 @@
     {
         "appid": 3381080,
         "name": "Hentai Aina"
+    },
+    {
+        "appid": 3381100,
+        "name": "Vampire Tactics"
     },
     {
         "appid": 3381120,
@@ -133452,6 +133472,10 @@
         "name": "Bot Colony _redux"
     },
     {
+        "appid": 3613100,
+        "name": "Mech Mice"
+    },
+    {
         "appid": 3613120,
         "name": "出摊啦！鼠大厨！"
     },
@@ -138422,6 +138446,10 @@
     {
         "appid": 3637660,
         "name": "Techno: 2Kill"
+    },
+    {
+        "appid": 3637670,
+        "name": "Not Very Smart"
     },
     {
         "appid": 3637690,
@@ -153748,6 +153776,10 @@
         "name": "Phantom Necro"
     },
     {
+        "appid": 3718450,
+        "name": "Devil's Bid"
+    },
+    {
         "appid": 3718470,
         "name": "Tales Of The Lost: The Stranger"
     },
@@ -162674,6 +162706,10 @@
     {
         "appid": 3768610,
         "name": "Hell Let Loose - Operation Overlord Units"
+    },
+    {
+        "appid": 3768620,
+        "name": "Knightcraft: Whispers of Blood"
     },
     {
         "appid": 3768660,
@@ -175826,6 +175862,10 @@
     {
         "appid": 3839550,
         "name": "飘渺西游"
+    },
+    {
+        "appid": 3839570,
+        "name": "Stripes & Solids & Straights"
     },
     {
         "appid": 3839580,
@@ -191424,6 +191464,10 @@
         "name": "SHE WAS 98"
     },
     {
+        "appid": 3916310,
+        "name": "Café Organ"
+    },
+    {
         "appid": 3916340,
         "name": "Breath Bound"
     },
@@ -199954,49 +199998,5 @@
     {
         "appid": 3957530,
         "name": "Shenmue III Enhanced"
-    },
-    {
-        "appid": 3957540,
-        "name": "Bloodless Heart"
-    },
-    {
-        "appid": 3957560,
-        "name": "S.E.M.I. – Side Effects May Include..."
-    },
-    {
-        "appid": 3957580,
-        "name": "Monster Survival"
-    },
-    {
-        "appid": 3957590,
-        "name": "Super Clown Ultimatum"
-    },
-    {
-        "appid": 3957620,
-        "name": "Eternal Guardian: Forbidden Portals"
-    },
-    {
-        "appid": 3957640,
-        "name": "RIP Love: A Story ofPain"
-    },
-    {
-        "appid": 3957650,
-        "name": "Ropeat"
-    },
-    {
-        "appid": 3957680,
-        "name": "They Will Come"
-    },
-    {
-        "appid": 3957700,
-        "name": "Funko Fusion - Happy Funkoween Pack"
-    },
-    {
-        "appid": 3957720,
-        "name": "Grim Pastures: Outlaws"
-    },
-    {
-        "appid": 3957770,
-        "name": "Hot Meals Fast Wheels"
     }
 ]

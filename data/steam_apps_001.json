@@ -122101,7 +122101,7 @@
     },
     {
         "appid": 770810,
-        "name": "Good Pizza, Great Pizza - Cooking Simulator Game"
+        "name": "Good Pizza, Great Pizza - Cozy Cooking Simulator"
     },
     {
         "appid": 770820,
@@ -194192,10 +194192,6 @@
         "name": "Faithful Panda"
     },
     {
-        "appid": 1086410,
-        "name": "Golf Around!"
-    },
-    {
         "appid": 1086450,
         "name": "Oik Memory: Endgame"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1109470,
         "name": "LiLy's Revenge: Broken"
+    },
+    {
+        "appid": 1109480,
+        "name": "Mega Man Zero/ZX Legacy Collection - Mega Man Zero/ZX Reploid Remixes"
     }
 ]
