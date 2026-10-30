@@ -23401,7 +23401,7 @@
     },
     {
         "appid": 1202360,
-        "name": "VR Gigapixel Gallery - visual VR Benchmark"
+        "name": "VR Gigapixel Gallery"
     },
     {
         "appid": 1202390,
@@ -81030,6 +81030,10 @@
     {
         "appid": 1458153,
         "name": "The Sims™ 4 Throwback Fit Kit"
+    },
+    {
+        "appid": 1458154,
+        "name": "The Sims™ 4 Country Kitchen Kit"
     },
     {
         "appid": 1458155,
@@ -147296,6 +147300,10 @@
         "name": "PlayForm: Human Dynamics"
     },
     {
+        "appid": 1729330,
+        "name": "SkyCruise"
+    },
+    {
         "appid": 1729340,
         "name": "Midnight School Walk 真夜中学園さんぽ"
     },
@@ -169166,6 +169174,10 @@
     {
         "appid": 1819930,
         "name": "Smeesa Street"
+    },
+    {
+        "appid": 1819940,
+        "name": "HoloVista"
     },
     {
         "appid": 1819950,
@@ -199986,17 +199998,5 @@
     {
         "appid": 1955230,
         "name": "Penny’s Big Breakaway"
-    },
-    {
-        "appid": 1955260,
-        "name": "Nightmare Rooms VR"
-    },
-    {
-        "appid": 1955300,
-        "name": "VOIDHUNTER"
-    },
-    {
-        "appid": 1955310,
-        "name": "The Eyes"
     }
 ]
