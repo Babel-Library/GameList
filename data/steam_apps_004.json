@@ -1,13 +1,5 @@
 [
     {
-        "appid": 2929660,
-        "name": "Touhou ~ Dreams of a Sunflower"
-    },
-    {
-        "appid": 2929670,
-        "name": "Ardency: Heart of the Rebellion"
-    },
-    {
         "appid": 2929680,
         "name": "Boats N' Hoes"
     },
@@ -7584,6 +7576,10 @@
         "name": "Level Down"
     },
     {
+        "appid": 2966960,
+        "name": "Wild Americas: Land Rush"
+    },
+    {
         "appid": 2966970,
         "name": "Volcanewt"
     },
@@ -9394,14 +9390,6 @@
     {
         "appid": 2974740,
         "name": "Toon Troops Strategy"
-    },
-    {
-        "appid": 2974960,
-        "name": "NBA 2K25 Pro Pass: Season 9"
-    },
-    {
-        "appid": 2974990,
-        "name": "NBA 2K25 Hall of Fame Pass: Season 9"
     },
     {
         "appid": 2975030,
@@ -21284,6 +21272,10 @@
         "name": "Gold Lining"
     },
     {
+        "appid": 3036510,
+        "name": "Sussy Schoolgrounds"
+    },
+    {
         "appid": 3036520,
         "name": "Rome Goes Rogue"
     },
@@ -28446,6 +28438,10 @@
     {
         "appid": 3072000,
         "name": "Literally Just Pixels On A Screen"
+    },
+    {
+        "appid": 3072030,
+        "name": "DEADEYE"
     },
     {
         "appid": 3072050,
@@ -38492,6 +38488,10 @@
         "name": "3D PUZZLE - Pizza Shop 2"
     },
     {
+        "appid": 3120330,
+        "name": "KRISENSTAB"
+    },
+    {
         "appid": 3120370,
         "name": "Click on clocks together"
     },
@@ -42676,10 +42676,6 @@
         "name": "Trainz 2022 DLC - Pro Train: Altoona Works"
     },
     {
-        "appid": 3142050,
-        "name": "Warborne Above Ashes"
-    },
-    {
         "appid": 3142060,
         "name": "Mine From Here"
     },
@@ -45418,6 +45414,10 @@
     {
         "appid": 3156020,
         "name": "Gloomveil"
+    },
+    {
+        "appid": 3156030,
+        "name": "Mind The Trunk"
     },
     {
         "appid": 3156050,
@@ -59816,6 +59816,10 @@
         "name": "Hardtrace"
     },
     {
+        "appid": 3229720,
+        "name": "Fishing Store Simulator"
+    },
+    {
         "appid": 3229730,
         "name": "Game Factory"
     },
@@ -61762,6 +61766,10 @@
     {
         "appid": 3240620,
         "name": "Astoria"
+    },
+    {
+        "appid": 3240640,
+        "name": "Dungeons & Taxes"
     },
     {
         "appid": 3240650,
@@ -66165,7 +66173,7 @@
     },
     {
         "appid": 3266110,
-        "name": "Black Pine: Incident Response"
+        "name": "Black Pine"
     },
     {
         "appid": 3266120,
@@ -74068,6 +74076,10 @@
         "name": "The Backrooms: Anomaly Containment Unit"
     },
     {
+        "appid": 3307290,
+        "name": "Dark Hours - Supporter Pack"
+    },
+    {
         "appid": 3307300,
         "name": "Chained 2 Violence"
     },
@@ -75246,14 +75258,6 @@
     {
         "appid": 3312900,
         "name": "NO STRANGERS - COSMETICS PACK #1"
-    },
-    {
-        "appid": 3313050,
-        "name": "NBA 2K25 MyTEAM Bonus Offer: Season 9"
-    },
-    {
-        "appid": 3313060,
-        "name": "NBA 2K25 MyCAREER Bonus Offer: Season 9"
     },
     {
         "appid": 3313070,
@@ -78338,6 +78342,10 @@
     {
         "appid": 3328940,
         "name": "The Isolated"
+    },
+    {
+        "appid": 3328950,
+        "name": "Conversations with My Imaginary Friends"
     },
     {
         "appid": 3328960,
@@ -83394,6 +83402,10 @@
     {
         "appid": 3353050,
         "name": "Base Defense"
+    },
+    {
+        "appid": 3353060,
+        "name": "Ninja Kaizen"
     },
     {
         "appid": 3353080,
@@ -91506,6 +91518,10 @@
     {
         "appid": 3392440,
         "name": "Crane Truck Simulator VR"
+    },
+    {
+        "appid": 3392480,
+        "name": "MATRYBALL"
     },
     {
         "appid": 3392490,
@@ -115232,10 +115248,6 @@
         "name": "No One Survived - Red Racer"
     },
     {
-        "appid": 3516800,
-        "name": "Hyper Mice Rescue"
-    },
-    {
         "appid": 3516810,
         "name": "Gal Guardians: Servants of the Dark - Demon Maid's Trusty Tools Set"
     },
@@ -131956,6 +131968,10 @@
         "name": "Duster Buster"
     },
     {
+        "appid": 3604990,
+        "name": "Torchview"
+    },
+    {
         "appid": 3605000,
         "name": "Nocturnarya Collector's Edition"
     },
@@ -137244,6 +137260,10 @@
         "name": "Super Crash"
     },
     {
+        "appid": 3631590,
+        "name": "Solidarity"
+    },
+    {
         "appid": 3631600,
         "name": "Skara"
     },
@@ -138770,6 +138790,10 @@
     {
         "appid": 3639190,
         "name": "Operation : Escape"
+    },
+    {
+        "appid": 3639200,
+        "name": "Missing body"
     },
     {
         "appid": 3639210,
@@ -150208,6 +150232,10 @@
         "name": "Hidengen"
     },
     {
+        "appid": 3698780,
+        "name": "Realm of Aeris"
+    },
+    {
         "appid": 3698790,
         "name": "Dead by Daylight - Steady Pulse"
     },
@@ -152550,6 +152578,10 @@
     {
         "appid": 3711660,
         "name": "Pillager"
+    },
+    {
+        "appid": 3711680,
+        "name": "Cyber Pizzaiolo"
     },
     {
         "appid": 3711690,
@@ -159340,6 +159372,10 @@
         "name": "Rat`s Lair"
     },
     {
+        "appid": 3749480,
+        "name": "Drudgemark"
+    },
+    {
         "appid": 3749490,
         "name": "Keuz Krusade"
     },
@@ -159354,6 +159390,10 @@
     {
         "appid": 3749550,
         "name": "JDM: Japanese Drift Master - Supporter Pack"
+    },
+    {
+        "appid": 3749570,
+        "name": "Quality Castles On Wheels"
     },
     {
         "appid": 3749580,
@@ -174804,6 +174844,10 @@
         "name": "Silent Cleaning"
     },
     {
+        "appid": 3834020,
+        "name": "Supa-Market: Japanese Super-Market Simulator"
+    },
+    {
         "appid": 3834060,
         "name": "Hello World: a developer story"
     },
@@ -175786,10 +175830,6 @@
     {
         "appid": 3839060,
         "name": "Children's Sandbox"
-    },
-    {
-        "appid": 3839070,
-        "name": "Neverending AI Storybook - HQ Image Model (Flux)"
     },
     {
         "appid": 3839110,
@@ -180270,6 +180310,10 @@
     {
         "appid": 3861080,
         "name": "Drink Up, Cowboy!"
+    },
+    {
+        "appid": 3861100,
+        "name": "Royal West India Company"
     },
     {
         "appid": 3861120,
@@ -185446,6 +185490,10 @@
     {
         "appid": 3885180,
         "name": "Spirit Whisperer Conversation With Akari"
+    },
+    {
+        "appid": 3885210,
+        "name": "汉末 - 谋时: Hanfall-Age of Stratagems"
     },
     {
         "appid": 3885220,
@@ -199950,53 +199998,5 @@
     {
         "appid": 3957240,
         "name": "Sail Girl"
-    },
-    {
-        "appid": 3957260,
-        "name": "MX Bodycam Bikes Racing"
-    },
-    {
-        "appid": 3957270,
-        "name": "Bozimer's Rage Game"
-    },
-    {
-        "appid": 3957290,
-        "name": "Yakuza Kiwami 3 & Dark Ties - Ichiban Kasuga Legendary Outfit Pack"
-    },
-    {
-        "appid": 3957320,
-        "name": "Agatha Christie - Death on the Nile - Digital Deluxe Upgrade"
-    },
-    {
-        "appid": 3957340,
-        "name": "Claire Darksage and the Accursed Objects Collector's Edition"
-    },
-    {
-        "appid": 3957350,
-        "name": "Plum Blossom Ascent"
-    },
-    {
-        "appid": 3957360,
-        "name": "Armored Warfare - Autumn Bundle: M1134"
-    },
-    {
-        "appid": 3957370,
-        "name": "Armored Warfare - Autumn Bundle: ZTL-11"
-    },
-    {
-        "appid": 3957380,
-        "name": "Armored Warfare - Autumn Bundle: Boxer CRV"
-    },
-    {
-        "appid": 3957390,
-        "name": "アストラリス"
-    },
-    {
-        "appid": 3957420,
-        "name": "COUNTERintuitive"
-    },
-    {
-        "appid": 3957430,
-        "name": "Captain Puff MacFly"
     }
 ]

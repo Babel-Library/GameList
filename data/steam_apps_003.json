@@ -103864,10 +103864,6 @@
         "name": "Cyberside Picnic"
     },
     {
-        "appid": 2446740,
-        "name": "X-Force Under Attack"
-    },
-    {
         "appid": 2446750,
         "name": "Good Pizza, Great Pizza - Space Race Set - Little Ovenists 2023"
     },
@@ -121472,6 +121468,10 @@
         "name": "Real Motocross Driving Simulator"
     },
     {
+        "appid": 2534870,
+        "name": "Soundweave"
+    },
+    {
         "appid": 2534930,
         "name": "Super Mayor"
     },
@@ -131506,10 +131506,6 @@
     {
         "appid": 2587500,
         "name": "Dead’s dawn"
-    },
-    {
-        "appid": 2587510,
-        "name": "Lost Cats"
     },
     {
         "appid": 2587590,
@@ -171820,6 +171816,10 @@
         "name": "Another Hour Another Planet"
     },
     {
+        "appid": 2787080,
+        "name": "THUNDERBOLT"
+    },
+    {
         "appid": 2787100,
         "name": "Viva Veloce"
     },
@@ -182696,10 +182696,6 @@
         "name": "Dangerous Galaxy"
     },
     {
-        "appid": 2842500,
-        "name": "Hentai Puzzle: Clarise"
-    },
-    {
         "appid": 2842510,
         "name": "Voidreth"
     },
@@ -189994,10 +189990,6 @@
     {
         "appid": 2878960,
         "name": "WWE 2K25"
-    },
-    {
-        "appid": 2878980,
-        "name": "NBA 2K25"
     },
     {
         "appid": 2878990,
@@ -199998,5 +199990,13 @@
     {
         "appid": 2929620,
         "name": "冒险日记 Adventure Diary- 扩展包"
+    },
+    {
+        "appid": 2929660,
+        "name": "Touhou ~ Dreams of a Sunflower"
+    },
+    {
+        "appid": 2929670,
+        "name": "Ardency: Heart of the Rebellion"
     }
 ]

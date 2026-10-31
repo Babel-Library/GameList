@@ -63788,26 +63788,6 @@
         "name": "Last Stitch Goodnight"
     },
     {
-        "appid": 509648,
-        "name": "Rocksmith® 2014 Edition - Remastered – Panic! At The Disco - “Ballad of Mona Lisa”"
-    },
-    {
-        "appid": 509649,
-        "name": "Rocksmith® 2014 Edition - Remastered – Steel Panther - “Eyes of a Panther”"
-    },
-    {
-        "appid": 509650,
-        "name": "Rocksmith® 2014 Edition - Remastered – Iggy and The Stooges - “Search and Destroy”"
-    },
-    {
-        "appid": 509651,
-        "name": "Rocksmith® 2014 Edition - Remastered – Marcy Playground - “Sex and Candy”"
-    },
-    {
-        "appid": 509652,
-        "name": "Rocksmith® 2014 Edition – Remastered – Variety Song Pack V"
-    },
-    {
         "appid": 509653,
         "name": "Rocksmith® 2014 Edition - Remastered – Poison - “Talk Dirty To Me”"
     },
@@ -177652,6 +177632,10 @@
         "name": "DEEP HOLE"
     },
     {
+        "appid": 1017250,
+        "name": "Shepherd's Keeper"
+    },
+    {
         "appid": 1017260,
         "name": "Nobunaga's Ambition: Taishi - 「TSUKUMO」タイアップ顔CGセット PCメーカー/ショップタイアップ顔データ複数（２点）"
     },
@@ -194192,6 +194176,10 @@
         "name": "Faithful Panda"
     },
     {
+        "appid": 1086410,
+        "name": "Golf Around!"
+    },
+    {
         "appid": 1086450,
         "name": "Oik Memory: Endgame"
     },
@@ -199998,5 +199986,17 @@
     {
         "appid": 1109480,
         "name": "Mega Man Zero/ZX Legacy Collection - Mega Man Zero/ZX Reploid Remixes"
+    },
+    {
+        "appid": 1109490,
+        "name": "The Cherry Orchard"
+    },
+    {
+        "appid": 1109510,
+        "name": "KATANA KAMI: A Way of the Samurai Story - Wanderer Set"
+    },
+    {
+        "appid": 1109530,
+        "name": "KALEIDO STELLA-Original Sound Track"
     }
 ]

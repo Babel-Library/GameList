@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1109490,
-        "name": "The Cherry Orchard"
-    },
-    {
-        "appid": 1109510,
-        "name": "KATANA KAMI: A Way of the Samurai Story - Wanderer Set"
-    },
-    {
-        "appid": 1109530,
-        "name": "KALEIDO STELLA-Original Sound Track"
-    },
-    {
         "appid": 1109550,
         "name": "CricVRX - VR Cricket"
     },
@@ -45760,10 +45748,6 @@
         "name": "宇宙探索"
     },
     {
-        "appid": 1298390,
-        "name": "Rubble Bubble"
-    },
-    {
         "appid": 1298410,
         "name": "Zodiac - Hellish Memory"
     },
@@ -65153,7 +65137,7 @@
     },
     {
         "appid": 1388130,
-        "name": "Religion inc."
+        "name": "Religion inc. God Simulator"
     },
     {
         "appid": 1388140,
@@ -94808,10 +94792,6 @@
         "name": "Horse Club Adventures"
     },
     {
-        "appid": 1518860,
-        "name": "Gravel Gang"
-    },
-    {
         "appid": 1518870,
         "name": "Across"
     },
@@ -111976,6 +111956,10 @@
         "name": "DCS: Mi-24P HIND"
     },
     {
+        "appid": 1593370,
+        "name": "Stickforge"
+    },
+    {
         "appid": 1593390,
         "name": "Lies Under Ice"
     },
@@ -117716,6 +117700,10 @@
         "name": "SAMURAI SHODOWN - DLC CHARACTER \"IROHA\""
     },
     {
+        "appid": 1621640,
+        "name": "Potion Pals"
+    },
+    {
         "appid": 1621650,
         "name": "SAMURAI SHODOWN - DLC CHARACTER \"WARDEN\""
     },
@@ -117918,6 +117906,10 @@
     {
         "appid": 1622470,
         "name": "Content"
+    },
+    {
+        "appid": 1622500,
+        "name": "Turf Wars: Slumika"
     },
     {
         "appid": 1622510,
@@ -155356,6 +155348,10 @@
         "name": "Pogoman"
     },
     {
+        "appid": 1763280,
+        "name": "Fighting Front"
+    },
+    {
         "appid": 1763290,
         "name": "Fight Club - All Stars"
     },
@@ -162878,6 +162874,10 @@
     {
         "appid": 1796660,
         "name": "Troubled Passage"
+    },
+    {
+        "appid": 1796710,
+        "name": "Finders, Keepers"
     },
     {
         "appid": 1796720,
