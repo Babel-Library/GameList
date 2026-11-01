@@ -1,5 +1,45 @@
 [
     {
+        "appid": 3956980,
+        "name": "Apidya' Special"
+    },
+    {
+        "appid": 3956990,
+        "name": "GODSCALE"
+    },
+    {
+        "appid": 3957020,
+        "name": "Ticking Together Prologue"
+    },
+    {
+        "appid": 3957040,
+        "name": "Star Birds Digital Artbook"
+    },
+    {
+        "appid": 3957050,
+        "name": "Ballatory"
+    },
+    {
+        "appid": 3957070,
+        "name": "Human Planet"
+    },
+    {
+        "appid": 3957110,
+        "name": "Fantasy Franchise"
+    },
+    {
+        "appid": 3957140,
+        "name": "电音弹道"
+    },
+    {
+        "appid": 3957160,
+        "name": "明末渊虚之域穿越火线虹"
+    },
+    {
+        "appid": 3957240,
+        "name": "Sail Girl"
+    },
+    {
         "appid": 3957260,
         "name": "MX Bodycam Bikes Racing"
     },
@@ -5806,6 +5846,10 @@
     {
         "appid": 3987660,
         "name": "My Instrument"
+    },
+    {
+        "appid": 3987670,
+        "name": "Drawing Dead"
     },
     {
         "appid": 3987700,
@@ -19300,6 +19344,10 @@
         "name": "Stalker from Willowfield St."
     },
     {
+        "appid": 4063480,
+        "name": "Commune"
+    },
+    {
         "appid": 4063510,
         "name": "Salene"
     },
@@ -21442,6 +21490,10 @@
     {
         "appid": 4076100,
         "name": "山月记-人虎传"
+    },
+    {
+        "appid": 4076120,
+        "name": "3:10 AM"
     },
     {
         "appid": 4076160,
@@ -43641,7 +43693,7 @@
     },
     {
         "appid": 4193860,
-        "name": "凡人寻仙记"
+        "name": "寻仙"
     },
     {
         "appid": 4193870,
@@ -49009,7 +49061,7 @@
     },
     {
         "appid": 4221270,
-        "name": "Cauldron Chaos"
+        "name": "Cauldron Chaos: Co-op Potion Shop"
     },
     {
         "appid": 4221310,
@@ -107592,6 +107644,10 @@
         "name": "The Pissing Game"
     },
     {
+        "appid": 4545360,
+        "name": "Runoff"
+    },
+    {
         "appid": 4545370,
         "name": "Ancient Bloods: Shadowborn Rising"
     },
@@ -110106,6 +110162,10 @@
     {
         "appid": 4558380,
         "name": "Othello – The Official Game for Mac"
+    },
+    {
+        "appid": 4558430,
+        "name": "Homunculeye: Seer’s Ascent"
     },
     {
         "appid": 4558440,
@@ -134218,6 +134278,10 @@
     {
         "appid": 4696460,
         "name": "INFINITE MINEFIELD: INFINITE MOSAIC"
+    },
+    {
+        "appid": 4696480,
+        "name": "Gatefall: Rise of the Last Knight"
     },
     {
         "appid": 4696490,
@@ -163988,6 +164052,10 @@
         "name": "Enfer"
     },
     {
+        "appid": 4874500,
+        "name": "Thief Simulator - Private Collection DLC"
+    },
+    {
         "appid": 4874530,
         "name": "Detective Boto: Belle Memoir"
     },
@@ -184644,6 +184712,10 @@
         "name": "マイセリウムクイーン"
     },
     {
+        "appid": 4988400,
+        "name": "The Last Levee"
+    },
+    {
         "appid": 4988410,
         "name": "Chasing Dream"
     },
@@ -185738,6 +185810,10 @@
     {
         "appid": 4994490,
         "name": "Run to Run"
+    },
+    {
+        "appid": 4994500,
+        "name": "Nightfowl"
     },
     {
         "appid": 4994530,
@@ -187034,6 +187110,10 @@
     {
         "appid": 5001990,
         "name": "FIRST LINE"
+    },
+    {
+        "appid": 5002020,
+        "name": "I Wanna Be a Supernova"
     },
     {
         "appid": 5002040,
@@ -194772,6 +194852,10 @@
         "name": "Stellar Nursery"
     },
     {
+        "appid": 5046860,
+        "name": "HAXMAX"
+    },
+    {
         "appid": 5046870,
         "name": "Path of Broken Builds"
     },
@@ -195198,6 +195282,10 @@
     {
         "appid": 5049590,
         "name": "Packfall Chain Arena"
+    },
+    {
+        "appid": 5049600,
+        "name": "Solmallow"
     },
     {
         "appid": 5049610,
@@ -198208,6 +198296,10 @@
         "name": "Adverse Action"
     },
     {
+        "appid": 5067250,
+        "name": "Tank: Kill Them"
+    },
+    {
         "appid": 5067320,
         "name": "Submarine Together"
     },
@@ -199356,6 +199448,10 @@
         "name": "Monster Showdown"
     },
     {
+        "appid": 5073790,
+        "name": "New Babylon"
+    },
+    {
         "appid": 5073810,
         "name": "Imago Dei"
     },
@@ -199902,101 +199998,5 @@
     {
         "appid": 5076760,
         "name": "TinSpring Soccer"
-    },
-    {
-        "appid": 5076870,
-        "name": "Shifting Gears"
-    },
-    {
-        "appid": 5076890,
-        "name": "竹书纪年：三国志风云录威力加强版"
-    },
-    {
-        "appid": 5076910,
-        "name": "ZedFall: Outbreak"
-    },
-    {
-        "appid": 5076960,
-        "name": "Hollow Ones"
-    },
-    {
-        "appid": 5077030,
-        "name": "Bang Bang Boom Pow"
-    },
-    {
-        "appid": 5077050,
-        "name": "Lopem"
-    },
-    {
-        "appid": 5077080,
-        "name": "Mall Tidy Up Frenemies"
-    },
-    {
-        "appid": 5077110,
-        "name": "Morgierra: Survivor"
-    },
-    {
-        "appid": 5077140,
-        "name": "L.O.S.T."
-    },
-    {
-        "appid": 5077160,
-        "name": "FOTBackrooms"
-    },
-    {
-        "appid": 5077170,
-        "name": "Goblin Dodge"
-    },
-    {
-        "appid": 5077220,
-        "name": "PETRIVORE"
-    },
-    {
-        "appid": 5077230,
-        "name": "The Fox Vanishes: The Mystery of Mistveil"
-    },
-    {
-        "appid": 5077250,
-        "name": "Robot City: Delivery"
-    },
-    {
-        "appid": 5077270,
-        "name": "Better Clipboard"
-    },
-    {
-        "appid": 5077280,
-        "name": "Tower of Egress"
-    },
-    {
-        "appid": 5077290,
-        "name": "Ashfall Keep"
-    },
-    {
-        "appid": 5077300,
-        "name": "Taproot"
-    },
-    {
-        "appid": 5077310,
-        "name": "Darrell 3D"
-    },
-    {
-        "appid": 5077320,
-        "name": "TapRacer"
-    },
-    {
-        "appid": 5077340,
-        "name": "Sparkle Mouse"
-    },
-    {
-        "appid": 5077350,
-        "name": "Mortal Football"
-    },
-    {
-        "appid": 5077360,
-        "name": "CARDUNGEON"
-    },
-    {
-        "appid": 5077380,
-        "name": "WATER ZERO"
     }
 ]

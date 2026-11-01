@@ -1,5 +1,21 @@
 [
     {
+        "appid": 2929590,
+        "name": "All Fridges Are Psychotic"
+    },
+    {
+        "appid": 2929620,
+        "name": "冒险日记 Adventure Diary- 扩展包"
+    },
+    {
+        "appid": 2929660,
+        "name": "Touhou ~ Dreams of a Sunflower"
+    },
+    {
+        "appid": 2929670,
+        "name": "Ardency: Heart of the Rebellion"
+    },
+    {
         "appid": 2929680,
         "name": "Boats N' Hoes"
     },
@@ -26776,6 +26792,10 @@
         "name": "Pixel Dungeon VR"
     },
     {
+        "appid": 3063770,
+        "name": "一念万剑"
+    },
+    {
         "appid": 3063780,
         "name": "Horror Simulator VR"
     },
@@ -31414,6 +31434,10 @@
     {
         "appid": 3086420,
         "name": "ビビッター追加ミニゲーム「ビビリィージョーンズ」"
+    },
+    {
+        "appid": 3086430,
+        "name": "Fox in a Field"
     },
     {
         "appid": 3086440,
@@ -61998,6 +62022,10 @@
     {
         "appid": 3242010,
         "name": "Stranger Tavern - Brawl"
+    },
+    {
+        "appid": 3242050,
+        "name": "Sort It Together"
     },
     {
         "appid": 3242080,
@@ -108188,6 +108216,10 @@
         "name": "Valiant Worlds: Adventure of Falken - Crystal Swamp Map Expansion Pack"
     },
     {
+        "appid": 3477400,
+        "name": "Simutales"
+    },
+    {
         "appid": 3477450,
         "name": "Kaizen Kitchen: A Restaurant Simulator"
     },
@@ -110878,6 +110910,10 @@
     {
         "appid": 3492250,
         "name": "ULTRA X-TREME HUNTING SIMULATOR 2001"
+    },
+    {
+        "appid": 3492270,
+        "name": "Falt"
     },
     {
         "appid": 3492320,
@@ -187556,6 +187592,10 @@
         "name": "Till Checkout Do Us Part"
     },
     {
+        "appid": 3895320,
+        "name": "Shark's Request"
+    },
+    {
         "appid": 3895360,
         "name": "Smile Dog"
     },
@@ -199958,45 +199998,5 @@
     {
         "appid": 3956930,
         "name": "you can serve"
-    },
-    {
-        "appid": 3956980,
-        "name": "Apidya' Special"
-    },
-    {
-        "appid": 3956990,
-        "name": "GODSCALE"
-    },
-    {
-        "appid": 3957020,
-        "name": "Ticking Together Prologue"
-    },
-    {
-        "appid": 3957040,
-        "name": "Star Birds Digital Artbook"
-    },
-    {
-        "appid": 3957050,
-        "name": "Ballatory"
-    },
-    {
-        "appid": 3957070,
-        "name": "Human Planet"
-    },
-    {
-        "appid": 3957110,
-        "name": "Fantasy Franchise"
-    },
-    {
-        "appid": 3957140,
-        "name": "电音弹道"
-    },
-    {
-        "appid": 3957160,
-        "name": "明末渊虚之域穿越火线虹"
-    },
-    {
-        "appid": 3957240,
-        "name": "Sail Girl"
     }
 ]

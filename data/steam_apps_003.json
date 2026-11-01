@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1955200,
+        "name": "Gate Builders"
+    },
+    {
+        "appid": 1955230,
+        "name": "Penny’s Big Breakaway"
+    },
+    {
         "appid": 1955260,
         "name": "Nightmare Rooms VR"
     },
@@ -95552,6 +95560,10 @@
         "name": "CUSTOM ORDER MAID 3D2 Guarded, Blunt Girl GP-01"
     },
     {
+        "appid": 2408840,
+        "name": "不炼丹，就会死"
+    },
+    {
         "appid": 2408850,
         "name": "Tyrano Builder - Visual Novel GUI Pack #3 Color-Red [kopanda UI]"
     },
@@ -177584,6 +177596,10 @@
         "name": "Yaoling: Mythical Journey"
     },
     {
+        "appid": 2816970,
+        "name": "Glowgrove"
+    },
+    {
         "appid": 2817020,
         "name": "Lightist"
     },
@@ -199982,21 +199998,5 @@
     {
         "appid": 2929570,
         "name": "Escape The Evil"
-    },
-    {
-        "appid": 2929590,
-        "name": "All Fridges Are Psychotic"
-    },
-    {
-        "appid": 2929620,
-        "name": "冒险日记 Adventure Diary- 扩展包"
-    },
-    {
-        "appid": 2929660,
-        "name": "Touhou ~ Dreams of a Sunflower"
-    },
-    {
-        "appid": 2929670,
-        "name": "Ardency: Heart of the Rebellion"
     }
 ]

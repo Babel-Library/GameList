@@ -58045,7 +58045,7 @@
     },
     {
         "appid": 1359330,
-        "name": "Prop and Seek®: The Breach Protocol"
+        "name": "Prop and Seek®"
     },
     {
         "appid": 1359340,
@@ -144900,6 +144900,10 @@
         "name": "Visual Novel Maker - R.P.G DUB"
     },
     {
+        "appid": 1718990,
+        "name": "The Planewalker's Guild"
+    },
+    {
         "appid": 1719000,
         "name": "My Best Nightmare"
     },
@@ -186300,6 +186304,10 @@
         "name": "Greedventory"
     },
     {
+        "appid": 1895830,
+        "name": "Zoo Peaks : Riders"
+    },
+    {
         "appid": 1895860,
         "name": "Monster Girls and the Mysterious Adventure 2"
     },
@@ -199990,13 +199998,5 @@
     {
         "appid": 1955160,
         "name": "MEARTH"
-    },
-    {
-        "appid": 1955200,
-        "name": "Gate Builders"
-    },
-    {
-        "appid": 1955230,
-        "name": "Penny’s Big Breakaway"
     }
 ]
