@@ -1,5 +1,13 @@
 [
     {
+        "appid": 3956910,
+        "name": "Yandere Goth Delinquent Trouble 4"
+    },
+    {
+        "appid": 3956930,
+        "name": "you can serve"
+    },
+    {
         "appid": 3956980,
         "name": "Apidya' Special"
     },
@@ -26812,6 +26820,10 @@
         "name": "Otaku and Bubbly Girl - 游戏宅与青春女"
     },
     {
+        "appid": 4106040,
+        "name": "STRTK1NG-GHOST RUN"
+    },
+    {
         "appid": 4106050,
         "name": "Rleotha: Trial of Gods"
     },
@@ -52098,6 +52110,10 @@
     {
         "appid": 4237900,
         "name": "生于午夜"
+    },
+    {
+        "appid": 4237910,
+        "name": "The Thistle and the Flower - Chapter Three"
     },
     {
         "appid": 4237920,
@@ -79312,8 +79328,16 @@
         "name": "Hypernova - Founders Signal Pack"
     },
     {
+        "appid": 4389900,
+        "name": "Hypernova - Stellar Deluxe Content"
+    },
+    {
         "appid": 4389910,
         "name": "Hypernova - Starforged Arsenal Pack"
+    },
+    {
+        "appid": 4389920,
+        "name": "Hypernova - Singularity Cosmetic Pack"
     },
     {
         "appid": 4389930,
@@ -81468,6 +81492,10 @@
         "name": "Ogaiva"
     },
     {
+        "appid": 4403090,
+        "name": "My Unicorn Ranch"
+    },
+    {
         "appid": 4403160,
         "name": "The Guild Manager"
     },
@@ -82630,6 +82658,10 @@
     {
         "appid": 4410080,
         "name": "ULTRA"
+    },
+    {
+        "appid": 4410110,
+        "name": "Hypernova - Crimson Citadel Music Pack Vol. 1"
     },
     {
         "appid": 4410140,
@@ -86268,6 +86300,10 @@
         "name": "Gravedigger"
     },
     {
+        "appid": 4431510,
+        "name": "Swing Shift: Supper Club"
+    },
+    {
         "appid": 4431540,
         "name": "The Bitter End"
     },
@@ -88689,7 +88725,7 @@
     },
     {
         "appid": 4444110,
-        "name": "Dungeon Rampage - DLC: Dark Mage Skin"
+        "name": "Dungeon Rampage Remastered - DLC: Dark Mage Skin"
     },
     {
         "appid": 4444130,
@@ -114932,6 +114968,10 @@
         "name": "Short Snow - Chapter 2 Skin Pack"
     },
     {
+        "appid": 4583540,
+        "name": "Reborn As A Barbarian: A Sword & Sorcery Isekai Saga"
+    },
+    {
         "appid": 4583560,
         "name": "Tank 99"
     },
@@ -115370,6 +115410,10 @@
     {
         "appid": 4586050,
         "name": "CINIS"
+    },
+    {
+        "appid": 4586060,
+        "name": "Script Strike"
     },
     {
         "appid": 4586090,
@@ -174352,6 +174396,10 @@
         "name": "Alien Siege: Earth"
     },
     {
+        "appid": 4931710,
+        "name": "Voidlights"
+    },
+    {
         "appid": 4931720,
         "name": "Camera 5"
     },
@@ -177074,6 +177122,10 @@
     {
         "appid": 4945260,
         "name": "TMR simulator"
+    },
+    {
+        "appid": 4945290,
+        "name": "Hero of Sunset and the Wandering Knight"
     },
     {
         "appid": 4945310,
@@ -183170,6 +183222,10 @@
     {
         "appid": 4979990,
         "name": "My Army Getting Stronger"
+    },
+    {
+        "appid": 4980000,
+        "name": "Worldmage"
     },
     {
         "appid": 4980010,
@@ -189396,6 +189452,10 @@
         "name": "Primal Idle"
     },
     {
+        "appid": 5015740,
+        "name": "Sooooooooooo: Strike, Scream, Run!"
+    },
+    {
         "appid": 5015770,
         "name": "Unsolved Case: Whispers Of Elderwick DLC"
     },
@@ -192270,6 +192330,10 @@
     {
         "appid": 5032590,
         "name": "Feed The Machine"
+    },
+    {
+        "appid": 5032600,
+        "name": "Pog Hero"
     },
     {
         "appid": 5032610,
@@ -196016,6 +196080,10 @@
         "name": "Backrooms: False Exit"
     },
     {
+        "appid": 5053580,
+        "name": "Barista Dream - Prologue"
+    },
+    {
         "appid": 5053590,
         "name": "It's Just a Rescue, Bro! — Idle Hell RPG"
     },
@@ -198536,6 +198604,10 @@
         "name": "Grumpy Dungeon"
     },
     {
+        "appid": 5068630,
+        "name": "小星光 · 甜甜"
+    },
+    {
         "appid": 5068650,
         "name": "Mather"
     },
@@ -199416,6 +199488,10 @@
         "name": "Supporter Bundle #2 - Silly Linguine Cat Simulator Deluxe Online"
     },
     {
+        "appid": 5073650,
+        "name": "SONANCE"
+    },
+    {
         "appid": 5073660,
         "name": "VampOS: Red Ledger"
     },
@@ -199800,6 +199876,10 @@
         "name": "In that case..."
     },
     {
+        "appid": 5075550,
+        "name": "Isekai Lord: Desktop Realm"
+    },
+    {
         "appid": 5075560,
         "name": "Crease"
     },
@@ -199918,85 +199998,5 @@
     {
         "appid": 5076310,
         "name": "Cry Wolf"
-    },
-    {
-        "appid": 5076320,
-        "name": "Carpet Daddy"
-    },
-    {
-        "appid": 5076410,
-        "name": "RUN OR RUIN"
-    },
-    {
-        "appid": 5076420,
-        "name": "社畜就是要躺平"
-    },
-    {
-        "appid": 5076430,
-        "name": "Wandering Bard"
-    },
-    {
-        "appid": 5076440,
-        "name": "Solo Tower Defense VR"
-    },
-    {
-        "appid": 5076460,
-        "name": "DOTS VS PIXELS"
-    },
-    {
-        "appid": 5076490,
-        "name": "Whodunit Sudoku"
-    },
-    {
-        "appid": 5076500,
-        "name": "happy goose friends"
-    },
-    {
-        "appid": 5076510,
-        "name": "モンむすラッシュ"
-    },
-    {
-        "appid": 5076520,
-        "name": "StrongGirls Tactics"
-    },
-    {
-        "appid": 5076560,
-        "name": "Sex Drive Isekai"
-    },
-    {
-        "appid": 5076620,
-        "name": "Big Tiddy Goth Baddie🖤⛓ - Wallpapers 18+"
-    },
-    {
-        "appid": 5076650,
-        "name": "碧瑶峒回唱：米其林员工回忆录"
-    },
-    {
-        "appid": 5076680,
-        "name": "Until I Reclaim It"
-    },
-    {
-        "appid": 5076690,
-        "name": "Incremedieval"
-    },
-    {
-        "appid": 5076700,
-        "name": "REPLIK"
-    },
-    {
-        "appid": 5076720,
-        "name": "Cursed Backgammon"
-    },
-    {
-        "appid": 5076730,
-        "name": "东方灵境谭"
-    },
-    {
-        "appid": 5076740,
-        "name": "Coraline"
-    },
-    {
-        "appid": 5076760,
-        "name": "TinSpring Soccer"
     }
 ]

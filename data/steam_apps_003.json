@@ -114352,10 +114352,6 @@
         "name": "May Angels fall down"
     },
     {
-        "appid": 2498990,
-        "name": "Achievement Display Cabinet"
-    },
-    {
         "appid": 2499020,
         "name": "Metaheuristic"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 2929570,
         "name": "Escape The Evil"
+    },
+    {
+        "appid": 2929590,
+        "name": "All Fridges Are Psychotic"
     }
 ]

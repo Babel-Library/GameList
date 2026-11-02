@@ -1,9 +1,5 @@
 [
     {
-        "appid": 2929590,
-        "name": "All Fridges Are Psychotic"
-    },
-    {
         "appid": 2929620,
         "name": "冒险日记 Adventure Diary- 扩展包"
     },
@@ -8986,6 +8982,10 @@
     {
         "appid": 2972530,
         "name": "Playground Mayhem"
+    },
+    {
+        "appid": 2972580,
+        "name": "冰心侠录：她们的掌门"
     },
     {
         "appid": 2972590,
@@ -106109,7 +106109,7 @@
     },
     {
         "appid": 3464900,
-        "name": "Vanguard Princess (2025)"
+        "name": "Vanguard Princess (Modern)"
     },
     {
         "appid": 3464950,
@@ -160061,7 +160061,7 @@
     },
     {
         "appid": 3753300,
-        "name": "Dispatch Control Unterstützungs Packet"
+        "name": "Dispatch Control Supporter Pack"
     },
     {
         "appid": 3753310,
@@ -195892,6 +195892,10 @@
         "name": "Fartcore"
     },
     {
+        "appid": 3937660,
+        "name": "その天使、小悪魔系につき"
+    },
+    {
         "appid": 3937670,
         "name": "Fantasy Grounds - Treasury of the Crusade"
     },
@@ -195994,6 +195998,10 @@
     {
         "appid": 3938050,
         "name": "Vein-Weaver Knitting"
+    },
+    {
+        "appid": 3938070,
+        "name": "New Rule"
     },
     {
         "appid": 3938080,
@@ -199990,13 +199998,5 @@
     {
         "appid": 3956890,
         "name": "Lady Umbrella"
-    },
-    {
-        "appid": 3956910,
-        "name": "Yandere Goth Delinquent Trouble 4"
-    },
-    {
-        "appid": 3956930,
-        "name": "you can serve"
     }
 ]
