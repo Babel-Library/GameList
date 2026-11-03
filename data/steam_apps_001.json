@@ -76693,7 +76693,7 @@
     },
     {
         "appid": 566440,
-        "name": "Necromunda: Underhive Wars"
+        "name": "Necromunda: Underhive Wars (Classic)"
     },
     {
         "appid": 566480,
@@ -88358,10 +88358,6 @@
     {
         "appid": 618190,
         "name": "People Eater"
-    },
-    {
-        "appid": 618200,
-        "name": "Skylands"
     },
     {
         "appid": 618210,
@@ -112534,10 +112530,6 @@
     {
         "appid": 729640,
         "name": "BOMBFEST"
-    },
-    {
-        "appid": 729650,
-        "name": "More Than Just Chess"
     },
     {
         "appid": 729660,
@@ -163613,7 +163605,7 @@
     },
     {
         "appid": 956820,
-        "name": "Antumbra - Vile Shards"
+        "name": "Briefly Elsewhere"
     },
     {
         "appid": 956860,
@@ -199998,5 +199990,13 @@
     {
         "appid": 1109530,
         "name": "KALEIDO STELLA-Original Sound Track"
+    },
+    {
+        "appid": 1109550,
+        "name": "CricVRX - VR Cricket"
+    },
+    {
+        "appid": 1109560,
+        "name": "RPG Maker MV - Eberouge Background Image Pack 2"
     }
 ]

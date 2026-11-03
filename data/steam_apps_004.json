@@ -1,21 +1,5 @@
 [
     {
-        "appid": 2929620,
-        "name": "冒险日记 Adventure Diary- 扩展包"
-    },
-    {
-        "appid": 2929660,
-        "name": "Touhou ~ Dreams of a Sunflower"
-    },
-    {
-        "appid": 2929670,
-        "name": "Ardency: Heart of the Rebellion"
-    },
-    {
-        "appid": 2929680,
-        "name": "Boats N' Hoes"
-    },
-    {
         "appid": 2929730,
         "name": "Cat Bait"
     },
@@ -12102,34 +12086,6 @@
     {
         "appid": 2989510,
         "name": "Super Going Right Man"
-    },
-    {
-        "appid": 2989530,
-        "name": "Freestyle2 - Golden Character Coupon"
-    },
-    {
-        "appid": 2989540,
-        "name": "Freestyle2 - Cabernet Character Coupon"
-    },
-    {
-        "appid": 2989550,
-        "name": "Freestyle2 - Violet Character Coupon"
-    },
-    {
-        "appid": 2989560,
-        "name": "Freestyle2 - Nari Character Coupon"
-    },
-    {
-        "appid": 2989570,
-        "name": "Freestyle2 -  Razak Character Coupon"
-    },
-    {
-        "appid": 2989600,
-        "name": "Freestyle2 - Hot Summer Outfit Box"
-    },
-    {
-        "appid": 2989610,
-        "name": "Freestyle2 - Must-have summer Outfit Box"
     },
     {
         "appid": 2989660,
@@ -29250,6 +29206,10 @@
     {
         "appid": 3075820,
         "name": "Gori: Cuddly Carnage - Alienware Skin Pack"
+    },
+    {
+        "appid": 3075850,
+        "name": "STAY ALIVE: USSR"
     },
     {
         "appid": 3075860,
@@ -83064,6 +83024,10 @@
         "name": "Specter: The Battle of the Mind"
     },
     {
+        "appid": 3351310,
+        "name": "Nancy Drew: #28 Ghost of Thornton Hall Strategy Guide"
+    },
+    {
         "appid": 3351330,
         "name": "Clown Is Hungry"
     },
@@ -85358,34 +85322,6 @@
     {
         "appid": 3362390,
         "name": "烈焰狂奔"
-    },
-    {
-        "appid": 3362410,
-        "name": "Freestyle2 - Hard Carry Package S"
-    },
-    {
-        "appid": 3362420,
-        "name": "Freestyle2 - World Wish Package"
-    },
-    {
-        "appid": 3362430,
-        "name": "Freestyle2 - Prison Package"
-    },
-    {
-        "appid": 3362440,
-        "name": "Freestyle2 - Outfit Mover Package"
-    },
-    {
-        "appid": 3362450,
-        "name": "Freestyle2 - Freestyle Booster"
-    },
-    {
-        "appid": 3362460,
-        "name": "Freestyle2 - Winter Sports Outfit Full PKG"
-    },
-    {
-        "appid": 3362470,
-        "name": "Freestyle2 - Drop the Color Outfit Full PKG"
     },
     {
         "appid": 3362480,
@@ -93686,6 +93622,10 @@
     {
         "appid": 3402790,
         "name": "Train Simulator: Ostbahn: Wien Hbf - Hegyeshalom - Bratislava-Petrzalka Route Add-On"
+    },
+    {
+        "appid": 3402800,
+        "name": "Train Simulator: Northampton Loop Route Add-On "
     },
     {
         "appid": 3402810,
@@ -103514,6 +103454,10 @@
     {
         "appid": 3452020,
         "name": "Hidden Pets: 101 Cats in London"
+    },
+    {
+        "appid": 3452030,
+        "name": "Ayre Battles: Heritage Academy "
     },
     {
         "appid": 3452040,
@@ -125268,10 +125212,6 @@
         "name": "Tom Clancy's The Division 2 – Battle for Brooklyn DLC"
     },
     {
-        "appid": 3572160,
-        "name": "Tom Clancy's The Division 2 – Battle for Brooklyn Deluxe DLC"
-    },
-    {
         "appid": 3572200,
         "name": "Spintronics"
     },
@@ -136010,6 +135950,10 @@
     {
         "appid": 3625230,
         "name": "Bloomcraft"
+    },
+    {
+        "appid": 3625250,
+        "name": "Square Off"
     },
     {
         "appid": 3625260,
@@ -152258,6 +152202,10 @@
     {
         "appid": 3709880,
         "name": "Maddy's Meadow"
+    },
+    {
+        "appid": 3709890,
+        "name": "Irregular Earnings"
     },
     {
         "appid": 3709910,
@@ -186792,6 +186740,10 @@
         "name": "Dear me, I was..."
     },
     {
+        "appid": 3891520,
+        "name": "TUNE"
+    },
+    {
         "appid": 3891560,
         "name": "Rust - Warhammer 40,000 Pack"
     },
@@ -199998,5 +199950,53 @@
     {
         "appid": 3956890,
         "name": "Lady Umbrella"
+    },
+    {
+        "appid": 3956910,
+        "name": "Yandere Goth Delinquent Trouble 4"
+    },
+    {
+        "appid": 3956930,
+        "name": "you can serve"
+    },
+    {
+        "appid": 3956980,
+        "name": "Apidya' Special"
+    },
+    {
+        "appid": 3956990,
+        "name": "GODSCALE"
+    },
+    {
+        "appid": 3957020,
+        "name": "Ticking Together Prologue"
+    },
+    {
+        "appid": 3957040,
+        "name": "Star Birds Digital Artbook"
+    },
+    {
+        "appid": 3957050,
+        "name": "Ballatory"
+    },
+    {
+        "appid": 3957070,
+        "name": "Human Planet"
+    },
+    {
+        "appid": 3957110,
+        "name": "Fantasy Franchise"
+    },
+    {
+        "appid": 3957140,
+        "name": "电音弹道"
+    },
+    {
+        "appid": 3957160,
+        "name": "明末渊虚之域穿越火线虹"
+    },
+    {
+        "appid": 3957240,
+        "name": "Sail Girl"
     }
 ]

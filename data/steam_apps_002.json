@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1109550,
-        "name": "CricVRX - VR Cricket"
-    },
-    {
-        "appid": 1109560,
-        "name": "RPG Maker MV - Eberouge Background Image Pack 2"
-    },
-    {
         "appid": 1109562,
         "name": "RPG Maker MV - Classic Heroes"
     },
@@ -35117,7 +35109,7 @@
     },
     {
         "appid": 1253190,
-        "name": "Warhammer 40,000: Dakka Squadron - Flyboyz Edition"
+        "name": "Warhammer 40,000: Dakka Squadron - Flyboyz Edition (Classic)"
     },
     {
         "appid": 1253220,
@@ -68824,10 +68816,6 @@
         "name": "Zombie Army 4: Season Pass Two"
     },
     {
-        "appid": 1405875,
-        "name": "Freestyle2 - Welcome Special Package"
-    },
-    {
         "appid": 1405930,
         "name": "Marscape"
     },
@@ -70561,7 +70549,7 @@
     },
     {
         "appid": 1413520,
-        "name": "Necromunda: Underhive Wars - Digital Artbook"
+        "name": "Necromunda: Underhive Wars (Classic) - Digital Artbook"
     },
     {
         "appid": 1413530,
@@ -76257,7 +76245,7 @@
     },
     {
         "appid": 1437130,
-        "name": "Necromunda: Underhive Wars - Van Saar Gang"
+        "name": "Necromunda: Underhive Wars (Classic) - Van Saar Gang"
     },
     {
         "appid": 1437160,
@@ -85645,7 +85633,7 @@
     },
     {
         "appid": 1478970,
-        "name": "AI Olympius"
+        "name": "Olympius"
     },
     {
         "appid": 1478980,
@@ -86738,6 +86726,10 @@
     {
         "appid": 1483610,
         "name": "GravitreX Arcade"
+    },
+    {
+        "appid": 1483620,
+        "name": "Agony of Choice"
     },
     {
         "appid": 1483730,
@@ -91525,7 +91517,7 @@
     },
     {
         "appid": 1503980,
-        "name": "Necromunda: Underhive Wars - Cawdor Gang"
+        "name": "Necromunda: Underhive Wars (Classic) - Cawdor Gang"
     },
     {
         "appid": 1503990,
@@ -97642,6 +97634,10 @@
     {
         "appid": 1532330,
         "name": "RoboSquare - Valentines 2021"
+    },
+    {
+        "appid": 1532340,
+        "name": "Aqua Doctor"
     },
     {
         "appid": 1532350,
@@ -109680,10 +109676,6 @@
         "name": "RPG Maker MZ - EVFX Sanctuary"
     },
     {
-        "appid": 1583820,
-        "name": "Z-Company"
-    },
-    {
         "appid": 1583830,
         "name": "Little Octopus"
     },
@@ -113970,6 +113962,10 @@
     {
         "appid": 1602190,
         "name": "Alma"
+    },
+    {
+        "appid": 1602210,
+        "name": "One Thousand and One Nights | ألف ليلة وليلة"
     },
     {
         "appid": 1602240,
@@ -158525,7 +158521,7 @@
     },
     {
         "appid": 1778620,
-        "name": "Of Dust and Light"
+        "name": "North of Ordinary"
     },
     {
         "appid": 1778630,
@@ -199998,5 +199994,9 @@
     {
         "appid": 1955160,
         "name": "MEARTH"
+    },
+    {
+        "appid": 1955200,
+        "name": "Gate Builders"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1955200,
-        "name": "Gate Builders"
-    },
-    {
         "appid": 1955230,
         "name": "Penny’s Big Breakaway"
     },
@@ -41756,10 +41752,6 @@
         "name": "Hero Jumper Demo"
     },
     {
-        "appid": 2169180,
-        "name": "V Rising - Haunted Nights Castle Pack"
-    },
-    {
         "appid": 2169190,
         "name": "Hack & Schlitz - Dwarf"
     },
@@ -76764,6 +76756,10 @@
         "name": "Merge & Blade : Hero Character"
     },
     {
+        "appid": 2327300,
+        "name": "Machikado Roastery"
+    },
+    {
         "appid": 2327330,
         "name": "Andromeda"
     },
@@ -91470,10 +91466,6 @@
     {
         "appid": 2391340,
         "name": "Heavenly Bodies - Cleanup DLC"
-    },
-    {
-        "appid": 2391360,
-        "name": "Freestyle2 - 50 Sub ATT & 50 Sub ATT Lock Package"
     },
     {
         "appid": 2391400,
@@ -113832,10 +113824,6 @@
         "name": "Gobo’s Arena"
     },
     {
-        "appid": 2496220,
-        "name": "Spooky Bay"
-    },
-    {
         "appid": 2496230,
         "name": "Century - Rimeblood Starter Pack"
     },
@@ -115386,6 +115374,10 @@
     {
         "appid": 2504950,
         "name": "Anno 1800™ National Park Pack"
+    },
+    {
+        "appid": 2504980,
+        "name": "Moochy"
     },
     {
         "appid": 2505020,
@@ -119638,10 +119630,6 @@
     {
         "appid": 2525970,
         "name": "Do Not Feed the Monkeys 2099 - Two cage seasoning pack"
-    },
-    {
-        "appid": 2525980,
-        "name": "Freestyle2 - \"FREE\" 2 Package"
     },
     {
         "appid": 2526010,
@@ -134090,10 +134078,6 @@
     {
         "appid": 2600660,
         "name": "Roulette Simulator 2024"
-    },
-    {
-        "appid": 2600670,
-        "name": "Vanity"
     },
     {
         "appid": 2600700,
@@ -172740,10 +172724,6 @@
         "name": "Rogue Ninja: Elemental Onslaught"
     },
     {
-        "appid": 2792130,
-        "name": "StarKeeper"
-    },
-    {
         "appid": 2792140,
         "name": "Warhammer 40,000: Space Marine 2 - Ultramarines Champion Pack"
     },
@@ -189832,6 +189812,10 @@
         "name": "Fruitio"
     },
     {
+        "appid": 2878130,
+        "name": "Cloverbrook"
+    },
+    {
         "appid": 2878140,
         "name": "Gooba Ball"
     },
@@ -199998,5 +199982,21 @@
     {
         "appid": 2929590,
         "name": "All Fridges Are Psychotic"
+    },
+    {
+        "appid": 2929620,
+        "name": "冒险日记 Adventure Diary- 扩展包"
+    },
+    {
+        "appid": 2929660,
+        "name": "Touhou ~ Dreams of a Sunflower"
+    },
+    {
+        "appid": 2929670,
+        "name": "Ardency: Heart of the Rebellion"
+    },
+    {
+        "appid": 2929680,
+        "name": "Boats N' Hoes"
     }
 ]
