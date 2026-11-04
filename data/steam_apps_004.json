@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929680,
+        "name": "Boats N' Hoes"
+    },
+    {
         "appid": 2929730,
         "name": "Cat Bait"
     },
@@ -1945,7 +1949,7 @@
     },
     {
         "appid": 2940000,
-        "name": "Echoes of Vasteria"
+        "name": "Echoes of Vatheria"
     },
     {
         "appid": 2940010,
@@ -64832,10 +64836,6 @@
         "name": "Creepy Creepy Love: Alternative comic book"
     },
     {
-        "appid": 3258090,
-        "name": "Fantasy Hearts"
-    },
-    {
         "appid": 3258250,
         "name": "Eighthwell"
     },
@@ -78793,7 +78793,7 @@
     },
     {
         "appid": 3331090,
-        "name": "Fall in Flowers - フォール イン フラワーズ"
+        "name": "Fall in Flowers"
     },
     {
         "appid": 3331100,
@@ -85122,6 +85122,10 @@
     {
         "appid": 3361380,
         "name": "Leas: City of the Sun"
+    },
+    {
+        "appid": 3361400,
+        "name": "Zack Bishop and the Forbidden Moon"
     },
     {
         "appid": 3361450,
@@ -112408,6 +112412,10 @@
         "name": "Psycho Frogo"
     },
     {
+        "appid": 3501020,
+        "name": "Kosmograd"
+    },
+    {
         "appid": 3501030,
         "name": "Cozy Game Company"
     },
@@ -113154,14 +113162,6 @@
     {
         "appid": 3505280,
         "name": "Fluffy's House"
-    },
-    {
-        "appid": 3505290,
-        "name": "Fantasy Hearts - Adventurer's Pack"
-    },
-    {
-        "appid": 3505300,
-        "name": "Fantasy Hearts - Legendary Hero Upgrade Pack"
     },
     {
         "appid": 3505310,
@@ -124204,6 +124204,10 @@
         "name": "Botomy"
     },
     {
+        "appid": 3566470,
+        "name": "better.game"
+    },
+    {
         "appid": 3566480,
         "name": "Switcheroo"
     },
@@ -129224,6 +129228,10 @@
         "name": "ネコミンKittens invasion"
     },
     {
+        "appid": 3591750,
+        "name": "Little Dungeon"
+    },
+    {
         "appid": 3591770,
         "name": "Helping Hand"
     },
@@ -133010,6 +133018,10 @@
     {
         "appid": 3610340,
         "name": "Good Luck Crossing"
+    },
+    {
+        "appid": 3610360,
+        "name": "Phatastrophe"
     },
     {
         "appid": 3610370,
@@ -149512,6 +149524,10 @@
         "name": "Tank Busters"
     },
     {
+        "appid": 3694930,
+        "name": "KEGGER"
+    },
+    {
         "appid": 3694940,
         "name": "Bael's Rock: A Text Adventure"
     },
@@ -151217,7 +151233,7 @@
     },
     {
         "appid": 3703870,
-        "name": "祝福：第一幕 Blessing Part I"
+        "name": "Blessing Part I"
     },
     {
         "appid": 3703880,
@@ -157632,6 +157648,10 @@
         "name": "PROJECTA"
     },
     {
+        "appid": 3739810,
+        "name": "Cinema Dreams: Rise of a Director"
+    },
+    {
         "appid": 3739820,
         "name": "Beat Saber - Lady Gaga - \"Abracadabra\""
     },
@@ -162242,10 +162262,6 @@
     {
         "appid": 3765710,
         "name": "Rectangles Odyssey"
-    },
-    {
-        "appid": 3765730,
-        "name": "The Backrooms: Reset"
     },
     {
         "appid": 3765780,
@@ -199982,21 +199998,5 @@
     {
         "appid": 3957070,
         "name": "Human Planet"
-    },
-    {
-        "appid": 3957110,
-        "name": "Fantasy Franchise"
-    },
-    {
-        "appid": 3957140,
-        "name": "电音弹道"
-    },
-    {
-        "appid": 3957160,
-        "name": "明末渊虚之域穿越火线虹"
-    },
-    {
-        "appid": 3957240,
-        "name": "Sail Girl"
     }
 ]

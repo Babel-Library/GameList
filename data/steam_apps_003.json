@@ -1,5 +1,17 @@
 [
     {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
+        "appid": 1955160,
+        "name": "MEARTH"
+    },
+    {
+        "appid": 1955200,
+        "name": "Gate Builders"
+    },
+    {
         "appid": 1955230,
         "name": "Penny’s Big Breakaway"
     },
@@ -5566,10 +5578,6 @@
     {
         "appid": 1979930,
         "name": "FreedroidRPG"
-    },
-    {
-        "appid": 1979960,
-        "name": "Iron Side"
     },
     {
         "appid": 1979970,
@@ -78796,10 +78804,6 @@
         "name": "Tower Song"
     },
     {
-        "appid": 2336340,
-        "name": "Smash Runner"
-    },
-    {
         "appid": 2336360,
         "name": "Sethtek Sandbox"
     },
@@ -83242,6 +83246,10 @@
     {
         "appid": 2356750,
         "name": "Rogue Kingdom"
+    },
+    {
+        "appid": 2356770,
+        "name": "Must Survive"
     },
     {
         "appid": 2356780,
@@ -94904,10 +94912,6 @@
         "name": "SLAVFIGHT"
     },
     {
-        "appid": 2406480,
-        "name": "The Lightless World"
-    },
-    {
         "appid": 2406490,
         "name": "You'll stay here forever"
     },
@@ -105420,10 +105424,6 @@
         "name": "Desolated District"
     },
     {
-        "appid": 2454110,
-        "name": "Coraland: the worst rescuer"
-    },
-    {
         "appid": 2454140,
         "name": "Bichito Clicker"
     },
@@ -115806,6 +115806,10 @@
     {
         "appid": 2507300,
         "name": "KOF XV DLC Character \"DUO LON\""
+    },
+    {
+        "appid": 2507320,
+        "name": "Tinkerpatch"
     },
     {
         "appid": 2507360,
@@ -167564,6 +167568,10 @@
         "name": "Gunship + Gunship 2000"
     },
     {
+        "appid": 2766120,
+        "name": "Can't See Shift"
+    },
+    {
         "appid": 2766140,
         "name": "Notoris 2: Warlords"
     },
@@ -184140,10 +184148,6 @@
         "name": "I Want To Be Happy"
     },
     {
-        "appid": 2849220,
-        "name": "Zenith: The Last City DLC"
-    },
-    {
         "appid": 2849230,
         "name": "Mask Around"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929670,
         "name": "Ardency: Heart of the Rebellion"
-    },
-    {
-        "appid": 2929680,
-        "name": "Boats N' Hoes"
     }
 ]

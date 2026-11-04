@@ -107864,10 +107864,6 @@
         "name": "DrumSim"
     },
     {
-        "appid": 707760,
-        "name": "War to the Core"
-    },
-    {
         "appid": 707770,
         "name": "Tactics 2: War"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1109560,
         "name": "RPG Maker MV - Eberouge Background Image Pack 2"
+    },
+    {
+        "appid": 1109562,
+        "name": "RPG Maker MV - Classic Heroes"
     }
 ]

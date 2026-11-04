@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1109562,
-        "name": "RPG Maker MV - Classic Heroes"
-    },
-    {
         "appid": 1109563,
         "name": "RPG Maker MV - Modern + Inner Basic Tiles"
     },
@@ -45556,6 +45552,10 @@
         "name": "Heroes Must Diee"
     },
     {
+        "appid": 1297450,
+        "name": "Horu"
+    },
+    {
         "appid": 1297460,
         "name": "Soldat: Thank You Tip For The Developer"
     },
@@ -52693,7 +52693,7 @@
     },
     {
         "appid": 1336090,
-        "name": "SCP-ELM0"
+        "name": "SCP-Joymaker"
     },
     {
         "appid": 1336100,
@@ -72050,6 +72050,10 @@
     {
         "appid": 1419960,
         "name": "Interstellar Space: Genesis - Natural Law"
+    },
+    {
+        "appid": 1419970,
+        "name": "ZULMARASH: Echoes of Zaltar"
     },
     {
         "appid": 1419980,
@@ -152632,6 +152636,10 @@
         "name": "Fragmented Memories - Arc One"
     },
     {
+        "appid": 1750180,
+        "name": "NOT WELCOME"
+    },
+    {
         "appid": 1750190,
         "name": "The ER: Patient Typhon - SOS"
     },
@@ -165061,7 +165069,7 @@
     },
     {
         "appid": 1802950,
-        "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic +GP01Fb"
+        "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic + GP-01Fb"
     },
     {
         "appid": 1802970,
@@ -167158,6 +167166,10 @@
     {
         "appid": 1811350,
         "name": "Zombie Hell: Infected City"
+    },
+    {
+        "appid": 1811360,
+        "name": "Unnatural "
     },
     {
         "appid": 1811380,
@@ -199986,17 +199998,5 @@
     {
         "appid": 1955120,
         "name": "Nemire"
-    },
-    {
-        "appid": 1955150,
-        "name": "Lux Ex: Cyber Initiation"
-    },
-    {
-        "appid": 1955160,
-        "name": "MEARTH"
-    },
-    {
-        "appid": 1955200,
-        "name": "Gate Builders"
     }
 ]
