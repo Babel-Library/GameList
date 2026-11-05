@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
         "appid": 1955150,
         "name": "Lux Ex: Cyber Initiation"
     },
@@ -2418,6 +2426,10 @@
     {
         "appid": 1964890,
         "name": "Friendly Warfare"
+    },
+    {
+        "appid": 1964900,
+        "name": "Soul Dust"
     },
     {
         "appid": 1964930,
@@ -45508,6 +45520,10 @@
         "name": "SeaBed Audio Novel Collection - Extra Episode - \"Night Flight\""
     },
     {
+        "appid": 2185000,
+        "name": "Baa-llistic"
+    },
+    {
         "appid": 2185030,
         "name": "Dealer's Life Legend"
     },
@@ -61520,10 +61536,6 @@
         "name": "Hero Team: Dice Skin 'Pixel'"
     },
     {
-        "appid": 2255670,
-        "name": "Project Confrontation"
-    },
-    {
         "appid": 2255710,
         "name": "Fantasy Grounds - Arcadia Issue 009"
     },
@@ -64198,6 +64210,10 @@
     {
         "appid": 2268470,
         "name": "HOPE LEFT ME"
+    },
+    {
+        "appid": 2268510,
+        "name": "BoosterWare"
     },
     {
         "appid": 2268520,
@@ -143196,6 +143212,10 @@
         "name": "Meow Moments: Celebrating Together"
     },
     {
+        "appid": 2647350,
+        "name": "Plop - A Battle Royale Bowel Movement"
+    },
+    {
         "appid": 2647500,
         "name": "Downstairs"
     },
@@ -144782,10 +144802,6 @@
     {
         "appid": 2655080,
         "name": "MMA Life Simulator"
-    },
-    {
-        "appid": 2655090,
-        "name": "Lightyear Frontier - Pioneer's Bundle"
     },
     {
         "appid": 2655120,
@@ -166241,7 +166257,7 @@
     },
     {
         "appid": 2759570,
-        "name": "Questscape"
+        "name": "Questscape – Escape from Cell 13"
     },
     {
         "appid": 2759590,
@@ -199982,21 +199998,5 @@
     {
         "appid": 2929570,
         "name": "Escape The Evil"
-    },
-    {
-        "appid": 2929590,
-        "name": "All Fridges Are Psychotic"
-    },
-    {
-        "appid": 2929620,
-        "name": "冒险日记 Adventure Diary- 扩展包"
-    },
-    {
-        "appid": 2929660,
-        "name": "Touhou ~ Dreams of a Sunflower"
-    },
-    {
-        "appid": 2929670,
-        "name": "Ardency: Heart of the Rebellion"
     }
 ]

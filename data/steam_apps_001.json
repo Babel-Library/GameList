@@ -109748,6 +109748,10 @@
         "name": "Trancelation"
     },
     {
+        "appid": 716570,
+        "name": "Spellburst!"
+    },
+    {
         "appid": 716580,
         "name": "The Escapists 2 - Wicked Ward"
     },
@@ -110970,10 +110974,6 @@
     {
         "appid": 722020,
         "name": "Bitcoin Collector: Spinners Attack"
-    },
-    {
-        "appid": 722030,
-        "name": "A World Reforged"
     },
     {
         "appid": 722040,
@@ -116122,6 +116122,10 @@
     {
         "appid": 746990,
         "name": "Prelude: Psychological Horror Game"
+    },
+    {
+        "appid": 747010,
+        "name": "Unaccounted"
     },
     {
         "appid": 747030,
@@ -171766,10 +171770,6 @@
     {
         "appid": 993200,
         "name": "Calcul8²"
-    },
-    {
-        "appid": 993210,
-        "name": "Auto GUI Battler"
     },
     {
         "appid": 993220,

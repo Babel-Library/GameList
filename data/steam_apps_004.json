@@ -1,5 +1,21 @@
 [
     {
+        "appid": 2929590,
+        "name": "All Fridges Are Psychotic"
+    },
+    {
+        "appid": 2929620,
+        "name": "冒险日记 Adventure Diary- 扩展包"
+    },
+    {
+        "appid": 2929660,
+        "name": "Touhou ~ Dreams of a Sunflower"
+    },
+    {
+        "appid": 2929670,
+        "name": "Ardency: Heart of the Rebellion"
+    },
+    {
         "appid": 2929680,
         "name": "Boats N' Hoes"
     },
@@ -24097,7 +24113,7 @@
     },
     {
         "appid": 3050950,
-        "name": "荒野与进化"
+        "name": "族长很忙：篝火不息"
     },
     {
         "appid": 3050970,
@@ -43976,10 +43992,6 @@
         "name": "DronesKillAnimals"
     },
     {
-        "appid": 3148840,
-        "name": "No Signal Escape Room"
-    },
-    {
         "appid": 3148860,
         "name": "Dalafri"
     },
@@ -46550,6 +46562,10 @@
     {
         "appid": 3161890,
         "name": "Blackjack Of Lust - Android pack"
+    },
+    {
+        "appid": 3161900,
+        "name": "Terrestrial"
     },
     {
         "appid": 3161920,
@@ -58853,7 +58869,7 @@
     },
     {
         "appid": 3224960,
-        "name": "Pizzapocalypse"
+        "name": "Pizzapocalypse (Student Version)"
     },
     {
         "appid": 3224970,
@@ -64921,7 +64937,7 @@
     },
     {
         "appid": 3258820,
-        "name": "Ex Vitium"
+        "name": "Ex Vitiis"
     },
     {
         "appid": 3258830,
@@ -78484,6 +78500,10 @@
         "name": "RoMiMiMi"
     },
     {
+        "appid": 3329680,
+        "name": "Dead in Space"
+    },
+    {
         "appid": 3329700,
         "name": "アウラルと光の竜～Gathering Light～"
     },
@@ -84176,6 +84196,10 @@
         "name": "Anticipate"
     },
     {
+        "appid": 3356940,
+        "name": "HIRU : Mansa Assegai"
+    },
+    {
         "appid": 3356950,
         "name": "Differentiate"
     },
@@ -88189,7 +88213,7 @@
     },
     {
         "appid": 3376040,
-        "name": "Poppy"
+        "name": "Poppy: Senescence"
     },
     {
         "appid": 3376060,
@@ -139880,6 +139904,10 @@
         "name": "Succupie: An Erotic Short Story"
     },
     {
+        "appid": 3645340,
+        "name": "The Tile Artisan"
+    },
+    {
         "appid": 3645380,
         "name": "The Vault: Logic Puzzle Box"
     },
@@ -141918,6 +141946,10 @@
     {
         "appid": 3655270,
         "name": "Wildseed"
+    },
+    {
+        "appid": 3655280,
+        "name": "Smart Fellas"
     },
     {
         "appid": 3655290,
@@ -148726,6 +148758,10 @@
     {
         "appid": 3690570,
         "name": "Ms Vampire Love to Date with Me"
+    },
+    {
+        "appid": 3690590,
+        "name": "Swarmfall"
     },
     {
         "appid": 3690610,
@@ -179848,6 +179884,10 @@
         "name": "Anno 117: Pax Romana – The Hippodrome"
     },
     {
+        "appid": 3858790,
+        "name": "Anno 117: Pax Romana - Dawn of the Delta"
+    },
+    {
         "appid": 3858810,
         "name": "SEMO"
     },
@@ -190520,10 +190560,6 @@
         "name": "神魔山海经 Gods Monster"
     },
     {
-        "appid": 3910740,
-        "name": "Failed Game Developer"
-    },
-    {
         "appid": 3910750,
         "name": "DONUT PANIC"
     },
@@ -195424,6 +195460,10 @@
         "name": "Frutiger Home"
     },
     {
+        "appid": 3935550,
+        "name": "BandiCamera"
+    },
+    {
         "appid": 3935560,
         "name": "Slither Link Plus"
     },
@@ -199958,45 +199998,5 @@
     {
         "appid": 3956820,
         "name": "Operation Candy Land"
-    },
-    {
-        "appid": 3956860,
-        "name": "Battlethorne: Reckoning"
-    },
-    {
-        "appid": 3956890,
-        "name": "Lady Umbrella"
-    },
-    {
-        "appid": 3956910,
-        "name": "Yandere Goth Delinquent Trouble 4"
-    },
-    {
-        "appid": 3956930,
-        "name": "you can serve"
-    },
-    {
-        "appid": 3956980,
-        "name": "Apidya' Special"
-    },
-    {
-        "appid": 3956990,
-        "name": "GODSCALE"
-    },
-    {
-        "appid": 3957020,
-        "name": "Ticking Together Prologue"
-    },
-    {
-        "appid": 3957040,
-        "name": "Star Birds Digital Artbook"
-    },
-    {
-        "appid": 3957050,
-        "name": "Ballatory"
-    },
-    {
-        "appid": 3957070,
-        "name": "Human Planet"
     }
 ]

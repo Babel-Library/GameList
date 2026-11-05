@@ -36540,6 +36540,10 @@
         "name": "The Sacred Acorn"
     },
     {
+        "appid": 1259770,
+        "name": "Sovia: Five Year Plan"
+    },
+    {
         "appid": 1259790,
         "name": "Puyo Puyo™ Tetris® 2"
     },
@@ -108144,6 +108148,10 @@
         "name": "ShootOut(SystemD)"
     },
     {
+        "appid": 1577830,
+        "name": "Arachne"
+    },
+    {
         "appid": 1577860,
         "name": "Code Lab（代码实验室）"
     },
@@ -110857,7 +110865,7 @@
     },
     {
         "appid": 1588760,
-        "name": "Switchball HD"
+        "name": "Switchball"
     },
     {
         "appid": 1588780,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1955100,
         "name": "怯懦 Cowardice"
-    },
-    {
-        "appid": 1955110,
-        "name": "Star Stuff"
-    },
-    {
-        "appid": 1955120,
-        "name": "Nemire"
     }
 ]

@@ -1,5 +1,45 @@
 [
     {
+        "appid": 3956860,
+        "name": "Battlethorne: Reckoning"
+    },
+    {
+        "appid": 3956890,
+        "name": "Lady Umbrella"
+    },
+    {
+        "appid": 3956910,
+        "name": "Yandere Goth Delinquent Trouble 4"
+    },
+    {
+        "appid": 3956930,
+        "name": "you can serve"
+    },
+    {
+        "appid": 3956980,
+        "name": "Apidya' Special"
+    },
+    {
+        "appid": 3956990,
+        "name": "GODSCALE"
+    },
+    {
+        "appid": 3957020,
+        "name": "Ticking Together Prologue"
+    },
+    {
+        "appid": 3957040,
+        "name": "Star Birds Digital Artbook"
+    },
+    {
+        "appid": 3957050,
+        "name": "Ballatory"
+    },
+    {
+        "appid": 3957070,
+        "name": "Human Planet"
+    },
+    {
         "appid": 3957110,
         "name": "Fantasy Franchise"
     },
@@ -4460,6 +4500,10 @@
         "name": "Sleeping with the Phish"
     },
     {
+        "appid": 3980230,
+        "name": "Switch Girl: Special Rescue Beauty"
+    },
+    {
         "appid": 3980250,
         "name": "RATSHOT"
     },
@@ -6501,7 +6545,7 @@
     },
     {
         "appid": 3990990,
-        "name": "偶像調教事件簿"
+        "name": "Idol Forging"
     },
     {
         "appid": 3991000,
@@ -10933,7 +10977,7 @@
     },
     {
         "appid": 4015070,
-        "name": "BASED: Ball Ascension Squadron Elite Division"
+        "name": "BASED"
     },
     {
         "appid": 4015080,
@@ -12105,7 +12149,7 @@
     },
     {
         "appid": 4021890,
-        "name": "Pizzapocalypse 2"
+        "name": "Pizzapocalypse: A Slice of Hope"
     },
     {
         "appid": 4021980,
@@ -19141,7 +19185,7 @@
     },
     {
         "appid": 4062460,
-        "name": "GBVSR キャラクターカラーセット「バトルパスパック6」"
+        "name": "GBVSR - Color Set: Battle Pass Pack 6"
     },
     {
         "appid": 4062470,
@@ -23538,6 +23582,10 @@
     {
         "appid": 4087980,
         "name": "Fickle Card Legend"
+    },
+    {
+        "appid": 4087990,
+        "name": "Voltage Veil"
     },
     {
         "appid": 4088000,
@@ -34108,6 +34156,10 @@
         "name": "Megalocephalo"
     },
     {
+        "appid": 4144410,
+        "name": "TiNk"
+    },
+    {
         "appid": 4144420,
         "name": "Ghosts in the City"
     },
@@ -40184,10 +40236,6 @@
         "name": "Aether & Iron - Digital Art Book + Art Pack"
     },
     {
-        "appid": 4175430,
-        "name": "The Red Window"
-    },
-    {
         "appid": 4175440,
         "name": "Loser Got Isekai’d – Sex, Side Jobs, and Odd Tasks"
     },
@@ -40762,6 +40810,10 @@
     {
         "appid": 4178380,
         "name": "Unguided Order"
+    },
+    {
+        "appid": 4178400,
+        "name": "Gesundheit!"
     },
     {
         "appid": 4178430,
@@ -54393,7 +54445,7 @@
     },
     {
         "appid": 4250010,
-        "name": "回鄉後，有超可愛幽靈在我家!?"
+        "name": "My Roommate is a cute Ghost Girl!?"
     },
     {
         "appid": 4250030,
@@ -71813,7 +71865,7 @@
     },
     {
         "appid": 4343870,
-        "name": "HeadBallz"
+        "name": "YOU'RE THE BALL!"
     },
     {
         "appid": 4343890,
@@ -98205,7 +98257,7 @@
     },
     {
         "appid": 4496710,
-        "name": "慾望王座"
+        "name": "Throne of Desire"
     },
     {
         "appid": 4496740,
@@ -109001,7 +109053,7 @@
     },
     {
         "appid": 4552380,
-        "name": "說好只是打工，為什麼大小姐都在撩我"
+        "name": "My Part-Time Job With a Flirty Mistress"
     },
     {
         "appid": 4552390,
@@ -112258,6 +112310,10 @@
     {
         "appid": 4569740,
         "name": "Combo Trigger"
+    },
+    {
+        "appid": 4569750,
+        "name": "Brawling Beetles"
     },
     {
         "appid": 4569790,
@@ -123972,12 +124028,20 @@
         "name": "Centurion's Gambit"
     },
     {
+        "appid": 4634150,
+        "name": "Grape Stomper"
+    },
+    {
         "appid": 4634190,
         "name": "宝箱怪大冒险"
     },
     {
         "appid": 4634210,
         "name": "Allmage"
+    },
+    {
+        "appid": 4634220,
+        "name": "FINAL FANTASY XIV: Evercold"
     },
     {
         "appid": 4634300,
@@ -124818,6 +124882,10 @@
     {
         "appid": 4638930,
         "name": "Ember Legion"
+    },
+    {
+        "appid": 4638950,
+        "name": "Early Hustle"
     },
     {
         "appid": 4638990,
@@ -128097,7 +128165,7 @@
     },
     {
         "appid": 4660150,
-        "name": "Warhammer 40,000: Gladius - Eradication pack"
+        "name": "Warhammer 40,000: Gladius - Eradication Pack"
     },
     {
         "appid": 4660170,
@@ -133033,7 +133101,7 @@
     },
     {
         "appid": 4687760,
-        "name": "Norland War Chronicles"
+        "name": "A Song of Sword and Iris"
     },
     {
         "appid": 4687780,
@@ -141844,6 +141912,10 @@
         "name": "Thunder Trucks: Heavy Racers"
     },
     {
+        "appid": 4743280,
+        "name": "Dominus Manager"
+    },
+    {
         "appid": 4743290,
         "name": "The Odyssey Simulator"
     },
@@ -141978,6 +142050,10 @@
     {
         "appid": 4744160,
         "name": "The Joust"
+    },
+    {
+        "appid": 4744190,
+        "name": "DieQuest"
     },
     {
         "appid": 4744210,
@@ -156772,6 +156848,10 @@
         "name": "Cielvia-Inherited By Defeat-"
     },
     {
+        "appid": 4835630,
+        "name": "Pure Pool Pro: Snooker Expansion Pack"
+    },
+    {
         "appid": 4835640,
         "name": "超探偵シャーロックちゃん２爆炎の因習村（クローズドサークル）"
     },
@@ -158896,6 +158976,10 @@
         "name": "Aegis Defense"
     },
     {
+        "appid": 4846120,
+        "name": "Worm Game"
+    },
+    {
         "appid": 4846190,
         "name": "Wet Dream Succubus"
     },
@@ -159174,6 +159258,10 @@
     {
         "appid": 4847570,
         "name": "Wingspan Bird Pack: Additional Asian Avians"
+    },
+    {
+        "appid": 4847600,
+        "name": "Wingspan Bird Pack: Birds of the U.S.A."
     },
     {
         "appid": 4847610,
@@ -165124,6 +165212,10 @@
         "name": "MAD: Mutually Assured Destruction"
     },
     {
+        "appid": 4879790,
+        "name": "Grit & Greed"
+    },
+    {
         "appid": 4879810,
         "name": "Starglyphs"
     },
@@ -165482,6 +165574,10 @@
     {
         "appid": 4881850,
         "name": "Lovecraft Locker: Tentacle Office"
+    },
+    {
+        "appid": 4881880,
+        "name": "苦艾脑"
     },
     {
         "appid": 4881930,
@@ -166708,6 +166804,10 @@
         "name": "Burn Tree Burn"
     },
     {
+        "appid": 4889160,
+        "name": "Sr Fox"
+    },
+    {
         "appid": 4889190,
         "name": "Fijian Dominatrixes Are the Best"
     },
@@ -166850,6 +166950,10 @@
     {
         "appid": 4889880,
         "name": "Taiko no Tatsujin: Rhythm Festival - 2000 Series Pack Vol. 2"
+    },
+    {
+        "appid": 4889890,
+        "name": "Taiko no Tatsujin: Rhythm Festival - KASANE TETO Pack Vol. 2"
     },
     {
         "appid": 4889910,
@@ -168394,6 +168498,10 @@
     {
         "appid": 4898220,
         "name": "End of War: Global Front"
+    },
+    {
+        "appid": 4898260,
+        "name": "Castle of Sanguine Blight"
     },
     {
         "appid": 4898270,
@@ -171152,6 +171260,10 @@
         "name": "Professor's wife's spasm private lessons"
     },
     {
+        "appid": 4913070,
+        "name": "World of Mythos"
+    },
+    {
         "appid": 4913080,
         "name": "Showmaster Suite"
     },
@@ -173348,6 +173460,10 @@
         "name": "Cratebreaker: Wasteland Workshop"
     },
     {
+        "appid": 4924690,
+        "name": "Sex & Life: Sweet Home"
+    },
+    {
         "appid": 4924740,
         "name": "FLESHBREAK - NSFW"
     },
@@ -175052,6 +175168,10 @@
         "name": "Extract Survivors"
     },
     {
+        "appid": 4934230,
+        "name": "Cleaner Densetsu"
+    },
+    {
         "appid": 4934240,
         "name": "Blackjack Training"
     },
@@ -175465,7 +175585,7 @@
     },
     {
         "appid": 4936460,
-        "name": "Mossvale"
+        "name": "Mossvale: Pixel MMORPG"
     },
     {
         "appid": 4936470,
@@ -185897,7 +186017,7 @@
     },
     {
         "appid": 4993830,
-        "name": "Desiderium"
+        "name": "Anseium"
     },
     {
         "appid": 4993850,
@@ -191442,6 +191562,10 @@
     {
         "appid": 5026980,
         "name": "My Snake Likes Apples"
+    },
+    {
+        "appid": 5027000,
+        "name": "Sushiamo - Supporter Pack"
     },
     {
         "appid": 5027010,
@@ -197448,6 +197572,10 @@
         "name": "ISKRA"
     },
     {
+        "appid": 5060760,
+        "name": "Dynasty Bowl"
+    },
+    {
         "appid": 5060780,
         "name": "Twin-stick Japanese"
     },
@@ -199870,133 +199998,5 @@
     {
         "appid": 5074520,
         "name": "暗黑修个仙"
-    },
-    {
-        "appid": 5074570,
-        "name": "VoIPVault"
-    },
-    {
-        "appid": 5074620,
-        "name": "Lakeside Heat"
-    },
-    {
-        "appid": 5074630,
-        "name": "Fleshgrinder"
-    },
-    {
-        "appid": 5074640,
-        "name": "Corporate Slave"
-    },
-    {
-        "appid": 5074650,
-        "name": "Memento Resonance"
-    },
-    {
-        "appid": 5074660,
-        "name": "Blue Blood Love Song"
-    },
-    {
-        "appid": 5074700,
-        "name": "Windward Isles"
-    },
-    {
-        "appid": 5074710,
-        "name": "野生机"
-    },
-    {
-        "appid": 5074720,
-        "name": "Angel Legion-DLC First Love Glow C"
-    },
-    {
-        "appid": 5074730,
-        "name": "Angel Legion-DLC First Love Glow D"
-    },
-    {
-        "appid": 5074740,
-        "name": "Angel Legion-DLC First Love Glow E"
-    },
-    {
-        "appid": 5074750,
-        "name": "Angel Legion-DLC First Love Glow F"
-    },
-    {
-        "appid": 5074770,
-        "name": "Will Decay"
-    },
-    {
-        "appid": 5074790,
-        "name": "StarCalibur"
-    },
-    {
-        "appid": 5074810,
-        "name": "JAJAの名画冒险"
-    },
-    {
-        "appid": 5074820,
-        "name": "Dragon Era: Rogue Slots"
-    },
-    {
-        "appid": 5074850,
-        "name": "SplatStick"
-    },
-    {
-        "appid": 5074860,
-        "name": "Arvel"
-    },
-    {
-        "appid": 5074880,
-        "name": "FPS Performance Lab"
-    },
-    {
-        "appid": 5074900,
-        "name": "Mother;Above"
-    },
-    {
-        "appid": 5074950,
-        "name": "Grurong Random Defense"
-    },
-    {
-        "appid": 5074960,
-        "name": "Rogues' Keep"
-    },
-    {
-        "appid": 5074970,
-        "name": "金色海湾:桌面水族馆"
-    },
-    {
-        "appid": 5074990,
-        "name": "Desktop Muse"
-    },
-    {
-        "appid": 5075010,
-        "name": "Laura Bailey Mysteries"
-    },
-    {
-        "appid": 5075020,
-        "name": "Little LUMI Model"
-    },
-    {
-        "appid": 5075030,
-        "name": "Trouble Thief"
-    },
-    {
-        "appid": 5075050,
-        "name": "Puzzles Cold Weapons Artbook"
-    },
-    {
-        "appid": 5075090,
-        "name": "挂机吧三国"
-    },
-    {
-        "appid": 5075100,
-        "name": "HorusTD"
-    },
-    {
-        "appid": 5075110,
-        "name": "零氪超变"
-    },
-    {
-        "appid": 5075160,
-        "name": "Utaburg"
     }
 ]
