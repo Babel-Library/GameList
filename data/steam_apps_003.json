@@ -1,5 +1,21 @@
 [
     {
+        "appid": 1955030,
+        "name": "SCP: EVENT CLASSIFIED"
+    },
+    {
+        "appid": 1955040,
+        "name": "The Aquatic Messenger"
+    },
+    {
+        "appid": 1955090,
+        "name": "KeepUp Survival - Tropical Island Map"
+    },
+    {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
+    },
+    {
         "appid": 1955110,
         "name": "Star Stuff"
     },
@@ -9032,6 +9048,10 @@
         "name": "Dungeon Keeper Gold™"
     },
     {
+        "appid": 1996640,
+        "name": "Wing Commander™: 35th Anniversary Edition"
+    },
+    {
         "appid": 1996650,
         "name": "The Courtson Manor: Prologue"
     },
@@ -11766,6 +11786,22 @@
     {
         "appid": 2008710,
         "name": "Fantasy Grounds - Sabbat: The Black Hand"
+    },
+    {
+        "appid": 2008730,
+        "name": "Wing Commander™ II: Vengeance of the Kilrathi: 35th Anniversary Edition"
+    },
+    {
+        "appid": 2008740,
+        "name": "Wing Commander™ III: Heart of the Tiger: 30th Anniversary Edition"
+    },
+    {
+        "appid": 2008750,
+        "name": "Wing Commander™ IV: The Price of Freedom: 30th Anniversary Edition"
+    },
+    {
+        "appid": 2008760,
+        "name": "Wing Commander™: Privateer"
     },
     {
         "appid": 2008810,
@@ -42205,7 +42241,7 @@
     },
     {
         "appid": 2170970,
-        "name": "Call of Duty®: Black Ops 7 or Call of Duty®: Warzone™ Points"
+        "name": "Call of Duty®: Modern Warfare® 4 or Call of Duty®: Warzone™ Points"
     },
     {
         "appid": 2171010,
@@ -55542,6 +55578,10 @@
     {
         "appid": 2229790,
         "name": "Yomaia"
+    },
+    {
+        "appid": 2229820,
+        "name": "Theme Hospital™"
     },
     {
         "appid": 2229830,
@@ -88716,6 +88756,10 @@
         "name": "Cadence Cuties"
     },
     {
+        "appid": 2379480,
+        "name": "Neon Arcology"
+    },
+    {
         "appid": 2379500,
         "name": "Lucerna"
     },
@@ -88954,10 +88998,6 @@
     {
         "appid": 2380540,
         "name": "FlipTiles: Warp Lines"
-    },
-    {
-        "appid": 2380550,
-        "name": "CONSORTIUM Remastered"
     },
     {
         "appid": 2380560,
@@ -104350,6 +104390,10 @@
     {
         "appid": 2448550,
         "name": "A Test"
+    },
+    {
+        "appid": 2448570,
+        "name": "Road Rash™"
     },
     {
         "appid": 2448580,
@@ -146060,6 +146104,10 @@
         "name": "Escortina Life! 2.0"
     },
     {
+        "appid": 2661110,
+        "name": "Kibble Rescue"
+    },
+    {
         "appid": 2661120,
         "name": "R1sikoChess"
     },
@@ -186164,10 +186212,6 @@
         "name": "The Redundant"
     },
     {
-        "appid": 2859350,
-        "name": "Echoes of the Ashen"
-    },
-    {
         "appid": 2859360,
         "name": "Undercroft"
     },
@@ -199954,49 +199998,5 @@
     {
         "appid": 2929310,
         "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition"
-    },
-    {
-        "appid": 2929320,
-        "name": "消防员康纳 - FireFighter Connor CG ImagePack"
-    },
-    {
-        "appid": 2929330,
-        "name": "Gunflow"
-    },
-    {
-        "appid": 2929400,
-        "name": "Museum of Immersive Art"
-    },
-    {
-        "appid": 2929410,
-        "name": "Relict"
-    },
-    {
-        "appid": 2929460,
-        "name": "Interview with the Horny Ghost - Goodie Package"
-    },
-    {
-        "appid": 2929500,
-        "name": "MOONGATE"
-    },
-    {
-        "appid": 2929510,
-        "name": "An Agonized Mind"
-    },
-    {
-        "appid": 2929530,
-        "name": "Hentai Party on Rooftop"
-    },
-    {
-        "appid": 2929540,
-        "name": "Dragon Ruins"
-    },
-    {
-        "appid": 2929550,
-        "name": "The Netcode Conflict"
-    },
-    {
-        "appid": 2929570,
-        "name": "Escape The Evil"
     }
 ]

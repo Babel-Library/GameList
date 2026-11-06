@@ -1,5 +1,49 @@
 [
     {
+        "appid": 2929320,
+        "name": "消防员康纳 - FireFighter Connor CG ImagePack"
+    },
+    {
+        "appid": 2929330,
+        "name": "Gunflow"
+    },
+    {
+        "appid": 2929400,
+        "name": "Museum of Immersive Art"
+    },
+    {
+        "appid": 2929410,
+        "name": "Relict"
+    },
+    {
+        "appid": 2929460,
+        "name": "Interview with the Horny Ghost - Goodie Package"
+    },
+    {
+        "appid": 2929500,
+        "name": "MOONGATE"
+    },
+    {
+        "appid": 2929510,
+        "name": "An Agonized Mind"
+    },
+    {
+        "appid": 2929530,
+        "name": "Hentai Party on Rooftop"
+    },
+    {
+        "appid": 2929540,
+        "name": "Dragon Ruins"
+    },
+    {
+        "appid": 2929550,
+        "name": "The Netcode Conflict"
+    },
+    {
+        "appid": 2929570,
+        "name": "Escape The Evil"
+    },
+    {
         "appid": 2929590,
         "name": "All Fridges Are Psychotic"
     },
@@ -21840,10 +21884,6 @@
         "name": "Dungero"
     },
     {
-        "appid": 3039650,
-        "name": "GravShift"
-    },
-    {
         "appid": 3039660,
         "name": "Arthur Owl's Word Block - Music Pack"
     },
@@ -22050,10 +22090,6 @@
     {
         "appid": 3040740,
         "name": "别成英雄"
-    },
-    {
-        "appid": 3040800,
-        "name": "Hardest Game About Jumping"
     },
     {
         "appid": 3040810,
@@ -27408,6 +27444,14 @@
         "name": "Black Site"
     },
     {
+        "appid": 3066890,
+        "name": "Crusader: No Remorse™"
+    },
+    {
+        "appid": 3066900,
+        "name": "Crusader: No Regret™"
+    },
+    {
         "appid": 3066910,
         "name": "SEX Massage 2 🔞"
     },
@@ -27458,6 +27502,26 @@
     {
         "appid": 3067080,
         "name": "Jessica Deliverson"
+    },
+    {
+        "appid": 3067090,
+        "name": "Wing Commander™: Academy"
+    },
+    {
+        "appid": 3067100,
+        "name": "Wing Commander™: Armada"
+    },
+    {
+        "appid": 3067110,
+        "name": "Strike Commander™"
+    },
+    {
+        "appid": 3067120,
+        "name": "Wing Commander™ Prophecy: 30th Anniversary Edition"
+    },
+    {
+        "appid": 3067130,
+        "name": "Privateer 2: The Darkening: 30th Anniversary Edition"
     },
     {
         "appid": 3067160,
@@ -27550,6 +27614,50 @@
     {
         "appid": 3067440,
         "name": "Broken Shores"
+    },
+    {
+        "appid": 3067480,
+        "name": "Ultima™ I: The First Age of Darkness"
+    },
+    {
+        "appid": 3067490,
+        "name": "Ultima II™"
+    },
+    {
+        "appid": 3067500,
+        "name": "Ultima™ III: Exodus"
+    },
+    {
+        "appid": 3067510,
+        "name": "Ultima™  IV: Quest of the Avatar"
+    },
+    {
+        "appid": 3067520,
+        "name": "Ultima™ V: Warriors of Destiny"
+    },
+    {
+        "appid": 3067530,
+        "name": "Ultima™ VI: The False Prophet"
+    },
+    {
+        "appid": 3067540,
+        "name": "Ultima™ VII: The Complete Edition"
+    },
+    {
+        "appid": 3067550,
+        "name": "Ultima™ VIII Gold Edition"
+    },
+    {
+        "appid": 3067560,
+        "name": "Ultima™ IX: Ascension"
+    },
+    {
+        "appid": 3067580,
+        "name": "Ultima™ Underworld 1"
+    },
+    {
+        "appid": 3067590,
+        "name": "Ultima™ Underworld II"
     },
     {
         "appid": 3067620,
@@ -42394,6 +42502,10 @@
     {
         "appid": 3140550,
         "name": "Egyptian Punishment"
+    },
+    {
+        "appid": 3140580,
+        "name": "Escape From Streamer House"
     },
     {
         "appid": 3140610,
@@ -62541,7 +62653,7 @@
     },
     {
         "appid": 3244530,
-        "name": "Shards Of Armor"
+        "name": "Light Of Supernova"
     },
     {
         "appid": 3244540,
@@ -94660,6 +94772,10 @@
         "name": "A Father's Tale"
     },
     {
+        "appid": 3407970,
+        "name": "Joust Couch"
+    },
+    {
         "appid": 3407980,
         "name": "2 Minutes to Die"
     },
@@ -110304,6 +110420,10 @@
         "name": "Kiloton"
     },
     {
+        "appid": 3488950,
+        "name": "Bit Awakening"
+    },
+    {
         "appid": 3488970,
         "name": "极速营救"
     },
@@ -115358,6 +115478,10 @@
     {
         "appid": 3517340,
         "name": "Ticket to Ride®: Japan Expansion"
+    },
+    {
+        "appid": 3517360,
+        "name": "Pathfinding"
     },
     {
         "appid": 3517370,
@@ -121178,6 +121302,10 @@
     {
         "appid": 3551570,
         "name": "Tomb of the Golden Relic"
+    },
+    {
+        "appid": 3551580,
+        "name": "Trouble's Brewing"
     },
     {
         "appid": 3551590,
@@ -128162,6 +128290,10 @@
     {
         "appid": 3586070,
         "name": "異世界シリーズ口裂け女VS青鬼"
+    },
+    {
+        "appid": 3586090,
+        "name": "クトゥルフ神話RPG 水晶の呼び声 Plus"
     },
     {
         "appid": 3586150,
@@ -171056,10 +171188,6 @@
         "name": "Slime Tower"
     },
     {
-        "appid": 3814490,
-        "name": "Sweet Nibbles"
-    },
-    {
         "appid": 3814510,
         "name": "白线"
     },
@@ -176274,10 +176402,6 @@
     {
         "appid": 3841100,
         "name": "Ars Moriendi"
-    },
-    {
-        "appid": 3841110,
-        "name": "Attorney Disbarment Adventure"
     },
     {
         "appid": 3841140,
@@ -199874,129 +199998,5 @@
     {
         "appid": 3956310,
         "name": "Spaceolar"
-    },
-    {
-        "appid": 3956320,
-        "name": "Inotia 4"
-    },
-    {
-        "appid": 3956330,
-        "name": "Cyber Syrup Syndrome"
-    },
-    {
-        "appid": 3956340,
-        "name": "Max Manos 2"
-    },
-    {
-        "appid": 3956350,
-        "name": "Congratulations, This is Hell"
-    },
-    {
-        "appid": 3956370,
-        "name": "Everlusting Life - Mascot Ula"
-    },
-    {
-        "appid": 3956380,
-        "name": "Desire Inn"
-    },
-    {
-        "appid": 3956390,
-        "name": "100 Words"
-    },
-    {
-        "appid": 3956400,
-        "name": "Mr. Talkie's Redacted Reels"
-    },
-    {
-        "appid": 3956410,
-        "name": "Trainz 2022 DLC - GT46C-ACe G1 - SSR"
-    },
-    {
-        "appid": 3956420,
-        "name": "Trainz Plus DLC - GT46C-ACe G1 - SSR"
-    },
-    {
-        "appid": 3956440,
-        "name": "Individual Invest Tycoon 2"
-    },
-    {
-        "appid": 3956460,
-        "name": "Inerbys"
-    },
-    {
-        "appid": 3956470,
-        "name": "NightMare King"
-    },
-    {
-        "appid": 3956480,
-        "name": "Stocks: Main Force Simulator"
-    },
-    {
-        "appid": 3956510,
-        "name": "Sex Game - Gay Affair - Episode 3"
-    },
-    {
-        "appid": 3956540,
-        "name": "Radio Decay"
-    },
-    {
-        "appid": 3956550,
-        "name": "Journey Card"
-    },
-    {
-        "appid": 3956560,
-        "name": "Odiumfloreo"
-    },
-    {
-        "appid": 3956590,
-        "name": "ECHO CORE"
-    },
-    {
-        "appid": 3956600,
-        "name": "They won't get our eggs!"
-    },
-    {
-        "appid": 3956640,
-        "name": "大侠立志传：侠道相逢"
-    },
-    {
-        "appid": 3956660,
-        "name": "ThrowAnything: Zombie Invaders"
-    },
-    {
-        "appid": 3956670,
-        "name": "Slime Town"
-    },
-    {
-        "appid": 3956700,
-        "name": "净化战线（异净特遣队）"
-    },
-    {
-        "appid": 3956740,
-        "name": "Pomelo & Friends: Sevilla"
-    },
-    {
-        "appid": 3956750,
-        "name": "Giantfall"
-    },
-    {
-        "appid": 3956760,
-        "name": "Die in the Dungeon - Cinder Plush"
-    },
-    {
-        "appid": 3956790,
-        "name": "Ultimate Sugar Crush!"
-    },
-    {
-        "appid": 3956800,
-        "name": "The Algian Sword"
-    },
-    {
-        "appid": 3956810,
-        "name": "Pixel Game Maker MV - Dark Game Music Asset Pack"
-    },
-    {
-        "appid": 3956820,
-        "name": "Operation Candy Land"
     }
 ]
