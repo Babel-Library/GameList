@@ -42396,10 +42396,6 @@
         "name": "Nyctophilia"
     },
     {
-        "appid": 402910,
-        "name": "Undead Blackout: Reanimated Edition"
-    },
-    {
         "appid": 402940,
         "name": "Dungeons of Betrayal"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1109562,
         "name": "RPG Maker MV - Classic Heroes"
+    },
+    {
+        "appid": 1109563,
+        "name": "RPG Maker MV - Modern + Inner Basic Tiles"
     }
 ]

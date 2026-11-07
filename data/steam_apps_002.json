@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1109563,
-        "name": "RPG Maker MV - Modern + Inner Basic Tiles"
-    },
-    {
         "appid": 1109564,
         "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
     },
@@ -42069,7 +42065,7 @@
     },
     {
         "appid": 1282380,
-        "name": "Come Bye: A Sheepdog Simulator"
+        "name": "Come Bye: Sheepdog Simulator"
     },
     {
         "appid": 1282390,
@@ -105474,10 +105470,6 @@
     {
         "appid": 1567110,
         "name": "Planet Zoo: Southeast Asia Animal Pack"
-    },
-    {
-        "appid": 1567170,
-        "name": "Simulator.Company"
     },
     {
         "appid": 1567190,
@@ -186188,6 +186180,10 @@
         "name": "Dark Desire 1"
     },
     {
+        "appid": 1894890,
+        "name": "Beckon"
+    },
+    {
         "appid": 1894910,
         "name": "Seeds of Unity"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1955010,
         "name": "Hard Ball Wikie"
+    },
+    {
+        "appid": 1955030,
+        "name": "SCP: EVENT CLASSIFIED"
     }
 ]

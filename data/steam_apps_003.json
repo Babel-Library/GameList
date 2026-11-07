@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1955030,
-        "name": "SCP: EVENT CLASSIFIED"
-    },
-    {
         "appid": 1955040,
         "name": "The Aquatic Messenger"
     },
@@ -137069,7 +137065,7 @@
     },
     {
         "appid": 2616100,
-        "name": "Plague Lords"
+        "name": "The Plague Lords: Black Death"
     },
     {
         "appid": 2616110,
@@ -141013,7 +141009,7 @@
     },
     {
         "appid": 2636240,
-        "name": "Pocodoro"
+        "name": "PocoDoro"
     },
     {
         "appid": 2636260,
@@ -149690,6 +149686,10 @@
     {
         "appid": 2677720,
         "name": "HOT MILF VR"
+    },
+    {
+        "appid": 2677730,
+        "name": "Love From Bellweather"
     },
     {
         "appid": 2677740,
@@ -188664,6 +188664,10 @@
         "name": "Colonies of The Remnant"
     },
     {
+        "appid": 2872610,
+        "name": "Darwin"
+    },
+    {
         "appid": 2872630,
         "name": "Ghost Yantra"
     },
@@ -189658,6 +189662,10 @@
     {
         "appid": 2877030,
         "name": "ミッドナイトシンドローム"
+    },
+    {
+        "appid": 2877040,
+        "name": "Field of Battle 1943"
     },
     {
         "appid": 2877050,
@@ -192302,6 +192310,10 @@
     {
         "appid": 2889700,
         "name": "Car Mechanic Simulator 2021 - Jeep | RAM Remastered DLC"
+    },
+    {
+        "appid": 2889710,
+        "name": "The Fate of Onexora"
     },
     {
         "appid": 2889720,
@@ -199986,17 +199998,5 @@
     {
         "appid": 2929260,
         "name": "SWARM 2"
-    },
-    {
-        "appid": 2929290,
-        "name": "Stretchmancer"
-    },
-    {
-        "appid": 2929300,
-        "name": "QUESTSCAPE: Survival"
-    },
-    {
-        "appid": 2929310,
-        "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition"
     }
 ]

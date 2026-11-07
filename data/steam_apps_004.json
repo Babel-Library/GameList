@@ -1,5 +1,17 @@
 [
     {
+        "appid": 2929290,
+        "name": "Stretchmancer"
+    },
+    {
+        "appid": 2929300,
+        "name": "QUESTSCAPE: Survival"
+    },
+    {
+        "appid": 2929310,
+        "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition"
+    },
+    {
         "appid": 2929320,
         "name": "消防员康纳 - FireFighter Connor CG ImagePack"
     },
@@ -82724,18 +82736,6 @@
         "name": "Blood Reckoning: The Eternal War"
     },
     {
-        "appid": 3349410,
-        "name": "Path of Exile 2 - Path of Exile 2 Early Access Supporter Pack"
-    },
-    {
-        "appid": 3349420,
-        "name": "Path of Exile 2 - Lord of Ogham Supporter Pack"
-    },
-    {
-        "appid": 3349430,
-        "name": "Path of Exile 2 - King of the Faridun Supporter Pack"
-    },
-    {
         "appid": 3349440,
         "name": "Watcher from the Void"
     },
@@ -94166,18 +94166,6 @@
     {
         "appid": 3404520,
         "name": "Rise of the Penguins GB"
-    },
-    {
-        "appid": 3404560,
-        "name": "流亡黯道2 - 搶先體驗贊助者包（台港澳）"
-    },
-    {
-        "appid": 3404570,
-        "name": "流亡黯道2 - 奧格姆領主贊助者包（台港澳）"
-    },
-    {
-        "appid": 3404580,
-        "name": "流亡黯道2 - 法里登之王贊助者包（台港澳）"
     },
     {
         "appid": 3404590,
@@ -105920,6 +105908,10 @@
         "name": "Game Store Chronicle"
     },
     {
+        "appid": 3463440,
+        "name": "GridController"
+    },
+    {
         "appid": 3463460,
         "name": "Hidden Tomatoes 3"
     },
@@ -109762,10 +109754,6 @@
     {
         "appid": 3485090,
         "name": "Sky Blitz"
-    },
-    {
-        "appid": 3485110,
-        "name": "Sickness Says"
     },
     {
         "appid": 3485160,
@@ -130905,7 +130893,7 @@
     },
     {
         "appid": 3599640,
-        "name": "Velistra: Failed State"
+        "name": "Velistra: Makeshift Repairs"
     },
     {
         "appid": 3599660,
@@ -154086,6 +154074,10 @@
     {
         "appid": 3718880,
         "name": "Fast Hands"
+    },
+    {
+        "appid": 3718890,
+        "name": "Chill with You : Lo-Fi Story - Room & Cozy Activities Expansion"
     },
     {
         "appid": 3718900,
@@ -195424,6 +195416,10 @@
         "name": "100 Africa Cats  - Artbook"
     },
     {
+        "appid": 3934710,
+        "name": "5000 Donuts"
+    },
+    {
         "appid": 3934760,
         "name": "100 Los Angeles Cats  - Artbook"
     },
@@ -199974,6 +199970,10 @@
     {
         "appid": 3956080,
         "name": "Arsenic & Absinthe"
+    },
+    {
+        "appid": 3956110,
+        "name": "cactus rush"
     },
     {
         "appid": 3956120,
