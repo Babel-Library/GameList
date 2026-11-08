@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1109564,
-        "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
-    },
-    {
         "appid": 1109565,
         "name": "RPG Maker MV - Samurai Force 8bit Tracks Vol.1"
     },
@@ -20650,6 +20646,10 @@
     {
         "appid": 1191730,
         "name": "Hogvalord"
+    },
+    {
+        "appid": 1191740,
+        "name": "Rock Dev Simulator"
     },
     {
         "appid": 1191770,
@@ -88077,7 +88077,7 @@
     },
     {
         "appid": 1489680,
-        "name": "Pixross"
+        "name": "Pixross Remastered"
     },
     {
         "appid": 1489780,
@@ -99465,7 +99465,7 @@
     },
     {
         "appid": 1540670,
-        "name": "N31"
+        "name": "Tandm"
     },
     {
         "appid": 1540680,

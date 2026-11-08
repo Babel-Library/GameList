@@ -56337,7 +56337,7 @@
     },
     {
         "appid": 2233080,
-        "name": "Wizard"
+        "name": "CINEGAME STORIES WIZARD"
     },
     {
         "appid": 2233090,
@@ -71989,7 +71989,7 @@
     },
     {
         "appid": 2306130,
-        "name": "THE SPINNER"
+        "name": "DOPASPIN"
     },
     {
         "appid": 2306150,
@@ -78393,7 +78393,7 @@
     },
     {
         "appid": 2334320,
-        "name": "Cthulhu Keeper"
+        "name": "The Rising Cult"
     },
     {
         "appid": 2334330,
@@ -102542,10 +102542,6 @@
     {
         "appid": 2440730,
         "name": "Snoody: One of the Ayrie"
-    },
-    {
-        "appid": 2440750,
-        "name": "Silent North"
     },
     {
         "appid": 2440760,
@@ -199998,5 +199994,9 @@
     {
         "appid": 2929260,
         "name": "SWARM 2"
+    },
+    {
+        "appid": 2929290,
+        "name": "Stretchmancer"
     }
 ]

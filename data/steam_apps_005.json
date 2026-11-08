@@ -1,9 +1,5 @@
 [
     {
-        "appid": 3956320,
-        "name": "Inotia 4"
-    },
-    {
         "appid": 3956330,
         "name": "Cyber Syrup Syndrome"
     },
@@ -5717,7 +5713,7 @@
     },
     {
         "appid": 3986140,
-        "name": "AeroSpace Engineering | Sandbox"
+        "name": "Aerospace Engineering Sandbox"
     },
     {
         "appid": 3986150,
@@ -14794,6 +14790,10 @@
     {
         "appid": 4036670,
         "name": "Maid Cafe Together"
+    },
+    {
+        "appid": 4036690,
+        "name": "This Game Sucks: A Party Board Game"
     },
     {
         "appid": 4036720,
@@ -36912,10 +36912,6 @@
         "name": "PLATiNA :: LAB - Anime Day ｢Renai Circulation｣"
     },
     {
-        "appid": 4157820,
-        "name": "Bias Brawlers"
-    },
-    {
         "appid": 4157830,
         "name": "Relics of Wayne: Greymoor"
     },
@@ -55796,10 +55792,6 @@
         "name": "End of Garbage"
     },
     {
-        "appid": 4256230,
-        "name": "Roadside Store Simulator"
-    },
-    {
         "appid": 4256240,
         "name": "リベンジ・ハート"
     },
@@ -58126,6 +58118,10 @@
     {
         "appid": 4268130,
         "name": "Red Passport: Ticket to Russia - Old Novosibirsk Bus"
+    },
+    {
+        "appid": 4268170,
+        "name": "Pekka Kana 2"
     },
     {
         "appid": 4268180,
@@ -133824,6 +133820,10 @@
         "name": "ONE MAN'S DECEIT"
     },
     {
+        "appid": 4691340,
+        "name": "Rebel Talos"
+    },
+    {
         "appid": 4691360,
         "name": "FerroFrame"
     },
@@ -139561,7 +139561,7 @@
     },
     {
         "appid": 4727720,
-        "name": "Crowned Sun"
+        "name": "ECHO//NULL"
     },
     {
         "appid": 4727740,
@@ -140106,6 +140106,10 @@
     {
         "appid": 4730970,
         "name": "Center Of The Galaxy: Desktop Idle"
+    },
+    {
+        "appid": 4731000,
+        "name": "Steel Platoon"
     },
     {
         "appid": 4731010,
@@ -152636,6 +152640,10 @@
         "name": "Droga Do Pałacu"
     },
     {
+        "appid": 4809470,
+        "name": "Backrooms: Shifted Reality"
+    },
+    {
         "appid": 4809480,
         "name": "Push It!"
     },
@@ -157106,6 +157114,10 @@
     {
         "appid": 4835450,
         "name": "OKeverything: Realm of Humanity-DLC"
+    },
+    {
+        "appid": 4835480,
+        "name": "Desert Sweepers"
     },
     {
         "appid": 4835510,
@@ -164366,6 +164378,10 @@
     {
         "appid": 4873220,
         "name": "Sweet Hotel 2"
+    },
+    {
+        "appid": 4873240,
+        "name": "Bug Huntress wants to battle!"
     },
     {
         "appid": 4873250,
@@ -181152,6 +181168,10 @@
         "name": "Orchid and Thyme"
     },
     {
+        "appid": 4964380,
+        "name": "Mosaique Neko Waifus 6 Free R18"
+    },
+    {
         "appid": 4964400,
         "name": "Set the Record Straight"
     },
@@ -194340,6 +194360,10 @@
         "name": "Maiden Legion"
     },
     {
+        "appid": 5039900,
+        "name": "Betofor: The Split"
+    },
+    {
         "appid": 5039910,
         "name": "Do You Want To Know Your Oshi?"
     },
@@ -199716,6 +199740,10 @@
         "name": "AFTERMATH"
     },
     {
+        "appid": 5070390,
+        "name": "Rust, Dust & Droids"
+    },
+    {
         "appid": 5070400,
         "name": "Yeet the Chest"
     },
@@ -199970,33 +199998,5 @@
     {
         "appid": 5071780,
         "name": "Click Bait"
-    },
-    {
-        "appid": 5071800,
-        "name": "Carnage Mania"
-    },
-    {
-        "appid": 5071810,
-        "name": "Glint Grade"
-    },
-    {
-        "appid": 5071820,
-        "name": "Craftaway: Tactics"
-    },
-    {
-        "appid": 5071850,
-        "name": "Tavern Game Night"
-    },
-    {
-        "appid": 5071860,
-        "name": "Cozy Plates"
-    },
-    {
-        "appid": 5071870,
-        "name": "Orymessa"
-    },
-    {
-        "appid": 5071880,
-        "name": "Stuck in a Broken Tutorial"
     }
 ]

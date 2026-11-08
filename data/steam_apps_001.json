@@ -70500,10 +70500,6 @@
         "name": "Raging Titan"
     },
     {
-        "appid": 538190,
-        "name": "ORION: Prelude (ULTIMATE EDITION)"
-    },
-    {
         "appid": 538220,
         "name": "HAUNTED: Halloween '85 (Original NES Game)"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1109563,
         "name": "RPG Maker MV - Modern + Inner Basic Tiles"
+    },
+    {
+        "appid": 1109564,
+        "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
     }
 ]
