@@ -1,29 +1,5 @@
 [
     {
-        "appid": 3956330,
-        "name": "Cyber Syrup Syndrome"
-    },
-    {
-        "appid": 3956340,
-        "name": "Max Manos 2"
-    },
-    {
-        "appid": 3956350,
-        "name": "Congratulations, This is Hell"
-    },
-    {
-        "appid": 3956370,
-        "name": "Everlusting Life - Mascot Ula"
-    },
-    {
-        "appid": 3956380,
-        "name": "Desire Inn"
-    },
-    {
-        "appid": 3956390,
-        "name": "100 Words"
-    },
-    {
         "appid": 3956400,
         "name": "Mr. Talkie's Redacted Reels"
     },
@@ -13082,6 +13058,10 @@
     {
         "appid": 4026410,
         "name": "Mnemosyne's Cube"
+    },
+    {
+        "appid": 4026430,
+        "name": "Pop Corner"
     },
     {
         "appid": 4026460,
@@ -35680,10 +35660,6 @@
         "name": "TowerBonk"
     },
     {
-        "appid": 4151510,
-        "name": "Massage Simulator"
-    },
-    {
         "appid": 4151520,
         "name": "Infinidice"
     },
@@ -44810,6 +44786,10 @@
     {
         "appid": 4199680,
         "name": "深空拓月DUSTMOON"
+    },
+    {
+        "appid": 4199690,
+        "name": "War of Light: Liberation of Aetherquill"
     },
     {
         "appid": 4199700,
@@ -94105,7 +94085,7 @@
     },
     {
         "appid": 4474680,
-        "name": "Boric Demo"
+        "name": "Boric"
     },
     {
         "appid": 4474740,
@@ -121721,7 +121701,7 @@
     },
     {
         "appid": 4620100,
-        "name": "Little Heart AI-2055"
+        "name": "Bad AI"
     },
     {
         "appid": 4620110,
@@ -135413,7 +135393,7 @@
     },
     {
         "appid": 4700830,
-        "name": "Project Phoenix 涅槃计划"
+        "name": "Project Phoenix"
     },
     {
         "appid": 4700840,
@@ -139097,7 +139077,7 @@
     },
     {
         "appid": 4724920,
-        "name": "Generation Ship"
+        "name": "Generation Ship: from Dust to Thrust"
     },
     {
         "appid": 4724940,
@@ -150350,6 +150330,10 @@
     {
         "appid": 4794420,
         "name": "Bird Sense"
+    },
+    {
+        "appid": 4794430,
+        "name": "到地底了吗？"
     },
     {
         "appid": 4794490,
@@ -167792,6 +167776,10 @@
         "name": "Skills & Raids - Official Artbook"
     },
     {
+        "appid": 4892860,
+        "name": "Marrow Meadows"
+    },
+    {
         "appid": 4892880,
         "name": "VAIL VR Agrotech Character and Weapon Skin Bundle"
     },
@@ -180256,6 +180244,10 @@
         "name": "War Doctor"
     },
     {
+        "appid": 4959750,
+        "name": "Hitflag"
+    },
+    {
         "appid": 4959760,
         "name": "The Heir: Steampunk Escape Room"
     },
@@ -181429,7 +181421,7 @@
     },
     {
         "appid": 4965860,
-        "name": "PROJECT ZIRCON"
+        "name": "PROJECT ZIRCON -KONAMI 新作ローグライク カードゲーム-"
     },
     {
         "appid": 4965870,
@@ -181597,7 +181589,7 @@
     },
     {
         "appid": 4966730,
-        "name": "Powder Park"
+        "name": "Powder Park: Ski Resort Builder"
     },
     {
         "appid": 4966740,
@@ -186573,7 +186565,7 @@
     },
     {
         "appid": 4994890,
-        "name": "Become Blackhole 成为黑洞"
+        "name": "Become Blackhole"
     },
     {
         "appid": 4994920,
@@ -192928,6 +192920,10 @@
         "name": "The Parallel Existence of Allen McDiggins"
     },
     {
+        "appid": 5031630,
+        "name": "HYPRNULL"
+    },
+    {
         "appid": 5031640,
         "name": "Deadliest Pigeon - Supporter Pack"
     },
@@ -195657,7 +195653,7 @@
     },
     {
         "appid": 5046790,
-        "name": "Rally Point"
+        "name": "Rally Point: 3030"
     },
     {
         "appid": 5046820,
@@ -197336,6 +197332,10 @@
         "name": "Long Dives"
     },
     {
+        "appid": 5056770,
+        "name": "Stream Snipers"
+    },
+    {
         "appid": 5056810,
         "name": "The Pass - Well Regarded Pack"
     },
@@ -198362,6 +198362,10 @@
     {
         "appid": 5062630,
         "name": "Roll Value"
+    },
+    {
+        "appid": 5062650,
+        "name": "Crumbs"
     },
     {
         "appid": 5062660,
@@ -199994,9 +199998,5 @@
     {
         "appid": 5071760,
         "name": "KICKSLAUGHT: Football Idle"
-    },
-    {
-        "appid": 5071780,
-        "name": "Click Bait"
     }
 ]

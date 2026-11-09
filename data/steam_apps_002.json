@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1109565,
-        "name": "RPG Maker MV - Samurai Force 8bit Tracks Vol.1"
-    },
-    {
-        "appid": 1109570,
-        "name": "《文字遊戲》"
-    },
-    {
-        "appid": 1109630,
-        "name": "コイカツ！ / Koikatsu Party VR"
-    },
-    {
         "appid": 1109650,
         "name": "Hentai Girls Mosaic"
     },
@@ -50556,10 +50544,6 @@
         "name": "Endless Voyage / 无尽航线"
     },
     {
-        "appid": 1325320,
-        "name": "~Azur Ring~virgin and slave's phylacteries R-18 DLC"
-    },
-    {
         "appid": 1325340,
         "name": "Brain Sanguo"
     },
@@ -64862,10 +64846,6 @@
     {
         "appid": 1386870,
         "name": "Wraith: The Oblivion - Afterlife"
-    },
-    {
-        "appid": 1386890,
-        "name": "Hyper Dash"
     },
     {
         "appid": 1386900,
@@ -135512,6 +135492,10 @@
         "name": "Hodl Simulator"
     },
     {
+        "appid": 1693220,
+        "name": "N-Studio"
+    },
+    {
         "appid": 1693230,
         "name": "Puzzle Soccer"
     },
@@ -189256,6 +189240,10 @@
         "name": "恋~一些小清新的猎奇故事~未来更新的所有故事"
     },
     {
+        "appid": 1909940,
+        "name": "Badger Tactics"
+    },
+    {
         "appid": 1909950,
         "name": "SUPER ROBOT WARS Y"
     },
@@ -199998,5 +199986,17 @@
     {
         "appid": 1955030,
         "name": "SCP: EVENT CLASSIFIED"
+    },
+    {
+        "appid": 1955040,
+        "name": "The Aquatic Messenger"
+    },
+    {
+        "appid": 1955090,
+        "name": "KeepUp Survival - Tropical Island Map"
+    },
+    {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
     }
 ]

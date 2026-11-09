@@ -1,21 +1,5 @@
 [
     {
-        "appid": 2929300,
-        "name": "QUESTSCAPE: Survival"
-    },
-    {
-        "appid": 2929310,
-        "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition"
-    },
-    {
-        "appid": 2929320,
-        "name": "消防员康纳 - FireFighter Connor CG ImagePack"
-    },
-    {
-        "appid": 2929330,
-        "name": "Gunflow"
-    },
-    {
         "appid": 2929400,
         "name": "Museum of Immersive Art"
     },
@@ -10937,7 +10921,7 @@
     },
     {
         "appid": 2983060,
-        "name": "Backroom Brawl"
+        "name": "Scrap Pit"
     },
     {
         "appid": 2983070,
@@ -71132,10 +71116,6 @@
         "name": "Angel Legion-DLC Summer Love A"
     },
     {
-        "appid": 3292370,
-        "name": "SUBJECTS"
-    },
-    {
         "appid": 3292380,
         "name": "Gnome adventure"
     },
@@ -72253,7 +72233,7 @@
     },
     {
         "appid": 3298070,
-        "name": "Beyond the Cradle"
+        "name": "Outgrowing Wake"
     },
     {
         "appid": 3298080,
@@ -112121,7 +112101,7 @@
     },
     {
         "appid": 3498500,
-        "name": "Stench"
+        "name": "STENCH"
     },
     {
         "appid": 3498520,
@@ -129572,10 +129552,6 @@
         "name": "Neon Striker"
     },
     {
-        "appid": 3592760,
-        "name": "Journey's Spirit"
-    },
-    {
         "appid": 3592770,
         "name": "Gravitus"
     },
@@ -137829,7 +137805,7 @@
     },
     {
         "appid": 3633810,
-        "name": "台北仲夏夜之梦 - DLC"
+        "name": "Taipei Dream - My AI Girlfriend"
     },
     {
         "appid": 3633830,
@@ -146801,7 +146777,7 @@
     },
     {
         "appid": 3679870,
-        "name": "CaLLMara"
+        "name": "02:17 AM"
     },
     {
         "appid": 3679880,
@@ -199998,5 +199974,29 @@
     {
         "appid": 3956320,
         "name": "Inotia 4"
+    },
+    {
+        "appid": 3956330,
+        "name": "Cyber Syrup Syndrome"
+    },
+    {
+        "appid": 3956340,
+        "name": "Max Manos 2"
+    },
+    {
+        "appid": 3956350,
+        "name": "Congratulations, This is Hell"
+    },
+    {
+        "appid": 3956370,
+        "name": "Everlusting Life - Mascot Ula"
+    },
+    {
+        "appid": 3956380,
+        "name": "Desire Inn"
+    },
+    {
+        "appid": 3956390,
+        "name": "100 Words"
     }
 ]

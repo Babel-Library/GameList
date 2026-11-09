@@ -138533,7 +138533,7 @@
     },
     {
         "appid": 846660,
-        "name": "Cicadas - The IQA Edition"
+        "name": "Cicadas"
     },
     {
         "appid": 846670,
@@ -146210,10 +146210,6 @@
     {
         "appid": 880210,
         "name": "The Red Moon"
-    },
-    {
-        "appid": 880220,
-        "name": "~Azur Ring~virgin and slave's phylacteries"
     },
     {
         "appid": 880270,
@@ -167780,10 +167776,6 @@
         "name": "No Crossing"
     },
     {
-        "appid": 975120,
-        "name": "~necromancy~Emily's Escape"
-    },
-    {
         "appid": 975150,
         "name": "Resolutiion"
     },
@@ -183530,10 +183522,6 @@
     {
         "appid": 1042160,
         "name": "The Islander: Town Architect"
-    },
-    {
-        "appid": 1042170,
-        "name": "Summon of Asmodeus"
     },
     {
         "appid": 1042210,
@@ -199998,5 +199986,17 @@
     {
         "appid": 1109564,
         "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
+    },
+    {
+        "appid": 1109565,
+        "name": "RPG Maker MV - Samurai Force 8bit Tracks Vol.1"
+    },
+    {
+        "appid": 1109570,
+        "name": "《文字遊戲》"
+    },
+    {
+        "appid": 1109630,
+        "name": "コイカツ！ / Koikatsu Party VR"
     }
 ]
