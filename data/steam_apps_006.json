@@ -1,5 +1,21 @@
 [
     {
+        "appid": 5071720,
+        "name": "Rule By Roll"
+    },
+    {
+        "appid": 5071730,
+        "name": "饕餮魔宴"
+    },
+    {
+        "appid": 5071740,
+        "name": "BLIND SPOT"
+    },
+    {
+        "appid": 5071760,
+        "name": "KICKSLAUGHT: Football Idle"
+    },
+    {
         "appid": 5071780,
         "name": "Click Bait"
     },
@@ -1125,7 +1141,7 @@
     },
     {
         "appid": 5078290,
-        "name": "Go My Pretties"
+        "name": "GO, my pretties!"
     },
     {
         "appid": 5078310,
@@ -1394,6 +1410,10 @@
     {
         "appid": 5079750,
         "name": "修行~shugyo~"
+    },
+    {
+        "appid": 5079770,
+        "name": "Pale Drift"
     },
     {
         "appid": 5079800,
@@ -2932,6 +2952,10 @@
         "name": "Send More Monsters"
     },
     {
+        "appid": 5088910,
+        "name": "DecoGear Dimensions"
+    },
+    {
         "appid": 5088920,
         "name": "Rhythm Aero"
     },
@@ -3765,7 +3789,7 @@
     },
     {
         "appid": 5093760,
-        "name": "熊猫武者：余烬"
+        "name": "Pandrior: Emberwake"
     },
     {
         "appid": 5093770,
@@ -3834,6 +3858,10 @@
     {
         "appid": 5094090,
         "name": "Swarmkeeper"
+    },
+    {
+        "appid": 5094110,
+        "name": "Thirst Game"
     },
     {
         "appid": 5094120,
@@ -4408,6 +4436,10 @@
         "name": "We Ruin Football"
     },
     {
+        "appid": 5097320,
+        "name": "Shard Squad: Onyx Rising"
+    },
+    {
         "appid": 5097340,
         "name": "Aika Was Supposed to Die"
     },
@@ -4974,6 +5006,10 @@
     {
         "appid": 5100440,
         "name": "Thief Simulator 3: First Loot"
+    },
+    {
+        "appid": 5100450,
+        "name": "Unlimited Maid Works"
     },
     {
         "appid": 5100460,
@@ -6692,6 +6728,10 @@
         "name": "VORANEL"
     },
     {
+        "appid": 5110730,
+        "name": "The Last Runner"
+    },
+    {
         "appid": 5110750,
         "name": "Coinfetti"
     },
@@ -7758,6 +7798,10 @@
     {
         "appid": 5117470,
         "name": "DEFENDERIA"
+    },
+    {
+        "appid": 5117480,
+        "name": "D.E.F.R.A.G. : Sector Inspector"
     },
     {
         "appid": 5117490,
@@ -8852,6 +8896,14 @@
         "name": "WhiskersOS: Click and Survive"
     },
     {
+        "appid": 5124250,
+        "name": "メダロット クラシックス プラスカブトVer."
+    },
+    {
+        "appid": 5124290,
+        "name": "メダロット クラシックス プラスクワガタVer."
+    },
+    {
         "appid": 5124300,
         "name": "Brotito"
     },
@@ -9876,6 +9928,10 @@
         "name": "The Adventures of Portos"
     },
     {
+        "appid": 5130220,
+        "name": "The Cardkov"
+    },
+    {
         "appid": 5130260,
         "name": "The Night Route"
     },
@@ -10820,6 +10876,10 @@
         "name": "Maze Quest Odyssey"
     },
     {
+        "appid": 5135290,
+        "name": "Flicker"
+    },
+    {
         "appid": 5135310,
         "name": "The Frontier Ballad: Tang Warden (边关长歌：大唐卫)"
     },
@@ -11150,10 +11210,6 @@
     {
         "appid": 5137480,
         "name": "Return to the Jianghu"
-    },
-    {
-        "appid": 5137490,
-        "name": "Lust Hope"
     },
     {
         "appid": 5137500,
@@ -13780,6 +13836,10 @@
         "name": "Aer Isles"
     },
     {
+        "appid": 5155640,
+        "name": "The Seeker"
+    },
+    {
         "appid": 5155680,
         "name": "Just Dots"
     },
@@ -14814,6 +14874,10 @@
     {
         "appid": 5163080,
         "name": "Odysseus: Homecoming"
+    },
+    {
+        "appid": 5163090,
+        "name": "Welcome to witch hotel"
     },
     {
         "appid": 5163100,
@@ -16460,6 +16524,10 @@
         "name": "西部荒野枪手"
     },
     {
+        "appid": 5173260,
+        "name": "Paint Lab Simulator"
+    },
+    {
         "appid": 5173270,
         "name": "ZomBMart"
     },
@@ -17382,6 +17450,10 @@
     {
         "appid": 5178920,
         "name": "VR Realms Mature Content"
+    },
+    {
+        "appid": 5178940,
+        "name": "Gravith"
     },
     {
         "appid": 5178950,
@@ -18824,6 +18896,10 @@
         "name": "Lost Liminal:Prologue"
     },
     {
+        "appid": 5187740,
+        "name": "The Useless Game"
+    },
+    {
         "appid": 5187750,
         "name": "Swingy Spiders"
     },
@@ -19404,6 +19480,10 @@
         "name": "Spice Pound"
     },
     {
+        "appid": 5191240,
+        "name": "Tidy Up The Christmas Shop"
+    },
+    {
         "appid": 5191250,
         "name": "Beat Saber - ROSÉ & Bruno Mars - APT."
     },
@@ -19418,6 +19498,10 @@
     {
         "appid": 5191300,
         "name": "Greatest Fertilizer"
+    },
+    {
+        "appid": 5191320,
+        "name": "Too Lucky To Die"
     },
     {
         "appid": 5191330,
@@ -20280,6 +20364,10 @@
         "name": "Nobody: Three Kingdoms"
     },
     {
+        "appid": 5197290,
+        "name": "Voxurvival"
+    },
+    {
         "appid": 5197410,
         "name": "Pixel BlackJack  -  二十一点"
     },
@@ -20673,7 +20761,7 @@
     },
     {
         "appid": 5200480,
-        "name": "Infinite Shift: Backrooms"
+        "name": "The Infinite Shift: Backrooms"
     },
     {
         "appid": 5200500,
@@ -24068,6 +24156,10 @@
         "name": "快乐的晴天娃娃"
     },
     {
+        "appid": 5224820,
+        "name": "Tidy Up the Christmas Market"
+    },
+    {
         "appid": 5224830,
         "name": "Podium '80"
     },
@@ -24928,6 +25020,10 @@
         "name": "RE:COPY"
     },
     {
+        "appid": 5230840,
+        "name": "Naive Cat Elusha"
+    },
+    {
         "appid": 5230850,
         "name": "The Succubus and Me"
     },
@@ -25234,6 +25330,10 @@
     {
         "appid": 5232980,
         "name": "Total Biochem"
+    },
+    {
+        "appid": 5232990,
+        "name": "Ranchonauts"
     },
     {
         "appid": 5233000,
@@ -27060,10 +27160,6 @@
         "name": "动物庄园 Animal Farm"
     },
     {
-        "appid": 5246160,
-        "name": "Where Winds Meet-Cicada Requiem Pack"
-    },
-    {
         "appid": 5246170,
         "name": "Sherlock Mysteries: Victorian Investigations"
     },
@@ -27394,6 +27490,10 @@
     {
         "appid": 5247970,
         "name": "Visual Novel: The Neighbor with My Face"
+    },
+    {
+        "appid": 5247980,
+        "name": "Backgammon GO!"
     },
     {
         "appid": 5248020,
@@ -27833,7 +27933,7 @@
     },
     {
         "appid": 5251140,
-        "name": "PC FISH – Sunken Treasures Pack"
+        "name": "PC FISH - Sunken Treasures Pack"
     },
     {
         "appid": 5251150,
@@ -29281,7 +29381,7 @@
     },
     {
         "appid": 5261450,
-        "name": "アヤカシプロファイル"
+        "name": "Ayakashi Profile"
     },
     {
         "appid": 5261460,
@@ -30294,6 +30394,10 @@
     {
         "appid": 5269330,
         "name": "Rebirth: Monarch of the Dead"
+    },
+    {
+        "appid": 5269340,
+        "name": "EndlessAlice: Shimiao Yukata"
     },
     {
         "appid": 5269350,
@@ -31388,6 +31492,10 @@
         "name": "Omega Transmission"
     },
     {
+        "appid": 5277430,
+        "name": "赛勒帝国：遗迹"
+    },
+    {
         "appid": 5277460,
         "name": "诗词防线"
     },
@@ -31728,6 +31836,10 @@
         "name": "Bladehold"
     },
     {
+        "appid": 5279840,
+        "name": "SCRAPSCRAP"
+    },
+    {
         "appid": 5279850,
         "name": "Stereosis"
     },
@@ -31966,6 +32078,10 @@
     {
         "appid": 5281790,
         "name": "Illyrium: Chronicles"
+    },
+    {
+        "appid": 5281810,
+        "name": "Shuffled Hotel"
     },
     {
         "appid": 5281840,
@@ -32813,7 +32929,7 @@
     },
     {
         "appid": 5287140,
-        "name": "Project Night Lights"
+        "name": "Nine Tenths"
     },
     {
         "appid": 5287170,
@@ -36296,6 +36412,10 @@
         "name": "Forsythia"
     },
     {
+        "appid": 5311190,
+        "name": "Test Your Luck: Gacha Simulator"
+    },
+    {
         "appid": 5311220,
         "name": "Mostroscopy - Ankhnubis & Dr. Lovelace"
     },
@@ -36382,6 +36502,10 @@
     {
         "appid": 5312040,
         "name": "Galdr Inkblade"
+    },
+    {
+        "appid": 5312050,
+        "name": "Father Daniel"
     },
     {
         "appid": 5312060,
@@ -37420,6 +37544,10 @@
         "name": "TRY IT"
     },
     {
+        "appid": 5319630,
+        "name": "A.E.G.I.S"
+    },
+    {
         "appid": 5319730,
         "name": "Dungeon Packer"
     },
@@ -37604,6 +37732,10 @@
         "name": "MURKWARD"
     },
     {
+        "appid": 5321230,
+        "name": "永恒传奇之六道觉醒"
+    },
+    {
         "appid": 5321250,
         "name": "recovery_sewers.vid"
     },
@@ -37729,7 +37861,7 @@
     },
     {
         "appid": 5322340,
-        "name": "Gold Master: A Game Company Tycoon "
+        "name": "Gone Gold: A Game Company Tycoon"
     },
     {
         "appid": 5322360,
@@ -39168,6 +39300,10 @@
         "name": "House of the Damned"
     },
     {
+        "appid": 5330960,
+        "name": "Party Rounds"
+    },
+    {
         "appid": 5330970,
         "name": "Today I..."
     },
@@ -39736,6 +39872,10 @@
         "name": "NIGHTWARD"
     },
     {
+        "appid": 5335210,
+        "name": "Auto Fleet Command"
+    },
+    {
         "appid": 5335250,
         "name": "Tickerbound"
     },
@@ -39846,6 +39986,10 @@
     {
         "appid": 5335870,
         "name": "SHIFTMARE"
+    },
+    {
+        "appid": 5335890,
+        "name": "7th App ★ Player 2 Has Entered The Game - Select"
     },
     {
         "appid": 5335900,
@@ -40050,6 +40194,10 @@
     {
         "appid": 5337260,
         "name": "Raid Sky"
+    },
+    {
+        "appid": 5337270,
+        "name": "Projeto Solace"
     },
     {
         "appid": 5337280,
@@ -41948,6 +42096,10 @@
         "name": "Darts With Mates"
     },
     {
+        "appid": 5350820,
+        "name": "69番通路"
+    },
+    {
         "appid": 5350880,
         "name": "Wizards Go Farming"
     },
@@ -42230,6 +42382,10 @@
     {
         "appid": 5353130,
         "name": "Survival Repacker"
+    },
+    {
+        "appid": 5353140,
+        "name": "她与她的非法共识"
     },
     {
         "appid": 5353170,
@@ -43724,6 +43880,10 @@
         "name": "Tinselwood"
     },
     {
+        "appid": 5363190,
+        "name": "Noro"
+    },
+    {
         "appid": 5363210,
         "name": "Jerry and Jaspers Jovial Journey"
     },
@@ -44296,6 +44456,10 @@
         "name": "DOA6LR Nyotengu Demonic Tengu: Twilight"
     },
     {
+        "appid": 5366540,
+        "name": "Project Routa"
+    },
+    {
         "appid": 5366560,
         "name": "DOA6LR Kasumi Knight of Destiny Bundle"
     },
@@ -44510,6 +44674,10 @@
     {
         "appid": 5367700,
         "name": "Cuby Clicker"
+    },
+    {
+        "appid": 5367760,
+        "name": "EndlessAlice: Shibako Buruma [Free for Early Access players]"
     },
     {
         "appid": 5367770,
@@ -45300,6 +45468,10 @@
         "name": "Shards of Veyara"
     },
     {
+        "appid": 5373680,
+        "name": "EndlessAlice: Koraku Buruma"
+    },
+    {
         "appid": 5373700,
         "name": "Mushroom Day"
     },
@@ -45622,6 +45794,10 @@
     {
         "appid": 5375950,
         "name": "Put It Away Please"
+    },
+    {
+        "appid": 5375970,
+        "name": "Underwhater"
     },
     {
         "appid": 5375990,
@@ -46524,6 +46700,10 @@
         "name": "Chaos Soccer"
     },
     {
+        "appid": 5381790,
+        "name": "N in One World Bridge Collection: Rubber Bridge, Chicago Bridge, Matchpoint Pairs, IMP Teams"
+    },
+    {
         "appid": 5381810,
         "name": "Échappée"
     },
@@ -47104,6 +47284,10 @@
         "name": "Maeli Keus"
     },
     {
+        "appid": 5385610,
+        "name": "Nook Beasts"
+    },
+    {
         "appid": 5385620,
         "name": "The Beaten Track"
     },
@@ -47622,6 +47806,10 @@
     {
         "appid": 5389470,
         "name": "Desktop Xianxia"
+    },
+    {
+        "appid": 5389490,
+        "name": "Pocket Milf"
     },
     {
         "appid": 5389500,
@@ -48584,6 +48772,14 @@
         "name": "Auto clicker"
     },
     {
+        "appid": 5396380,
+        "name": "EndlessAlice: Mia Buruma"
+    },
+    {
+        "appid": 5396390,
+        "name": "EndlessAlice: Lea Buruma"
+    },
+    {
         "appid": 5396420,
         "name": "NAME ME IF YOU CAN"
     },
@@ -48858,6 +49054,10 @@
     {
         "appid": 5398330,
         "name": "Cosmicon Plague"
+    },
+    {
+        "appid": 5398350,
+        "name": "Take Care!!!"
     },
     {
         "appid": 5398370,
@@ -49729,7 +49929,7 @@
     },
     {
         "appid": 5403760,
-        "name": "Only Farms: Tidy Up"
+        "name": "OnlyFarms: Tidy Up! "
     },
     {
         "appid": 5403780,
@@ -49890,6 +50090,10 @@
     {
         "appid": 5404740,
         "name": "Stick Life: Ye Olde Grind"
+    },
+    {
+        "appid": 5404750,
+        "name": "Rêverie: The Berline"
     },
     {
         "appid": 5404810,
@@ -50350,6 +50554,10 @@
     {
         "appid": 5407690,
         "name": "Catjong 7: Purradise Heights"
+    },
+    {
+        "appid": 5407720,
+        "name": "Cozy Cat Match 2"
     },
     {
         "appid": 5407760,
@@ -50948,6 +51156,10 @@
         "name": "We Have Lift Off"
     },
     {
+        "appid": 5412180,
+        "name": "九号超市避难所"
+    },
+    {
         "appid": 5412260,
         "name": "EverArcane"
     },
@@ -51018,6 +51230,10 @@
     {
         "appid": 5412640,
         "name": "Life on Planets"
+    },
+    {
+        "appid": 5412670,
+        "name": "2.3 Billion"
     },
     {
         "appid": 5412710,
@@ -51394,6 +51610,10 @@
     {
         "appid": 5415480,
         "name": "Demeter: The Harvest Dies With You"
+    },
+    {
+        "appid": 5415490,
+        "name": "Gamedev Hell: A Roguelite Tycoon"
     },
     {
         "appid": 5415500,
@@ -52148,6 +52368,10 @@
         "name": "Click to Mine"
     },
     {
+        "appid": 5420230,
+        "name": "DualBeats"
+    },
+    {
         "appid": 5420270,
         "name": "Orbital Battlefront Eclipse"
     },
@@ -52440,6 +52664,10 @@
         "name": "Swarmslam - Supporter Pack"
     },
     {
+        "appid": 5422550,
+        "name": "Memory Games Horses"
+    },
+    {
         "appid": 5422560,
         "name": "Memory Games Shrubs"
     },
@@ -52498,6 +52726,10 @@
     {
         "appid": 5422730,
         "name": "Catch a Cheater by the Hand"
+    },
+    {
+        "appid": 5422760,
+        "name": "I am so F**king Hangry"
     },
     {
         "appid": 5422790,
@@ -53740,6 +53972,10 @@
         "name": "Anime Art Generator – Furry & Anthro Art Pack"
     },
     {
+        "appid": 5431260,
+        "name": "Anime Art Generator – Anime Character Art Pack"
+    },
+    {
         "appid": 5431280,
         "name": "Virus 26"
     },
@@ -53792,6 +54028,10 @@
         "name": "CC: Bianca's Sigils"
     },
     {
+        "appid": 5431630,
+        "name": "EndlessAlice: Takehime Buruma"
+    },
+    {
         "appid": 5431650,
         "name": "余墨"
     },
@@ -53816,6 +54056,10 @@
         "name": "MINESWEEPER ARCADE"
     },
     {
+        "appid": 5431760,
+        "name": "Typers Combat 2: Type Harder"
+    },
+    {
         "appid": 5431780,
         "name": "EGO DESCENT"
     },
@@ -53830,6 +54074,10 @@
     {
         "appid": 5431870,
         "name": "A World of Crates"
+    },
+    {
+        "appid": 5431920,
+        "name": "電脳追撃者 ミサト"
     },
     {
         "appid": 5431930,
@@ -54480,6 +54728,10 @@
         "name": "The Smith's Tale"
     },
     {
+        "appid": 5436700,
+        "name": "Nail Studio"
+    },
+    {
         "appid": 5436730,
         "name": "Tuftwood : Rug Tufting Simulation"
     },
@@ -54864,6 +55116,10 @@
         "name": "Angel Legion-DLC Starlit Veil Dance (Blue)"
     },
     {
+        "appid": 5439420,
+        "name": "Angel Legion-DLC Starlit Veil Dance (Orange)"
+    },
+    {
         "appid": 5439470,
         "name": "RIGUP"
     },
@@ -54890,6 +55146,10 @@
     {
         "appid": 5439590,
         "name": "냐레스"
+    },
+    {
+        "appid": 5439620,
+        "name": "Hell Bingo"
     },
     {
         "appid": 5439650,
@@ -55030,6 +55290,10 @@
     {
         "appid": 5440570,
         "name": "Domino Tinkerer"
+    },
+    {
+        "appid": 5440590,
+        "name": "扑克江湖"
     },
     {
         "appid": 5440610,
@@ -55236,6 +55500,10 @@
         "name": "RD Inc. Wars"
     },
     {
+        "appid": 5442140,
+        "name": "Hurlyburly"
+    },
+    {
         "appid": 5442160,
         "name": "Sil-Morë — Shining Darkness"
     },
@@ -55270,6 +55538,10 @@
     {
         "appid": 5442480,
         "name": "Fantasy Grounds - Treasury of the Pharoahs (PFRPG)"
+    },
+    {
+        "appid": 5442500,
+        "name": "中国式二游"
     },
     {
         "appid": 5442520,
@@ -56004,6 +56276,10 @@
         "name": "DRAVENHORT"
     },
     {
+        "appid": 5448440,
+        "name": "Neverwake"
+    },
+    {
         "appid": 5448460,
         "name": "Deadly Voyage"
     },
@@ -56178,6 +56454,10 @@
     {
         "appid": 5449750,
         "name": "終末街区"
+    },
+    {
+        "appid": 5449760,
+        "name": "MYTHOS: Local Media Intelligence"
     },
     {
         "appid": 5449780,
@@ -56476,6 +56756,10 @@
         "name": "Tidy Mall Together"
     },
     {
+        "appid": 5451660,
+        "name": "ORYFT"
+    },
+    {
         "appid": 5451670,
         "name": "Strait Defense"
     },
@@ -56580,6 +56864,10 @@
         "name": "Piratocon: Dig, Restore & Collect"
     },
     {
+        "appid": 5452530,
+        "name": "Bob Brothers"
+    },
+    {
         "appid": 5452540,
         "name": "ONE FLICK ～ COIN CLASH ～"
     },
@@ -56670,6 +56958,10 @@
     {
         "appid": 5453090,
         "name": "River Royale"
+    },
+    {
+        "appid": 5453100,
+        "name": "Upshift"
     },
     {
         "appid": 5453110,
@@ -56982,6 +57274,10 @@
     {
         "appid": 5455350,
         "name": "Card Battle Boy"
+    },
+    {
+        "appid": 5455370,
+        "name": "You Are Absolutely Right!"
     },
     {
         "appid": 5455380,
@@ -59184,6 +59480,10 @@
         "name": "Настоящие пазлы - Монстры"
     },
     {
+        "appid": 5471800,
+        "name": "PATO"
+    },
+    {
         "appid": 5471820,
         "name": "Prison Anomaly - Supporter Pack"
     },
@@ -59322,6 +59622,10 @@
     {
         "appid": 5472640,
         "name": "MatchBuzz - Notification Design Pack"
+    },
+    {
+        "appid": 5472720,
+        "name": "Manga Shop Simulator"
     },
     {
         "appid": 5472740,
@@ -59578,6 +59882,10 @@
     {
         "appid": 5474490,
         "name": "Into the Chaos: Reliable Delivery Riders"
+    },
+    {
+        "appid": 5474510,
+        "name": "Sunderkin"
     },
     {
         "appid": 5474530,
@@ -60324,6 +60632,10 @@
         "name": "Battle Bears Gold - Gold Skins Pack"
     },
     {
+        "appid": 5480050,
+        "name": "SuperZeroes"
+    },
+    {
         "appid": 5480060,
         "name": "Battle Bears Gold - Bling Pack: Weapon, Rare Songs & Gas"
     },
@@ -60442,6 +60754,14 @@
     {
         "appid": 5480880,
         "name": "Have You Seen"
+    },
+    {
+        "appid": 5480920,
+        "name": "The Mean Greens Plastic Warfare: Wrestling Superstar \"DDP\" - DLC Character"
+    },
+    {
+        "appid": 5480930,
+        "name": "The Mean Greens - Plastic Warfare: Wrestling Superstar \"Sonny Onoo\" - DLC Character"
     },
     {
         "appid": 5480940,
@@ -60696,6 +61016,10 @@
         "name": "Tower Realm ：The Saga Of Tower Chapter 3"
     },
     {
+        "appid": 5482580,
+        "name": "Loaded Bones"
+    },
+    {
         "appid": 5482590,
         "name": "JackpotLoop"
     },
@@ -60794,6 +61118,10 @@
     {
         "appid": 5483560,
         "name": "Monster Cove"
+    },
+    {
+        "appid": 5483610,
+        "name": "Cozy Cat Match 2 Full Version Unlock"
     },
     {
         "appid": 5483630,
@@ -60980,6 +61308,10 @@
         "name": "なげるorなでる"
     },
     {
+        "appid": 5485010,
+        "name": "Rogue Ronin"
+    },
+    {
         "appid": 5485050,
         "name": "Wheatstead"
     },
@@ -61048,6 +61380,10 @@
         "name": "Residents Only"
     },
     {
+        "appid": 5485570,
+        "name": "Greedy - Dumpster Supporter Pack"
+    },
+    {
         "appid": 5485580,
         "name": "Paper Pranks"
     },
@@ -61062,6 +61398,10 @@
     {
         "appid": 5485720,
         "name": "Raccoocket"
+    },
+    {
+        "appid": 5485730,
+        "name": "Warheads vs Wizards"
     },
     {
         "appid": 5485740,
@@ -61316,6 +61656,10 @@
         "name": "Timber Together"
     },
     {
+        "appid": 5487950,
+        "name": "Fine Tuning: A Radio Repair Shop"
+    },
+    {
         "appid": 5488190,
         "name": "Grave Wire"
     },
@@ -61412,6 +61756,10 @@
         "name": "Ravenford: The Last Raven Warden"
     },
     {
+        "appid": 5489050,
+        "name": "Rastergeist"
+    },
+    {
         "appid": 5489070,
         "name": "The Nine Oaths"
     },
@@ -61486,6 +61834,10 @@
     {
         "appid": 5489720,
         "name": "Card House"
+    },
+    {
+        "appid": 5489780,
+        "name": "AEX: AFK EXOS HEROES"
     },
     {
         "appid": 5489790,
@@ -61722,6 +62074,10 @@
     {
         "appid": 5491580,
         "name": "Oink & Coin"
+    },
+    {
+        "appid": 5491590,
+        "name": "Broom League"
     },
     {
         "appid": 5491610,
@@ -61990,6 +62346,10 @@
     {
         "appid": 5494400,
         "name": "Desktop Fish Wish"
+    },
+    {
+        "appid": 5494430,
+        "name": "Ink Watch"
     },
     {
         "appid": 5494450,
@@ -62374,10 +62734,6 @@
     {
         "appid": 5497380,
         "name": "Refund Me TD 2"
-    },
-    {
-        "appid": 5497420,
-        "name": "The Dictatories"
     },
     {
         "appid": 5497430,
@@ -62848,6 +63204,10 @@
         "name": "Flesh Mill"
     },
     {
+        "appid": 5500630,
+        "name": "Embers & Iron Rain"
+    },
+    {
         "appid": 5500670,
         "name": "Guide to Dating Monsters"
     },
@@ -62886,6 +63246,10 @@
     {
         "appid": 5501320,
         "name": "Asian Story"
+    },
+    {
+        "appid": 5501340,
+        "name": "Brad Dracula"
     },
     {
         "appid": 5501350,
@@ -63348,6 +63712,10 @@
         "name": "Love Me in Hot Water"
     },
     {
+        "appid": 5505660,
+        "name": "Wake-Up Prank Simulator"
+    },
+    {
         "appid": 5505710,
         "name": "Little Bastion — A Tiny Kingdom That Defends Your Desktop"
     },
@@ -63502,6 +63870,10 @@
     {
         "appid": 5507290,
         "name": "Oceans Empire: Twilight of Sail"
+    },
+    {
+        "appid": 5507300,
+        "name": "The Ascendants"
     },
     {
         "appid": 5507320,
@@ -63668,6 +64040,10 @@
         "name": "The Evername Lantern"
     },
     {
+        "appid": 5508960,
+        "name": "Achievement Clicker 2026 Pro"
+    },
+    {
         "appid": 5508970,
         "name": "The Witch’s Errand"
     },
@@ -63678,6 +64054,10 @@
     {
         "appid": 5509130,
         "name": "DOMAIN RUSH - MONSTERS, DICE & DOMAINS"
+    },
+    {
+        "appid": 5509160,
+        "name": "Athran"
     },
     {
         "appid": 5509240,
@@ -63836,6 +64216,10 @@
         "name": "Clanker Town"
     },
     {
+        "appid": 5510730,
+        "name": "Arena Mayhem"
+    },
+    {
         "appid": 5510740,
         "name": "AnthroBreeder : Monster Girl Harem"
     },
@@ -63882,6 +64266,10 @@
     {
         "appid": 5511140,
         "name": "현재 접속자 1명 (Player Count 1)"
+    },
+    {
+        "appid": 5511160,
+        "name": "Dead Impact: Survival Online"
     },
     {
         "appid": 5511170,
@@ -64220,6 +64608,10 @@
         "name": "BEHOPPER"
     },
     {
+        "appid": 5514480,
+        "name": "Turbo Lazor"
+    },
+    {
         "appid": 5514550,
         "name": "Before Lily: 莉莉出生之前"
     },
@@ -64250,6 +64642,10 @@
     {
         "appid": 5515020,
         "name": "Card Train"
+    },
+    {
+        "appid": 5515040,
+        "name": "Mushrooms and Chill"
     },
     {
         "appid": 5515050,
@@ -64340,6 +64736,10 @@
         "name": "Hentai Mature"
     },
     {
+        "appid": 5515640,
+        "name": "ZDSimulator - ER9p Electric Train"
+    },
+    {
         "appid": 5515670,
         "name": "Tikka & Kebab"
     },
@@ -64362,6 +64762,10 @@
     {
         "appid": 5515850,
         "name": "Gramps & Whiskers"
+    },
+    {
+        "appid": 5515890,
+        "name": "Shrimp Fright"
     },
     {
         "appid": 5515900,
@@ -64456,6 +64860,18 @@
         "name": "Job Application Simulator"
     },
     {
+        "appid": 5517080,
+        "name": "Up, Up! Neon Stairs: Angel Supporter Pack"
+    },
+    {
+        "appid": 5517090,
+        "name": "Up, Up! Neon Stairs: Devil Supporter Pack"
+    },
+    {
+        "appid": 5517100,
+        "name": "Up, Up! Neon Stairs: Gold Supporter Pack"
+    },
+    {
         "appid": 5517110,
         "name": "Dice Must Work"
     },
@@ -64466,6 +64882,10 @@
     {
         "appid": 5517170,
         "name": "DOODLE ISLES"
+    },
+    {
+        "appid": 5517340,
+        "name": "Rush 60 Seconds"
     },
     {
         "appid": 5517390,
@@ -64506,6 +64926,10 @@
     {
         "appid": 5517840,
         "name": "Breachwall: Network Defense"
+    },
+    {
+        "appid": 5517850,
+        "name": "Looooong Trip"
     },
     {
         "appid": 5517870,
@@ -64630,6 +65054,10 @@
     {
         "appid": 5518830,
         "name": "Jakin Boaz"
+    },
+    {
+        "appid": 5518840,
+        "name": "Little St. Files Mayhem"
     },
     {
         "appid": 5518850,
@@ -64804,6 +65232,10 @@
         "name": "The Gem Alchemist: A Cozy Crystal Workshop"
     },
     {
+        "appid": 5520760,
+        "name": "Sandpire"
+    },
+    {
         "appid": 5520810,
         "name": "Roomies"
     },
@@ -64877,7 +65309,7 @@
     },
     {
         "appid": 5521250,
-        "name": "Waltz & Jam - Digital Artbook"
+        "name": "Waltz and Jam - Digital Artbook"
     },
     {
         "appid": 5521270,
@@ -64886,6 +65318,10 @@
     {
         "appid": 5521300,
         "name": "Minesweeper Survivors"
+    },
+    {
+        "appid": 5521330,
+        "name": "Game of Games and Games (GGG)"
     },
     {
         "appid": 5521340,
@@ -64952,6 +65388,10 @@
         "name": "Sift Happens: Idle Beach Treasure"
     },
     {
+        "appid": 5522030,
+        "name": "Beholder 4"
+    },
+    {
         "appid": 5522040,
         "name": "灰燼之歌"
     },
@@ -64978,6 +65418,14 @@
     {
         "appid": 5522470,
         "name": "My Ex-Future Family 3: Endgame Animations Pack"
+    },
+    {
+        "appid": 5522490,
+        "name": "No Blink Allowed - Supporter Pack"
+    },
+    {
+        "appid": 5522510,
+        "name": "PICK-UP POINT Simulator"
     },
     {
         "appid": 5522520,
@@ -65066,6 +65514,10 @@
     {
         "appid": 5523820,
         "name": "Tales of Twilight"
+    },
+    {
+        "appid": 5523830,
+        "name": "Shutterbug Skies: Idle Camping"
     },
     {
         "appid": 5524110,
@@ -65212,8 +65664,20 @@
         "name": "The Long Shift"
     },
     {
+        "appid": 5525700,
+        "name": "Café Parisien Pinball"
+    },
+    {
         "appid": 5525720,
         "name": "Industrial Roastery Pinball"
+    },
+    {
+        "appid": 5525730,
+        "name": "Coffee Plantation Adventure Pinball"
+    },
+    {
+        "appid": 5525890,
+        "name": "Cupid's Bargain"
     },
     {
         "appid": 5525960,
@@ -65310,6 +65774,10 @@
     {
         "appid": 5526780,
         "name": "Legend Battles Solo PvE"
+    },
+    {
+        "appid": 5526840,
+        "name": "Fire Wyld"
     },
     {
         "appid": 5526860,
@@ -65420,8 +65888,16 @@
         "name": "Zephyr's World"
     },
     {
+        "appid": 5528200,
+        "name": "IcerKid"
+    },
+    {
         "appid": 5528270,
         "name": "The Crooked Table"
+    },
+    {
+        "appid": 5528280,
+        "name": "Brine Dreams"
     },
     {
         "appid": 5528290,
@@ -65550,6 +66026,10 @@
     {
         "appid": 5529310,
         "name": "Настоящие пазлы - Париж: Монстры (изображения)"
+    },
+    {
+        "appid": 5529320,
+        "name": "无尽之路"
     },
     {
         "appid": 5529340,
@@ -65872,6 +66352,10 @@
         "name": "Khanate: Fire Before Dark"
     },
     {
+        "appid": 5533050,
+        "name": "No one outside"
+    },
+    {
         "appid": 5533070,
         "name": "Breakpoint"
     },
@@ -65924,6 +66408,10 @@
         "name": "FreeLances: Blood for Profit"
     },
     {
+        "appid": 5533820,
+        "name": "Nobody Special"
+    },
+    {
         "appid": 5533860,
         "name": "PUT IT BACK"
     },
@@ -65950,6 +66438,14 @@
     {
         "appid": 5534040,
         "name": "RESTORE.EXE"
+    },
+    {
+        "appid": 5534070,
+        "name": "Winx Club - Moonlight Quest: Bloom Cardix Transformation Skin"
+    },
+    {
+        "appid": 5534090,
+        "name": "Hoppkins: Twinkle World"
     },
     {
         "appid": 5534130,
@@ -65996,6 +66492,10 @@
         "name": "Find The Needle: Haystack Hunt"
     },
     {
+        "appid": 5534320,
+        "name": "내일의 챔피언 (Tomorrow's Champion)"
+    },
+    {
         "appid": 5534440,
         "name": "Coloring Voxels - Laboratory Pack"
     },
@@ -66006,6 +66506,10 @@
     {
         "appid": 5534480,
         "name": "人のかたちの臓花園"
+    },
+    {
+        "appid": 5534500,
+        "name": "Corvy"
     },
     {
         "appid": 5534600,
@@ -66060,8 +66564,16 @@
         "name": "Pocket Murim"
     },
     {
+        "appid": 5535110,
+        "name": "Barely Civilized"
+    },
+    {
         "appid": 5535150,
         "name": "Dose of Order: Pharmacy Tidy Up"
+    },
+    {
+        "appid": 5535240,
+        "name": "Patient 16 – Episode 2: The Awakening"
     },
     {
         "appid": 5535290,
@@ -66080,8 +66592,24 @@
         "name": "Hexball"
     },
     {
+        "appid": 5535660,
+        "name": "Fishish"
+    },
+    {
         "appid": 5535690,
         "name": "The Dragon's Mint"
+    },
+    {
+        "appid": 5535750,
+        "name": "Tanks & Trebuchets"
+    },
+    {
+        "appid": 5535760,
+        "name": "Tanks & Trebuchets - Supporter Pack"
+    },
+    {
+        "appid": 5535770,
+        "name": "Tanks & Trebuchets - All Upgrades & Cosmetics Unlocked"
     },
     {
         "appid": 5535830,
@@ -66090,6 +66618,10 @@
     {
         "appid": 5535890,
         "name": "SAMI Beneath The House"
+    },
+    {
+        "appid": 5535920,
+        "name": "Sweatshop 24"
     },
     {
         "appid": 5535940,
@@ -66108,8 +66640,16 @@
         "name": "Prove Him Wrong"
     },
     {
+        "appid": 5536060,
+        "name": "War Tiles: Napoleons Invasion of Russia"
+    },
+    {
         "appid": 5536080,
         "name": "Turbo Groove"
+    },
+    {
+        "appid": 5536170,
+        "name": "STRAY BULLET"
     },
     {
         "appid": 5536190,
@@ -66308,6 +66848,18 @@
         "name": "Devils Flesh"
     },
     {
+        "appid": 5538380,
+        "name": "Reel to the Stars - Legends Pack"
+    },
+    {
+        "appid": 5538390,
+        "name": "Reel to the Stars - Demon Realm Pack"
+    },
+    {
+        "appid": 5538400,
+        "name": "Honed to Perfection"
+    },
+    {
         "appid": 5538410,
         "name": "The Way: The Life and Ministry of Jesus"
     },
@@ -66340,6 +66892,10 @@
         "name": "Deport Me to Your Bed"
     },
     {
+        "appid": 5538730,
+        "name": "Lagom: Tidy Up the Coffee Shop"
+    },
+    {
         "appid": 5538760,
         "name": "Fur Fun 2"
     },
@@ -66362,6 +66918,10 @@
     {
         "appid": 5538940,
         "name": "Ship Show"
+    },
+    {
+        "appid": 5538980,
+        "name": "Makondes And The African Gods"
     },
     {
         "appid": 5538990,
@@ -66416,8 +66976,16 @@
         "name": "Hex Appeal Femboy Futa Witches"
     },
     {
+        "appid": 5539600,
+        "name": "PROPERTY INSPECTION: DIRECTOR'S CUT"
+    },
+    {
         "appid": 5539650,
         "name": "Eat Your Moons"
+    },
+    {
+        "appid": 5539700,
+        "name": "CYBER92 DATAWAR (Legacy Game)"
     },
     {
         "appid": 5539720,
@@ -66436,6 +67004,18 @@
         "name": "Knights & Squires"
     },
     {
+        "appid": 5540010,
+        "name": "Lawless - Malta 2050"
+    },
+    {
+        "appid": 5540030,
+        "name": "蓬莱"
+    },
+    {
+        "appid": 5540060,
+        "name": "Breakdance Simulator"
+    },
+    {
         "appid": 5540090,
         "name": "Idle Abyss Princesses - The Demon Urn"
     },
@@ -66446,6 +67026,14 @@
     {
         "appid": 5540180,
         "name": "Black Hole to Infinity"
+    },
+    {
+        "appid": 5540250,
+        "name": "Frontlines: World in Conflict"
+    },
+    {
+        "appid": 5540300,
+        "name": "Tourist Infestation"
     },
     {
         "appid": 5540310,
@@ -66480,6 +67068,10 @@
         "name": "蛇爵-Serpent Duke"
     },
     {
+        "appid": 5540650,
+        "name": "Radio Fox Hunt"
+    },
+    {
         "appid": 5540660,
         "name": "Chicane TD"
     },
@@ -66512,6 +67104,10 @@
         "name": "Deadtone"
     },
     {
+        "appid": 5541230,
+        "name": "FrostHaul"
+    },
+    {
         "appid": 5541350,
         "name": "From Cave to Shelf"
     },
@@ -66542,6 +67138,10 @@
     {
         "appid": 5541650,
         "name": "ZapZap TV: 150 Microgames"
+    },
+    {
+        "appid": 5541710,
+        "name": "When the Flowers Return"
     },
     {
         "appid": 5541720,
@@ -66700,8 +67300,32 @@
         "name": "Balloons Inc."
     },
     {
+        "appid": 5543570,
+        "name": "GHOSTGRID"
+    },
+    {
+        "appid": 5543610,
+        "name": "Glyphwild - Mage"
+    },
+    {
+        "appid": 5543620,
+        "name": "Glyphwild - Gunslinger"
+    },
+    {
+        "appid": 5543630,
+        "name": "Glyphwild - Technician"
+    },
+    {
         "appid": 5543640,
         "name": "Gang Birds"
+    },
+    {
+        "appid": 5543650,
+        "name": "Glyphwild - Harpist"
+    },
+    {
+        "appid": 5543660,
+        "name": "Glyphwild - Dragoncaller"
     },
     {
         "appid": 5543670,
@@ -66710,6 +67334,10 @@
     {
         "appid": 5543680,
         "name": "Suits & Stallions"
+    },
+    {
+        "appid": 5543690,
+        "name": "Toxicode"
     },
     {
         "appid": 5543710,
@@ -66744,6 +67372,10 @@
         "name": "Gorse Roll"
     },
     {
+        "appid": 5544270,
+        "name": "Sands of the Aftermath"
+    },
+    {
         "appid": 5544310,
         "name": "StakeBound"
     },
@@ -66766,6 +67398,10 @@
     {
         "appid": 5544720,
         "name": "My Own Roguelike: RPG - Swordsman"
+    },
+    {
+        "appid": 5544920,
+        "name": "Snarkle!"
     },
     {
         "appid": 5544940,
@@ -66860,6 +67496,10 @@
         "name": "Kaiju Krush"
     },
     {
+        "appid": 5545980,
+        "name": "Hibiki's Weight Gain"
+    },
+    {
         "appid": 5546020,
         "name": "My Little Shadow"
     },
@@ -66920,6 +67560,10 @@
         "name": "Christmas Lot Simulator"
     },
     {
+        "appid": 5546650,
+        "name": "Battles of Helaman"
+    },
+    {
         "appid": 5546670,
         "name": "StackProsper"
     },
@@ -66930,6 +67574,10 @@
     {
         "appid": 5546940,
         "name": "Half Faith Tower Origin"
+    },
+    {
+        "appid": 5546950,
+        "name": "Ironaut"
     },
     {
         "appid": 5546970,
@@ -66984,6 +67632,10 @@
         "name": "投資家になろう"
     },
     {
+        "appid": 5547660,
+        "name": "Codex Suite Master"
+    },
+    {
         "appid": 5547840,
         "name": "Claybound"
     },
@@ -67020,6 +67672,10 @@
         "name": "Party Home: Tidy Up Together"
     },
     {
+        "appid": 5548360,
+        "name": "Captain's Wake"
+    },
+    {
         "appid": 5548370,
         "name": "CRT TD"
     },
@@ -67044,6 +67700,10 @@
         "name": "Touhou: Don't Spill It!"
     },
     {
+        "appid": 5548590,
+        "name": "Equilibria"
+    },
+    {
         "appid": 5548680,
         "name": "Meowward"
     },
@@ -67060,12 +67720,20 @@
         "name": "Echoes of Desire – Chapter 2"
     },
     {
+        "appid": 5549490,
+        "name": "Reality Drift - Digital Artbook"
+    },
+    {
         "appid": 5549520,
         "name": "Monsters & Banknotes"
     },
     {
         "appid": 5549550,
         "name": "Re : 1000"
+    },
+    {
+        "appid": 5549630,
+        "name": "Wizard Bloodbath"
     },
     {
         "appid": 5549680,
@@ -67084,6 +67752,10 @@
         "name": "KICKDOWN: Highway Traffic Racing"
     },
     {
+        "appid": 5549960,
+        "name": "海陸空四國大戰 - 戰役擴充包"
+    },
+    {
         "appid": 5550020,
         "name": "Chains of Three Kingdoms"
     },
@@ -67100,12 +67772,20 @@
         "name": "Underground Evolution"
     },
     {
+        "appid": 5550140,
+        "name": "The Hollowing"
+    },
+    {
         "appid": 5550220,
         "name": "Unblock Me Kingdom"
     },
     {
         "appid": 5550300,
         "name": "Shear Debt"
+    },
+    {
+        "appid": 5550310,
+        "name": "Early Quest Remake"
     },
     {
         "appid": 5550610,
@@ -67128,12 +67808,20 @@
         "name": "Just ONE more window"
     },
     {
+        "appid": 5550930,
+        "name": "Quiet Season"
+    },
+    {
         "appid": 5550940,
         "name": "The LastShard"
     },
     {
         "appid": 5550960,
         "name": "Byeway"
+    },
+    {
+        "appid": 5551040,
+        "name": "Destination & Acceleration"
     },
     {
         "appid": 5551070,
@@ -67162,6 +67850,10 @@
     {
         "appid": 5551420,
         "name": "FATAL DECON"
+    },
+    {
+        "appid": 5551460,
+        "name": "We Need a Bigger Ship"
     },
     {
         "appid": 5551520,
@@ -67196,6 +67888,10 @@
         "name": "TRUST THE CALL"
     },
     {
+        "appid": 5552230,
+        "name": "INVENTORS PINBALL MASTERS OF INGENUITY"
+    },
+    {
         "appid": 5552330,
         "name": "Lumina Cube"
     },
@@ -67204,8 +67900,16 @@
         "name": "Earn Your Stripes"
     },
     {
+        "appid": 5552530,
+        "name": "Vexillord"
+    },
+    {
         "appid": 5552830,
         "name": "Vinyl Shop: Tidy Up Music Game"
+    },
+    {
+        "appid": 5552860,
+        "name": "Boardgame Nights"
     },
     {
         "appid": 5552890,
@@ -67214,6 +67918,10 @@
     {
         "appid": 5552910,
         "name": "暴走拆城 (Rampage Demolition)"
+    },
+    {
+        "appid": 5552920,
+        "name": "Draw Death"
     },
     {
         "appid": 5552940,
@@ -67248,12 +67956,24 @@
         "name": "忒修斯之女"
     },
     {
+        "appid": 5553490,
+        "name": "CarCity"
+    },
+    {
         "appid": 5553580,
         "name": "Nutshot Simulator - Athletic Supporter Pack"
     },
     {
+        "appid": 5553590,
+        "name": "Bloom Blow - Foreign Soil"
+    },
+    {
         "appid": 5553620,
         "name": "One Million Dominoes"
+    },
+    {
+        "appid": 5553760,
+        "name": "Idle Mind"
     },
     {
         "appid": 5553790,
@@ -67278,6 +67998,14 @@
     {
         "appid": 5554050,
         "name": "Flock & Load"
+    },
+    {
+        "appid": 5554250,
+        "name": "Ladder of Numbers"
+    },
+    {
+        "appid": 5554340,
+        "name": "Folkwyrd"
     },
     {
         "appid": 5554420,
@@ -67316,6 +68044,10 @@
         "name": "The Great Himalayan Noodle Descent"
     },
     {
+        "appid": 5554920,
+        "name": "Sky Furnace"
+    },
+    {
         "appid": 5555020,
         "name": "Backgammon"
     },
@@ -67332,8 +68064,16 @@
         "name": "Jetpack Mosaic: Fly & Build Together"
     },
     {
+        "appid": 5555230,
+        "name": "House of Wardians: Unchained"
+    },
+    {
         "appid": 5555330,
         "name": "Rapid Fire Girls - BathMagic -"
+    },
+    {
+        "appid": 5555370,
+        "name": "三国梦想家"
     },
     {
         "appid": 5555400,
@@ -67352,8 +68092,24 @@
         "name": "DETONUMBER!"
     },
     {
+        "appid": 5555710,
+        "name": "NEOLUNARIAN EON"
+    },
+    {
+        "appid": 5555790,
+        "name": "D.U.B.B.I.O"
+    },
+    {
+        "appid": 5556030,
+        "name": "Desert Diggers"
+    },
+    {
         "appid": 5556150,
         "name": "Bound By Business"
+    },
+    {
+        "appid": 5556200,
+        "name": "IncreSouls"
     },
     {
         "appid": 5556380,
@@ -67376,8 +68132,24 @@
         "name": "Christmas Market: Tidy Up Together"
     },
     {
+        "appid": 5556890,
+        "name": "Lanternfall"
+    },
+    {
+        "appid": 5556960,
+        "name": "Grid Lands - Supporter Pack"
+    },
+    {
         "appid": 5557010,
         "name": "Left for Clean"
+    },
+    {
+        "appid": 5557060,
+        "name": "Monster Hunting Supplies"
+    },
+    {
+        "appid": 5557100,
+        "name": "フィルネティアの魔法雑貨店"
     },
     {
         "appid": 5557120,
@@ -67392,39 +68164,239 @@
         "name": "Dustronauts"
     },
     {
+        "appid": 5557350,
+        "name": "Boomcremental"
+    },
+    {
         "appid": 5557390,
         "name": "Winter Wonderland: Tidy Up Together"
+    },
+    {
+        "appid": 5557440,
+        "name": "Cursed Castaways"
     },
     {
         "appid": 5557520,
         "name": "Midnight Shift 2: Last Rental"
     },
     {
+        "appid": 5557570,
+        "name": "Guildlands - Market Pass"
+    },
+    {
+        "appid": 5557590,
+        "name": "Guildlands - Founder's Pack"
+    },
+    {
+        "appid": 5557600,
+        "name": "Guildlands - Necromancer Class"
+    },
+    {
+        "appid": 5557610,
+        "name": "Guildlands - Beastmaster Class"
+    },
+    {
+        "appid": 5557620,
+        "name": "Guildlands - Artificer Class"
+    },
+    {
+        "appid": 5557650,
+        "name": "Worldtree Nexus"
+    },
+    {
+        "appid": 5557760,
+        "name": "Desk Top Soccer"
+    },
+    {
+        "appid": 5558000,
+        "name": "Lawless Lands Forsaken Grounds"
+    },
+    {
         "appid": 5558120,
         "name": "Dino Migration"
+    },
+    {
+        "appid": 5558240,
+        "name": "Society of Braindeads"
+    },
+    {
+        "appid": 5558980,
+        "name": "Blue Hawaii Aniki's Small Celebration vol.5"
+    },
+    {
+        "appid": 5558990,
+        "name": "Pocket Ocean"
+    },
+    {
+        "appid": 5559200,
+        "name": "Dice Survivors"
+    },
+    {
+        "appid": 5559350,
+        "name": "Hex Appeal Femboy Futa Witches Supporter Pack"
+    },
+    {
+        "appid": 5559370,
+        "name": "Hex Appeal Femboy Futa Witches Wallpaper Pack"
+    },
+    {
+        "appid": 5559530,
+        "name": "Masterwork"
+    },
+    {
+        "appid": 5559550,
+        "name": "Tome of Ruin: The Word Dungeon"
+    },
+    {
+        "appid": 5559610,
+        "name": "Guns N Goblets"
     },
     {
         "appid": 5559730,
         "name": "通幽镇"
     },
     {
+        "appid": 5559930,
+        "name": "Catnip Wars : Nine Lives Racing"
+    },
+    {
+        "appid": 5560140,
+        "name": "Count To A Million"
+    },
+    {
+        "appid": 5560190,
+        "name": "Simple Tech Startup"
+    },
+    {
+        "appid": 5560260,
+        "name": "Ammo Assembler"
+    },
+    {
         "appid": 5560280,
         "name": "Forget Me Notes"
+    },
+    {
+        "appid": 5560630,
+        "name": "Beaver Kart"
+    },
+    {
+        "appid": 5561120,
+        "name": "Single File"
+    },
+    {
+        "appid": 5561220,
+        "name": "Alice’s Archive"
+    },
+    {
+        "appid": 5561230,
+        "name": "CatCat Panic"
+    },
+    {
+        "appid": 5561460,
+        "name": "Damage Per Second"
+    },
+    {
+        "appid": 5561560,
+        "name": "Yonder Shores"
+    },
+    {
+        "appid": 5561840,
+        "name": "Not Alive Enough - Prologue"
     },
     {
         "appid": 5561850,
         "name": "NEONOVA Puzzle: Red"
     },
     {
+        "appid": 5561960,
+        "name": "DELF"
+    },
+    {
+        "appid": 5562010,
+        "name": "Shaft Nine"
+    },
+    {
+        "appid": 5562030,
+        "name": "Eat"
+    },
+    {
+        "appid": 5562130,
+        "name": "Mad Racer"
+    },
+    {
+        "appid": 5562210,
+        "name": "Consume p/pixelplace"
+    },
+    {
+        "appid": 5562490,
+        "name": "Sort the Beavers"
+    },
+    {
         "appid": 5562520,
         "name": "7 Eclipsed Fates"
+    },
+    {
+        "appid": 5562650,
+        "name": "Necrowake: Bone Legion"
+    },
+    {
+        "appid": 5562810,
+        "name": "Hormuz, Hold Me"
+    },
+    {
+        "appid": 5562840,
+        "name": "Mechannihilation"
+    },
+    {
+        "appid": 5563330,
+        "name": "Sunday Socks"
+    },
+    {
+        "appid": 5563540,
+        "name": "Visual Novel: Infatuation"
     },
     {
         "appid": 5563880,
         "name": "Futanari Hell"
     },
     {
+        "appid": 5564070,
+        "name": "Eldritch Descent X"
+    },
+    {
+        "appid": 5564650,
+        "name": "REFLEJASTES"
+    },
+    {
+        "appid": 5564710,
+        "name": "HOT HALLOWEEN"
+    },
+    {
+        "appid": 5565480,
+        "name": "ONE BRAINCELL"
+    },
+    {
+        "appid": 5565510,
+        "name": "Enchanted Hearth"
+    },
+    {
+        "appid": 5565660,
+        "name": "Shadow Grid"
+    },
+    {
+        "appid": 5565980,
+        "name": "Moon Base: Tidy Up Together"
+    },
+    {
         "appid": 5569420,
         "name": "Hentai Academy: The Last Summer We Lied"
+    },
+    {
+        "appid": 5573300,
+        "name": "Made in Dungeon"
+    },
+    {
+        "appid": 5573970,
+        "name": "Plap Master"
     }
 ]

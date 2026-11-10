@@ -1,5 +1,13 @@
 [
     {
+        "appid": 2929320,
+        "name": "消防员康纳 - FireFighter Connor CG ImagePack"
+    },
+    {
+        "appid": 2929330,
+        "name": "Gunflow"
+    },
+    {
         "appid": 2929400,
         "name": "Museum of Immersive Art"
     },
@@ -8948,10 +8956,6 @@
         "name": "NAOKI"
     },
     {
-        "appid": 2972020,
-        "name": "Rubedo: The Occult Dawn"
-    },
-    {
         "appid": 2972040,
         "name": "THE GAP"
     },
@@ -9026,10 +9030,6 @@
     {
         "appid": 2972580,
         "name": "冰心侠录：她们的掌门"
-    },
-    {
-        "appid": 2972590,
-        "name": "Scolionophobia"
     },
     {
         "appid": 2972600,
@@ -69604,10 +69604,6 @@
         "name": "Pigeon's Mission: Bird Simulator"
     },
     {
-        "appid": 3284770,
-        "name": "Steampunk Shinobi"
-    },
-    {
         "appid": 3284780,
         "name": "Mahjong Realms"
     },
@@ -93985,7 +93981,7 @@
     },
     {
         "appid": 3403760,
-        "name": "Autumn's Dungeoneering"
+        "name": "Sakilera's Guide to Dungeoneering"
     },
     {
         "appid": 3403780,
@@ -115044,10 +115040,6 @@
         "name": "雨中的生命之歌"
     },
     {
-        "appid": 3515130,
-        "name": "Only Up: CHAINED"
-    },
-    {
         "appid": 3515140,
         "name": "Котыха"
     },
@@ -119134,6 +119126,10 @@
     {
         "appid": 3540270,
         "name": "Archon: Initiator"
+    },
+    {
+        "appid": 3540330,
+        "name": "Black Matter"
     },
     {
         "appid": 3540360,
@@ -129820,6 +129816,10 @@
         "name": "Her Place VR"
     },
     {
+        "appid": 3594200,
+        "name": "No Crown Eternal"
+    },
+    {
         "appid": 3594210,
         "name": "Yet Another One"
     },
@@ -133737,7 +133737,7 @@
     },
     {
         "appid": 3613730,
-        "name": "Drone Wars"
+        "name": "NeonSwarm "
     },
     {
         "appid": 3613740,
@@ -146652,6 +146652,10 @@
         "name": "Dark Sentinel"
     },
     {
+        "appid": 3679280,
+        "name": "ZDSimulator - Shevchenko-Pomichna Route"
+    },
+    {
         "appid": 3679320,
         "name": "Phero"
     },
@@ -147454,10 +147458,6 @@
     {
         "appid": 3683610,
         "name": "Strip Me Down: Office Worker"
-    },
-    {
-        "appid": 3683640,
-        "name": "Only up?Climb The Tower!"
     },
     {
         "appid": 3683680,
@@ -148878,6 +148878,10 @@
     {
         "appid": 3690720,
         "name": "Growmancer"
+    },
+    {
+        "appid": 3690730,
+        "name": "野棋"
     },
     {
         "appid": 3690750,
@@ -154844,6 +154848,10 @@
         "name": "Regions"
     },
     {
+        "appid": 3723270,
+        "name": "BeNormal"
+    },
+    {
         "appid": 3723280,
         "name": "Aperture Dating Simulator"
     },
@@ -160390,6 +160398,10 @@
     {
         "appid": 3754500,
         "name": "Mad Carnival"
+    },
+    {
+        "appid": 3754520,
+        "name": "Rune Coliseum: Ascension"
     },
     {
         "appid": 3754530,
@@ -166025,7 +166037,7 @@
     },
     {
         "appid": 3787110,
-        "name": "Random Poker Defence"
+        "name": "Ante Coven: Poker Defense"
     },
     {
         "appid": 3787120,
@@ -170078,10 +170090,6 @@
     {
         "appid": 3809460,
         "name": "Scila e il Drago Diamante"
-    },
-    {
-        "appid": 3809500,
-        "name": "100 Cats Lost in the 19th Century Find & Color"
     },
     {
         "appid": 3809520,
@@ -193484,6 +193492,10 @@
         "name": "THE GREEN HOOK FIGHTER"
     },
     {
+        "appid": 3924650,
+        "name": "Dismal Night"
+    },
+    {
         "appid": 3924660,
         "name": "The Joy of Mining"
     },
@@ -199353,7 +199365,7 @@
     },
     {
         "appid": 3953160,
-        "name": "Human Farm : Investigation :"
+        "name": "Human Farm - Investigation -"
     },
     {
         "appid": 3953180,
@@ -199986,17 +199998,5 @@
     {
         "appid": 3956350,
         "name": "Congratulations, This is Hell"
-    },
-    {
-        "appid": 3956370,
-        "name": "Everlusting Life - Mascot Ula"
-    },
-    {
-        "appid": 3956380,
-        "name": "Desire Inn"
-    },
-    {
-        "appid": 3956390,
-        "name": "100 Words"
     }
 ]

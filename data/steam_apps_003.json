@@ -50001,7 +50001,7 @@
     },
     {
         "appid": 2204770,
-        "name": "Language Adventure"
+        "name": "Language Adventure - Learn English"
     },
     {
         "appid": 2204780,
@@ -121508,6 +121508,10 @@
         "name": "Soundweave"
     },
     {
+        "appid": 2534920,
+        "name": "混沌回廊 Liminal Chaos"
+    },
+    {
         "appid": 2534930,
         "name": "Super Mayor"
     },
@@ -126858,10 +126862,6 @@
     {
         "appid": 2562210,
         "name": "Quandary"
-    },
-    {
-        "appid": 2562240,
-        "name": "Only Up!"
     },
     {
         "appid": 2562280,
@@ -166812,6 +166812,10 @@
         "name": "Emptiness"
     },
     {
+        "appid": 2761770,
+        "name": "Untitled"
+    },
+    {
         "appid": 2761780,
         "name": "PLOT!"
     },
@@ -174717,7 +174721,7 @@
     },
     {
         "appid": 2802090,
-        "name": "大胤·宦海"
+        "name": "Debts of Power"
     },
     {
         "appid": 2802100,
@@ -174785,7 +174789,7 @@
     },
     {
         "appid": 2802460,
-        "name": "Whispering Death"
+        "name": "Whispering Death: Prologue"
     },
     {
         "appid": 2802470,
@@ -180716,10 +180720,6 @@
         "name": "Wizard Combat"
     },
     {
-        "appid": 2832510,
-        "name": "Esteem - The little wolf saga"
-    },
-    {
         "appid": 2832530,
         "name": "Farmer Charm"
     },
@@ -184709,7 +184709,7 @@
     },
     {
         "appid": 2851650,
-        "name": "Paperly: Paper Plane Adventure"
+        "name": "Paperly 2"
     },
     {
         "appid": 2851660,
@@ -186214,6 +186214,10 @@
     {
         "appid": 2859470,
         "name": "."
+    },
+    {
+        "appid": 2859480,
+        "name": "Easy Aim Trainer"
     },
     {
         "appid": 2859490,
@@ -188653,7 +188657,7 @@
     },
     {
         "appid": 2872640,
-        "name": "The Void"
+        "name": "The Digital Void"
     },
     {
         "appid": 2872700,
@@ -193657,7 +193661,7 @@
     },
     {
         "appid": 2896600,
-        "name": "Candy Land"
+        "name": "Candy Hollow"
     },
     {
         "appid": 2896610,
@@ -194130,6 +194134,10 @@
     {
         "appid": 2899250,
         "name": "Nolgorb's Ordeal"
+    },
+    {
+        "appid": 2899260,
+        "name": "Election Rigging for Dummies"
     },
     {
         "appid": 2899270,
@@ -199990,13 +199998,5 @@
     {
         "appid": 2929310,
         "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition"
-    },
-    {
-        "appid": 2929320,
-        "name": "消防员康纳 - FireFighter Connor CG ImagePack"
-    },
-    {
-        "appid": 2929330,
-        "name": "Gunflow"
     }
 ]

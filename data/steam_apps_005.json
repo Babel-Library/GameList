@@ -1,5 +1,17 @@
 [
     {
+        "appid": 3956370,
+        "name": "Everlusting Life - Mascot Ula"
+    },
+    {
+        "appid": 3956380,
+        "name": "Desire Inn"
+    },
+    {
+        "appid": 3956390,
+        "name": "100 Words"
+    },
+    {
         "appid": 3956400,
         "name": "Mr. Talkie's Redacted Reels"
     },
@@ -6338,6 +6350,10 @@
     {
         "appid": 3989530,
         "name": "Reconfigure"
+    },
+    {
+        "appid": 3989540,
+        "name": "Dive and Glide"
     },
     {
         "appid": 3989550,
@@ -15460,10 +15476,6 @@
         "name": "A Killer Chat! Christmas - Wallpaper Bundle"
     },
     {
-        "appid": 4040380,
-        "name": "Poppidemic"
-    },
-    {
         "appid": 4040440,
         "name": "Sword of Mine"
     },
@@ -15598,6 +15610,10 @@
     {
         "appid": 4041340,
         "name": "Happy Owner Happy Life"
+    },
+    {
+        "appid": 4041360,
+        "name": "Masquerade: Penumbra"
     },
     {
         "appid": 4041390,
@@ -20254,6 +20270,10 @@
     {
         "appid": 4068270,
         "name": "Rainbow Chickens"
+    },
+    {
+        "appid": 4068280,
+        "name": "Dittomatic"
     },
     {
         "appid": 4068300,
@@ -34916,10 +34936,6 @@
         "name": "Utawarerumono: ZAN 2 - DLC Beachwear: Oshtor"
     },
     {
-        "appid": 4147650,
-        "name": "NULLSPACE"
-    },
-    {
         "appid": 4147690,
         "name": "Fugitive Free Rider"
     },
@@ -39480,6 +39496,10 @@
         "name": "Minty Spherez"
     },
     {
+        "appid": 4171370,
+        "name": "One More Hand?"
+    },
+    {
         "appid": 4171410,
         "name": "Is Zombody Home?"
     },
@@ -41170,6 +41190,10 @@
     {
         "appid": 4179630,
         "name": "Operation: Outbreak - Supporter Pack"
+    },
+    {
+        "appid": 4179640,
+        "name": "Overtake: Taskbar Racer"
     },
     {
         "appid": 4179660,
@@ -43005,7 +43029,7 @@
     },
     {
         "appid": 4189690,
-        "name": "竞技场鸟事多 (SuperBird)"
+        "name": "SuperBird"
     },
     {
         "appid": 4189710,
@@ -60284,6 +60308,10 @@
         "name": "Friendly Steps"
     },
     {
+        "appid": 4279640,
+        "name": "Dont Stop Walking"
+    },
+    {
         "appid": 4279660,
         "name": "往事：戒网瘾治抑郁"
     },
@@ -68988,6 +69016,10 @@
         "name": "A Quiet Place Between Us"
     },
     {
+        "appid": 4325760,
+        "name": "Night on Bald Mountain"
+    },
+    {
         "appid": 4325780,
         "name": "之人重生"
     },
@@ -73118,6 +73150,10 @@
     {
         "appid": 4350520,
         "name": "The Killing Antidote - Maid Costume Pack"
+    },
+    {
+        "appid": 4350540,
+        "name": "Baseball (Challenge Mode Edition) - Breakthrough Gaming Arcade"
     },
     {
         "appid": 4350590,
@@ -97216,10 +97252,6 @@
         "name": "The Leaderboard"
     },
     {
-        "appid": 4493260,
-        "name": "AI Fatigue Shooter"
-    },
-    {
         "appid": 4493270,
         "name": "Chess Master Quest - Idle"
     },
@@ -100510,6 +100542,10 @@
     {
         "appid": 4506780,
         "name": "THE BOY'S WORD"
+    },
+    {
+        "appid": 4506820,
+        "name": "Gladiatoria: Blood · Sand · Glory"
     },
     {
         "appid": 4506860,
@@ -110260,56 +110296,8 @@
         "name": "Nord"
     },
     {
-        "appid": 4557590,
-        "name": "Age of Gods - Equinox Campaign"
-    },
-    {
-        "appid": 4557600,
-        "name": "Age of Gods - Necros Campaign"
-    },
-    {
-        "appid": 4557630,
-        "name": "Age of Gods - Sanctus Campaign"
-    },
-    {
-        "appid": 4557650,
-        "name": "Age of Gods - Cartographer's License"
-    },
-    {
-        "appid": 4557660,
-        "name": "Age of Gods - Skyborne Faction"
-    },
-    {
-        "appid": 4557680,
-        "name": "Age of Gods - Necros Faction"
-    },
-    {
-        "appid": 4557690,
-        "name": "Age of Gods - Igneous Faction"
-    },
-    {
-        "appid": 4557700,
-        "name": "Age of Gods - Tribal Faction"
-    },
-    {
-        "appid": 4557710,
-        "name": "Age of Gods - Drakonis Faction"
-    },
-    {
-        "appid": 4557720,
-        "name": "Age of Gods - Nordheim Faction"
-    },
-    {
-        "appid": 4557730,
-        "name": "Age of Gods - Spirit Faction"
-    },
-    {
         "appid": 4557740,
         "name": "Midnight Massacre"
-    },
-    {
-        "appid": 4557790,
-        "name": "Age of Gods - Diamond Member"
     },
     {
         "appid": 4557820,
@@ -121356,14 +121344,6 @@
         "name": "MANSION"
     },
     {
-        "appid": 4617820,
-        "name": "Age of Gods - Eternal Package"
-    },
-    {
-        "appid": 4617830,
-        "name": "Age of Gods - Founding Package"
-    },
-    {
         "appid": 4617870,
         "name": "Soundwave"
     },
@@ -129049,7 +129029,7 @@
     },
     {
         "appid": 4663730,
-        "name": "How Empires Work: Incremental Strategy"
+        "name": "How Empires Work"
     },
     {
         "appid": 4663760,
@@ -129145,7 +129125,7 @@
     },
     {
         "appid": 4664360,
-        "name": "FishGame"
+        "name": "Monkey Sea"
     },
     {
         "appid": 4664370,
@@ -130922,22 +130902,6 @@
     {
         "appid": 4675480,
         "name": "Food Idle"
-    },
-    {
-        "appid": 4675540,
-        "name": "Age of Gods - Cosmetics - Tidecaller"
-    },
-    {
-        "appid": 4675550,
-        "name": "Age of Gods - Cosmetics - Firebrand"
-    },
-    {
-        "appid": 4675570,
-        "name": "Age of Gods - Cosmetics - Windsurfer"
-    },
-    {
-        "appid": 4675580,
-        "name": "Age of Gods - Cosmetics - Wind, Water, Fire bundle"
     },
     {
         "appid": 4675590,
@@ -136124,6 +136088,10 @@
         "name": "Chained Bikes"
     },
     {
+        "appid": 4704890,
+        "name": "PersonaNet"
+    },
+    {
         "appid": 4704910,
         "name": "What Remains Of Me"
     },
@@ -137902,6 +137870,10 @@
     {
         "appid": 4715130,
         "name": "Juice Board"
+    },
+    {
+        "appid": 4715140,
+        "name": "RACCOIN: Chaos Max"
     },
     {
         "appid": 4715160,
@@ -140348,6 +140320,10 @@
         "name": "LAN_GAMES"
     },
     {
+        "appid": 4732570,
+        "name": "Warriors of Legend: Three Kingdoms"
+    },
+    {
         "appid": 4732580,
         "name": "雾山古董店"
     },
@@ -141093,7 +141069,7 @@
     },
     {
         "appid": 4736520,
-        "name": "TIAN NUO"
+        "name": "Celestial Oath"
     },
     {
         "appid": 4736530,
@@ -161496,6 +161472,14 @@
         "name": "Rooftops & Alleys: Hat Pack DLC"
     },
     {
+        "appid": 4857420,
+        "name": "Rooftops & Alleys: Ninja Pack DLC"
+    },
+    {
+        "appid": 4857430,
+        "name": "Rooftops & Alleys: Trail Pack DLC"
+    },
+    {
         "appid": 4857440,
         "name": "The Behemoth Trilogy"
     },
@@ -162026,6 +162010,10 @@
     {
         "appid": 4860220,
         "name": "Evidence Officer"
+    },
+    {
+        "appid": 4860230,
+        "name": "牌山倒海"
     },
     {
         "appid": 4860340,
@@ -163346,10 +163334,6 @@
     {
         "appid": 4867080,
         "name": "Flock Around - Emu Island (Australia) Expansion Pack"
-    },
-    {
-        "appid": 4867090,
-        "name": "4Wheel Challenge - Only Up"
     },
     {
         "appid": 4867140,
@@ -169014,10 +168998,6 @@
     {
         "appid": 4899320,
         "name": "Sunken Fear: Lost Runner"
-    },
-    {
-        "appid": 4899390,
-        "name": "Maintain"
     },
     {
         "appid": 4899410,
@@ -174788,10 +174768,6 @@
         "name": "Hexhorde"
     },
     {
-        "appid": 4930800,
-        "name": "Drone Orbit: An Incremental Space Mining Drift"
-    },
-    {
         "appid": 4930810,
         "name": "Drone n Gone"
     },
@@ -174954,6 +174930,10 @@
     {
         "appid": 4931720,
         "name": "Camera 5"
+    },
+    {
+        "appid": 4931730,
+        "name": "Wild Myth"
     },
     {
         "appid": 4931760,
@@ -178768,6 +178748,10 @@
         "name": "Behind the Bar"
     },
     {
+        "appid": 4951460,
+        "name": "L.E.O."
+    },
+    {
         "appid": 4951470,
         "name": "1 MIN AIM: Neo Seoul"
     },
@@ -181421,7 +181405,7 @@
     },
     {
         "appid": 4965860,
-        "name": "PROJECT ZIRCON -KONAMI 新作ローグライク カードゲーム-"
+        "name": "PROJECT ZIRCON -KONAMI 新作 ローグライク カードゲーム-"
     },
     {
         "appid": 4965870,
@@ -183238,6 +183222,10 @@
     {
         "appid": 4976010,
         "name": "MineMergeMatic"
+    },
+    {
+        "appid": 4976020,
+        "name": "Car Car Goes to Hell: The Musical"
     },
     {
         "appid": 4976100,
@@ -185777,7 +185765,7 @@
     },
     {
         "appid": 4990660,
-        "name": "Baba Knows"
+        "name": "Dziady"
     },
     {
         "appid": 4990670,
@@ -187740,6 +187728,10 @@
         "name": "Cryptogram"
     },
     {
+        "appid": 5001570,
+        "name": "YOUR DEAD WEIGHT"
+    },
+    {
         "appid": 5001590,
         "name": "Production Zero"
     },
@@ -189160,6 +189152,10 @@
         "name": "Free Ball: Volleyball"
     },
     {
+        "appid": 5009760,
+        "name": "Grim Gambit"
+    },
+    {
         "appid": 5009820,
         "name": "Juggernaut Asset Maker Pro"
     },
@@ -190058,6 +190054,10 @@
     {
         "appid": 5015300,
         "name": "Twinblocks"
+    },
+    {
+        "appid": 5015310,
+        "name": "Gladiator 3D"
     },
     {
         "appid": 5015320,
@@ -193072,6 +193072,10 @@
         "name": "Ebru Artist Simulator"
     },
     {
+        "appid": 5032580,
+        "name": "RecoverSploit"
+    },
+    {
         "appid": 5032590,
         "name": "Feed The Machine"
     },
@@ -193936,6 +193940,10 @@
         "name": "Timberline Factory"
     },
     {
+        "appid": 5037190,
+        "name": "Rise Immortal"
+    },
+    {
         "appid": 5037200,
         "name": "just volleyball"
     },
@@ -194442,6 +194450,10 @@
     {
         "appid": 5040280,
         "name": "Orbion Online"
+    },
+    {
+        "appid": 5040290,
+        "name": "LiTER"
     },
     {
         "appid": 5040300,
@@ -195112,6 +195124,10 @@
         "name": "Declare"
     },
     {
+        "appid": 5043840,
+        "name": "Tairum"
+    },
+    {
         "appid": 5043860,
         "name": "Aether.Garden"
     },
@@ -195141,7 +195157,7 @@
     },
     {
         "appid": 5044080,
-        "name": "ScarryLand: The Potion Goes Wrong!"
+        "name": "Scary Land: The Potion Goes Wrong"
     },
     {
         "appid": 5044090,
@@ -199982,21 +199998,5 @@
     {
         "appid": 5071710,
         "name": "Notoris 2: Warlords - Three Kingdoms Pack"
-    },
-    {
-        "appid": 5071720,
-        "name": "Rule By Roll"
-    },
-    {
-        "appid": 5071730,
-        "name": "饕餮魔宴"
-    },
-    {
-        "appid": 5071740,
-        "name": "BLIND SPOT"
-    },
-    {
-        "appid": 5071760,
-        "name": "KICKSLAUGHT: Football Idle"
     }
 ]
