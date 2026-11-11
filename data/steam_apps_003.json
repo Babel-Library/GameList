@@ -1,21 +1,5 @@
 [
     {
-        "appid": 1955110,
-        "name": "Star Stuff"
-    },
-    {
-        "appid": 1955120,
-        "name": "Nemire"
-    },
-    {
-        "appid": 1955150,
-        "name": "Lux Ex: Cyber Initiation"
-    },
-    {
-        "appid": 1955160,
-        "name": "MEARTH"
-    },
-    {
         "appid": 1955200,
         "name": "Gate Builders"
     },
@@ -1809,7 +1793,7 @@
     },
     {
         "appid": 1962010,
-        "name": "Space Scavenger 2"
+        "name": "Galactic Scavenger"
     },
     {
         "appid": 1962020,
@@ -59186,6 +59170,10 @@
     {
         "appid": 2245750,
         "name": "City Z"
+    },
+    {
+        "appid": 2245760,
+        "name": "Optiminer"
     },
     {
         "appid": 2245780,
@@ -180568,6 +180556,10 @@
         "name": "Millie Megavolte 8: Millie and the Mole King"
     },
     {
+        "appid": 2831740,
+        "name": "Veiled In Darkness"
+    },
+    {
         "appid": 2831750,
         "name": "Punch The Undead"
     },
@@ -193000,6 +192992,10 @@
         "name": "Recording:Bodycam"
     },
     {
+        "appid": 2892960,
+        "name": "Midnight Cabinet"
+    },
+    {
         "appid": 2892980,
         "name": "Sounds of War"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 2929310,
         "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition"
+    },
+    {
+        "appid": 2929320,
+        "name": "消防员康纳 - FireFighter Connor CG ImagePack"
     }
 ]

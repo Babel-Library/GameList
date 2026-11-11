@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1109660,
-        "name": "Age of Fear 5: The Day of the Rat"
-    },
-    {
-        "appid": 1109680,
-        "name": "Regiments"
-    },
-    {
         "appid": 1109690,
         "name": "Asterix & Obelix XXL 3  - The Crystal Menhir"
     },
@@ -43492,10 +43484,6 @@
         "name": "The Harrowed"
     },
     {
-        "appid": 1287880,
-        "name": "In The Search For: Revenge"
-    },
-    {
         "appid": 1287930,
         "name": "Silent Santicado"
     },
@@ -56704,10 +56692,6 @@
         "name": "Hentai Girl Clicker"
     },
     {
-        "appid": 1354070,
-        "name": "Bloodway Infinity"
-    },
-    {
         "appid": 1354100,
         "name": "A Lozenge"
     },
@@ -64166,6 +64150,10 @@
     {
         "appid": 1383930,
         "name": "Swordian Hero"
+    },
+    {
+        "appid": 1383940,
+        "name": "Hack_Switch"
     },
     {
         "appid": 1383960,
@@ -91520,10 +91508,6 @@
         "name": "Epic of Gilgamesh"
     },
     {
-        "appid": 1504010,
-        "name": "Negative: The Way of Shinobi"
-    },
-    {
         "appid": 1504020,
         "name": "Mosaique Neko Waifus 4"
     },
@@ -98662,10 +98646,6 @@
     {
         "appid": 1536770,
         "name": "Learn Programming: Python - Retro"
-    },
-    {
-        "appid": 1536790,
-        "name": "GIANTESS PLAYGROUND"
     },
     {
         "appid": 1536830,
@@ -153084,6 +153064,10 @@
         "name": "Badlands Racer"
     },
     {
+        "appid": 1752510,
+        "name": "Spellscape Survivor"
+    },
+    {
         "appid": 1752530,
         "name": "B-17 Flying Fortress The Bloody 100th"
     },
@@ -199998,5 +199982,21 @@
     {
         "appid": 1955100,
         "name": "怯懦 Cowardice"
+    },
+    {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
+        "appid": 1955160,
+        "name": "MEARTH"
     }
 ]
