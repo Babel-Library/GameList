@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929320,
+        "name": "消防员康纳 - FireFighter Connor CG ImagePack"
+    },
+    {
         "appid": 2929330,
         "name": "Gunflow"
     },
@@ -5018,10 +5022,6 @@
     {
         "appid": 2954020,
         "name": "Odd Night"
-    },
-    {
-        "appid": 2954030,
-        "name": "Sadball"
     },
     {
         "appid": 2954040,
@@ -11709,7 +11709,7 @@
     },
     {
         "appid": 2987320,
-        "name": "Animal Adventure"
+        "name": "Animal Adventure: Rumble"
     },
     {
         "appid": 2987330,
@@ -48417,7 +48417,7 @@
     },
     {
         "appid": 3170720,
-        "name": "Hidden Pets"
+        "name": "Spot the Pet!"
     },
     {
         "appid": 3170730,
@@ -62785,7 +62785,7 @@
     },
     {
         "appid": 3245120,
-        "name": "World War Z: Sin City Apocalypse Episode"
+        "name": "World War Z: Las Vegas Episode"
     },
     {
         "appid": 3245130,
@@ -90044,6 +90044,10 @@
         "name": "Дейтсим Говна"
     },
     {
+        "appid": 3384600,
+        "name": "Professor Layton and the New World of Steam"
+    },
+    {
         "appid": 3384610,
         "name": "Glider Simulator"
     },
@@ -96428,6 +96432,10 @@
         "name": "Intelektronica"
     },
     {
+        "appid": 3416330,
+        "name": "Tapestry - Digital Edition"
+    },
+    {
         "appid": 3416350,
         "name": "Anime Girls Mirror Quest"
     },
@@ -98937,7 +98945,7 @@
     },
     {
         "appid": 3429460,
-        "name": "Sense Cook"
+        "name": "Sense Ops: Can’t Tell, Won’t Tell"
     },
     {
         "appid": 3429480,
@@ -101256,6 +101264,10 @@
         "name": "It's Raining Acorn!"
     },
     {
+        "appid": 3440990,
+        "name": "Topple"
+    },
+    {
         "appid": 3441000,
         "name": "Ardena"
     },
@@ -101286,6 +101298,10 @@
     {
         "appid": 3441160,
         "name": "Fey"
+    },
+    {
+        "appid": 3441180,
+        "name": "Battle Swap"
     },
     {
         "appid": 3441190,
@@ -108134,6 +108150,10 @@
     {
         "appid": 3476250,
         "name": "Atompunks 1969"
+    },
+    {
+        "appid": 3476280,
+        "name": "Brickrium"
     },
     {
         "appid": 3476300,
@@ -121236,10 +121256,6 @@
         "name": "ANIGMA Byte"
     },
     {
-        "appid": 3551340,
-        "name": "Football Manager 26"
-    },
-    {
         "appid": 3551350,
         "name": "The Novice: Animal Kingdom"
     },
@@ -128097,7 +128113,7 @@
     },
     {
         "appid": 3585280,
-        "name": "Goldanniyatech"
+        "name": "Goldaniatech"
     },
     {
         "appid": 3585310,
@@ -129742,6 +129758,10 @@
     {
         "appid": 3593780,
         "name": "Lumberjacked"
+    },
+    {
+        "appid": 3593820,
+        "name": "Sixtar Gate: INFINISTAR"
     },
     {
         "appid": 3593840,
@@ -144141,7 +144161,7 @@
     },
     {
         "appid": 3665520,
-        "name": "Catto Pew Pew!"
+        "name": "Catto Pew Pew! OG EDITION"
     },
     {
         "appid": 3665540,
@@ -149638,6 +149658,10 @@
     {
         "appid": 3694760,
         "name": "Starvedge"
+    },
+    {
+        "appid": 3694770,
+        "name": "Target Dragon 2: Maze Runner"
     },
     {
         "appid": 3694840,
@@ -158034,6 +158058,10 @@
     {
         "appid": 3741180,
         "name": "DOOMTRAIN"
+    },
+    {
+        "appid": 3741240,
+        "name": "Jesus Christ: Necromancer"
     },
     {
         "appid": 3741250,
@@ -180424,6 +180452,10 @@
         "name": "Victorian Dread"
     },
     {
+        "appid": 3860840,
+        "name": "Cave Mates"
+    },
+    {
         "appid": 3860890,
         "name": "Condemned to Clean"
     },
@@ -185456,14 +185488,6 @@
         "name": "ScramBrawl"
     },
     {
-        "appid": 3884450,
-        "name": "The Bazaar - Ancient Alchemist Expansion"
-    },
-    {
-        "appid": 3884460,
-        "name": "The Bazaar - Ingenious Engineer Expansion"
-    },
-    {
         "appid": 3884470,
         "name": "Fantasy Grounds - Bridge Nine Adventure"
     },
@@ -188118,10 +188142,6 @@
     {
         "appid": 3897460,
         "name": "Still Creator"
-    },
-    {
-        "appid": 3897470,
-        "name": "ChessBoxing Championship"
     },
     {
         "appid": 3897480,
@@ -199978,25 +199998,5 @@
     {
         "appid": 3956120,
         "name": "星渊勇者 StarAbyss Heroes"
-    },
-    {
-        "appid": 3956150,
-        "name": "AboJam"
-    },
-    {
-        "appid": 3956170,
-        "name": "ステータス確認探偵"
-    },
-    {
-        "appid": 3956200,
-        "name": "Memento Memori"
-    },
-    {
-        "appid": 3956280,
-        "name": "Flying Aces: Legend of the Red Baron"
-    },
-    {
-        "appid": 3956310,
-        "name": "Spaceolar"
     }
 ]

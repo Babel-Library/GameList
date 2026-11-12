@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1955200,
-        "name": "Gate Builders"
-    },
-    {
         "appid": 1955230,
         "name": "Penny’s Big Breakaway"
     },
@@ -15821,7 +15817,7 @@
     },
     {
         "appid": 2050430,
-        "name": "Starting Life In Another World Naked"
+        "name": "Vaelora"
     },
     {
         "appid": 2050440,
@@ -44608,10 +44604,6 @@
         "name": "CAMPING"
     },
     {
-        "appid": 2181250,
-        "name": "SCP: Facility"
-    },
-    {
         "appid": 2181270,
         "name": "Animalia Haloween Pack"
     },
@@ -58581,7 +58573,7 @@
     },
     {
         "appid": 2243210,
-        "name": "World War Z: Aftermath Upgrade"
+        "name": "World War Z: Year 1 Upgrade"
     },
     {
         "appid": 2243220,
@@ -120600,6 +120592,10 @@
         "name": "Idle Stellar"
     },
     {
+        "appid": 2530580,
+        "name": "Tactics And Cards"
+    },
+    {
         "appid": 2530590,
         "name": "Chaos on Wheels - Deluxe Content"
     },
@@ -132548,6 +132544,10 @@
         "name": "666"
     },
     {
+        "appid": 2593060,
+        "name": "Witches' Grove"
+    },
+    {
         "appid": 2593070,
         "name": "Zeitghast"
     },
@@ -136741,7 +136741,7 @@
     },
     {
         "appid": 2614650,
-        "name": "World War Z: Valley of the Zeke Episode"
+        "name": "World War Z: Phoenix Episode"
     },
     {
         "appid": 2614660,
@@ -153932,6 +153932,10 @@
         "name": "Angel Legion-DLC Tropical Style (Cyan)"
     },
     {
+        "appid": 2698030,
+        "name": "桃源四季"
+    },
+    {
         "appid": 2698040,
         "name": "Mall Heist"
     },
@@ -155338,6 +155342,10 @@
     {
         "appid": 2704770,
         "name": "Curse Seal Rotation"
+    },
+    {
+        "appid": 2704780,
+        "name": "Hyper Gravity"
     },
     {
         "appid": 2704790,
@@ -173102,10 +173110,6 @@
     {
         "appid": 2793980,
         "name": "Shotengai 10"
-    },
-    {
-        "appid": 2794000,
-        "name": "Suzerain: Rizia Pre-Order Bonus & Royal Gold Bar"
     },
     {
         "appid": 2794030,
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929310,
         "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition"
-    },
-    {
-        "appid": 2929320,
-        "name": "消防员康纳 - FireFighter Connor CG ImagePack"
     }
 ]

@@ -63416,10 +63416,6 @@
         "name": "Jetpackin' Heat++"
     },
     {
-        "appid": 1380360,
-        "name": "Battle Sweeper"
-    },
-    {
         "appid": 1380370,
         "name": "Last Shot"
     },
@@ -90633,7 +90629,7 @@
     },
     {
         "appid": 1500880,
-        "name": "Random Racing"
+        "name": "Sumo Cars"
     },
     {
         "appid": 1500900,
@@ -104013,7 +104009,7 @@
     },
     {
         "appid": 1560850,
-        "name": "Piozila"
+        "name": "Piozila: Escape From Planet Earth"
     },
     {
         "appid": 1560860,
@@ -164836,10 +164832,6 @@
         "name": "SGS Operation Hawaii"
     },
     {
-        "appid": 1802090,
-        "name": "Medieval Remembrance"
-    },
-    {
         "appid": 1802100,
         "name": "Sanity City"
     },
@@ -171178,6 +171170,10 @@
     {
         "appid": 1828420,
         "name": "Survive The Island Online"
+    },
+    {
+        "appid": 1828470,
+        "name": "Lost In Socks"
     },
     {
         "appid": 1828490,
@@ -199998,5 +199994,9 @@
     {
         "appid": 1955160,
         "name": "MEARTH"
+    },
+    {
+        "appid": 1955200,
+        "name": "Gate Builders"
     }
 ]
