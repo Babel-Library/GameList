@@ -17889,7 +17889,7 @@
     },
     {
         "appid": 285380,
-        "name": "On The Road - The Truck Simulator"
+        "name": "ON THE ROAD - The Truck Simulator"
     },
     {
         "appid": 285420,
@@ -64254,10 +64254,6 @@
     {
         "appid": 510060,
         "name": "Punch Bomb"
-    },
-    {
-        "appid": 510070,
-        "name": "Shiperoids"
     },
     {
         "appid": 510080,
@@ -144348,6 +144344,10 @@
         "name": "Lovecraft's Untold Stories"
     },
     {
+        "appid": 871460,
+        "name": "Beryl"
+    },
+    {
         "appid": 871490,
         "name": "Munx VR"
     },
@@ -147490,10 +147490,6 @@
     {
         "appid": 886270,
         "name": "Yeli Orog"
-    },
-    {
-        "appid": 886280,
-        "name": "Kona VR"
     },
     {
         "appid": 886290,
@@ -177910,6 +177906,10 @@
     {
         "appid": 1018770,
         "name": "Lizardquest-Alien waters"
+    },
+    {
+        "appid": 1018780,
+        "name": "Warden Tycoon"
     },
     {
         "appid": 1018800,

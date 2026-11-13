@@ -1,5 +1,21 @@
 [
     {
+        "appid": 2929260,
+        "name": "SWARM 2"
+    },
+    {
+        "appid": 2929290,
+        "name": "Stretchmancer"
+    },
+    {
+        "appid": 2929300,
+        "name": "QUESTSCAPE: Survival"
+    },
+    {
+        "appid": 2929310,
+        "name": "Clutter Puzzle Magazine Vol. 16 No. 2 Collector's Edition"
+    },
+    {
         "appid": 2929320,
         "name": "消防员康纳 - FireFighter Connor CG ImagePack"
     },
@@ -10474,6 +10490,10 @@
     {
         "appid": 2980660,
         "name": "Click on ladybugs together"
+    },
+    {
+        "appid": 2980670,
+        "name": "Voxifold"
     },
     {
         "appid": 2980720,
@@ -26036,6 +26056,10 @@
         "name": "POOP"
     },
     {
+        "appid": 3060320,
+        "name": "Strata"
+    },
+    {
         "appid": 3060340,
         "name": "Steel Carnelian"
     },
@@ -30166,6 +30190,10 @@
     {
         "appid": 3080080,
         "name": "Age of Empires II: DE - The Three Kingdoms "
+    },
+    {
+        "appid": 3080120,
+        "name": "Seavale Fair"
     },
     {
         "appid": 3080140,
@@ -36458,10 +36486,6 @@
     {
         "appid": 3110210,
         "name": "Angel Legion-DLC Chain Trace (White)"
-    },
-    {
-        "appid": 3110220,
-        "name": "Haut: Episode One"
     },
     {
         "appid": 3110230,
@@ -57781,7 +57805,7 @@
     },
     {
         "appid": 3218350,
-        "name": "Melvor Idle 2"
+        "name": "Melvor Idle 2: A RuneScape Adventure"
     },
     {
         "appid": 3218370,
@@ -122100,6 +122124,10 @@
         "name": "Occupy"
     },
     {
+        "appid": 3555660,
+        "name": "Meowsical Nights: Cat Music Puzzles"
+    },
+    {
         "appid": 3555670,
         "name": "Chill with Lisa – She Listens, She Cares, She Supports"
     },
@@ -123726,6 +123754,10 @@
     {
         "appid": 3563730,
         "name": "Obgob"
+    },
+    {
+        "appid": 3563740,
+        "name": "TRYSOR"
     },
     {
         "appid": 3563750,
@@ -127521,7 +127553,7 @@
     },
     {
         "appid": 3582480,
-        "name": "Goop Up!"
+        "name": "GoopUpClassic"
     },
     {
         "appid": 3582490,
@@ -148693,35 +148725,35 @@
     },
     {
         "appid": 3689730,
-        "name": "Pals Go Only Up - Barbarian Character DLC"
+        "name": "Too Far 2 Fall - Barbarian Character DLC"
     },
     {
         "appid": 3689740,
-        "name": "Pals Go Only Up - Dwarf Character DLC"
+        "name": "Too Far 2 Fall - Dwarf Character DLC"
     },
     {
         "appid": 3689750,
-        "name": "Pals Go Only Up - Barbarian 2 Character DLC"
+        "name": "Too Far 2 Fall - Barbarian 2 Character DLC"
     },
     {
         "appid": 3689760,
-        "name": "Pals Go Only Up - Golem Character DLC"
+        "name": "Too Far 2 Fall - Golem Character DLC"
     },
     {
         "appid": 3689770,
-        "name": "Pals Go Only Up - Knight Character DLC"
+        "name": "Too Far 2 Fall - Knight Character DLC"
     },
     {
         "appid": 3689780,
-        "name": "Pals Go Only Up - Viking Character DLC"
+        "name": "Too Far 2 Fall - Viking Character DLC"
     },
     {
         "appid": 3689790,
-        "name": "Pals Go Only Up - Warrior Character DLC"
+        "name": "Too Far 2 Fall - Warrior Character DLC"
     },
     {
         "appid": 3689800,
-        "name": "Pals Go Only Up - Werewolf Character DLC"
+        "name": "Too Far 2 Fall - Werewolf Character DLC"
     },
     {
         "appid": 3689830,
@@ -150716,6 +150748,10 @@
         "name": "StarFear"
     },
     {
+        "appid": 3700340,
+        "name": "In-yu Quest ~Quest for the Queen~"
+    },
+    {
         "appid": 3700350,
         "name": "Kokuhaku Confessional"
     },
@@ -151094,6 +151130,10 @@
     {
         "appid": 3702160,
         "name": "イロハニホヘト"
+    },
+    {
+        "appid": 3702190,
+        "name": "夺回公主"
     },
     {
         "appid": 3702220,
@@ -168629,7 +168669,7 @@
     },
     {
         "appid": 3801400,
-        "name": "Red Ledger"
+        "name": "Sovia: Box & Order"
     },
     {
         "appid": 3801410,
@@ -172538,6 +172578,10 @@
     {
         "appid": 3820980,
         "name": "Scarecrows of Illyria Canon Rewrite: Emotional Spoons Pack"
+    },
+    {
+        "appid": 3821020,
+        "name": "Wheel Wills"
     },
     {
         "appid": 3821040,
@@ -185292,10 +185336,6 @@
         "name": "Just Waiting Cats"
     },
     {
-        "appid": 3883550,
-        "name": "Catickle"
-    },
-    {
         "appid": 3883560,
         "name": "Lunavoid"
     },
@@ -186297,7 +186337,7 @@
     },
     {
         "appid": 3888530,
-        "name": "Crystal Adventure"
+        "name": "Crystal Adventures: The Ascent"
     },
     {
         "appid": 3888580,
@@ -188690,6 +188730,10 @@
     {
         "appid": 3900210,
         "name": "Nearly Impossible Odds"
+    },
+    {
+        "appid": 3900220,
+        "name": "Proximity"
     },
     {
         "appid": 3900240,
@@ -193532,10 +193576,6 @@
         "name": "Dismal Night"
     },
     {
-        "appid": 3924660,
-        "name": "The Joy of Mining"
-    },
-    {
         "appid": 3924670,
         "name": "Squid Chess"
     },
@@ -195049,7 +195089,7 @@
     },
     {
         "appid": 3932780,
-        "name": "Crime & Anomaly: Paranormal Horror"
+        "name": "Crime & Anomaly"
     },
     {
         "appid": 3932790,
@@ -197318,10 +197358,6 @@
     {
         "appid": 3943600,
         "name": "Everlen: The Volgran Torment"
-    },
-    {
-        "appid": 3943610,
-        "name": "Algoremind"
     },
     {
         "appid": 3943670,
@@ -199962,41 +199998,5 @@
     {
         "appid": 3955860,
         "name": "Dragon Fist VR -  Midnight Alley"
-    },
-    {
-        "appid": 3955870,
-        "name": "The Hero is too Powerful so let's Pleeeease Settle this Peacefully!"
-    },
-    {
-        "appid": 3955930,
-        "name": "圣域传奇：永恒之战"
-    },
-    {
-        "appid": 3955960,
-        "name": "叨叨巫师 Chant Wizard"
-    },
-    {
-        "appid": 3956020,
-        "name": "Echoes of Edda"
-    },
-    {
-        "appid": 3956030,
-        "name": "Ethoterria's Last Soldier"
-    },
-    {
-        "appid": 3956070,
-        "name": "The Succubus Trap Island"
-    },
-    {
-        "appid": 3956080,
-        "name": "Arsenic & Absinthe"
-    },
-    {
-        "appid": 3956110,
-        "name": "cactus rush"
-    },
-    {
-        "appid": 3956120,
-        "name": "星渊勇者 StarAbyss Heroes"
     }
 ]

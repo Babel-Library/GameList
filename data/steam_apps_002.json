@@ -29108,6 +29108,10 @@
         "name": "Naughty Girl"
     },
     {
+        "appid": 1225770,
+        "name": "Sorted by Christmas"
+    },
+    {
         "appid": 1225780,
         "name": "他人世界末 On-looker"
     },
@@ -51933,7 +51937,7 @@
     },
     {
         "appid": 1332820,
-        "name": "Liha"
+        "name": "LIHA Dive Zero"
     },
     {
         "appid": 1332830,
@@ -89545,7 +89549,7 @@
     },
     {
         "appid": 1495950,
-        "name": "The Chronicles Of Myrtana: Archolos - Polish Voice-Over Pack"
+        "name": "The Chronicles of Myrtana: Archolos - Polish Voice-Over Pack"
     },
     {
         "appid": 1495970,
@@ -103194,6 +103198,10 @@
     {
         "appid": 1557110,
         "name": "Warfield - Multiplayer"
+    },
+    {
+        "appid": 1557130,
+        "name": "Luma"
     },
     {
         "appid": 1557140,
@@ -158872,10 +158880,6 @@
         "name": "Salome's Kiss"
     },
     {
-        "appid": 1779970,
-        "name": "Asterism: Apex of War"
-    },
-    {
         "appid": 1779990,
         "name": "My Furry Detective 🐾"
     },
@@ -164090,6 +164094,10 @@
     {
         "appid": 1800230,
         "name": "Alternate Universe"
+    },
+    {
+        "appid": 1800240,
+        "name": "SoulRoad"
     },
     {
         "appid": 1800250,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1955150,
         "name": "Lux Ex: Cyber Initiation"
-    },
-    {
-        "appid": 1955160,
-        "name": "MEARTH"
-    },
-    {
-        "appid": 1955200,
-        "name": "Gate Builders"
     }
 ]
