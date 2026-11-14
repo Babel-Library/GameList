@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
         "appid": 1955160,
         "name": "MEARTH"
     },
@@ -38052,6 +38060,10 @@
         "name": "Singularity Runner"
     },
     {
+        "appid": 2151730,
+        "name": "这不是罗马"
+    },
+    {
         "appid": 2151740,
         "name": "Treasure Trap"
     },
@@ -65010,6 +65022,10 @@
     {
         "appid": 2272220,
         "name": "Earth Mars VR"
+    },
+    {
+        "appid": 2272240,
+        "name": "DEAT CoreBattle"
     },
     {
         "appid": 2272250,
@@ -112664,6 +112680,10 @@
         "name": "Parasite in Love"
     },
     {
+        "appid": 2490390,
+        "name": "Choking Hazard"
+    },
+    {
         "appid": 2490420,
         "name": "Mugen Sweeper"
     },
@@ -124200,10 +124220,6 @@
         "name": "Dynamic Shooting VR"
     },
     {
-        "appid": 2549620,
-        "name": "MorphaVerse"
-    },
-    {
         "appid": 2549630,
         "name": "Osseous And Swordy"
     },
@@ -127830,6 +127846,10 @@
     {
         "appid": 2566880,
         "name": "MOOD"
+    },
+    {
+        "appid": 2566920,
+        "name": "About LAST Chanks: Prologue"
     },
     {
         "appid": 2566940,
@@ -173040,6 +173060,10 @@
         "name": "America's Next Top Pornstar"
     },
     {
+        "appid": 2793330,
+        "name": "How Many Cockroaches Can You Kill?"
+    },
+    {
         "appid": 2793350,
         "name": "筋肉すくい"
     },
@@ -179369,7 +179393,7 @@
     },
     {
         "appid": 2825570,
-        "name": "Diorama Maker"
+        "name": "TinkerTale: Diorama Maker"
     },
     {
         "appid": 2825590,
@@ -186229,7 +186253,7 @@
     },
     {
         "appid": 2859480,
-        "name": "Easy Aim Trainer"
+        "name": "EasyAim Trainer"
     },
     {
         "appid": 2859490,
@@ -199974,29 +199998,5 @@
     {
         "appid": 2929160,
         "name": "Gremlin Party '03"
-    },
-    {
-        "appid": 2929170,
-        "name": "NEW MONOPOLY®"
-    },
-    {
-        "appid": 2929180,
-        "name": "We Need Space"
-    },
-    {
-        "appid": 2929200,
-        "name": "Hentai Casual Jigsaw - Vampires"
-    },
-    {
-        "appid": 2929230,
-        "name": "Affordable Healthcare"
-    },
-    {
-        "appid": 2929240,
-        "name": "FLOOR 10"
-    },
-    {
-        "appid": 2929250,
-        "name": "over the hill"
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "appid": 2929170,
+        "name": "NEW MONOPOLY®"
+    },
+    {
+        "appid": 2929180,
+        "name": "We Need Space"
+    },
+    {
+        "appid": 2929200,
+        "name": "Hentai Casual Jigsaw - Vampires"
+    },
+    {
+        "appid": 2929230,
+        "name": "Affordable Healthcare"
+    },
+    {
+        "appid": 2929240,
+        "name": "FLOOR 10"
+    },
+    {
+        "appid": 2929250,
+        "name": "over the hill"
+    },
+    {
         "appid": 2929260,
         "name": "SWARM 2"
     },
@@ -19629,7 +19653,7 @@
     },
     {
         "appid": 3028030,
-        "name": "GreenDawn"
+        "name": "GREEN DAWN"
     },
     {
         "appid": 3028060,
@@ -22824,6 +22848,14 @@
         "name": "Cluminati"
     },
     {
+        "appid": 3044350,
+        "name": "Nazi Zombies"
+    },
+    {
+        "appid": 3044360,
+        "name": "Nazi Zombies - Supporter Pack"
+    },
+    {
         "appid": 3044370,
         "name": "7 Meters away - Wallpaper"
     },
@@ -24930,6 +24962,10 @@
     {
         "appid": 3054640,
         "name": "GameGuru MAX - Sounds of the Arcane"
+    },
+    {
+        "appid": 3054660,
+        "name": "GRAVITON: A Game About the Big Bang"
     },
     {
         "appid": 3054670,
@@ -53217,7 +53253,7 @@
     },
     {
         "appid": 3195070,
-        "name": "Paint Puzzle Quest"
+        "name": "Brush Logic"
     },
     {
         "appid": 3195150,
@@ -56898,6 +56934,10 @@
     {
         "appid": 3213810,
         "name": "Nest"
+    },
+    {
+        "appid": 3213830,
+        "name": "Duskwarden"
     },
     {
         "appid": 3213850,
@@ -63802,6 +63842,10 @@
     {
         "appid": 3251020,
         "name": "BirdKnight"
+    },
+    {
+        "appid": 3251040,
+        "name": "Penguinstead"
     },
     {
         "appid": 3251050,
@@ -97388,10 +97432,6 @@
         "name": "War and Politics"
     },
     {
-        "appid": 3421110,
-        "name": "Forlorn Society"
-    },
-    {
         "appid": 3421130,
         "name": "Those Who Crawl VR"
     },
@@ -104037,7 +104077,7 @@
     },
     {
         "appid": 3454130,
-        "name": "Superstition BlackCat"
+        "name": "SUPERSTITION Black Cat"
     },
     {
         "appid": 3454180,
@@ -114852,10 +114892,6 @@
         "name": "MI10"
     },
     {
-        "appid": 3513400,
-        "name": "Rogue Arena"
-    },
-    {
         "appid": 3513410,
         "name": "Code of Corruption"
     },
@@ -118258,6 +118294,10 @@
     {
         "appid": 3534460,
         "name": "The Path of Blades"
+    },
+    {
+        "appid": 3534490,
+        "name": "Axelball"
     },
     {
         "appid": 3534500,
@@ -124653,7 +124693,7 @@
     },
     {
         "appid": 3567980,
-        "name": "Serwis u Stasia"
+        "name": "Stan's Workshop"
     },
     {
         "appid": 3568000,
@@ -137993,7 +138033,7 @@
     },
     {
         "appid": 3634410,
-        "name": "The Gas N’ Grind"
+        "name": "Remember II"
     },
     {
         "appid": 3634420,
@@ -147632,6 +147672,10 @@
         "name": "Sectoris Sky"
     },
     {
+        "appid": 3684130,
+        "name": "Trash Panda Bonanza"
+    },
+    {
         "appid": 3684300,
         "name": "War of the Worlds: New York"
     },
@@ -148353,7 +148397,7 @@
     },
     {
         "appid": 3688050,
-        "name": "Whispering White Oak"
+        "name": "Next Lane"
     },
     {
         "appid": 3688080,
@@ -164532,6 +164576,10 @@
         "name": "Three Finger"
     },
     {
+        "appid": 3778180,
+        "name": "Arthur's Quest: The Holy Trail"
+    },
+    {
         "appid": 3778210,
         "name": "Hentai Secrets"
     },
@@ -169042,6 +169090,10 @@
     {
         "appid": 3803330,
         "name": "Kastle Kraft"
+    },
+    {
+        "appid": 3803380,
+        "name": "Arena"
     },
     {
         "appid": 3803390,
@@ -178441,7 +178493,7 @@
     },
     {
         "appid": 3851170,
-        "name": "Noir"
+        "name": "Noir : Cosmos"
     },
     {
         "appid": 3851180,
@@ -199861,7 +199913,7 @@
     },
     {
         "appid": 3955170,
-        "name": "Exclusive Cars"
+        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
     },
     {
         "appid": 3955200,
@@ -199946,57 +199998,5 @@
     {
         "appid": 3955620,
         "name": "Tob One"
-    },
-    {
-        "appid": 3955640,
-        "name": "CUFFBUST: Bust Buddies - Pet Pack"
-    },
-    {
-        "appid": 3955650,
-        "name": "Yandere Goth Delinquent Trouble 3"
-    },
-    {
-        "appid": 3955660,
-        "name": "Dangerous Mountain Together"
-    },
-    {
-        "appid": 3955690,
-        "name": "Corner Cards"
-    },
-    {
-        "appid": 3955700,
-        "name": "Grid Forge TD"
-    },
-    {
-        "appid": 3955720,
-        "name": "The Marsh Manor Mystery"
-    },
-    {
-        "appid": 3955730,
-        "name": "Another's Memories"
-    },
-    {
-        "appid": 3955770,
-        "name": "Trombone Champ: UNDERTALE + DELTARUNE Song Pack"
-    },
-    {
-        "appid": 3955780,
-        "name": "Psychotic Descent"
-    },
-    {
-        "appid": 3955800,
-        "name": "321Rocket"
-    },
-    {
-        "appid": 3955840,
-        "name": "Dragon Fist VR - Hall of Heroes"
-    },
-    {
-        "appid": 3955850,
-        "name": "Dragon Fist VR -  Japanese Garden"
-    },
-    {
-        "appid": 3955860,
-        "name": "Dragon Fist VR -  Midnight Alley"
     }
 ]
