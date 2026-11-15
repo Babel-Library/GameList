@@ -41537,7 +41537,7 @@
     },
     {
         "appid": 2168060,
-        "name": "The Planetarian"
+        "name": "C.C.C.: Special Cleaning"
     },
     {
         "appid": 2168070,
@@ -135420,6 +135420,10 @@
         "name": "BIKE RIDE 3D"
     },
     {
+        "appid": 2607340,
+        "name": "VPet - Travel Pet"
+    },
+    {
         "appid": 2607350,
         "name": "VPet - Pancake Cat Skin package"
     },
@@ -174636,6 +174640,10 @@
         "name": "Yomi 2: Renegades"
     },
     {
+        "appid": 2801310,
+        "name": "Eight Legs, Seven Nights"
+    },
+    {
         "appid": 2801320,
         "name": "RPG Maker MZ - KR Urban Decay Interior Tileset"
     },
@@ -192828,10 +192836,6 @@
         "name": "Little Brats!"
     },
     {
-        "appid": 2892110,
-        "name": "Whale Captain"
-    },
-    {
         "appid": 2892120,
         "name": "Luminous Skies: Interstellar Graphics DLC"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929140,
         "name": "Ataegina Act I"
-    },
-    {
-        "appid": 2929160,
-        "name": "Gremlin Party '03"
     }
 ]

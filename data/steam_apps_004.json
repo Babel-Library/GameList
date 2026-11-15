@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929160,
+        "name": "Gremlin Party '03"
+    },
+    {
         "appid": 2929170,
         "name": "NEW MONOPOLY®"
     },
@@ -21494,6 +21498,10 @@
     {
         "appid": 3037140,
         "name": "Scivics"
+    },
+    {
+        "appid": 3037150,
+        "name": "Backup Boy: Office"
     },
     {
         "appid": 3037160,
@@ -148265,7 +148273,7 @@
     },
     {
         "appid": 3687370,
-        "name": "The Borderless"
+        "name": "The Borderless: Cozy Island Simulator"
     },
     {
         "appid": 3687390,
@@ -149682,6 +149690,10 @@
     {
         "appid": 3694480,
         "name": "A Game About Feeding A Black Hole"
+    },
+    {
+        "appid": 3694520,
+        "name": "Echoes of Durinn"
     },
     {
         "appid": 3694530,
@@ -199986,17 +199998,5 @@
     {
         "appid": 3955510,
         "name": "Ancient Frontier: Tactics"
-    },
-    {
-        "appid": 3955540,
-        "name": "SpikerMan Game"
-    },
-    {
-        "appid": 3955550,
-        "name": "Catto Boi Collection"
-    },
-    {
-        "appid": 3955620,
-        "name": "Tob One"
     }
 ]
