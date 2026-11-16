@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1955120,
-        "name": "Nemire"
-    },
-    {
         "appid": 1955150,
         "name": "Lux Ex: Cyber Initiation"
     },
@@ -153629,27 +153625,27 @@
     },
     {
         "appid": 2696210,
-        "name": "Granblue Fantasy Versus: Rising - Character Color set 1"
+        "name": "GBVSR - Character Color Set 1"
     },
     {
         "appid": 2696220,
-        "name": "Granblue Fantasy Versus: Rising - Character Color Set 2"
+        "name": "GBVSR - Character Color Set 2"
     },
     {
         "appid": 2696230,
-        "name": "Granblue Fantasy Versus: Rising - System Voice Set"
+        "name": "GBVSR - System Voice Set"
     },
     {
         "appid": 2696240,
-        "name": "Granblue Fantasy Versus: Rising - Premium Avatar Set (Umamusume: Pretty Derby)"
+        "name": "GBVSR - Premium Avatar Set (Umamusume: Pretty Derby)"
     },
     {
         "appid": 2696250,
-        "name": "Granblue Fantasy Versus: Rising - Character Pass 1"
+        "name": "GBVSR - Character Pass 1"
     },
     {
         "appid": 2696260,
-        "name": "Granblue Fantasy Versus: Rising - Deluxe Character Pass 1"
+        "name": "GBVSR - Deluxe Character Pass 1"
     },
     {
         "appid": 2696300,
@@ -158197,11 +158193,11 @@
     },
     {
         "appid": 2718980,
-        "name": "Granblue Fantasy Versus: Rising - Additional Character (Lucilius)"
+        "name": "GBVSR - Additional Character Set (Lucilius)"
     },
     {
         "appid": 2718990,
-        "name": "Granblue Fantasy Versus: Rising - Additional Character (2B)"
+        "name": "GBVSR - Additional Character Set (2B)"
     },
     {
         "appid": 2719000,
@@ -158529,7 +158525,7 @@
     },
     {
         "appid": 2720380,
-        "name": "Granblue Fantasy Versus: Rising - Additional Character (Vane)"
+        "name": "GBVSR - Additional Character Set (Vane)"
     },
     {
         "appid": 2720390,
@@ -158537,7 +158533,7 @@
     },
     {
         "appid": 2720400,
-        "name": "Granblue Fantasy Versus: Rising - Additional Character Set (Versusia)"
+        "name": "GBVSR - Additional Character Set (Versusia)"
     },
     {
         "appid": 2720410,
@@ -164265,11 +164261,11 @@
     },
     {
         "appid": 2748910,
-        "name": "Granblue Fantasy Versus: Rising - Character Color set 3"
+        "name": "GBVSR - Character Color set 3"
     },
     {
         "appid": 2748920,
-        "name": "Granblue Fantasy Versus: Rising - Character Color set 4"
+        "name": "GBVSR - Character Color set 4"
     },
     {
         "appid": 2748930,
@@ -175709,7 +175705,7 @@
     },
     {
         "appid": 2806810,
-        "name": "Granblue Fantasy Versus: Rising - Premium Avatar Set (Princess Connect! Re: Dive)"
+        "name": "GBVSR - Premium Avatar Set (Princess Connect! Re: Dive)"
     },
     {
         "appid": 2806830,
@@ -187052,6 +187048,10 @@
         "name": "Twilight Manor: Roguelite FPS"
     },
     {
+        "appid": 2863700,
+        "name": "MegaMagnate"
+    },
+    {
         "appid": 2863710,
         "name": "Duckland"
     },
@@ -187401,7 +187401,7 @@
     },
     {
         "appid": 2865510,
-        "name": "Granblue Fantasy Versus: Rising - Premium Avatar Set (Shadowverse)"
+        "name": "GBVSR - Premium Avatar Set (Shadowverse)"
     },
     {
         "appid": 2865520,
@@ -199453,7 +199453,7 @@
     },
     {
         "appid": 2926770,
-        "name": "Granblue Fantasy Versus: Rising - Character Costume: Knight's Finery (Lancelot)"
+        "name": "GBVSR - Character Costume: Knight's Finery (Lancelot)"
     },
     {
         "appid": 2926780,
@@ -199461,7 +199461,7 @@
     },
     {
         "appid": 2926790,
-        "name": "Granblue Fantasy Versus: Rising - System Voice Set 2"
+        "name": "GBVSR - System Voice Set 2"
     },
     {
         "appid": 2926840,

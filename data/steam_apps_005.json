@@ -1,5 +1,9 @@
 [
     {
+        "appid": 3955510,
+        "name": "Ancient Frontier: Tactics"
+    },
+    {
         "appid": 3955540,
         "name": "SpikerMan Game"
     },
@@ -44516,6 +44520,10 @@
         "name": "Asumi: Little Ones"
     },
     {
+        "appid": 4197010,
+        "name": "Voidfall"
+    },
+    {
         "appid": 4197020,
         "name": "Sol and Mani the Artifact "
     },
@@ -64544,6 +64552,10 @@
         "name": "Jamhouse"
     },
     {
+        "appid": 4300030,
+        "name": "CD Shop: Keep It Tidy!"
+    },
+    {
         "appid": 4300050,
         "name": "Nocturnal Quest: Supporter Pack"
     },
@@ -70202,10 +70214,6 @@
     {
         "appid": 4331920,
         "name": "SQUARE::ERAUQS"
-    },
-    {
-        "appid": 4331940,
-        "name": "TrollMaker"
     },
     {
         "appid": 4331960,
@@ -79638,6 +79646,10 @@
     {
         "appid": 4389010,
         "name": "Caribbean Frontier"
+    },
+    {
+        "appid": 4389040,
+        "name": "House Builder 3: Budget Builds"
     },
     {
         "appid": 4389050,
@@ -109288,6 +109300,10 @@
         "name": "Court Wizard"
     },
     {
+        "appid": 4550890,
+        "name": "Spy and Safe"
+    },
+    {
         "appid": 4550920,
         "name": "Kora: Neural Gridlock"
     },
@@ -109726,6 +109742,10 @@
     {
         "appid": 4553170,
         "name": "Cozy Interiors"
+    },
+    {
+        "appid": 4553180,
+        "name": "Paragon Colonists"
     },
     {
         "appid": 4553190,
@@ -114806,6 +114826,10 @@
     {
         "appid": 4580160,
         "name": "Caravan Bazar"
+    },
+    {
+        "appid": 4580170,
+        "name": "スイカゲーム 2人プレイモード 追加パック"
     },
     {
         "appid": 4580200,
@@ -133740,6 +133764,10 @@
         "name": "SHULERO – Dice Roguelike"
     },
     {
+        "appid": 4688260,
+        "name": "Heroes Frontiers"
+    },
+    {
         "appid": 4688280,
         "name": "Desktop Oasis"
     },
@@ -136922,6 +136950,10 @@
     {
         "appid": 4707320,
         "name": "帰りの夜道"
+    },
+    {
+        "appid": 4707340,
+        "name": "Ferazel's Wand"
     },
     {
         "appid": 4707380,
@@ -140538,6 +140570,10 @@
     {
         "appid": 4731260,
         "name": "Way of the Warrior"
+    },
+    {
+        "appid": 4731280,
+        "name": "Five Five Six"
     },
     {
         "appid": 4731310,
@@ -170360,6 +170396,10 @@
         "name": "The Grotto Index"
     },
     {
+        "appid": 4903880,
+        "name": "Embershadow: Forbidden Realm"
+    },
+    {
         "appid": 4903890,
         "name": "Affection Engine"
     },
@@ -174746,6 +174786,10 @@
     {
         "appid": 4926990,
         "name": "Siege"
+    },
+    {
+        "appid": 4927010,
+        "name": "Rainy Hours"
     },
     {
         "appid": 4927020,
@@ -180816,6 +180860,10 @@
         "name": "Salvage Run"
     },
     {
+        "appid": 4959460,
+        "name": "Secrets of the Abyss"
+    },
+    {
         "appid": 4959500,
         "name": "Mnema: The Fallen Remembered"
     },
@@ -185654,6 +185702,10 @@
     {
         "appid": 4986160,
         "name": "Kamogawa Island: Paradise Pleasure"
+    },
+    {
+        "appid": 4986200,
+        "name": "Background RPG: Supporter Pack"
     },
     {
         "appid": 4986220,
@@ -199946,57 +199998,5 @@
     {
         "appid": 5067380,
         "name": "Pigkour"
-    },
-    {
-        "appid": 5067390,
-        "name": "GRIDMINE"
-    },
-    {
-        "appid": 5067410,
-        "name": "Salt & Schooners"
-    },
-    {
-        "appid": 5067420,
-        "name": "Demon's March"
-    },
-    {
-        "appid": 5067460,
-        "name": "Overexposed"
-    },
-    {
-        "appid": 5067470,
-        "name": "Tilefall - Supporter Pack"
-    },
-    {
-        "appid": 5067500,
-        "name": "Dead Famous"
-    },
-    {
-        "appid": 5067510,
-        "name": "Shiver Slopes"
-    },
-    {
-        "appid": 5067520,
-        "name": "Baaft"
-    },
-    {
-        "appid": 5067540,
-        "name": "Hury"
-    },
-    {
-        "appid": 5067550,
-        "name": "Beatmaker Simulator"
-    },
-    {
-        "appid": 5067560,
-        "name": "Cuck Chair Casino"
-    },
-    {
-        "appid": 5067590,
-        "name": "SECRET SLIME ISLAND"
-    },
-    {
-        "appid": 5067620,
-        "name": "The Sundered Anvil"
     }
 ]

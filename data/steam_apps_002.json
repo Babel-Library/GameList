@@ -40800,10 +40800,6 @@
         "name": "Arctic Anxiety"
     },
     {
-        "appid": 1276490,
-        "name": "Cascading Failure"
-    },
-    {
         "appid": 1276500,
         "name": "Bloons Monkey City - Bamboo City Walls"
     },
@@ -53769,7 +53765,7 @@
     },
     {
         "appid": 1341160,
-        "name": "Infinite: Tournament Paintball"
+        "name": "Infinite Tournament Paintball"
     },
     {
         "appid": 1341170,
@@ -174649,7 +174645,7 @@
     },
     {
         "appid": 1843710,
-        "name": "PURGE - Three vs Blood"
+        "name": "Three vs Blood"
     },
     {
         "appid": 1843730,
@@ -188325,7 +188321,7 @@
     },
     {
         "appid": 1905510,
-        "name": "DanceXR"
+        "name": "DanceXR Pro"
     },
     {
         "appid": 1905530,
@@ -199998,5 +199994,9 @@
     {
         "appid": 1955110,
         "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
     }
 ]

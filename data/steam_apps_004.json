@@ -18520,6 +18520,10 @@
         "name": "ReThink 5"
     },
     {
+        "appid": 3021410,
+        "name": "Mouse Holme"
+    },
+    {
         "appid": 3021440,
         "name": "Dragon and Phoenix"
     },
@@ -35206,6 +35210,10 @@
     {
         "appid": 3103850,
         "name": "Dark Symphony"
+    },
+    {
+        "appid": 3103870,
+        "name": "Give It Up! World"
     },
     {
         "appid": 3103880,
@@ -74274,6 +74282,10 @@
     {
         "appid": 3307350,
         "name": "Condenado: Sem Saída"
+    },
+    {
+        "appid": 3307360,
+        "name": "Alteah: Sovereign Shores"
     },
     {
         "appid": 3307390,
@@ -114050,10 +114062,6 @@
     {
         "appid": 3508950,
         "name": "Panzer Corps 2: Frontlines - Westwall"
-    },
-    {
-        "appid": 3508970,
-        "name": "Wake Up Kid"
     },
     {
         "appid": 3509030,
@@ -176360,10 +176368,6 @@
         "name": "黒髪ロングJKサバイバルシミュレーションゲーム"
     },
     {
-        "appid": 3840260,
-        "name": "Forgotten Playland: Party Edition"
-    },
-    {
         "appid": 3840280,
         "name": "Caxtilteca"
     },
@@ -178913,7 +178917,7 @@
     },
     {
         "appid": 3853110,
-        "name": "Crusaders Quest : MergeChess"
+        "name": "Crusaders Quest : Tactics"
     },
     {
         "appid": 3853120,
@@ -193461,7 +193465,7 @@
     },
     {
         "appid": 3923910,
-        "name": "Replica Club √D-レプリカクラブ ルートD"
+        "name": "Replica Club √D"
     },
     {
         "appid": 3923950,
@@ -199994,9 +199998,5 @@
     {
         "appid": 3955500,
         "name": "Voyagers of Nera - Founder's Pack"
-    },
-    {
-        "appid": 3955510,
-        "name": "Ancient Frontier: Tactics"
     }
 ]
