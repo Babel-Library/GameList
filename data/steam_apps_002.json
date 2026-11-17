@@ -1,5 +1,29 @@
 [
     {
+        "appid": 1109562,
+        "name": "RPG Maker MV - Classic Heroes"
+    },
+    {
+        "appid": 1109563,
+        "name": "RPG Maker MV - Modern + Inner Basic Tiles"
+    },
+    {
+        "appid": 1109564,
+        "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
+    },
+    {
+        "appid": 1109565,
+        "name": "RPG Maker MV - Samurai Force 8bit Tracks Vol.1"
+    },
+    {
+        "appid": 1109570,
+        "name": "《文字遊戲》"
+    },
+    {
+        "appid": 1109630,
+        "name": "コイカツ！ / Koikatsu Party VR"
+    },
+    {
         "appid": 1109650,
         "name": "Hentai Girls Mosaic"
     },
@@ -5750,6 +5774,10 @@
     {
         "appid": 1131370,
         "name": "Prison Ball - Playable Character: Vast Shadows"
+    },
+    {
+        "appid": 1131390,
+        "name": "Fluid Simulation"
     },
     {
         "appid": 1131400,
@@ -47540,6 +47568,10 @@
         "name": "黑色花与红山羊 / Black Datura & Red Goat"
     },
     {
+        "appid": 1306760,
+        "name": "Time Agent"
+    },
+    {
         "appid": 1306770,
         "name": "Revival: Recolonization"
     },
@@ -62205,7 +62237,7 @@
     },
     {
         "appid": 1375290,
-        "name": "Working Zombies Steam Edition"
+        "name": "Working Zombies"
     },
     {
         "appid": 1375300,
@@ -84901,7 +84933,7 @@
     },
     {
         "appid": 1475830,
-        "name": "Space Engineers - Warfare 1"
+        "name": "Space Engineers - Warfare 1 Pack"
     },
     {
         "appid": 1475840,
@@ -102774,6 +102806,10 @@
     {
         "appid": 1555660,
         "name": "卢沟桥事变"
+    },
+    {
+        "appid": 1555680,
+        "name": "Sphere Wars"
     },
     {
         "appid": 1555690,
@@ -124329,7 +124365,7 @@
     },
     {
         "appid": 1651300,
-        "name": "The Unnamed Game"
+        "name": "TUG II: The Unnamed Game"
     },
     {
         "appid": 1651360,
@@ -153216,10 +153252,6 @@
         "name": "ANIME TETRIS"
     },
     {
-        "appid": 1753250,
-        "name": "Rogue Planet 1"
-    },
-    {
         "appid": 1753280,
         "name": "Retro Game Aliens / レトロゲームエイリアンズ"
     },
@@ -159372,6 +159404,10 @@
         "name": "Farlife"
     },
     {
+        "appid": 1782200,
+        "name": "You Are Rich: Art you can buy the author's right to"
+    },
+    {
         "appid": 1782210,
         "name": "Crab Game"
     },
@@ -159837,7 +159873,7 @@
     },
     {
         "appid": 1783760,
-        "name": "Space Engineers - Warfare 2"
+        "name": "Space Engineers - Warfare 2 Pack"
     },
     {
         "appid": 1783770,
@@ -199962,41 +199998,5 @@
     {
         "appid": 1954980,
         "name": "Coloring Pixels - Tarot Pack"
-    },
-    {
-        "appid": 1954990,
-        "name": "Wieldo"
-    },
-    {
-        "appid": 1955000,
-        "name": "3D PUZZLE - Alchemist House"
-    },
-    {
-        "appid": 1955010,
-        "name": "Hard Ball Wikie"
-    },
-    {
-        "appid": 1955030,
-        "name": "SCP: EVENT CLASSIFIED"
-    },
-    {
-        "appid": 1955040,
-        "name": "The Aquatic Messenger"
-    },
-    {
-        "appid": 1955090,
-        "name": "KeepUp Survival - Tropical Island Map"
-    },
-    {
-        "appid": 1955100,
-        "name": "怯懦 Cowardice"
-    },
-    {
-        "appid": 1955110,
-        "name": "Star Stuff"
-    },
-    {
-        "appid": 1955120,
-        "name": "Nemire"
     }
 ]

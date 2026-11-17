@@ -47893,7 +47893,7 @@
     },
     {
         "appid": 429330,
-        "name": "Stikbold! A Dodgeball Adventure"
+        "name": "Stikbold! A Dodgeball Adventure DELUXE"
     },
     {
         "appid": 429350,
@@ -54206,10 +54206,6 @@
     {
         "appid": 459150,
         "name": "Super Cat Herding: Totally Awesome Edition"
-    },
-    {
-        "appid": 459160,
-        "name": "Allods Online"
     },
     {
         "appid": 459170,
@@ -104380,6 +104376,10 @@
         "name": "KryptCrawler"
     },
     {
+        "appid": 691600,
+        "name": "Mission 1545"
+    },
+    {
         "appid": 691620,
         "name": "Death Rings of Jupiter"
     },
@@ -139528,6 +139528,10 @@
         "name": "Hypersonic Speed Girl / 超速少女"
     },
     {
+        "appid": 850930,
+        "name": "MODERN ROAD-LIKE"
+    },
+    {
         "appid": 850940,
         "name": "Space Colonizers Idle Clicker"
     },
@@ -152564,6 +152568,10 @@
         "name": "Tactic Code - 战术代码"
     },
     {
+        "appid": 908030,
+        "name": "Breen Origins"
+    },
+    {
         "appid": 908040,
         "name": "TapSonic World Champion VR with EOS"
     },
@@ -155492,6 +155500,10 @@
         "name": "My Burning Heart"
     },
     {
+        "appid": 921920,
+        "name": "Robikon"
+    },
+    {
         "appid": 921950,
         "name": "Kingdom Come: Deliverance – The Amorous Adventures of Bold Sir Hans Capon"
     },
@@ -155854,6 +155866,10 @@
     {
         "appid": 923640,
         "name": "EXIT 4 - Portal Music Pack"
+    },
+    {
+        "appid": 923650,
+        "name": "The Quest for Moe's"
     },
     {
         "appid": 923670,
@@ -175080,6 +175096,10 @@
         "name": "Tanks Endeavor"
     },
     {
+        "appid": 1006430,
+        "name": "Hectic Highways"
+    },
+    {
         "appid": 1006440,
         "name": "The Dame Was Loaded"
     },
@@ -176894,6 +176914,10 @@
     {
         "appid": 1013780,
         "name": "Jigsaw Masterpieces : Masterpieces of World - Baroque -"
+    },
+    {
+        "appid": 1013790,
+        "name": "TheVeryHardPuzzleGame&Editor"
     },
     {
         "appid": 1013810,
@@ -199974,29 +199998,5 @@
     {
         "appid": 1109560,
         "name": "RPG Maker MV - Eberouge Background Image Pack 2"
-    },
-    {
-        "appid": 1109562,
-        "name": "RPG Maker MV - Classic Heroes"
-    },
-    {
-        "appid": 1109563,
-        "name": "RPG Maker MV - Modern + Inner Basic Tiles"
-    },
-    {
-        "appid": 1109564,
-        "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
-    },
-    {
-        "appid": 1109565,
-        "name": "RPG Maker MV - Samurai Force 8bit Tracks Vol.1"
-    },
-    {
-        "appid": 1109570,
-        "name": "《文字遊戲》"
-    },
-    {
-        "appid": 1109630,
-        "name": "コイカツ！ / Koikatsu Party VR"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
+        "appid": 2929110,
+        "name": "HOYO"
+    },
+    {
+        "appid": 2929120,
+        "name": "따님은 제가 데리고 있습니다"
+    },
+    {
+        "appid": 2929130,
+        "name": "Bloodwood Dungeon"
+    },
+    {
+        "appid": 2929140,
+        "name": "Ataegina Act I"
+    },
+    {
         "appid": 2929160,
         "name": "Gremlin Party '03"
     },
@@ -21814,6 +21834,10 @@
     {
         "appid": 3038940,
         "name": "皇主乾坤 HUANG ZHU QIAN KUN"
+    },
+    {
+        "appid": 3038960,
+        "name": "The Fool and the Hand of God"
     },
     {
         "appid": 3038970,
@@ -64993,7 +65017,7 @@
     },
     {
         "appid": 3257730,
-        "name": "SkullLord 骸骷王"
+        "name": "Skull Lord 魔女 & 妖怪尽归吾有"
     },
     {
         "appid": 3257760,
@@ -83032,6 +83056,10 @@
         "name": "Distant Worlds 2: Factions - Atuuk and Wekkarus"
     },
     {
+        "appid": 3350570,
+        "name": "Kingsbane"
+    },
+    {
         "appid": 3350580,
         "name": "Funko Fusion - Yuletide Pack"
     },
@@ -87346,6 +87374,10 @@
     {
         "appid": 3370980,
         "name": "Bearplane"
+    },
+    {
+        "appid": 3371020,
+        "name": "Meme War"
     },
     {
         "appid": 3371030,
@@ -102969,7 +103001,7 @@
     },
     {
         "appid": 3448390,
-        "name": "Embroideryvania"
+        "name": "Snail Adventure in Embroideryvania"
     },
     {
         "appid": 3448420,
@@ -116540,10 +116572,6 @@
         "name": "Mystery Chamber Deluxe"
     },
     {
-        "appid": 3523180,
-        "name": "Echo Arena"
-    },
-    {
         "appid": 3523260,
         "name": "Colossal Crisis"
     },
@@ -116754,10 +116782,6 @@
     {
         "appid": 3524610,
         "name": "机械臂模拟器"
-    },
-    {
-        "appid": 3524620,
-        "name": "杀戮剧院"
     },
     {
         "appid": 3524700,
@@ -127982,6 +128006,10 @@
     {
         "appid": 3584120,
         "name": "Truck Town: Kids and Toddlers Driving Game"
+    },
+    {
+        "appid": 3584130,
+        "name": "Chess Swarm"
     },
     {
         "appid": 3584140,
@@ -148032,6 +148060,10 @@
         "name": "Earth Atlantis 2"
     },
     {
+        "appid": 3686020,
+        "name": "Cozy Trails"
+    },
+    {
         "appid": 3686050,
         "name": "Nude Cat Fights"
     },
@@ -166356,6 +166388,10 @@
         "name": "The Island of Doctor Morose"
     },
     {
+        "appid": 3788150,
+        "name": "Tracking Error"
+    },
+    {
         "appid": 3788160,
         "name": "Terminal War"
     },
@@ -170061,7 +170097,7 @@
     },
     {
         "appid": 3808500,
-        "name": "Undertaker"
+        "name": "Nefandum: Undertaker"
     },
     {
         "appid": 3808510,
@@ -176314,10 +176350,6 @@
     {
         "appid": 3839990,
         "name": "Rally Mechanic Simulator - Rally Pack: vol. 2"
-    },
-    {
-        "appid": 3840000,
-        "name": "Bitter Critters"
     },
     {
         "appid": 3840050,
@@ -186284,10 +186316,6 @@
         "name": "Garenburg Penitence: Elucidate (Artbook)"
     },
     {
-        "appid": 3887830,
-        "name": "ALTERNATE WORLDS"
-    },
-    {
         "appid": 3887850,
         "name": "Garenburg Penitence: Unarchived (Novelization)"
     },
@@ -190952,10 +190980,6 @@
         "name": "Village of the Ages"
     },
     {
-        "appid": 3911780,
-        "name": "100 Cats Lost in Halloween Find & Color"
-    },
-    {
         "appid": 3911790,
         "name": "100 Cats Lost in Da Vinci Find & Color"
     },
@@ -191742,10 +191766,6 @@
     {
         "appid": 3915970,
         "name": "Big Theft Valkeala 2: San Piritori"
-    },
-    {
-        "appid": 3915980,
-        "name": "The Adventurer’s Trial"
     },
     {
         "appid": 3916000,
@@ -195449,7 +195469,7 @@
     },
     {
         "appid": 3934270,
-        "name": "How Many Dudes? The Roguelike Autobattler"
+        "name": "How Many Dudes?"
     },
     {
         "appid": 3934280,
@@ -199978,25 +199998,5 @@
     {
         "appid": 3955400,
         "name": "Games of Rome"
-    },
-    {
-        "appid": 3955410,
-        "name": "MLPerf Client"
-    },
-    {
-        "appid": 3955420,
-        "name": "Nick's Game"
-    },
-    {
-        "appid": 3955460,
-        "name": "NewMonster"
-    },
-    {
-        "appid": 3955490,
-        "name": "Echo Diver"
-    },
-    {
-        "appid": 3955500,
-        "name": "Voyagers of Nera - Founder's Pack"
     }
 ]

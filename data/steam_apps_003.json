@@ -1,5 +1,41 @@
 [
     {
+        "appid": 1954990,
+        "name": "Wieldo"
+    },
+    {
+        "appid": 1955000,
+        "name": "3D PUZZLE - Alchemist House"
+    },
+    {
+        "appid": 1955010,
+        "name": "Hard Ball Wikie"
+    },
+    {
+        "appid": 1955030,
+        "name": "SCP: EVENT CLASSIFIED"
+    },
+    {
+        "appid": 1955040,
+        "name": "The Aquatic Messenger"
+    },
+    {
+        "appid": 1955090,
+        "name": "KeepUp Survival - Tropical Island Map"
+    },
+    {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
+    },
+    {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
         "appid": 1955150,
         "name": "Lux Ex: Cyber Initiation"
     },
@@ -15392,6 +15428,10 @@
         "name": "Military Attack"
     },
     {
+        "appid": 2026300,
+        "name": "Anvillage"
+    },
+    {
         "appid": 2026310,
         "name": "Tobi Topples Tyranny"
     },
@@ -17254,10 +17294,6 @@
     {
         "appid": 2057760,
         "name": "Esoteric Ebb"
-    },
-    {
-        "appid": 2057770,
-        "name": "Zold:out"
     },
     {
         "appid": 2057780,
@@ -39862,10 +39898,6 @@
     {
         "appid": 2160090,
         "name": "strategy battles"
-    },
-    {
-        "appid": 2160130,
-        "name": "Orion's Reach"
     },
     {
         "appid": 2160190,
@@ -64596,10 +64628,6 @@
         "name": "My Gym Mommy Treats Me Like A Kid"
     },
     {
-        "appid": 2270340,
-        "name": "The Exit Strategy"
-    },
-    {
         "appid": 2270350,
         "name": "Break Everything - Living room"
     },
@@ -71332,10 +71360,6 @@
         "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 3"
     },
     {
-        "appid": 2303060,
-        "name": "Film Studio Manager"
-    },
-    {
         "appid": 2303130,
         "name": "Rabbit Hole"
     },
@@ -75786,10 +75810,6 @@
     {
         "appid": 2322510,
         "name": "荒野枪神"
-    },
-    {
-        "appid": 2322520,
-        "name": "World League Baseball"
     },
     {
         "appid": 2322530,
@@ -93464,10 +93484,6 @@
         "name": "Super Jigsaw Puzzle: Generations - Desert"
     },
     {
-        "appid": 2400100,
-        "name": "Odoya"
-    },
-    {
         "appid": 2400160,
         "name": "Glyphica: Typing Survival"
     },
@@ -102185,7 +102201,7 @@
     },
     {
         "appid": 2439510,
-        "name": "Doomsday: Last Survivors"
+        "name": "Doomsday: LS x Dune: Part 3"
     },
     {
         "appid": 2439530,
@@ -118390,6 +118406,10 @@
     {
         "appid": 2519740,
         "name": "Scram: Scrammer's Pack"
+    },
+    {
+        "appid": 2519750,
+        "name": "Pulp Friction"
     },
     {
         "appid": 2519790,
@@ -165000,6 +165020,10 @@
         "name": "宗门与妖兽"
     },
     {
+        "appid": 2752610,
+        "name": "Tree of Savior M"
+    },
+    {
         "appid": 2752640,
         "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic Shogatsu Gifts ALL in PACK"
     },
@@ -192244,10 +192268,6 @@
         "name": "Secret Pie - End Roll"
     },
     {
-        "appid": 2889160,
-        "name": "Zodchy"
-    },
-    {
         "appid": 2889190,
         "name": "Recycling Factory"
     },
@@ -199978,25 +199998,5 @@
     {
         "appid": 2929070,
         "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
-        "appid": 2929120,
-        "name": "따님은 제가 데리고 있습니다"
-    },
-    {
-        "appid": 2929130,
-        "name": "Bloodwood Dungeon"
-    },
-    {
-        "appid": 2929140,
-        "name": "Ataegina Act I"
     }
 ]
