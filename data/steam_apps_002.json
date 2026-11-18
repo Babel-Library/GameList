@@ -69240,6 +69240,10 @@
         "name": "Sir War-A-Lot"
     },
     {
+        "appid": 1407990,
+        "name": "First Touch"
+    },
+    {
         "appid": 1408000,
         "name": "Shot of Rhythm"
     },
@@ -78182,10 +78186,6 @@
     {
         "appid": 1446730,
         "name": "Amazing Cultivation Simulator - Deep in the bamboo Forest"
-    },
-    {
-        "appid": 1446750,
-        "name": "Healing Animal"
     },
     {
         "appid": 1446770,
@@ -94842,6 +94842,10 @@
     {
         "appid": 1519070,
         "name": "SGS Halls of Montezuma"
+    },
+    {
+        "appid": 1519080,
+        "name": "RC Glider Sim"
     },
     {
         "appid": 1519090,
@@ -125506,6 +125510,10 @@
     {
         "appid": 1657350,
         "name": "Cyberflight"
+    },
+    {
+        "appid": 1657360,
+        "name": "AI War 2: Supporter Pack"
     },
     {
         "appid": 1657540,
@@ -165920,10 +165928,6 @@
         "name": "Shrooms"
     },
     {
-        "appid": 1805960,
-        "name": "Prepare For Warp: Unlimited Edition: Beyond Insanji"
-    },
-    {
         "appid": 1805970,
         "name": "Comixxx Strip"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1954950,
         "name": "Order of Battle: Allies Victorious"
-    },
-    {
-        "appid": 1954980,
-        "name": "Coloring Pixels - Tarot Pack"
     }
 ]

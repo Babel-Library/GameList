@@ -1,5 +1,29 @@
 [
     {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
         "appid": 2929080,
         "name": "Antiyoy"
     },
@@ -31052,10 +31076,6 @@
         "name": "Nerl's Crazy C”rough”t!"
     },
     {
-        "appid": 3084330,
-        "name": "Asylum Revenge"
-    },
-    {
         "appid": 3084360,
         "name": "JetWireClimber"
     },
@@ -35610,10 +35630,6 @@
     {
         "appid": 3105790,
         "name": "Darknesssssssssssssssss - sexy nude mode"
-    },
-    {
-        "appid": 3105890,
-        "name": "PIONER"
     },
     {
         "appid": 3105900,
@@ -50412,10 +50428,6 @@
         "name": "Theater of Death"
     },
     {
-        "appid": 3181160,
-        "name": "Late Emergency"
-    },
-    {
         "appid": 3181200,
         "name": "Odyssey: Realm of Echoes"
     },
@@ -54350,6 +54362,10 @@
     {
         "appid": 3200060,
         "name": "SANAE's Sylphid Breeze"
+    },
+    {
+        "appid": 3200070,
+        "name": "I Am A Wizard"
     },
     {
         "appid": 3200090,
@@ -66772,10 +66788,6 @@
         "name": "Far Horizons"
     },
     {
-        "appid": 3268440,
-        "name": "SIM SPORTS RAID"
-    },
-    {
         "appid": 3268450,
         "name": "GOHome_PICO"
     },
@@ -76821,7 +76833,7 @@
     },
     {
         "appid": 3320200,
-        "name": "Curse of The Mask: Kaal Yoddha - An Action Adventure Game"
+        "name": "Kaal Yoddha: Curse of the Mask"
     },
     {
         "appid": 3320250,
@@ -81826,6 +81838,10 @@
     {
         "appid": 3344640,
         "name": "Empirical"
+    },
+    {
+        "appid": 3344700,
+        "name": "Nova Weapon Store: Tidy Up"
     },
     {
         "appid": 3344710,
@@ -89742,6 +89758,10 @@
     {
         "appid": 3382750,
         "name": "Dark of the Depths"
+    },
+    {
+        "appid": 3382760,
+        "name": "Black Flame Tactics"
     },
     {
         "appid": 3382780,
@@ -128009,7 +128029,7 @@
     },
     {
         "appid": 3584130,
-        "name": "Chess Swarm"
+        "name": "Swarm Chess"
     },
     {
         "appid": 3584140,
@@ -158801,7 +158821,7 @@
     },
     {
         "appid": 3744100,
-        "name": "It’s Quiz Time: GUINNESS WORLD RECORDS™ 2026 Edition"
+        "name": "It’s Quiz Time: GUINNESS WORLD RECORDS™ 2027 Edition"
     },
     {
         "appid": 3744110,
@@ -177452,6 +177472,10 @@
         "name": "MAJJAM"
     },
     {
+        "appid": 3845690,
+        "name": "Nomad Idle 2"
+    },
+    {
         "appid": 3845720,
         "name": "Don't Look Behind You"
     },
@@ -178082,6 +178106,10 @@
     {
         "appid": 3848750,
         "name": "Coincidences?"
+    },
+    {
+        "appid": 3848760,
+        "name": "Pax Astralis"
     },
     {
         "appid": 3848800,
@@ -184444,8 +184472,16 @@
         "name": "Hover Rancher"
     },
     {
+        "appid": 3879360,
+        "name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Square-Framed Glasses"
+    },
+    {
         "appid": 3879370,
         "name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Pearl Earrings"
+    },
+    {
+        "appid": 3879380,
+        "name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Pom-Pom Earrings"
     },
     {
         "appid": 3879390,
@@ -184458,6 +184494,10 @@
     {
         "appid": 3879410,
         "name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman"
+    },
+    {
+        "appid": 3879420,
+        "name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Elegant Earring"
     },
     {
         "appid": 3879430,
@@ -199958,45 +199998,5 @@
     {
         "appid": 3955220,
         "name": "Shadows of Elsewhen: Forbidden Alchemy"
-    },
-    {
-        "appid": 3955230,
-        "name": "Hunter's Seal"
-    },
-    {
-        "appid": 3955240,
-        "name": "Sunny's Sissy Saga"
-    },
-    {
-        "appid": 3955260,
-        "name": "Wasteland Spirit"
-    },
-    {
-        "appid": 3955270,
-        "name": "Gravity"
-    },
-    {
-        "appid": 3955280,
-        "name": "Escape The Buildings"
-    },
-    {
-        "appid": 3955290,
-        "name": "Veilscripture AI"
-    },
-    {
-        "appid": 3955300,
-        "name": "The Queen's Quest"
-    },
-    {
-        "appid": 3955330,
-        "name": "A Golden Wake: Roaring '20s Edition"
-    },
-    {
-        "appid": 3955350,
-        "name": "50 Minutes 'Til Impact"
-    },
-    {
-        "appid": 3955400,
-        "name": "Games of Rome"
     }
 ]

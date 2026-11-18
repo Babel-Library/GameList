@@ -129880,10 +129880,6 @@
         "name": "My Safe House"
     },
     {
-        "appid": 805990,
-        "name": "看见我~See Me"
-    },
-    {
         "appid": 806000,
         "name": "OrcCraft"
     },
@@ -188042,6 +188038,10 @@
     {
         "appid": 1060910,
         "name": "Zanki Zero: Last Beginning - Survival Soundtrack"
+    },
+    {
+        "appid": 1060960,
+        "name": "Aquitect"
     },
     {
         "appid": 1060980,
