@@ -1,25 +1,5 @@
 [
     {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
         "appid": 2929070,
         "name": "我在异界攒功德"
     },
@@ -3638,10 +3618,6 @@
     {
         "appid": 2947410,
         "name": "天黑后开始战斗 Fight after Dark"
-    },
-    {
-        "appid": 2947430,
-        "name": "HDMI"
     },
     {
         "appid": 2947440,
@@ -15373,7 +15349,7 @@
     },
     {
         "appid": 3005690,
-        "name": "GameLib"
+        "name": "Werewolf 3D"
     },
     {
         "appid": 3005700,
@@ -15422,10 +15398,6 @@
     {
         "appid": 3006010,
         "name": "Musician Simulator"
-    },
-    {
-        "appid": 3006020,
-        "name": "East Defense"
     },
     {
         "appid": 3006030,
@@ -64961,7 +64933,7 @@
     },
     {
         "appid": 3257230,
-        "name": "Cadente"
+        "name": "Guiz"
     },
     {
         "appid": 3257260,
@@ -94244,10 +94216,6 @@
         "name": "Sheepdog"
     },
     {
-        "appid": 3404300,
-        "name": "Snarfles"
-    },
-    {
         "appid": 3404310,
         "name": "Project Three - Third time's the charm (Behind the scenes)"
     },
@@ -96926,10 +96894,6 @@
     {
         "appid": 3418020,
         "name": "Master of the Arena"
-    },
-    {
-        "appid": 3418030,
-        "name": "Nyxerion"
     },
     {
         "appid": 3418040,
@@ -156132,6 +156096,10 @@
         "name": "Ship Fight!"
     },
     {
+        "appid": 3729310,
+        "name": "MCCP"
+    },
+    {
         "appid": 3729330,
         "name": "BugLab Simulator"
     },
@@ -163157,7 +163125,7 @@
     },
     {
         "appid": 3768880,
-        "name": "Torebia: Island Odyssey"
+        "name": "Torebia Online"
     },
     {
         "appid": 3768980,
@@ -171548,6 +171516,10 @@
         "name": "Monster Mage Maze"
     },
     {
+        "appid": 3815320,
+        "name": "Hostile Systems"
+    },
+    {
         "appid": 3815360,
         "name": "PC Versus"
     },
@@ -177117,7 +177089,7 @@
     },
     {
         "appid": 3843860,
-        "name": "倘若你想见到明天"
+        "name": "If You Wish to See Tomorrow"
     },
     {
         "appid": 3843870,
@@ -177646,6 +177618,10 @@
     {
         "appid": 3846540,
         "name": "Quality Assurance"
+    },
+    {
+        "appid": 3846560,
+        "name": "ClickiBrick"
     },
     {
         "appid": 3846570,
@@ -194452,6 +194428,10 @@
         "name": "Engram"
     },
     {
+        "appid": 3928950,
+        "name": "Duckload"
+    },
+    {
         "appid": 3928970,
         "name": "ParryMaster"
     },
@@ -199998,5 +199978,25 @@
     {
         "appid": 3955220,
         "name": "Shadows of Elsewhen: Forbidden Alchemy"
+    },
+    {
+        "appid": 3955230,
+        "name": "Hunter's Seal"
+    },
+    {
+        "appid": 3955240,
+        "name": "Sunny's Sissy Saga"
+    },
+    {
+        "appid": 3955260,
+        "name": "Wasteland Spirit"
+    },
+    {
+        "appid": 3955270,
+        "name": "Gravity"
+    },
+    {
+        "appid": 3955280,
+        "name": "Escape The Buildings"
     }
 ]

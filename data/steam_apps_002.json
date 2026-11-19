@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1109562,
-        "name": "RPG Maker MV - Classic Heroes"
-    },
-    {
-        "appid": 1109563,
-        "name": "RPG Maker MV - Modern + Inner Basic Tiles"
-    },
-    {
-        "appid": 1109564,
-        "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
-    },
-    {
         "appid": 1109565,
         "name": "RPG Maker MV - Samurai Force 8bit Tracks Vol.1"
     },
@@ -68292,10 +68280,6 @@
         "name": "Supfly Delivery Simulator"
     },
     {
-        "appid": 1403370,
-        "name": "Zenith: Nexus"
-    },
-    {
         "appid": 1403380,
         "name": "Simplode Suite - Free Select"
     },
@@ -91814,10 +91798,6 @@
     {
         "appid": 1505440,
         "name": "Neon Warrior"
-    },
-    {
-        "appid": 1505450,
-        "name": "Oscar & Gems: Puzzle Quest"
     },
     {
         "appid": 1505460,
@@ -137620,6 +137600,10 @@
         "name": "Cult of Personality"
     },
     {
+        "appid": 1699300,
+        "name": "Caboosh"
+    },
+    {
         "appid": 1699320,
         "name": "You Have to Play This Game"
     },
@@ -139042,6 +139026,10 @@
     {
         "appid": 1702640,
         "name": "Wanba Warriors DLC - Character Pack 4"
+    },
+    {
+        "appid": 1702660,
+        "name": "云上有鱼"
     },
     {
         "appid": 1702670,
@@ -199998,5 +199986,17 @@
     {
         "appid": 1954950,
         "name": "Order of Battle: Allies Victorious"
+    },
+    {
+        "appid": 1954980,
+        "name": "Coloring Pixels - Tarot Pack"
+    },
+    {
+        "appid": 1954990,
+        "name": "Wieldo"
+    },
+    {
+        "appid": 1955000,
+        "name": "3D PUZZLE - Alchemist House"
     }
 ]

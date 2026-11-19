@@ -34600,10 +34600,6 @@
         "name": "Shiness: The Lightning Kingdom"
     },
     {
-        "appid": 366650,
-        "name": "Blitzkrieg 3 - Digital Deluxe Edition Upgrade"
-    },
-    {
         "appid": 366660,
         "name": "PAYDAY 2: The Alesso Heist"
     },
@@ -72662,10 +72658,6 @@
     {
         "appid": 548260,
         "name": "Backfire"
-    },
-    {
-        "appid": 548280,
-        "name": "NeonBall"
     },
     {
         "appid": 548320,
@@ -122278,10 +122270,6 @@
     {
         "appid": 771700,
         "name": "Airhead"
-    },
-    {
-        "appid": 771710,
-        "name": ".T.E.S.T: Expected Behaviour — Sci-Fi 3D Puzzle Quest"
     },
     {
         "appid": 771720,
@@ -198737,7 +198725,7 @@
     },
     {
         "appid": 1104400,
-        "name": "我们的大学"
+        "name": "Our University: Student Years"
     },
     {
         "appid": 1104410,
@@ -199998,5 +199986,17 @@
     {
         "appid": 1109560,
         "name": "RPG Maker MV - Eberouge Background Image Pack 2"
+    },
+    {
+        "appid": 1109562,
+        "name": "RPG Maker MV - Classic Heroes"
+    },
+    {
+        "appid": 1109563,
+        "name": "RPG Maker MV - Modern + Inner Basic Tiles"
+    },
+    {
+        "appid": 1109564,
+        "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
     }
 ]

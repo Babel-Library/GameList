@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1954980,
-        "name": "Coloring Pixels - Tarot Pack"
-    },
-    {
-        "appid": 1954990,
-        "name": "Wieldo"
-    },
-    {
-        "appid": 1955000,
-        "name": "3D PUZZLE - Alchemist House"
-    },
-    {
         "appid": 1955010,
         "name": "Hard Ball Wikie"
     },
@@ -10805,7 +10793,7 @@
     },
     {
         "appid": 2003800,
-        "name": "Age of Duels"
+        "name": "This new City-Builder game"
     },
     {
         "appid": 2003830,
@@ -22278,10 +22266,6 @@
     {
         "appid": 2080060,
         "name": "Better Off Dead - Life as a Prison Guard"
-    },
-    {
-        "appid": 2080070,
-        "name": "Avocado Puzzle Quest"
     },
     {
         "appid": 2080090,
@@ -61796,10 +61780,6 @@
         "name": "GameDev Life Simulator 🎮🕹"
     },
     {
-        "appid": 2256800,
-        "name": "TitTok Kitty PUSSY"
-    },
-    {
         "appid": 2256810,
         "name": "Soul's Spectrum"
     },
@@ -63782,10 +63762,6 @@
     {
         "appid": 2265890,
         "name": "Raid on Taihoku artbook"
-    },
-    {
-        "appid": 2265920,
-        "name": "Castle of Blackwater"
     },
     {
         "appid": 2265940,
@@ -69266,10 +69242,6 @@
     {
         "appid": 2292870,
         "name": "Eternal Rising"
-    },
-    {
-        "appid": 2292880,
-        "name": "The City: Superhero Flying Experience"
     },
     {
         "appid": 2292890,
@@ -120524,6 +120496,10 @@
         "name": "Alpha Nomos"
     },
     {
+        "appid": 2529980,
+        "name": "剣客道中"
+    },
+    {
         "appid": 2530030,
         "name": "The Creature Zone VR: Nightfall"
     },
@@ -136834,6 +136810,10 @@
     {
         "appid": 2614750,
         "name": "Classified: France '44 - Resistance Kit"
+    },
+    {
+        "appid": 2614780,
+        "name": "Undying Echoes"
     },
     {
         "appid": 2614790,
@@ -199998,5 +199978,25 @@
     {
         "appid": 2929000,
         "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
     }
 ]
