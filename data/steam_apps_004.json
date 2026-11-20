@@ -1,5 +1,17 @@
 [
     {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
         "appid": 2929070,
         "name": "我在异界攒功德"
     },
@@ -934,10 +946,6 @@
     {
         "appid": 2934110,
         "name": "Death Horizon: Cyberfusion"
-    },
-    {
-        "appid": 2934150,
-        "name": "史莱姆糯米 / Slime Nomi"
     },
     {
         "appid": 2934180,
@@ -34053,7 +34061,7 @@
     },
     {
         "appid": 3098060,
-        "name": "Business Simulator 2026"
+        "name": "Business Simulator"
     },
     {
         "appid": 3098070,
@@ -41789,7 +41797,7 @@
     },
     {
         "appid": 3136490,
-        "name": "Echoes of the Architects"
+        "name": "Echoes of the Architects: Programmable Modular Autobattler"
     },
     {
         "appid": 3136510,
@@ -53908,10 +53916,6 @@
         "name": "Inn Trouble"
     },
     {
-        "appid": 3197860,
-        "name": "Infinite Idle: Online Clicker RPG"
-    },
-    {
         "appid": 3197890,
         "name": "LURKS WITHIN WALLS"
     },
@@ -54858,10 +54862,6 @@
     {
         "appid": 3202950,
         "name": "Fresh Tracks"
-    },
-    {
-        "appid": 3202980,
-        "name": "Z Diaries"
     },
     {
         "appid": 3203020,
@@ -78560,10 +78560,6 @@
         "name": "Christmas Yarn 3: Tangled Traditions CE"
     },
     {
-        "appid": 3329000,
-        "name": "Finger Fury Clicker"
-    },
-    {
         "appid": 3329020,
         "name": "Cookie Monster Clicker"
     },
@@ -80261,7 +80257,7 @@
     },
     {
         "appid": 3337060,
-        "name": "kapih"
+        "name": "Kapih: An Unsung Hero"
     },
     {
         "appid": 3337100,
@@ -104052,6 +104048,10 @@
         "name": "Arcanum Nights"
     },
     {
+        "appid": 3453770,
+        "name": "Folder Valley - Asset Manager"
+    },
+    {
         "appid": 3453810,
         "name": "Farming Simulator 25: Year 2 Season Pass"
     },
@@ -123768,6 +123768,10 @@
         "name": "Rogue Maze"
     },
     {
+        "appid": 3563520,
+        "name": "HOVER 2177: Halcyon Recharged"
+    },
+    {
         "appid": 3563530,
         "name": "Brass Lament"
     },
@@ -136025,7 +136029,7 @@
     },
     {
         "appid": 3624090,
-        "name": "Patient Zero: Plague Idle"
+        "name": "Patient Zero: Idle Virus Simulator"
     },
     {
         "appid": 3624110,
@@ -142628,6 +142632,10 @@
         "name": "Fantasy Grounds - Treasury of the Macabre"
     },
     {
+        "appid": 3657410,
+        "name": "Mantle"
+    },
+    {
         "appid": 3657450,
         "name": "Gorilla Vs 100 Men"
     },
@@ -147052,10 +147060,6 @@
         "name": "Tring!"
     },
     {
-        "appid": 3680570,
-        "name": "Mito"
-    },
-    {
         "appid": 3680580,
         "name": "The Last Gig"
     },
@@ -147238,10 +147242,6 @@
     {
         "appid": 3681580,
         "name": "Bowlers : The bowling experience"
-    },
-    {
-        "appid": 3681590,
-        "name": "VSky-X MMORPG"
     },
     {
         "appid": 3681600,
@@ -159358,6 +159358,10 @@
     {
         "appid": 3747400,
         "name": "Beneath the Quiet: Where It Ends"
+    },
+    {
+        "appid": 3747410,
+        "name": "Kickoff Arcade"
     },
     {
         "appid": 3747450,
@@ -185160,6 +185164,10 @@
         "name": "A Week Before Autumn"
     },
     {
+        "appid": 3882070,
+        "name": "Nomad Sculpt"
+    },
+    {
         "appid": 3882100,
         "name": "Behind the Masks"
     },
@@ -185902,6 +185910,10 @@
     {
         "appid": 3885590,
         "name": "The Coma 3: Bloodlines"
+    },
+    {
+        "appid": 3885600,
+        "name": "LZT"
     },
     {
         "appid": 3885620,
@@ -190978,10 +190990,6 @@
     {
         "appid": 3911720,
         "name": " 100 Cats Lost in Russia Find & Color"
-    },
-    {
-        "appid": 3911730,
-        "name": "100 Cats Lost in Atlantis Find & Color"
     },
     {
         "appid": 3911750,
@@ -199990,13 +199998,5 @@
     {
         "appid": 3955260,
         "name": "Wasteland Spirit"
-    },
-    {
-        "appid": 3955270,
-        "name": "Gravity"
-    },
-    {
-        "appid": 3955280,
-        "name": "Escape The Buildings"
     }
 ]

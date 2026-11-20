@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1109565,
-        "name": "RPG Maker MV - Samurai Force 8bit Tracks Vol.1"
-    },
-    {
-        "appid": 1109570,
-        "name": "《文字遊戲》"
-    },
-    {
         "appid": 1109630,
         "name": "コイカツ！ / Koikatsu Party VR"
     },
@@ -39077,7 +39069,7 @@
     },
     {
         "appid": 1269020,
-        "name": "No Plan B"
+        "name": "No Plan B: Tactical Planning"
     },
     {
         "appid": 1269030,
@@ -194688,6 +194680,10 @@
         "name": "Die Die Die And Try"
     },
     {
+        "appid": 1934430,
+        "name": "MonMon High"
+    },
+    {
         "appid": 1934440,
         "name": "PARTICLE OF GOD"
     },
@@ -194962,10 +194958,6 @@
     {
         "appid": 1935710,
         "name": "Sex Diary - Futanari Jail"
-    },
-    {
-        "appid": 1935720,
-        "name": "Mara's Quest"
     },
     {
         "appid": 1935750,
@@ -199998,5 +199990,13 @@
     {
         "appid": 1955000,
         "name": "3D PUZZLE - Alchemist House"
+    },
+    {
+        "appid": 1955010,
+        "name": "Hard Ball Wikie"
+    },
+    {
+        "appid": 1955030,
+        "name": "SCP: EVENT CLASSIFIED"
     }
 ]

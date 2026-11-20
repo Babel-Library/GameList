@@ -27529,7 +27529,7 @@
     },
     {
         "appid": 335290,
-        "name": "Farming Simulator 15: ITRunner"
+        "name": "Farming Simulator 15: ITRunner Pack"
     },
     {
         "appid": 335300,
@@ -29921,11 +29921,11 @@
     },
     {
         "appid": 345740,
-        "name": "Farming Simulator 15: JCB"
+        "name": "Farming Simulator 15: JCB Pack"
     },
     {
         "appid": 345741,
-        "name": "Farming Simulator 15: HOLMER"
+        "name": "Farming Simulator 15: HOLMER Pack"
     },
     {
         "appid": 345750,
@@ -36429,7 +36429,7 @@
     },
     {
         "appid": 374851,
-        "name": "Farming Simulator 15 - Official Expansion (GOLD)"
+        "name": "Farming Simulator 15: Official Expansion (Gold)"
     },
     {
         "appid": 374880,
@@ -141180,10 +141180,6 @@
         "name": "Leviathan's Sword"
     },
     {
-        "appid": 858080,
-        "name": "Spoorky"
-    },
-    {
         "appid": 858090,
         "name": "Spellcastia"
     },
@@ -144429,7 +144425,7 @@
     },
     {
         "appid": 871930,
-        "name": "GLADIABOTS - AI Combat Arena"
+        "name": "GLADIABOTS: AI Combat Arena"
     },
     {
         "appid": 871940,
@@ -196484,10 +196480,6 @@
         "name": "Imagination"
     },
     {
-        "appid": 1094700,
-        "name": "True Love '95 MIDI Soundtrack"
-    },
-    {
         "appid": 1094720,
         "name": "Clive 'N' Wrench"
     },
@@ -199998,5 +199990,13 @@
     {
         "appid": 1109564,
         "name": "RPG Maker MV - Symphonic RPG ME Perfect Collection"
+    },
+    {
+        "appid": 1109565,
+        "name": "RPG Maker MV - Samurai Force 8bit Tracks Vol.1"
+    },
+    {
+        "appid": 1109570,
+        "name": "《文字遊戲》"
     }
 ]

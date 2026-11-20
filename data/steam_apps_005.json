@@ -1,5 +1,13 @@
 [
     {
+        "appid": 3955270,
+        "name": "Gravity"
+    },
+    {
+        "appid": 3955280,
+        "name": "Escape The Buildings"
+    },
+    {
         "appid": 3955290,
         "name": "Veilscripture AI"
     },
@@ -22102,10 +22110,6 @@
     {
         "appid": 4077730,
         "name": "Bikepacking Simulator"
-    },
-    {
-        "appid": 4077740,
-        "name": "PUBG: Black Budget"
     },
     {
         "appid": 4077760,
@@ -61808,10 +61812,6 @@
         "name": "SEX THERAPY"
     },
     {
-        "appid": 4284950,
-        "name": "Flask & Fury"
-    },
-    {
         "appid": 4284970,
         "name": "Cringe Rizz Lines"
     },
@@ -63134,10 +63134,6 @@
     {
         "appid": 4292470,
         "name": "Hidden Raccoons"
-    },
-    {
-        "appid": 4292480,
-        "name": "Orbfall Reclaim the Planet"
     },
     {
         "appid": 4292510,
@@ -67444,10 +67440,6 @@
         "name": "Malignant"
     },
     {
-        "appid": 4314750,
-        "name": "Carly's World"
-    },
-    {
         "appid": 4314770,
         "name": "SnekromancY"
     },
@@ -68774,6 +68766,10 @@
     {
         "appid": 4322600,
         "name": "100 Artroom Cats - Artbook"
+    },
+    {
+        "appid": 4322610,
+        "name": "100 Atelier Cats - Artbook"
     },
     {
         "appid": 4322630,
@@ -71070,6 +71066,10 @@
     {
         "appid": 4336790,
         "name": "Cyan Soul"
+    },
+    {
+        "appid": 4336800,
+        "name": "Data Center Tycoon"
     },
     {
         "appid": 4336820,
@@ -82708,10 +82708,6 @@
         "name": "Ravenswatch - Mercenaries Skin Pack"
     },
     {
-        "appid": 4406970,
-        "name": "Cat Screen"
-    },
-    {
         "appid": 4406980,
         "name": "Lusty Bubbles: Animated Goth Queens DLC"
     },
@@ -88450,10 +88446,6 @@
     {
         "appid": 4440110,
         "name": "Invincible VS: Battle Beast - Invincible Universe Skin"
-    },
-    {
-        "appid": 4440150,
-        "name": "Shards of Primora"
     },
     {
         "appid": 4440160,
@@ -95668,6 +95660,10 @@
         "name": "選べ！メロス！～選択肢をミスるとセリヌンティウスが処刑～"
     },
     {
+        "appid": 4483250,
+        "name": "My Cat Simulator"
+    },
+    {
         "appid": 4483260,
         "name": "ACE Ninja Path"
     },
@@ -100864,10 +100860,6 @@
         "name": "CastleArena"
     },
     {
-        "appid": 4506200,
-        "name": "InnKeeper"
-    },
-    {
         "appid": 4506210,
         "name": "FR分解端子導入作業に関する報告"
     },
@@ -105036,6 +105028,10 @@
         "name": "Warnament Alternative History Pack"
     },
     {
+        "appid": 4529320,
+        "name": "Voxel Surge"
+    },
+    {
         "appid": 4529340,
         "name": "BUNNYBastion"
     },
@@ -105382,6 +105378,10 @@
     {
         "appid": 4530910,
         "name": "Parcel Simulator - Supporter Pack"
+    },
+    {
+        "appid": 4531050,
+        "name": "LevelFighters Supporter Pack"
     },
     {
         "appid": 4531060,
@@ -106314,10 +106314,6 @@
     {
         "appid": 4535970,
         "name": "Dungeon Dilemma"
-    },
-    {
-        "appid": 4535980,
-        "name": "Talisman Codes"
     },
     {
         "appid": 4536040,
@@ -116089,7 +116085,7 @@
     },
     {
         "appid": 4585980,
-        "name": "Paws & Scrolls"
+        "name": "Paws & Scrolls: A Cozy Tower Defense"
     },
     {
         "appid": 4586000,
@@ -131585,7 +131581,7 @@
     },
     {
         "appid": 4676490,
-        "name": "青云录：官海浮沉"
+        "name": "青云录"
     },
     {
         "appid": 4676560,
@@ -138656,6 +138652,10 @@
         "name": "EL MINISTRO"
     },
     {
+        "appid": 4716260,
+        "name": "龜墟"
+    },
+    {
         "appid": 4716280,
         "name": "Anxiety Simulator"
     },
@@ -140633,7 +140633,7 @@
     },
     {
         "appid": 4730580,
-        "name": "Before the Tee"
+        "name": "Before the Tee: A Golf Course Tycoon"
     },
     {
         "appid": 4730620,
@@ -148676,6 +148676,10 @@
         "name": "IDEA:20Q"
     },
     {
+        "appid": 4781040,
+        "name": "Cats and cats and coffees!"
+    },
+    {
         "appid": 4781060,
         "name": "三国权谋模拟器"
     },
@@ -153432,6 +153436,10 @@
         "name": "Ravenswatch - Kintaro"
     },
     {
+        "appid": 4809940,
+        "name": "無名語 LEXICON"
+    },
+    {
         "appid": 4809960,
         "name": "WARDOGS - Supporter Pack"
     },
@@ -154098,6 +154106,10 @@
     {
         "appid": 4814510,
         "name": "Ride It!"
+    },
+    {
+        "appid": 4814530,
+        "name": "Ballistic Chickens 2 Space"
     },
     {
         "appid": 4814570,
@@ -154901,7 +154913,7 @@
     },
     {
         "appid": 4819400,
-        "name": "Arena 5"
+        "name": "Bannerguard"
     },
     {
         "appid": 4819410,
@@ -156406,10 +156418,6 @@
     {
         "appid": 4827780,
         "name": "Lost Lives - Supporter Pack"
-    },
-    {
-        "appid": 4827830,
-        "name": "B.E.C.C.: Dead District"
     },
     {
         "appid": 4827850,
@@ -160804,6 +160812,10 @@
         "name": "Trombone Champ -- Disney Movie Magic Volume 1"
     },
     {
+        "appid": 4849900,
+        "name": "Whenster"
+    },
+    {
         "appid": 4849910,
         "name": "Blue Men Group ULTIMATE VIDEO BLACKJACK"
     },
@@ -161494,10 +161506,6 @@
     {
         "appid": 4853360,
         "name": "赛博开箱之王"
-    },
-    {
-        "appid": 4853380,
-        "name": "GoblinGate"
     },
     {
         "appid": 4853400,
@@ -167068,6 +167076,10 @@
         "name": "Scary Stories: Grotesque"
     },
     {
+        "appid": 4884470,
+        "name": "COTTON"
+    },
+    {
         "appid": 4884490,
         "name": "You Broke My Sunshine"
     },
@@ -168644,6 +168656,10 @@
         "name": "Skullchef"
     },
     {
+        "appid": 4892750,
+        "name": "Santa's Escape"
+    },
+    {
         "appid": 4892800,
         "name": "BALL BOY Simulator"
     },
@@ -169926,6 +169942,10 @@
     {
         "appid": 4899520,
         "name": "The Last Scribe"
+    },
+    {
+        "appid": 4899530,
+        "name": "NASCAR 26 - November Pack"
     },
     {
         "appid": 4899550,
@@ -176465,7 +176485,7 @@
     },
     {
         "appid": 4934300,
-        "name": "Cheese, Please!"
+        "name": "Cheesteroids"
     },
     {
         "appid": 4934310,
@@ -179568,6 +179588,10 @@
         "name": "Loop of Agony"
     },
     {
+        "appid": 4950460,
+        "name": "The Dark Signal "
+    },
+    {
         "appid": 4950470,
         "name": "Tidy Up Together"
     },
@@ -180254,10 +180278,6 @@
     {
         "appid": 4953850,
         "name": "Cruzado"
-    },
-    {
-        "appid": 4953860,
-        "name": "Arxanum Idle"
     },
     {
         "appid": 4953870,
@@ -186688,10 +186708,6 @@
         "name": "Crimson Princess"
     },
     {
-        "appid": 4989750,
-        "name": "Cat Screen: Task Bar Cats"
-    },
-    {
         "appid": 4989780,
         "name": "After Work"
     },
@@ -192876,6 +192892,10 @@
         "name": "Australian Hunter"
     },
     {
+        "appid": 5025120,
+        "name": "Ashes Protocol"
+    },
+    {
         "appid": 5025140,
         "name": "Don't duck with me"
     },
@@ -193842,6 +193862,10 @@
     {
         "appid": 5030420,
         "name": "BRINKSTACK"
+    },
+    {
+        "appid": 5030470,
+        "name": "Red Ball 4"
     },
     {
         "appid": 5030480,
@@ -199974,29 +199998,5 @@
     {
         "appid": 5064370,
         "name": "Thrive Z"
-    },
-    {
-        "appid": 5064380,
-        "name": "Crosshair Shooter X"
-    },
-    {
-        "appid": 5064390,
-        "name": "Pinball FX - Williams™ Pinball: Judge Dredd™"
-    },
-    {
-        "appid": 5064450,
-        "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic The Let Loose of August ALL in ONE Pack"
-    },
-    {
-        "appid": 5064460,
-        "name": "Super Friendly Crosswords"
-    },
-    {
-        "appid": 5064470,
-        "name": "SoulForged:Ashborn"
-    },
-    {
-        "appid": 5064480,
-        "name": "竹知了"
     }
 ]

@@ -1,13 +1,5 @@
 [
     {
-        "appid": 1955010,
-        "name": "Hard Ball Wikie"
-    },
-    {
-        "appid": 1955030,
-        "name": "SCP: EVENT CLASSIFIED"
-    },
-    {
         "appid": 1955040,
         "name": "The Aquatic Messenger"
     },
@@ -10997,7 +10989,7 @@
     },
     {
         "appid": 2004680,
-        "name": "Voidling Bound"
+        "name": "Voidling Bound: Creature Evolution Shooter"
     },
     {
         "appid": 2004700,
@@ -28982,6 +28974,10 @@
     {
         "appid": 2110000,
         "name": "All Systems Dance"
+    },
+    {
+        "appid": 2110020,
+        "name": "第二公主的魔塔The magic tower of the second princess"
     },
     {
         "appid": 2110110,
@@ -50468,10 +50464,6 @@
         "name": "Gravity Magician"
     },
     {
-        "appid": 2206590,
-        "name": "Fateel - فتيل"
-    },
-    {
         "appid": 2206601,
         "name": "RPG Maker VX Ace - IDEAL"
     },
@@ -52992,6 +52984,10 @@
         "name": "BooBsxBooBs"
     },
     {
+        "appid": 2218330,
+        "name": "如果这个世界有神明大人存在的话"
+    },
+    {
         "appid": 2218340,
         "name": "Ideal Gas"
     },
@@ -54952,6 +54948,10 @@
         "name": "I Frog-ot"
     },
     {
+        "appid": 2226880,
+        "name": "Redneck Redemption"
+    },
+    {
         "appid": 2226890,
         "name": "Hentai Pussy 5"
     },
@@ -55073,7 +55073,7 @@
     },
     {
         "appid": 2227480,
-        "name": "Space Academy"
+        "name": "Congratulations, You Failed!"
     },
     {
         "appid": 2227490,
@@ -107612,6 +107612,10 @@
         "name": "HEAVY Sword"
     },
     {
+        "appid": 2465230,
+        "name": "Crafted Legends"
+    },
+    {
         "appid": 2465240,
         "name": "harmony"
     },
@@ -119182,6 +119186,10 @@
     {
         "appid": 2523650,
         "name": "Ninpaw"
+    },
+    {
+        "appid": 2523670,
+        "name": "BUBBLEWRAPPED"
     },
     {
         "appid": 2523680,
@@ -180601,7 +180609,7 @@
     },
     {
         "appid": 2831600,
-        "name": "Stage Fighter Tactics"
+        "name": "Stage of Duels"
     },
     {
         "appid": 2831610,
@@ -197084,6 +197092,10 @@
         "name": "Death end re;Quest: Code Z"
     },
     {
+        "appid": 2914500,
+        "name": "Filmmaker Survivor"
+    },
+    {
         "appid": 2914530,
         "name": "Fantasy Grounds - FG Cyberpunk Alleyways 2 Map Pack"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 2929020,
         "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
     }
 ]
