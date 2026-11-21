@@ -124936,10 +124936,6 @@
         "name": "Keys"
     },
     {
-        "appid": 783710,
-        "name": "Virtual Desktop Dashboard"
-    },
-    {
         "appid": 783720,
         "name": "Ninja Striker!"
     },
@@ -199998,5 +199994,9 @@
     {
         "appid": 1109570,
         "name": "《文字遊戲》"
+    },
+    {
+        "appid": 1109630,
+        "name": "コイカツ！ / Koikatsu Party VR"
     }
 ]

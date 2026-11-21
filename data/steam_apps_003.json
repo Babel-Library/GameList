@@ -65884,10 +65884,6 @@
         "name": "Kingsvein"
     },
     {
-        "appid": 2276840,
-        "name": "Quiz Quest"
-    },
-    {
         "appid": 2276850,
         "name": "The Voidness - Lidar Horror Survival Game"
     },
@@ -97677,7 +97673,7 @@
     },
     {
         "appid": 2418530,
-        "name": "Kofoin - Swarm Defense"
+        "name": "Kofoin: Swarm Defense"
     },
     {
         "appid": 2418560,
@@ -112706,6 +112702,10 @@
     {
         "appid": 2490650,
         "name": "SuperNatural Market: Sell or Die"
+    },
+    {
+        "appid": 2490660,
+        "name": "TriLeague UFO Wars"
     },
     {
         "appid": 2490670,
@@ -192024,6 +192024,10 @@
         "name": "Travel On, Pigeon!"
     },
     {
+        "appid": 2887970,
+        "name": "Lagrange Front"
+    },
+    {
         "appid": 2888000,
         "name": "Love Island"
     },
@@ -198017,7 +198021,7 @@
     },
     {
         "appid": 2919410,
-        "name": "低成本AI武侠模拟器"
+        "name": "神雕江湖：命运推演"
     },
     {
         "appid": 2919450,
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929010,
         "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
     }
 ]

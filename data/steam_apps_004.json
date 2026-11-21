@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
         "appid": 2929040,
         "name": "Fleetbreakers"
     },
@@ -35877,7 +35881,7 @@
     },
     {
         "appid": 3106930,
-        "name": "Strike Force - Joint Ops"
+        "name": "Strike Force 4 - Joint Ops"
     },
     {
         "appid": 3106940,
@@ -78560,10 +78564,6 @@
         "name": "Christmas Yarn 3: Tangled Traditions CE"
     },
     {
-        "appid": 3329020,
-        "name": "Cookie Monster Clicker"
-    },
-    {
         "appid": 3329040,
         "name": "Throw Home"
     },
@@ -89554,6 +89554,10 @@
     {
         "appid": 3381820,
         "name": "ORE MARKET MASTERS SIMULATOR"
+    },
+    {
+        "appid": 3381860,
+        "name": "Ratscension"
     },
     {
         "appid": 3381870,
@@ -106784,10 +106788,6 @@
         "name": "My Waifu Becomes Real"
     },
     {
-        "appid": 3468510,
-        "name": "Ball Torment"
-    },
-    {
         "appid": 3468530,
         "name": "B.E.S.T 2"
     },
@@ -109761,7 +109761,7 @@
     },
     {
         "appid": 3484690,
-        "name": "Drones of War: FPV Drone Simulator"
+        "name": "Drones of War 2: FPV Drone Simulator"
     },
     {
         "appid": 3484700,
@@ -112262,6 +112262,10 @@
     {
         "appid": 3498650,
         "name": "Cut That Wire"
+    },
+    {
+        "appid": 3498670,
+        "name": "Drink the Ocean"
     },
     {
         "appid": 3498680,
@@ -123453,7 +123457,7 @@
     },
     {
         "appid": 3561840,
-        "name": "Cat Tag Jump Only UP"
+        "name": "Cat Tag Jump UP"
     },
     {
         "appid": 3561850,
@@ -153293,7 +153297,7 @@
     },
     {
         "appid": 3713920,
-        "name": "Drug Dealer Schedule"
+        "name": "Dealer Shift"
     },
     {
         "appid": 3713940,
@@ -163492,6 +163496,10 @@
         "name": "Carefully Stamped"
     },
     {
+        "appid": 3771500,
+        "name": "One Matter, One Hexagram"
+    },
+    {
         "appid": 3771510,
         "name": "EURGAVA™ - Pathforgers"
     },
@@ -165061,7 +165069,7 @@
     },
     {
         "appid": 3780630,
-        "name": "A Cat in the Cangaço"
+        "name": "CANGATO: A Cat in the Backlands"
     },
     {
         "appid": 3780660,
@@ -176021,7 +176029,7 @@
     },
     {
         "appid": 3838280,
-        "name": "极乐妹土！3"
+        "name": "Imouto Paradise! 3"
     },
     {
         "appid": 3838290,
@@ -185913,7 +185921,7 @@
     },
     {
         "appid": 3885600,
-        "name": "LZT"
+        "name": "1337"
     },
     {
         "appid": 3885620,
@@ -199990,13 +199998,5 @@
     {
         "appid": 3955230,
         "name": "Hunter's Seal"
-    },
-    {
-        "appid": 3955240,
-        "name": "Sunny's Sissy Saga"
-    },
-    {
-        "appid": 3955260,
-        "name": "Wasteland Spirit"
     }
 ]
