@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1955030,
+        "name": "SCP: EVENT CLASSIFIED"
+    },
+    {
         "appid": 1955040,
         "name": "The Aquatic Messenger"
     },
@@ -102489,7 +102493,7 @@
     },
     {
         "appid": 2440580,
-        "name": "Xero"
+        "name": "Xero: From Xéro To Xēro"
     },
     {
         "appid": 2440590,
@@ -105525,7 +105529,7 @@
     },
     {
         "appid": 2454510,
-        "name": "Dan Factory"
+        "name": "Danfang: The Elixir Shop"
     },
     {
         "appid": 2454540,
@@ -127109,7 +127113,7 @@
     },
     {
         "appid": 2563360,
-        "name": "Just Dismantle"
+        "name": "King of the Underworld"
     },
     {
         "appid": 2563400,
@@ -199994,9 +199998,5 @@
     {
         "appid": 2929000,
         "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
     }
 ]

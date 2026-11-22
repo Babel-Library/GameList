@@ -1,5 +1,21 @@
 [
     {
+        "appid": 3955170,
+        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
+    },
+    {
+        "appid": 3955200,
+        "name": "ATTAQ Arcade Collection"
+    },
+    {
+        "appid": 3955220,
+        "name": "Shadows of Elsewhen: Forbidden Alchemy"
+    },
+    {
+        "appid": 3955230,
+        "name": "Hunter's Seal"
+    },
+    {
         "appid": 3955240,
         "name": "Sunny's Sissy Saga"
     },
@@ -18142,6 +18158,10 @@
     {
         "appid": 4055060,
         "name": "Dream Eater"
+    },
+    {
+        "appid": 4055070,
+        "name": "SolutionWCMD"
     },
     {
         "appid": 4055120,
@@ -54916,6 +54936,10 @@
         "name": "Potion Knight"
     },
     {
+        "appid": 4250360,
+        "name": "Rune Ark Digital Artbook"
+    },
+    {
         "appid": 4250370,
         "name": "Sol Protocol"
     },
@@ -78128,6 +78152,10 @@
         "name": "Depths of Acheron"
     },
     {
+        "appid": 4379350,
+        "name": "Life Origins"
+    },
+    {
         "appid": 4379360,
         "name": "Wyvern"
     },
@@ -80890,6 +80918,10 @@
     {
         "appid": 4396160,
         "name": "WooLoop - Advent 4 Pack"
+    },
+    {
+        "appid": 4396230,
+        "name": "垂钓大师：一起搏巨物"
     },
     {
         "appid": 4396250,
@@ -87548,6 +87580,10 @@
         "name": "Nerobreak: Cult Fall"
     },
     {
+        "appid": 4435300,
+        "name": "The Happy Place"
+    },
+    {
         "appid": 4435340,
         "name": "Anymaker"
     },
@@ -92350,6 +92386,10 @@
     {
         "appid": 4459960,
         "name": "Discord Bot Factory"
+    },
+    {
+        "appid": 4459970,
+        "name": "Book Crawl: Cozy Bookstore Browsing"
     },
     {
         "appid": 4459980,
@@ -130881,7 +130921,7 @@
     },
     {
         "appid": 4671950,
-        "name": "Bloomstead"
+        "name": "Mayor of Pennydew"
     },
     {
         "appid": 4671960,
@@ -151993,7 +152033,7 @@
     },
     {
         "appid": 4800660,
-        "name": "榜上无名"
+        "name": "The Unsung Cultivator"
     },
     {
         "appid": 4800730,
@@ -165097,7 +165137,7 @@
     },
     {
         "appid": 4872580,
-        "name": "The Hired Eye"
+        "name": "Blind Draw"
     },
     {
         "appid": 4872590,
@@ -168170,6 +168210,10 @@
     {
         "appid": 4890090,
         "name": "Starfall Command"
+    },
+    {
+        "appid": 4890100,
+        "name": "PC JUMPS+"
     },
     {
         "appid": 4890150,
@@ -189857,7 +189901,7 @@
     },
     {
         "appid": 5007580,
-        "name": "Path of the idle cultivator"
+        "name": "Path of the Incremental Cultivator"
     },
     {
         "appid": 5007590,
@@ -193076,6 +193120,10 @@
         "name": "Escape Together: Prison Break"
     },
     {
+        "appid": 5026310,
+        "name": "OVERSWARM"
+    },
+    {
         "appid": 5026320,
         "name": "Costa Nostra"
     },
@@ -194194,6 +194242,10 @@
     {
         "appid": 5031800,
         "name": "Mine Collector"
+    },
+    {
+        "appid": 5031810,
+        "name": "Punching My Sentence"
     },
     {
         "appid": 5031830,
@@ -196689,7 +196741,7 @@
     },
     {
         "appid": 5045570,
-        "name": "Odonata Augmenta: Rogue Dragonfly"
+        "name": "Rogue Dragonfly: Odonata Augmenta"
     },
     {
         "appid": 5045620,
@@ -199946,57 +199998,5 @@
     {
         "appid": 5063980,
         "name": "Banshee Protocol"
-    },
-    {
-        "appid": 5063990,
-        "name": "Yakutori - Japanese screen capture translator"
-    },
-    {
-        "appid": 5064010,
-        "name": "The Secret Society"
-    },
-    {
-        "appid": 5064040,
-        "name": "Craft. Sell. Goblin. Repeat. - Supporter Upgrade: Goblin skins "
-    },
-    {
-        "appid": 5064050,
-        "name": "Hexfall: Planetary Defense"
-    },
-    {
-        "appid": 5064060,
-        "name": "Shelf Stable"
-    },
-    {
-        "appid": 5064130,
-        "name": "Dino Fever"
-    },
-    {
-        "appid": 5064170,
-        "name": "Go Next!"
-    },
-    {
-        "appid": 5064180,
-        "name": "魔王が来ても勤務中"
-    },
-    {
-        "appid": 5064200,
-        "name": "Nostra Culpa"
-    },
-    {
-        "appid": 5064210,
-        "name": "Puzzle Clash"
-    },
-    {
-        "appid": 5064260,
-        "name": "CRETA: Taskbar Fishing"
-    },
-    {
-        "appid": 5064270,
-        "name": "Tales of Exspelled"
-    },
-    {
-        "appid": 5064290,
-        "name": "No More Pain"
     }
 ]

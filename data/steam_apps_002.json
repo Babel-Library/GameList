@@ -177629,7 +177629,7 @@
     },
     {
         "appid": 1856810,
-        "name": "Miner Rogue"
+        "name": "Minervale"
     },
     {
         "appid": 1856820,
@@ -188338,6 +188338,10 @@
     {
         "appid": 1905480,
         "name": "Memory Lost-Pairs - Summer Time"
+    },
+    {
+        "appid": 1905500,
+        "name": "Donut"
     },
     {
         "appid": 1905510,
@@ -199994,9 +199998,5 @@
     {
         "appid": 1955010,
         "name": "Hard Ball Wikie"
-    },
-    {
-        "appid": 1955030,
-        "name": "SCP: EVENT CLASSIFIED"
     }
 ]

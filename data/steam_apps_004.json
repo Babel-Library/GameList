@@ -1,5 +1,9 @@
 [
     {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
         "appid": 2929020,
         "name": "A Twisted Place"
     },
@@ -4769,7 +4773,7 @@
     },
     {
         "appid": 2952530,
-        "name": "PC Master Aim - Crosshair Overlay"
+        "name": "PC Master Aim - Custom Crosshair Overlay"
     },
     {
         "appid": 2952540,
@@ -26436,6 +26440,10 @@
         "name": "Diary of an International Student"
     },
     {
+        "appid": 3061780,
+        "name": "Diaspora Protocol"
+    },
+    {
         "appid": 3061790,
         "name": "Vox Populi: USA 2024"
     },
@@ -30513,7 +30521,7 @@
     },
     {
         "appid": 3081420,
-        "name": "Only Up Spaceman"
+        "name": "Spaceman"
     },
     {
         "appid": 3081490,
@@ -57544,6 +57552,10 @@
         "name": "The Beast and the Princess"
     },
     {
+        "appid": 3216660,
+        "name": "Bosnian Battlefronts"
+    },
+    {
         "appid": 3216670,
         "name": "Monotonous Days Are..."
     },
@@ -77985,7 +77997,7 @@
     },
     {
         "appid": 3326290,
-        "name": "Internet Cafe Simulator 2025"
+        "name": "PC Club Simulator"
     },
     {
         "appid": 3326300,
@@ -126936,6 +126948,10 @@
         "name": "Terrible Life Expectancy"
     },
     {
+        "appid": 3579640,
+        "name": "SolBound"
+    },
+    {
         "appid": 3579650,
         "name": "Derail: Sacrifice"
     },
@@ -145813,7 +145829,7 @@
     },
     {
         "appid": 3673110,
-        "name": "Backrooms: Prop Hunt"
+        "name": "FUNROOMS"
     },
     {
         "appid": 3673120,
@@ -180833,7 +180849,7 @@
     },
     {
         "appid": 3861900,
-        "name": "Pixel Legacy"
+        "name": "Exploria"
     },
     {
         "appid": 3861910,
@@ -199982,21 +199998,5 @@
     {
         "appid": 3955160,
         "name": "Overkill Squad"
-    },
-    {
-        "appid": 3955170,
-        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
-    },
-    {
-        "appid": 3955200,
-        "name": "ATTAQ Arcade Collection"
-    },
-    {
-        "appid": 3955220,
-        "name": "Shadows of Elsewhen: Forbidden Alchemy"
-    },
-    {
-        "appid": 3955230,
-        "name": "Hunter's Seal"
     }
 ]
