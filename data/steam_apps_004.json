@@ -1,13 +1,5 @@
 [
     {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
         "appid": 2929040,
         "name": "Fleetbreakers"
     },
@@ -10845,7 +10837,7 @@
     },
     {
         "appid": 2982220,
-        "name": "Hunter: Space Pirates"
+        "name": "Hunter: Sexy Legacy"
     },
     {
         "appid": 2982240,
@@ -26072,6 +26064,10 @@
         "name": "Pixel Puzzles Ultimate: Masquerade"
     },
     {
+        "appid": 3059990,
+        "name": "Pixel Puzzles Ultimate: Animals 3"
+    },
+    {
         "appid": 3060000,
         "name": "Pixel Puzzles Ultimate: Poema Del Mar"
     },
@@ -34077,7 +34073,7 @@
     },
     {
         "appid": 3098070,
-        "name": "Cinema Simulator 2025"
+        "name": "Cinema Simulator 2027"
     },
     {
         "appid": 3098090,
@@ -82769,7 +82765,7 @@
     },
     {
         "appid": 3349040,
-        "name": "Hunter: Space Pirates - Chapter 2"
+        "name": "Hunter: Sexy Legacy - Chapter 2"
     },
     {
         "appid": 3349060,
@@ -104929,7 +104925,7 @@
     },
     {
         "appid": 3457680,
-        "name": "Hunter: Space Pirates - Support DLC"
+        "name": "Hunter: Sexy Legacy - Support DLC"
     },
     {
         "appid": 3457690,
@@ -144697,7 +144693,7 @@
     },
     {
         "appid": 3667480,
-        "name": "TOKENS"
+        "name": "TOKENS: Rogue Club"
     },
     {
         "appid": 3667500,
@@ -152581,7 +152577,7 @@
     },
     {
         "appid": 3710140,
-        "name": "The Sixth Extinction"
+        "name": "The Sixth Extinction: Genesis"
     },
     {
         "appid": 3710210,
@@ -190985,7 +190981,7 @@
     },
     {
         "appid": 3911510,
-        "name": "Hunter: Space Pirates - Chapter 3"
+        "name": "Hunter: Sexy Legacy - Chapter 3"
     },
     {
         "appid": 3911520,
@@ -199998,5 +199994,9 @@
     {
         "appid": 3955160,
         "name": "Overkill Squad"
+    },
+    {
+        "appid": 3955170,
+        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
     }
 ]

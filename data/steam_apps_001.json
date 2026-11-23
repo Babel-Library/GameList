@@ -9385,7 +9385,7 @@
     },
     {
         "appid": 220285,
-        "name": "Farming Simulator 2013: Ursus"
+        "name": "Farming Simulator 2013: Ursus Pack"
     },
     {
         "appid": 220420,
@@ -12305,11 +12305,11 @@
     },
     {
         "appid": 246010,
-        "name": "Farming Simulator 2013: Marshall Trailers"
+        "name": "Farming Simulator 2013: Marshall Trailers Pack"
     },
     {
         "appid": 246030,
-        "name": "Farming Simulator 2013: Väderstad"
+        "name": "Farming Simulator 2013: Väderstad Pack"
     },
     {
         "appid": 246050,
@@ -16985,7 +16985,7 @@
     },
     {
         "appid": 279090,
-        "name": "Farming Simulator 2013: Lindner Unitrac"
+        "name": "Farming Simulator 2013: Lindner Unitrac Pack"
     },
     {
         "appid": 279110,
@@ -37804,10 +37804,6 @@
         "name": "Killing Time at Lightspeed: Enhanced Edition"
     },
     {
-        "appid": 380670,
-        "name": "Final Approach"
-    },
-    {
         "appid": 380680,
         "name": "Gwan Moon High School : The Ghost Gate"
     },
@@ -58148,10 +58144,6 @@
         "name": "Spirit Animal Pack"
     },
     {
-        "appid": 481420,
-        "name": "Final Approach: Pilot Edition"
-    },
-    {
         "appid": 481510,
         "name": "Night in the Woods"
     },
@@ -60618,10 +60610,6 @@
     {
         "appid": 494850,
         "name": "VeeR Pong"
-    },
-    {
-        "appid": 494960,
-        "name": "Twisted Arrow"
     },
     {
         "appid": 494970,
@@ -76273,7 +76261,7 @@
     },
     {
         "appid": 564310,
-        "name": "Serious Sam Fusion 2017 (beta)"
+        "name": "Serious Sam Fusion"
     },
     {
         "appid": 564330,
@@ -89341,7 +89329,7 @@
     },
     {
         "appid": 622290,
-        "name": "1 multi screen media player gallery video wall photo slideshow wizard app"
+        "name": "AVOlight.Space: multi screen VR media video wall slideshow"
     },
     {
         "appid": 622300,
@@ -127106,10 +127094,6 @@
     {
         "appid": 793670,
         "name": "The Wastes"
-    },
-    {
-        "appid": 793690,
-        "name": "Final Assault"
     },
     {
         "appid": 793750,
@@ -199998,5 +199982,21 @@
     {
         "appid": 1109630,
         "name": "コイカツ！ / Koikatsu Party VR"
+    },
+    {
+        "appid": 1109650,
+        "name": "Hentai Girls Mosaic"
+    },
+    {
+        "appid": 1109660,
+        "name": "Age of Fear 5: The Day of the Rat"
+    },
+    {
+        "appid": 1109680,
+        "name": "Regiments"
+    },
+    {
+        "appid": 1109690,
+        "name": "Asterix & Obelix XXL 3  - The Crystal Menhir"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "appid": 3955170,
-        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
-    },
-    {
         "appid": 3955200,
         "name": "ATTAQ Arcade Collection"
     },
@@ -12294,6 +12290,10 @@
     {
         "appid": 4021080,
         "name": "Luminote Mio: Aqualoom at Ocean's End"
+    },
+    {
+        "appid": 4021090,
+        "name": "ALPENGLIDE"
     },
     {
         "appid": 4021100,
@@ -42488,6 +42488,10 @@
         "name": "System Ascension: Idle Core"
     },
     {
+        "appid": 4185110,
+        "name": "Placid Plastic Duck Simulator - The Final Ducks"
+    },
+    {
         "appid": 4185150,
         "name": "Space Tanks"
     },
@@ -50337,7 +50341,7 @@
     },
     {
         "appid": 4225810,
-        "name": "Hunter: Space Pirates - Bradok's Adventure DLC"
+        "name": "Hunter: Sexy Legacy - Bradok's Adventure DLC"
     },
     {
         "appid": 4225860,
@@ -54314,6 +54318,10 @@
     {
         "appid": 4247150,
         "name": "Summer Waifu 2"
+    },
+    {
+        "appid": 4247170,
+        "name": "We Need More Nails"
     },
     {
         "appid": 4247180,
@@ -67789,7 +67797,7 @@
     },
     {
         "appid": 4316340,
-        "name": "Tied to the Beat"
+        "name": "Tied to the Beat: Song Survivors"
     },
     {
         "appid": 4316360,
@@ -87125,7 +87133,7 @@
     },
     {
         "appid": 4432810,
-        "name": "Project Blood Sword - Rogue Like Power Fantasy Game"
+        "name": "Thou Shall Die"
     },
     {
         "appid": 4432850,
@@ -104856,10 +104864,6 @@
         "name": "方寸海洋物语"
     },
     {
-        "appid": 4528410,
-        "name": "Logos Orbit"
-    },
-    {
         "appid": 4528420,
         "name": "Farm Of Hope"
     },
@@ -117064,10 +117068,6 @@
         "name": "Doctor Pigeon Simulator"
     },
     {
-        "appid": 4590990,
-        "name": "Ouroboros Solitaire"
-    },
-    {
         "appid": 4591060,
         "name": "Wizardry: The Five Ordeals - Collaboration Portraits \"The Fox's Way Home\""
     },
@@ -119182,6 +119182,10 @@
     {
         "appid": 4602840,
         "name": "WarBoard: Arena Empire"
+    },
+    {
+        "appid": 4602860,
+        "name": "Dirt Trackin' 3"
     },
     {
         "appid": 4602880,
@@ -125098,6 +125102,10 @@
     {
         "appid": 4636050,
         "name": "Internet Cafe Tycoon"
+    },
+    {
+        "appid": 4636060,
+        "name": "歴史年号1000個覚えるまで出られないダンジョン"
     },
     {
         "appid": 4636080,
@@ -142840,10 +142848,6 @@
         "name": "Castle Ruglia"
     },
     {
-        "appid": 4743390,
-        "name": "Empire Together"
-    },
-    {
         "appid": 4743520,
         "name": "Don't Fall"
     },
@@ -147877,7 +147881,7 @@
     },
     {
         "appid": 4775570,
-        "name": "Hunter: Space Pirates - Chapter 4"
+        "name": "Hunter: Sexy Legacy - Chapter 4"
     },
     {
         "appid": 4775590,
@@ -148858,6 +148862,10 @@
     {
         "appid": 4781680,
         "name": "LastStop"
+    },
+    {
+        "appid": 4781690,
+        "name": "GameGuru MAX - Environmental Particles"
     },
     {
         "appid": 4781710,
@@ -161112,6 +161120,10 @@
         "name": "Sheepping"
     },
     {
+        "appid": 4851040,
+        "name": "Select Track"
+    },
+    {
         "appid": 4851050,
         "name": "ROZE: The Revenant of Zero Entropy"
     },
@@ -163146,6 +163158,10 @@
     {
         "appid": 4861510,
         "name": "Sill Sticks"
+    },
+    {
+        "appid": 4861530,
+        "name": "Abyss Breakers"
     },
     {
         "appid": 4861550,
@@ -168957,7 +168973,7 @@
     },
     {
         "appid": 4894170,
-        "name": "One More Wave"
+        "name": "One More King"
     },
     {
         "appid": 4894180,
@@ -183164,6 +183180,10 @@
         "name": "Can I Come In?"
     },
     {
+        "appid": 4969210,
+        "name": "VOTUM"
+    },
+    {
         "appid": 4969220,
         "name": "Basil & Za'atar"
     },
@@ -184958,10 +184978,6 @@
     {
         "appid": 4979920,
         "name": "Checkmate Rush"
-    },
-    {
-        "appid": 4979930,
-        "name": "Nuts Pipeline"
     },
     {
         "appid": 4979950,
@@ -188562,6 +188578,10 @@
     {
         "appid": 4999280,
         "name": "OneBody: Together"
+    },
+    {
+        "appid": 4999290,
+        "name": "Slab Drifter"
     },
     {
         "appid": 4999310,
@@ -193184,6 +193204,10 @@
         "name": "Liminal Angel"
     },
     {
+        "appid": 5026550,
+        "name": "Robot Crucible"
+    },
+    {
         "appid": 5026560,
         "name": "Worm In Rotating Land"
     },
@@ -194748,6 +194772,10 @@
         "name": "Sweet Corn Desktop Pet-Moon扩展包"
     },
     {
+        "appid": 5034550,
+        "name": "Steal This Station"
+    },
+    {
         "appid": 5034610,
         "name": "Dr. Bowlatzo's Crazy Bowling"
     },
@@ -196094,6 +196122,10 @@
     {
         "appid": 5041990,
         "name": "Project September"
+    },
+    {
+        "appid": 5042000,
+        "name": "SlimeBound"
     },
     {
         "appid": 5042020,
@@ -199328,6 +199360,10 @@
         "name": "Table of War"
     },
     {
+        "appid": 5060390,
+        "name": "Tiny Bookshop - Arts and Crafts"
+    },
+    {
         "appid": 5060410,
         "name": "What Iron Cannot Hold"
     },
@@ -199962,41 +199998,5 @@
     {
         "appid": 5063680,
         "name": "Stellar End"
-    },
-    {
-        "appid": 5063690,
-        "name": "The Wandering Earth: The Last Full Moon"
-    },
-    {
-        "appid": 5063700,
-        "name": "Story Bored"
-    },
-    {
-        "appid": 5063860,
-        "name": "DeepCorp Rescue"
-    },
-    {
-        "appid": 5063870,
-        "name": "Dimenshaper"
-    },
-    {
-        "appid": 5063920,
-        "name": "Society Chess 3D"
-    },
-    {
-        "appid": 5063930,
-        "name": "Ad Aquilonem - セトとすごす100日間 -"
-    },
-    {
-        "appid": 5063950,
-        "name": "CHARGE"
-    },
-    {
-        "appid": 5063960,
-        "name": "Halloween: Trick or Treat"
-    },
-    {
-        "appid": 5063980,
-        "name": "Banshee Protocol"
     }
 ]

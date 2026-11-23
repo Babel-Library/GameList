@@ -1,17 +1,5 @@
 [
     {
-        "appid": 1955030,
-        "name": "SCP: EVENT CLASSIFIED"
-    },
-    {
-        "appid": 1955040,
-        "name": "The Aquatic Messenger"
-    },
-    {
-        "appid": 1955090,
-        "name": "KeepUp Survival - Tropical Island Map"
-    },
-    {
         "appid": 1955100,
         "name": "怯懦 Cowardice"
     },
@@ -65272,6 +65260,10 @@
         "name": "Postmouse"
     },
     {
+        "appid": 2273560,
+        "name": "Seawrights"
+    },
+    {
         "appid": 2273570,
         "name": "Speed Dates"
     },
@@ -75737,7 +75729,7 @@
     },
     {
         "appid": 2322260,
-        "name": "Don't Kill Them All"
+        "name": "Don't Kill Them All - Orc Slay Prevention Sim"
     },
     {
         "appid": 2322280,
@@ -190753,7 +190745,7 @@
     },
     {
         "appid": 2882340,
-        "name": "Mountain Legends 3"
+        "name": "Mountain Legends 3: Local PVP"
     },
     {
         "appid": 2882350,
@@ -199998,5 +199990,13 @@
     {
         "appid": 2929000,
         "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
     }
 ]
