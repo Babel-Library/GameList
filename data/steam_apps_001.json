@@ -52641,7 +52641,7 @@
     },
     {
         "appid": 451310,
-        "name": "A Fold Apart"
+        "name": "A Fold Apart: Recrafted"
     },
     {
         "appid": 451330,
@@ -141068,6 +141068,10 @@
         "name": "Fight the Horror"
     },
     {
+        "appid": 857650,
+        "name": "Trebuchet Hold’em"
+    },
+    {
         "appid": 857680,
         "name": "Catan VR"
     },
@@ -199994,9 +199998,5 @@
     {
         "appid": 1109680,
         "name": "Regiments"
-    },
-    {
-        "appid": 1109690,
-        "name": "Asterix & Obelix XXL 3  - The Crystal Menhir"
     }
 ]

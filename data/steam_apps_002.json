@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1109690,
+        "name": "Asterix & Obelix XXL 3  - The Crystal Menhir"
+    },
+    {
         "appid": 1109700,
         "name": "Last warrior"
     },
@@ -778,6 +782,10 @@
     {
         "appid": 1112521,
         "name": "Dying Light - Godfather Bundle"
+    },
+    {
+        "appid": 1112540,
+        "name": "Hentai Waifu - Artwork II"
     },
     {
         "appid": 1112570,
@@ -27453,7 +27461,7 @@
     },
     {
         "appid": 1217950,
-        "name": "Dr Dick Dong: Stripper Underworld"
+        "name": "Dr Dick Dong"
     },
     {
         "appid": 1217970,
@@ -30910,6 +30918,10 @@
     {
         "appid": 1234450,
         "name": "EDGE OF DAWN"
+    },
+    {
+        "appid": 1234460,
+        "name": "Bernadette and the Demon Circus"
     },
     {
         "appid": 1234500,
@@ -131480,10 +131492,6 @@
         "name": "Castle of Delights"
     },
     {
-        "appid": 1680700,
-        "name": "Purgo box"
-    },
-    {
         "appid": 1680750,
         "name": "Norega(Full Expansion)"
     },
@@ -154201,7 +154209,7 @@
     },
     {
         "appid": 1757380,
-        "name": "One More Wipe"
+        "name": "One More Wipe : Raid Night"
     },
     {
         "appid": 1757400,
@@ -199881,7 +199889,7 @@
     },
     {
         "appid": 1954420,
-        "name": "麻雀一番街"
+        "name": "『麻雀一番街』×『赌博默示录 破戒录篇』 联动决定！"
     },
     {
         "appid": 1954430,
@@ -199990,13 +199998,5 @@
     {
         "appid": 1955030,
         "name": "SCP: EVENT CLASSIFIED"
-    },
-    {
-        "appid": 1955040,
-        "name": "The Aquatic Messenger"
-    },
-    {
-        "appid": 1955090,
-        "name": "KeepUp Survival - Tropical Island Map"
     }
 ]

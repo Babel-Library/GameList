@@ -1,5 +1,13 @@
 [
     {
+        "appid": 1955040,
+        "name": "The Aquatic Messenger"
+    },
+    {
+        "appid": 1955090,
+        "name": "KeepUp Survival - Tropical Island Map"
+    },
+    {
         "appid": 1955100,
         "name": "怯懦 Cowardice"
     },
@@ -130525,7 +130533,7 @@
     },
     {
         "appid": 2582140,
-        "name": "Seafarer: The Ship Sim"
+        "name": "Seafarer: The Ship Simulator"
     },
     {
         "appid": 2582160,
@@ -147672,6 +147680,10 @@
         "name": "RaceTrap"
     },
     {
+        "appid": 2668410,
+        "name": "Feed Your T-Rex: Desktop Companion"
+    },
+    {
         "appid": 2668430,
         "name": "The Legend of Heroes: Trails through Daybreak II"
     },
@@ -156562,6 +156574,10 @@
     {
         "appid": 2710160,
         "name": "Alien Agent X DLC Dance Skirt"
+    },
+    {
+        "appid": 2710210,
+        "name": "Symphony of War II: Dominion"
     },
     {
         "appid": 2710240,
@@ -199982,21 +199998,5 @@
     {
         "appid": 2928950,
         "name": "Cats in Heat - Sunshine Resort"
-    },
-    {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
     }
 ]

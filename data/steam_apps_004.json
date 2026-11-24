@@ -1,5 +1,21 @@
 [
     {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
         "appid": 2929040,
         "name": "Fleetbreakers"
     },
@@ -51385,7 +51401,7 @@
     },
     {
         "appid": 3186260,
-        "name": "AstroTanto"
+        "name": "Astro Tanto"
     },
     {
         "appid": 3186280,
@@ -58049,7 +58065,7 @@
     },
     {
         "appid": 3219260,
-        "name": "Only Up To Space"
+        "name": "Jump Up To Space"
     },
     {
         "appid": 3219280,
@@ -99433,7 +99449,7 @@
     },
     {
         "appid": 3431530,
-        "name": "Cyber Defense"
+        "name": "Cyber Arena"
     },
     {
         "appid": 3431580,
@@ -119822,6 +119838,10 @@
     {
         "appid": 3543130,
         "name": "Zomboard"
+    },
+    {
+        "appid": 3543160,
+        "name": "Sakura Arms ~Radiant Duels~ Characters \"Another\" Form"
     },
     {
         "appid": 3543170,
@@ -199978,25 +199998,5 @@
     {
         "appid": 3955100,
         "name": "Bounty Drag Racing - Sand Drag Pack 1"
-    },
-    {
-        "appid": 3955120,
-        "name": "Sweetie Candy Maze: Green Apple"
-    },
-    {
-        "appid": 3955130,
-        "name": "42 Space Mayhem"
-    },
-    {
-        "appid": 3955150,
-        "name": "Our Mother Lilith : The Vampire Exegesis"
-    },
-    {
-        "appid": 3955160,
-        "name": "Overkill Squad"
-    },
-    {
-        "appid": 3955170,
-        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
     }
 ]
