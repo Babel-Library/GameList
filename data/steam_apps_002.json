@@ -1,5 +1,9 @@
 [
     {
+        "appid": 1109680,
+        "name": "Regiments"
+    },
+    {
         "appid": 1109690,
         "name": "Asterix & Obelix XXL 3  - The Crystal Menhir"
     },
@@ -16762,6 +16766,10 @@
     {
         "appid": 1176221,
         "name": "Pixel Puzzles Traditional Jigsaws Pack: Boats"
+    },
+    {
+        "appid": 1176223,
+        "name": "Pixel Puzzles Traditional: Butterflies 2"
     },
     {
         "appid": 1176226,
@@ -164904,10 +164912,6 @@
         "name": "TypeOut"
     },
     {
-        "appid": 1802310,
-        "name": "BIGFOOT - WEAPON SKINS \"ARCTIC\""
-    },
-    {
         "appid": 1802320,
         "name": "First Day - Old players bonus"
     },
@@ -165758,14 +165762,6 @@
     {
         "appid": 1805400,
         "name": "WorldsKeeper"
-    },
-    {
-        "appid": 1805430,
-        "name": "BIGFOOT - WEAPON SKINS \"DESERT\""
-    },
-    {
-        "appid": 1805440,
-        "name": "BIGFOOT - WEAPON SKINS \"BLOODY GHOST\""
     },
     {
         "appid": 1805450,
@@ -168222,10 +168218,6 @@
     {
         "appid": 1815650,
         "name": "SuperColony"
-    },
-    {
-        "appid": 1815660,
-        "name": "Dungeons Of Honor"
     },
     {
         "appid": 1815670,
@@ -180776,28 +180768,8 @@
         "name": "Lyara"
     },
     {
-        "appid": 1871270,
-        "name": "BIGFOOT - \"SKIN \"DRUID\""
-    },
-    {
-        "appid": 1871271,
-        "name": "BIGFOOT - SKIN \"MONKEY KING\""
-    },
-    {
         "appid": 1871290,
         "name": "Finger Football"
-    },
-    {
-        "appid": 1871300,
-        "name": "BIGFOOT - WEAPON SKINS \"GOLD RUSH\""
-    },
-    {
-        "appid": 1871301,
-        "name": "BIGFOOT - WEAPON SKINS \"PATRIOT\""
-    },
-    {
-        "appid": 1871302,
-        "name": "BIGFOOT - WEAPON SKINS \"TOXIC LIZARD\""
     },
     {
         "appid": 1871310,
@@ -199998,5 +199970,33 @@
     {
         "appid": 1955030,
         "name": "SCP: EVENT CLASSIFIED"
+    },
+    {
+        "appid": 1955040,
+        "name": "The Aquatic Messenger"
+    },
+    {
+        "appid": 1955090,
+        "name": "KeepUp Survival - Tropical Island Map"
+    },
+    {
+        "appid": 1955100,
+        "name": "怯懦 Cowardice"
+    },
+    {
+        "appid": 1955110,
+        "name": "Star Stuff"
+    },
+    {
+        "appid": 1955120,
+        "name": "Nemire"
+    },
+    {
+        "appid": 1955150,
+        "name": "Lux Ex: Cyber Initiation"
+    },
+    {
+        "appid": 1955160,
+        "name": "MEARTH"
     }
 ]

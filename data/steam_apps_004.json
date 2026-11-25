@@ -1,41 +1,5 @@
 [
     {
-        "appid": 2928990,
-        "name": "KILLCOLOR"
-    },
-    {
-        "appid": 2929000,
-        "name": "Topac Battle - Supporter Pack"
-    },
-    {
-        "appid": 2929010,
-        "name": "Nippon Island: The Flight"
-    },
-    {
-        "appid": 2929020,
-        "name": "A Twisted Place"
-    },
-    {
-        "appid": 2929040,
-        "name": "Fleetbreakers"
-    },
-    {
-        "appid": 2929050,
-        "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
         "appid": 2929110,
         "name": "HOYO"
     },
@@ -9948,6 +9912,10 @@
         "name": "Monster and Snakes 1.1"
     },
     {
+        "appid": 2977300,
+        "name": "B.R.E.A.C.H."
+    },
+    {
         "appid": 2977310,
         "name": "Arkhe"
     },
@@ -18566,6 +18534,10 @@
     {
         "appid": 3021440,
         "name": "Dragon and Phoenix"
+    },
+    {
+        "appid": 3021510,
+        "name": "逐乐世界——深渊"
     },
     {
         "appid": 3021520,
@@ -29709,7 +29681,7 @@
     },
     {
         "appid": 3077060,
-        "name": "Kingdom Heroes：Arena"
+        "name": "Kingdom Heroes: Arena"
     },
     {
         "appid": 3077090,
@@ -42377,7 +42349,7 @@
     },
     {
         "appid": 3139450,
-        "name": "根据地"
+        "name": "根据地：末日行脚商"
     },
     {
         "appid": 3139470,
@@ -54850,6 +54822,10 @@
     {
         "appid": 3202770,
         "name": "Casino Box"
+    },
+    {
+        "appid": 3202790,
+        "name": "Starlance"
     },
     {
         "appid": 3202800,
@@ -78013,7 +77989,7 @@
     },
     {
         "appid": 3326300,
-        "name": "Inside Byte: Chapter 1"
+        "name": "Inside Byte: Memory Never Lies"
     },
     {
         "appid": 3326310,
@@ -79274,10 +79250,6 @@
     {
         "appid": 3332150,
         "name": "Ail"
-    },
-    {
-        "appid": 3332160,
-        "name": "처음 만든 돌 부수기"
     },
     {
         "appid": 3332170,
@@ -101520,6 +101492,10 @@
         "name": "Egypt"
     },
     {
+        "appid": 3441530,
+        "name": "SheePU Bench"
+    },
+    {
         "appid": 3441540,
         "name": "Takara Cards: Academy"
     },
@@ -108534,10 +108510,6 @@
     {
         "appid": 3478010,
         "name": "Desire's Embrace"
-    },
-    {
-        "appid": 3478020,
-        "name": "Living with my Little Sister"
     },
     {
         "appid": 3478030,
@@ -177392,6 +177364,10 @@
         "name": "Papa Needs a Headshot"
     },
     {
+        "appid": 3845250,
+        "name": "Sector 73"
+    },
+    {
         "appid": 3845280,
         "name": "Tie Me, Bind Me, HIT ME!"
     },
@@ -177462,10 +177438,6 @@
     {
         "appid": 3845560,
         "name": "Underdark"
-    },
-    {
-        "appid": 3845600,
-        "name": "Living with a Little Fox Girl"
     },
     {
         "appid": 3845610,
@@ -186784,6 +186756,10 @@
         "name": "Surviving Mars: Relaunched - Feeding the Future"
     },
     {
+        "appid": 3889440,
+        "name": "Surviving Mars: Relaunched - Machine Utopia"
+    },
+    {
         "appid": 3889450,
         "name": "Dark Land"
     },
@@ -188160,6 +188136,10 @@
         "name": "Idle Pixels"
     },
     {
+        "appid": 3896560,
+        "name": "BLOODSONG: ECLIPSED!"
+    },
+    {
         "appid": 3896570,
         "name": "Frontline: War of Echoes"
     },
@@ -189126,10 +189106,6 @@
     {
         "appid": 3901970,
         "name": "Fragments of Waifu"
-    },
-    {
-        "appid": 3901990,
-        "name": "Apoclone"
     },
     {
         "appid": 3902010,
@@ -199998,5 +199974,29 @@
     {
         "appid": 3955100,
         "name": "Bounty Drag Racing - Sand Drag Pack 1"
+    },
+    {
+        "appid": 3955120,
+        "name": "Sweetie Candy Maze: Green Apple"
+    },
+    {
+        "appid": 3955130,
+        "name": "42 Space Mayhem"
+    },
+    {
+        "appid": 3955150,
+        "name": "Our Mother Lilith : The Vampire Exegesis"
+    },
+    {
+        "appid": 3955160,
+        "name": "Overkill Squad"
+    },
+    {
+        "appid": 3955170,
+        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
+    },
+    {
+        "appid": 3955200,
+        "name": "ATTAQ Arcade Collection"
     }
 ]

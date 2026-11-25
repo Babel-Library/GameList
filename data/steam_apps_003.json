@@ -1,33 +1,5 @@
 [
     {
-        "appid": 1955040,
-        "name": "The Aquatic Messenger"
-    },
-    {
-        "appid": 1955090,
-        "name": "KeepUp Survival - Tropical Island Map"
-    },
-    {
-        "appid": 1955100,
-        "name": "怯懦 Cowardice"
-    },
-    {
-        "appid": 1955110,
-        "name": "Star Stuff"
-    },
-    {
-        "appid": 1955120,
-        "name": "Nemire"
-    },
-    {
-        "appid": 1955150,
-        "name": "Lux Ex: Cyber Initiation"
-    },
-    {
-        "appid": 1955160,
-        "name": "MEARTH"
-    },
-    {
         "appid": 1955200,
         "name": "Gate Builders"
     },
@@ -21296,10 +21268,6 @@
         "name": "THE FATE OF MIRADOR CHAPTER ONE"
     },
     {
-        "appid": 2076052,
-        "name": "Exoprimal Survival Pass Season 1: Premium Tier"
-    },
-    {
         "appid": 2076053,
         "name": "Exoprimal - Deadeye QB-W Set"
     },
@@ -21993,7 +21961,7 @@
     },
     {
         "appid": 2078680,
-        "name": "Find My Dead Body"
+        "name": "ANTLERED"
     },
     {
         "appid": 2078710,
@@ -27642,10 +27610,6 @@
     {
         "appid": 2104460,
         "name": "Mala Petaka"
-    },
-    {
-        "appid": 2104481,
-        "name": "Exoprimal - Exoprimal Survival Pass Season 2: Premium Tier"
     },
     {
         "appid": 2104485,
@@ -34650,6 +34614,10 @@
     {
         "appid": 2135870,
         "name": "WarpVector"
+    },
+    {
+        "appid": 2135880,
+        "name": "GOGO!! CIRNO"
     },
     {
         "appid": 2135890,
@@ -118025,7 +117993,7 @@
     },
     {
         "appid": 2517970,
-        "name": "Survive the Jurassic"
+        "name": "The Forgotten Cabin!"
     },
     {
         "appid": 2517980,
@@ -128872,10 +128840,6 @@
         "name": "Kingdom, Dungeon, and Hero"
     },
     {
-        "appid": 2572410,
-        "name": "Exoprimal - Exoprimal Survival Pass Season 3: Premium Tier"
-    },
-    {
         "appid": 2572420,
         "name": "Exoprimal - Barrage Monster Hunter Set"
     },
@@ -138428,6 +138392,10 @@
         "name": "Berzerk: Recharged"
     },
     {
+        "appid": 2623060,
+        "name": "Shatterbelt"
+    },
+    {
         "appid": 2623080,
         "name": "Adhd Arena"
     },
@@ -145497,7 +145465,7 @@
     },
     {
         "appid": 2658230,
-        "name": "夢遊邊境 Dream of Limbo"
+        "name": "Dream of Limbo"
     },
     {
         "appid": 2658250,
@@ -152296,10 +152264,6 @@
         "name": "Rivals' Duel"
     },
     {
-        "appid": 2689920,
-        "name": "WarSpawn"
-    },
-    {
         "appid": 2689930,
         "name": "Detective Instinct: Farewell, My Beloved"
     },
@@ -155446,10 +155410,6 @@
     {
         "appid": 2704950,
         "name": "Warhawk Down"
-    },
-    {
-        "appid": 2704960,
-        "name": "Exoprimal - Exoprimal Survival Pass Season 4: Premium Tier"
     },
     {
         "appid": 2704970,
@@ -166734,6 +166694,10 @@
     {
         "appid": 2761080,
         "name": "Eyes Of Memes"
+    },
+    {
+        "appid": 2761090,
+        "name": "Secret Project"
     },
     {
         "appid": 2761100,
@@ -193729,7 +193693,7 @@
     },
     {
         "appid": 2896390,
-        "name": "Cats vs Aliens"
+        "name": "Cats vs. Aliens"
     },
     {
         "appid": 2896400,
@@ -199998,5 +199962,41 @@
     {
         "appid": 2928950,
         "name": "Cats in Heat - Sunshine Resort"
+    },
+    {
+        "appid": 2928990,
+        "name": "KILLCOLOR"
+    },
+    {
+        "appid": 2929000,
+        "name": "Topac Battle - Supporter Pack"
+    },
+    {
+        "appid": 2929010,
+        "name": "Nippon Island: The Flight"
+    },
+    {
+        "appid": 2929020,
+        "name": "A Twisted Place"
+    },
+    {
+        "appid": 2929040,
+        "name": "Fleetbreakers"
+    },
+    {
+        "appid": 2929050,
+        "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
     }
 ]

@@ -1,29 +1,5 @@
 [
     {
-        "appid": 3955120,
-        "name": "Sweetie Candy Maze: Green Apple"
-    },
-    {
-        "appid": 3955130,
-        "name": "42 Space Mayhem"
-    },
-    {
-        "appid": 3955150,
-        "name": "Our Mother Lilith : The Vampire Exegesis"
-    },
-    {
-        "appid": 3955160,
-        "name": "Overkill Squad"
-    },
-    {
-        "appid": 3955170,
-        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
-    },
-    {
-        "appid": 3955200,
-        "name": "ATTAQ Arcade Collection"
-    },
-    {
         "appid": 3955220,
         "name": "Shadows of Elsewhen: Forbidden Alchemy"
     },
@@ -4285,7 +4261,7 @@
     },
     {
         "appid": 3977480,
-        "name": "LeftUnknown"
+        "name": "Left Unknown"
     },
     {
         "appid": 3977490,
@@ -24204,6 +24180,10 @@
         "name": "[Vladimere Lhore's] War On Christmas"
     },
     {
+        "appid": 4089210,
+        "name": "CardArena"
+    },
+    {
         "appid": 4089250,
         "name": "Xeno Rescue"
     },
@@ -24910,6 +24890,10 @@
     {
         "appid": 4093360,
         "name": "Trouble Magic"
+    },
+    {
+        "appid": 4093370,
+        "name": "Gaia Ritual"
     },
     {
         "appid": 4093400,
@@ -53989,7 +53973,7 @@
     },
     {
         "appid": 4245200,
-        "name": "Warhammer Blood Bowl - The Official Video Game"
+        "name": "Warhammer Blood Bowl"
     },
     {
         "appid": 4245210,
@@ -57310,6 +57294,10 @@
     {
         "appid": 4262150,
         "name": "Black Mountain of Tlaltecuhtli"
+    },
+    {
+        "appid": 4262170,
+        "name": "potato_milki's The TRIALISTS"
     },
     {
         "appid": 4262180,
@@ -65641,7 +65629,7 @@
     },
     {
         "appid": 4304580,
-        "name": "The Wagon Trio: Resisters"
+        "name": "Zombie Wagon: Idle Looter"
     },
     {
         "appid": 4304610,
@@ -67656,12 +67644,12 @@
         "name": "Hopping Ninja-san"
     },
     {
-        "appid": 4315510,
-        "name": "Ashbane"
+        "appid": 4315350,
+        "name": "Cease & Desist"
     },
     {
-        "appid": 4315530,
-        "name": "Rayman Origins Enhanced Edition"
+        "appid": 4315510,
+        "name": "Ashbane"
     },
     {
         "appid": 4315550,
@@ -76380,6 +76368,10 @@
         "name": "SIGE 202X"
     },
     {
+        "appid": 4368520,
+        "name": "pieces/渡り鳥のソムニウム"
+    },
+    {
         "appid": 4368530,
         "name": "Poker Defense"
     },
@@ -78252,6 +78244,10 @@
         "name": "Catnip Cosmos"
     },
     {
+        "appid": 4379530,
+        "name": "入侵"
+    },
+    {
         "appid": 4379550,
         "name": "VOLT & VOID"
     },
@@ -79581,7 +79577,7 @@
     },
     {
         "appid": 4387050,
-        "name": "SCP Tower"
+        "name": "SCP Tower Anomaly"
     },
     {
         "appid": 4387060,
@@ -94813,7 +94809,7 @@
     },
     {
         "appid": 4475590,
-        "name": "Box Game"
+        "name": "Sharkbay's Bellhop"
     },
     {
         "appid": 4475600,
@@ -114373,7 +114369,7 @@
     },
     {
         "appid": 4576610,
-        "name": "Hell-O-Word"
+        "name": "Hell-O-Word: Your Desktop Cult"
     },
     {
         "appid": 4576620,
@@ -115298,10 +115294,6 @@
     {
         "appid": 4581340,
         "name": "Perplexicube"
-    },
-    {
-        "appid": 4581350,
-        "name": "Rough Draft"
     },
     {
         "appid": 4581360,
@@ -130761,7 +130753,7 @@
     },
     {
         "appid": 4670270,
-        "name": "Dokimon Quest: II"
+        "name": "Dokimon Quest II"
     },
     {
         "appid": 4670310,
@@ -131390,6 +131382,10 @@
     {
         "appid": 4674100,
         "name": "Otaku and Bubbly Girl - 游戏宅与青春女 - digital fan disk"
+    },
+    {
+        "appid": 4674110,
+        "name": "Stress Buddy: Founders Pack"
     },
     {
         "appid": 4674130,
@@ -148912,6 +148908,10 @@
         "name": "Echoes of the Deep : Incremental Endless Miner"
     },
     {
+        "appid": 4781470,
+        "name": "Take Care of Her Frog"
+    },
+    {
         "appid": 4781490,
         "name": "Echoes of Eta"
     },
@@ -159186,6 +159186,10 @@
     {
         "appid": 4840480,
         "name": "The Inducted"
+    },
+    {
+        "appid": 4840530,
+        "name": "Storage Hunter Simulator - Lights, Camera, Auction! Pack "
     },
     {
         "appid": 4840570,
@@ -170380,6 +170384,10 @@
         "name": "Unmatched: Digital Edition - Robin Hood vs Bigfoot"
     },
     {
+        "appid": 4900930,
+        "name": "Unmatched: Digital Edition - Lee vs Ali"
+    },
+    {
         "appid": 4900940,
         "name": "Frisky Phone: College Casual"
     },
@@ -174678,6 +174686,10 @@
     {
         "appid": 4923490,
         "name": "Warden Campaigns"
+    },
+    {
+        "appid": 4923500,
+        "name": "Preferans Card Game"
     },
     {
         "appid": 4923520,
@@ -183636,6 +183648,10 @@
         "name": "ゴミ曼荼羅ダラダラ"
     },
     {
+        "appid": 4971040,
+        "name": "Keep on Truckin'"
+    },
+    {
         "appid": 4971070,
         "name": "Cleanup on Aisle 3"
     },
@@ -184742,6 +184758,14 @@
     {
         "appid": 4977700,
         "name": "Quest Log"
+    },
+    {
+        "appid": 4977710,
+        "name": "Storage Hunter Simulator - Backyard Starter Pack"
+    },
+    {
+        "appid": 4977720,
+        "name": "Storage Hunter Simulator - Expansion Pass"
     },
     {
         "appid": 4977730,
@@ -189620,6 +189644,10 @@
         "name": "王之将死/Checkmate"
     },
     {
+        "appid": 5005210,
+        "name": "WGunslinger"
+    },
+    {
         "appid": 5005230,
         "name": "Gal Big Sister Z：Extra Contents for Rena"
     },
@@ -192405,7 +192433,7 @@
     },
     {
         "appid": 5021070,
-        "name": "AMR Classic Assault Rifle + Red Dot Sight"
+        "name": "Weapon: AMR Classic Assault Rifle + Red Dot Sight"
     },
     {
         "appid": 5021090,
@@ -193916,6 +193944,10 @@
         "name": "Shark Bait"
     },
     {
+        "appid": 5029650,
+        "name": "NTR Heroine Shirayuki"
+    },
+    {
         "appid": 5029670,
         "name": "HOPIATE"
     },
@@ -194730,6 +194762,10 @@
     {
         "appid": 5033600,
         "name": "SUMOWBALL"
+    },
+    {
+        "appid": 5033620,
+        "name": "Lumi & Naire: Elemental Adventure"
     },
     {
         "appid": 5033660,
@@ -199962,41 +199998,5 @@
     {
         "appid": 5062790,
         "name": "Dungeon Descent"
-    },
-    {
-        "appid": 5062840,
-        "name": "Pure Muay Thai"
-    },
-    {
-        "appid": 5062870,
-        "name": "OrbFlow"
-    },
-    {
-        "appid": 5062880,
-        "name": "Close the Sky"
-    },
-    {
-        "appid": 5062910,
-        "name": "Life Is a Dungeon: Lean into It."
-    },
-    {
-        "appid": 5062920,
-        "name": "Stackerel"
-    },
-    {
-        "appid": 5062950,
-        "name": "Guild of the Tower"
-    },
-    {
-        "appid": 5062960,
-        "name": "Voidrunners"
-    },
-    {
-        "appid": 5062970,
-        "name": "Incremental Pachinko Heaven"
-    },
-    {
-        "appid": 5062990,
-        "name": "Shatranj Puzzles"
     }
 ]
