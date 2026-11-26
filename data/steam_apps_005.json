@@ -1,5 +1,49 @@
 [
     {
+        "appid": 3955050,
+        "name": "Shadow President"
+    },
+    {
+        "appid": 3955060,
+        "name": "Cosmic Corps"
+    },
+    {
+        "appid": 3955080,
+        "name": "Villa Nocturne"
+    },
+    {
+        "appid": 3955090,
+        "name": "Idleant - an idle game about ant"
+    },
+    {
+        "appid": 3955100,
+        "name": "Bounty Drag Racing - Sand Drag Pack 1"
+    },
+    {
+        "appid": 3955120,
+        "name": "Sweetie Candy Maze: Green Apple"
+    },
+    {
+        "appid": 3955130,
+        "name": "42 Space Mayhem"
+    },
+    {
+        "appid": 3955150,
+        "name": "Our Mother Lilith : The Vampire Exegesis"
+    },
+    {
+        "appid": 3955160,
+        "name": "Overkill Squad"
+    },
+    {
+        "appid": 3955170,
+        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
+    },
+    {
+        "appid": 3955200,
+        "name": "ATTAQ Arcade Collection"
+    },
+    {
         "appid": 3955220,
         "name": "Shadows of Elsewhen: Forbidden Alchemy"
     },
@@ -29392,6 +29436,10 @@
         "name": "Gladiator Arena: Heroes of Rome"
     },
     {
+        "appid": 4117720,
+        "name": "MONKEY PROOF: Wheels of Desire"
+    },
+    {
         "appid": 4117730,
         "name": "Slayblade"
     },
@@ -42253,7 +42301,7 @@
     },
     {
         "appid": 4183770,
-        "name": "CELESTAY Craft&Slowlife"
+        "name": "CELESTAY Craft & Slowlife"
     },
     {
         "appid": 4183820,
@@ -55372,6 +55420,10 @@
         "name": "GO BLO"
     },
     {
+        "appid": 4252480,
+        "name": "Bobbleclick Racing"
+    },
+    {
         "appid": 4252510,
         "name": "hololive GoroGoro Mountain hololive DEV_IS DLC"
     },
@@ -55390,6 +55442,10 @@
     {
         "appid": 4252550,
         "name": "ENDTIMES"
+    },
+    {
+        "appid": 4252580,
+        "name": "Tiny Routes"
     },
     {
         "appid": 4252590,
@@ -66586,6 +66642,10 @@
     {
         "appid": 4310080,
         "name": "Oxygen Not Included: The Aquatic Planet Pack"
+    },
+    {
+        "appid": 4310090,
+        "name": "LUCENTARY"
     },
     {
         "appid": 4310100,
@@ -101572,6 +101632,10 @@
         "name": "Glass and Ember"
     },
     {
+        "appid": 4509490,
+        "name": "Vampire: The Masquerade — Beyond Mortal Flesh"
+    },
+    {
         "appid": 4509520,
         "name": "Sightline: Logic Puzzle"
     },
@@ -103182,6 +103246,10 @@
     {
         "appid": 4518500,
         "name": "Train Simulator: Colorado & Southern Alpine Tunnel: St. Elmo - Pitkin "
+    },
+    {
+        "appid": 4518510,
+        "name": "Train Simulator: Ringbahn – Berlin Far Out (JWD) Route Extension "
     },
     {
         "appid": 4518580,
@@ -107418,6 +107486,10 @@
     {
         "appid": 4540610,
         "name": "Labyrinth of Whiskers"
+    },
+    {
+        "appid": 4540620,
+        "name": "Grandpa's Basement"
     },
     {
         "appid": 4540630,
@@ -120280,6 +120352,10 @@
         "name": "Birds"
     },
     {
+        "appid": 4608710,
+        "name": "Minigame Collection: KUN"
+    },
+    {
         "appid": 4608750,
         "name": "60病The 60-Second Syndrome"
     },
@@ -123269,7 +123345,7 @@
     },
     {
         "appid": 4626050,
-        "name": "Apawcalypse: Gang War"
+        "name": "Rise of Animals: Gang War"
     },
     {
         "appid": 4626060,
@@ -133740,6 +133816,10 @@
         "name": "Agents 404"
     },
     {
+        "appid": 4686200,
+        "name": "Cascadite"
+    },
+    {
         "appid": 4686230,
         "name": "大侠博士"
     },
@@ -142205,7 +142285,7 @@
     },
     {
         "appid": 4738630,
-        "name": "XENOCIDE PROTOCOL"
+        "name": "Code Brown: Protocol"
     },
     {
         "appid": 4738640,
@@ -147684,6 +147764,10 @@
         "name": "Sweet City"
     },
     {
+        "appid": 4773920,
+        "name": "Saloon Shuffle"
+    },
+    {
         "appid": 4773930,
         "name": "君临传奇之风起云涌"
     },
@@ -151506,6 +151590,10 @@
     {
         "appid": 4796830,
         "name": "WE ARE SO DEAD"
+    },
+    {
+        "appid": 4796840,
+        "name": "Grave of Stars"
     },
     {
         "appid": 4796850,
@@ -163212,6 +163300,10 @@
         "name": "Lewd Elevator"
     },
     {
+        "appid": 4861310,
+        "name": "Deal & Deceit"
+    },
+    {
         "appid": 4861350,
         "name": "Ambrosia ~Dice Spam Dungeon~ PC"
     },
@@ -171604,6 +171696,10 @@
         "name": "Studio zero"
     },
     {
+        "appid": 4907740,
+        "name": "Kimchi & Vodka"
+    },
+    {
         "appid": 4907780,
         "name": "Luck in the Dark"
     },
@@ -174200,6 +174296,10 @@
         "name": "Warlapse"
     },
     {
+        "appid": 4920690,
+        "name": "Rigor Movers"
+    },
+    {
         "appid": 4920700,
         "name": "Callejero"
     },
@@ -175122,6 +175222,10 @@
     {
         "appid": 4925810,
         "name": "Cricket Manager"
+    },
+    {
+        "appid": 4925870,
+        "name": "Ship Graveyard Simulator 2 - Carriers DLC"
     },
     {
         "appid": 4925890,
@@ -184120,14 +184224,6 @@
         "name": "Impersonal"
     },
     {
-        "appid": 4973980,
-        "name": "Tom Clancy’s The Division 2 – Red Horizon Bundle"
-    },
-    {
-        "appid": 4974000,
-        "name": "Tom Clancy’s The Division 2 – Red Horizon Supply Drop"
-    },
-    {
         "appid": 4974070,
         "name": "FreeState: San Francisco"
     },
@@ -188432,6 +188528,14 @@
         "name": "Warhammer 40,000: Space Marine 2 - Exorcists Cosmetic Pack"
     },
     {
+        "appid": 4997660,
+        "name": "Warhammer 40,000: Space Marine 2 - Deathwatch Champion Pack"
+    },
+    {
+        "appid": 4997670,
+        "name": "Warhammer 40,000: Space Marine 2 - Mortifactors Cosmetic Pack"
+    },
+    {
         "appid": 4997770,
         "name": "Warhammer 40,000: Space Marine 2 - Season Pass 3"
     },
@@ -188526,6 +188630,10 @@
     {
         "appid": 4998230,
         "name": "挖穿地球"
+    },
+    {
+        "appid": 4998250,
+        "name": "Trovador"
     },
     {
         "appid": 4998260,
@@ -192476,6 +192584,10 @@
         "name": "Rio Beachside"
     },
     {
+        "appid": 5021360,
+        "name": "Idle Breaker"
+    },
+    {
         "appid": 5021380,
         "name": "MoooooN - The cow jumps over the moon"
     },
@@ -193964,6 +194076,10 @@
         "name": "ハイブラシルの魔王"
     },
     {
+        "appid": 5029760,
+        "name": "Weavers: Elemental Arena"
+    },
+    {
         "appid": 5029770,
         "name": "Stonefall"
     },
@@ -194696,6 +194812,10 @@
         "name": "Hoops GM"
     },
     {
+        "appid": 5033240,
+        "name": "Everworlds"
+    },
+    {
         "appid": 5033250,
         "name": "Maze of Astra"
     },
@@ -194950,6 +195070,10 @@
     {
         "appid": 5034650,
         "name": "Blockmosis"
+    },
+    {
+        "appid": 5034670,
+        "name": "K-Real Estate Tycoon"
     },
     {
         "appid": 5034780,
@@ -195465,7 +195589,7 @@
     },
     {
         "appid": 5037360,
-        "name": "Simora Town: Broke to Boss"
+        "name": "Simora Town: Life & Business Simulator"
     },
     {
         "appid": 5037370,
@@ -198088,6 +198212,10 @@
         "name": "Wake Inside"
     },
     {
+        "appid": 5052120,
+        "name": "Snow White in Wonderland"
+    },
+    {
         "appid": 5052130,
         "name": "柘榴団地 夜勤"
     },
@@ -199870,133 +199998,5 @@
     {
         "appid": 5062140,
         "name": "Absolute Sol"
-    },
-    {
-        "appid": 5062150,
-        "name": "Cosmic Crusaders Online"
-    },
-    {
-        "appid": 5062170,
-        "name": "ReFantasy Autobattler"
-    },
-    {
-        "appid": 5062180,
-        "name": "The Last 15 Minutes on Tau Alpha 7"
-    },
-    {
-        "appid": 5062210,
-        "name": "Under the Bridge"
-    },
-    {
-        "appid": 5062230,
-        "name": "Epoch Forge"
-    },
-    {
-        "appid": 5062290,
-        "name": "Chrona & Sirona"
-    },
-    {
-        "appid": 5062300,
-        "name": "Paradox Boxing"
-    },
-    {
-        "appid": 5062340,
-        "name": "Sort My Comics !"
-    },
-    {
-        "appid": 5062350,
-        "name": "Outdoor Wine Market Simulator"
-    },
-    {
-        "appid": 5062370,
-        "name": "Never Wood Enough"
-    },
-    {
-        "appid": 5062420,
-        "name": "Iris's Idle Log"
-    },
-    {
-        "appid": 5062430,
-        "name": "Starwake"
-    },
-    {
-        "appid": 5062450,
-        "name": "INvent"
-    },
-    {
-        "appid": 5062470,
-        "name": "Veil City"
-    },
-    {
-        "appid": 5062520,
-        "name": "ShapeBreaker"
-    },
-    {
-        "appid": 5062560,
-        "name": "Pathos"
-    },
-    {
-        "appid": 5062570,
-        "name": "좀비 프린세스"
-    },
-    {
-        "appid": 5062590,
-        "name": "Cage Empire: MMA Manager"
-    },
-    {
-        "appid": 5062620,
-        "name": "Beanu TAG"
-    },
-    {
-        "appid": 5062630,
-        "name": "Roll Value"
-    },
-    {
-        "appid": 5062650,
-        "name": "Crumbs"
-    },
-    {
-        "appid": 5062660,
-        "name": "Sabotype"
-    },
-    {
-        "appid": 5062670,
-        "name": "Escape The Cavern Abyss"
-    },
-    {
-        "appid": 5062680,
-        "name": "Bottom Dollar"
-    },
-    {
-        "appid": 5062690,
-        "name": "Re:Draw"
-    },
-    {
-        "appid": 5062700,
-        "name": "Lilith's Curse"
-    },
-    {
-        "appid": 5062710,
-        "name": "Dustium"
-    },
-    {
-        "appid": 5062720,
-        "name": "I Walk Among Zombies Vol. 1"
-    },
-    {
-        "appid": 5062730,
-        "name": "Card Harts Reborn"
-    },
-    {
-        "appid": 5062770,
-        "name": "Space Trader Corps - Tourist Captains Garb"
-    },
-    {
-        "appid": 5062780,
-        "name": "Hero Investor: Business Tycoon"
-    },
-    {
-        "appid": 5062790,
-        "name": "Dungeon Descent"
     }
 ]

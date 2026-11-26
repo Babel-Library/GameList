@@ -1,5 +1,17 @@
 [
     {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
         "appid": 2929110,
         "name": "HOYO"
     },
@@ -11258,6 +11270,10 @@
     {
         "appid": 2984470,
         "name": "Seabed Settlers"
+    },
+    {
+        "appid": 2984480,
+        "name": "Slaughter of Luminance"
     },
     {
         "appid": 2984520,
@@ -35332,6 +35348,10 @@
         "name": "The Out Door"
     },
     {
+        "appid": 3104390,
+        "name": "Stellar Fury"
+    },
+    {
         "appid": 3104410,
         "name": "矩阵：零日危机 / Terminull Brigade™"
     },
@@ -46262,6 +46282,10 @@
     {
         "appid": 3159680,
         "name": "Hentai USSR"
+    },
+    {
+        "appid": 3159690,
+        "name": "Nut Clicker"
     },
     {
         "appid": 3159710,
@@ -74581,7 +74605,7 @@
     },
     {
         "appid": 3308580,
-        "name": "360Hexaworld"
+        "name": "360 HEXA WORLD"
     },
     {
         "appid": 3308600,
@@ -88326,6 +88350,10 @@
     {
         "appid": 3375640,
         "name": "Math Quest VR : The Search for the Crown of Calculation"
+    },
+    {
+        "appid": 3375650,
+        "name": "Arcs"
     },
     {
         "appid": 3375690,
@@ -129385,7 +129413,7 @@
     },
     {
         "appid": 3591220,
-        "name": "Little Voyagers: Study Sessions"
+        "name": "Little Voyagers"
     },
     {
         "appid": 3591240,
@@ -156440,6 +156468,10 @@
         "name": "MEMOLOGY: ESCAPE OF MEMES"
     },
     {
+        "appid": 3731360,
+        "name": "风云五千年：春秋战国"
+    },
+    {
         "appid": 3731380,
         "name": "PROJECT NOAH"
     },
@@ -160202,6 +160234,10 @@
     {
         "appid": 3752580,
         "name": "Sinister Sodies"
+    },
+    {
+        "appid": 3752610,
+        "name": "DVCES"
     },
     {
         "appid": 3752630,
@@ -166730,6 +166766,10 @@
     {
         "appid": 3789730,
         "name": "WHERE THE SEA IS DEEP"
+    },
+    {
+        "appid": 3789740,
+        "name": "Şehri Racon"
     },
     {
         "appid": 3789750,
@@ -189800,6 +189840,10 @@
         "name": "World of Tanks — M3 Light Pack (III Soviet Light Tank)"
     },
     {
+        "appid": 3905150,
+        "name": "World of Tanks — Pudel Pack (VI Polish Medium Tank)"
+    },
+    {
         "appid": 3905170,
         "name": "Castles & Castellans"
     },
@@ -199954,49 +199998,5 @@
     {
         "appid": 3955030,
         "name": "Nonogram Piggy Valley"
-    },
-    {
-        "appid": 3955050,
-        "name": "Shadow President"
-    },
-    {
-        "appid": 3955060,
-        "name": "Cosmic Corps"
-    },
-    {
-        "appid": 3955080,
-        "name": "Villa Nocturne"
-    },
-    {
-        "appid": 3955090,
-        "name": "Idleant - an idle game about ant"
-    },
-    {
-        "appid": 3955100,
-        "name": "Bounty Drag Racing - Sand Drag Pack 1"
-    },
-    {
-        "appid": 3955120,
-        "name": "Sweetie Candy Maze: Green Apple"
-    },
-    {
-        "appid": 3955130,
-        "name": "42 Space Mayhem"
-    },
-    {
-        "appid": 3955150,
-        "name": "Our Mother Lilith : The Vampire Exegesis"
-    },
-    {
-        "appid": 3955160,
-        "name": "Overkill Squad"
-    },
-    {
-        "appid": 3955170,
-        "name": "Exclusive Cars - Multiplayer Realistic Simulator (Drift/Racing/Roleplay)"
-    },
-    {
-        "appid": 3955200,
-        "name": "ATTAQ Arcade Collection"
     }
 ]

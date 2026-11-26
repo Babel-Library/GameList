@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1955200,
-        "name": "Gate Builders"
-    },
-    {
         "appid": 1955230,
         "name": "Penny’s Big Breakaway"
     },
@@ -108252,10 +108248,6 @@
         "name": "ONE PIECE: PIRATE WARRIORS 4 Additional Episodes Pack"
     },
     {
-        "appid": 2469232,
-        "name": "ONE PIECE: PIRATE WARRIORS 4 One Piece Film: Red Anime Song Pack"
-    },
-    {
         "appid": 2469240,
         "name": "Zombikini PinballZ"
     },
@@ -116837,7 +116829,7 @@
     },
     {
         "appid": 2512110,
-        "name": "HOT STREAK"
+        "name": "PENTACLE"
     },
     {
         "appid": 2512130,
@@ -120554,6 +120546,10 @@
     {
         "appid": 2530310,
         "name": "Gifted: The Tombs"
+    },
+    {
+        "appid": 2530360,
+        "name": "James White Simulator"
     },
     {
         "appid": 2530380,
@@ -131642,6 +131638,10 @@
     {
         "appid": 2587960,
         "name": "Boing Odyssey"
+    },
+    {
+        "appid": 2587970,
+        "name": "Embrasure"
     },
     {
         "appid": 2587980,
@@ -155190,6 +155190,10 @@
     {
         "appid": 2703850,
         "name": "Rooftops & Alleys: The Parkour Game"
+    },
+    {
+        "appid": 2703860,
+        "name": "Air-Strip Angel"
     },
     {
         "appid": 2703890,
@@ -182952,6 +182956,10 @@
         "name": "Fancyland"
     },
     {
+        "appid": 2843260,
+        "name": "CGVFX creator"
+    },
+    {
         "appid": 2843270,
         "name": "AREA 8"
     },
@@ -193124,6 +193132,10 @@
         "name": "Vigor - Reinforcements Pack"
     },
     {
+        "appid": 2893390,
+        "name": "Exclave"
+    },
+    {
         "appid": 2893400,
         "name": "Unknown Darkness"
     },
@@ -199986,17 +199998,5 @@
     {
         "appid": 2929050,
         "name": "Feed My Raptor VR"
-    },
-    {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
     }
 ]
