@@ -1,21 +1,5 @@
 [
     {
-        "appid": 3955050,
-        "name": "Shadow President"
-    },
-    {
-        "appid": 3955060,
-        "name": "Cosmic Corps"
-    },
-    {
-        "appid": 3955080,
-        "name": "Villa Nocturne"
-    },
-    {
-        "appid": 3955090,
-        "name": "Idleant - an idle game about ant"
-    },
-    {
         "appid": 3955100,
         "name": "Bounty Drag Racing - Sand Drag Pack 1"
     },
@@ -15409,7 +15393,7 @@
     },
     {
         "appid": 4038790,
-        "name": "404 Survivor"
+        "name": "Working Stiffs"
     },
     {
         "appid": 4038810,
@@ -36949,7 +36933,7 @@
     },
     {
         "appid": 4156600,
-        "name": "協力イマーシブアドベンチャー月狐館の呪霊"
+        "name": "協力イマーシブアドベンチャーギャラリーファントム"
     },
     {
         "appid": 4156610,
@@ -68888,6 +68872,10 @@
         "name": "100 Tavern Cats - Artbook"
     },
     {
+        "appid": 4322550,
+        "name": "100 Library Cats - Artbook"
+    },
+    {
         "appid": 4322560,
         "name": "100 Casino Cats - Artbook"
     },
@@ -76297,7 +76285,7 @@
     },
     {
         "appid": 4367330,
-        "name": "스탈린의 대숙청 피하기"
+        "name": "Avoid The Stalin's Purge"
     },
     {
         "appid": 4367370,
@@ -104449,7 +104437,7 @@
     },
     {
         "appid": 4525650,
-        "name": "Weaponized"
+        "name": "Vector Hound: Weaponized"
     },
     {
         "appid": 4525680,
@@ -110433,7 +110421,7 @@
     },
     {
         "appid": 4555170,
-        "name": "Upwell"
+        "name": "Upwell: Rocket Jumping Roguelike"
     },
     {
         "appid": 4555180,
@@ -110718,6 +110706,10 @@
     {
         "appid": 4556620,
         "name": "Somnara"
+    },
+    {
+        "appid": 4556630,
+        "name": "Horny Protocol"
     },
     {
         "appid": 4556650,
@@ -139308,6 +139300,10 @@
         "name": "Infernal Foundations"
     },
     {
+        "appid": 4718730,
+        "name": "NO SAINTS HERE"
+    },
+    {
         "appid": 4718740,
         "name": "Twisted Night"
     },
@@ -145562,6 +145558,10 @@
     {
         "appid": 4760420,
         "name": "Gem Quest: Rush"
+    },
+    {
+        "appid": 4760480,
+        "name": "You Are Empty: Absolute Edition"
     },
     {
         "appid": 4760490,
@@ -152692,6 +152692,10 @@
         "name": "Adventures of George"
     },
     {
+        "appid": 4803860,
+        "name": "Castaway Rhapsody"
+    },
+    {
         "appid": 4803870,
         "name": "OctoDock: Cozy & Chill"
     },
@@ -157830,6 +157834,10 @@
     {
         "appid": 4834240,
         "name": "Sweet Party"
+    },
+    {
+        "appid": 4834260,
+        "name": "Neuronz"
     },
     {
         "appid": 4834280,
@@ -164645,7 +164653,7 @@
     },
     {
         "appid": 4868400,
-        "name": "Last Seen"
+        "name": "Last Seen: Phone Repair Mystery"
     },
     {
         "appid": 4868470,
@@ -174168,6 +174176,10 @@
         "name": "Pouring Pints"
     },
     {
+        "appid": 4920120,
+        "name": "FOUR EDICTS"
+    },
+    {
         "appid": 4920140,
         "name": "天宫乱斗"
     },
@@ -175172,6 +175184,14 @@
         "name": "FUTA FUCKS FEMBOYS - How Onyx Stole Kissmass DLC"
     },
     {
+        "appid": 4925530,
+        "name": "FUTA FUCKS FEMBOYS - Starlight Pursuit DLC"
+    },
+    {
+        "appid": 4925540,
+        "name": "FUTA FUCKS FEMBOYS - No Time To Cum DLC"
+    },
+    {
         "appid": 4925590,
         "name": "Hell Rite"
     },
@@ -175802,6 +175822,10 @@
     {
         "appid": 4929210,
         "name": "Military Destruction: Shock & Awe"
+    },
+    {
+        "appid": 4929250,
+        "name": "SkyHauler"
     },
     {
         "appid": 4929260,
@@ -181432,6 +181456,10 @@
         "name": "Mow and Move"
     },
     {
+        "appid": 4958960,
+        "name": "Meowland: Legacy of the Rainbow Cat"
+    },
+    {
         "appid": 4958980,
         "name": "PROJEVERSE - CIENTISTA DELAS"
     },
@@ -181666,6 +181694,10 @@
     {
         "appid": 4960240,
         "name": "DOA6LR Ayane Remaining Shadow: Shunrai"
+    },
+    {
+        "appid": 4960250,
+        "name": "游戏开发商"
     },
     {
         "appid": 4960260,
@@ -186021,7 +186053,7 @@
     },
     {
         "appid": 4984210,
-        "name": "ASCII Dungeon Crawl"
+        "name": "ASCII Dungeon Crawl: Doorfall"
     },
     {
         "appid": 4984230,
@@ -186362,6 +186394,10 @@
     {
         "appid": 4985910,
         "name": "Ashwend"
+    },
+    {
+        "appid": 4985920,
+        "name": "Beet It"
     },
     {
         "appid": 4986020,
@@ -192856,6 +192892,10 @@
         "name": "Group Idlemen"
     },
     {
+        "appid": 5022910,
+        "name": "Reiko and the Gates of Hell"
+    },
+    {
         "appid": 5022920,
         "name": "Chess Town"
     },
@@ -195033,7 +195073,7 @@
     },
     {
         "appid": 5034410,
-        "name": "Waterline"
+        "name": "Waterline: Dry Earth"
     },
     {
         "appid": 5034420,
@@ -197398,6 +197438,10 @@
     {
         "appid": 5047080,
         "name": "Heroic Hop: The Colorful World of Blocks and the ChromaLords"
+    },
+    {
+        "appid": 5047090,
+        "name": "Dead Lift"
     },
     {
         "appid": 5047100,
@@ -199954,49 +199998,5 @@
     {
         "appid": 5061860,
         "name": "Casino Dealer Simulator"
-    },
-    {
-        "appid": 5061870,
-        "name": "Last Man Running"
-    },
-    {
-        "appid": 5061890,
-        "name": "Scramshaw"
-    },
-    {
-        "appid": 5061970,
-        "name": "any donors?"
-    },
-    {
-        "appid": 5061990,
-        "name": "Fantasy Grounds - The Winter Museum - Level-5"
-    },
-    {
-        "appid": 5062000,
-        "name": "Dwarven Outpost Incremental"
-    },
-    {
-        "appid": 5062020,
-        "name": "House of the Lost: Revived"
-    },
-    {
-        "appid": 5062080,
-        "name": "Blubber"
-    },
-    {
-        "appid": 5062100,
-        "name": "THE MINIGAME CABINET"
-    },
-    {
-        "appid": 5062110,
-        "name": "Ballwark: Pinball Siege"
-    },
-    {
-        "appid": 5062120,
-        "name": "Formula First Manager"
-    },
-    {
-        "appid": 5062140,
-        "name": "Absolute Sol"
     }
 ]

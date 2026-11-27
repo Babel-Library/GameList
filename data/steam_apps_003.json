@@ -1,9 +1,5 @@
 [
     {
-        "appid": 1955230,
-        "name": "Penny’s Big Breakaway"
-    },
-    {
         "appid": 1955260,
         "name": "Nightmare Rooms VR"
     },
@@ -55508,10 +55504,6 @@
         "name": "House Party - Winter Holiday Pack"
     },
     {
-        "appid": 2229670,
-        "name": "Lucy´s World"
-    },
-    {
         "appid": 2229680,
         "name": "Fap & Cum 💦"
     },
@@ -57786,10 +57778,6 @@
     {
         "appid": 2239630,
         "name": "Orbit - Supporter/Customisation Pack"
-    },
-    {
-        "appid": 2239640,
-        "name": "Earthblade"
     },
     {
         "appid": 2239650,
@@ -86642,10 +86630,6 @@
     {
         "appid": 2371600,
         "name": "Gravelight"
-    },
-    {
-        "appid": 2371620,
-        "name": "SCUM Luis Moncada Character Pack"
     },
     {
         "appid": 2371630,
@@ -145016,10 +145000,6 @@
         "name": "Fantasy Grounds - Starfinder RPG - Starfinder Flip-Mat - Drift Crisis"
     },
     {
-        "appid": 2656010,
-        "name": "Dead by Daylight - Chucky Chapter"
-    },
-    {
         "appid": 2656020,
         "name": "Fantasy Grounds - Starfinder RPG - Starfinder Flip-Mat - Star Knight Starships"
     },
@@ -165604,6 +165584,10 @@
         "name": "Island Party Chaos"
     },
     {
+        "appid": 2755890,
+        "name": "Amberia"
+    },
+    {
         "appid": 2755900,
         "name": "DxR -A Better Tomorrow-"
     },
@@ -165897,7 +165881,7 @@
     },
     {
         "appid": 2757600,
-        "name": "My Corp Cargo Simulator"
+        "name": "Out For Life"
     },
     {
         "appid": 2757610,
@@ -174888,10 +174872,6 @@
         "name": "Graveskelet"
     },
     {
-        "appid": 2802690,
-        "name": "Farmer's Father: The Origins"
-    },
-    {
         "appid": 2802710,
         "name": "Quantum Odyssey"
     },
@@ -182664,10 +182644,6 @@
         "name": "Molementum"
     },
     {
-        "appid": 2841840,
-        "name": "SCUM Raymond Cruz Character Pack"
-    },
-    {
         "appid": 2841850,
         "name": "Ikonei Island - Lystide Content Pack"
     },
@@ -189381,7 +189357,7 @@
     },
     {
         "appid": 2875640,
-        "name": "My Corp Cargo Simulator : Prologue"
+        "name": "Out For Life: Prologue"
     },
     {
         "appid": 2875650,
@@ -199998,5 +199974,29 @@
     {
         "appid": 2929050,
         "name": "Feed My Raptor VR"
+    },
+    {
+        "appid": 2929060,
+        "name": "Wild West Blast"
+    },
+    {
+        "appid": 2929070,
+        "name": "我在异界攒功德"
+    },
+    {
+        "appid": 2929080,
+        "name": "Antiyoy"
+    },
+    {
+        "appid": 2929110,
+        "name": "HOYO"
+    },
+    {
+        "appid": 2929120,
+        "name": "따님은 제가 데리고 있습니다"
+    },
+    {
+        "appid": 2929130,
+        "name": "Bloodwood Dungeon"
     }
 ]

@@ -1,29 +1,5 @@
 [
     {
-        "appid": 2929060,
-        "name": "Wild West Blast"
-    },
-    {
-        "appid": 2929070,
-        "name": "我在异界攒功德"
-    },
-    {
-        "appid": 2929080,
-        "name": "Antiyoy"
-    },
-    {
-        "appid": 2929110,
-        "name": "HOYO"
-    },
-    {
-        "appid": 2929120,
-        "name": "따님은 제가 데리고 있습니다"
-    },
-    {
-        "appid": 2929130,
-        "name": "Bloodwood Dungeon"
-    },
-    {
         "appid": 2929140,
         "name": "Ataegina Act I"
     },
@@ -6430,6 +6406,10 @@
     {
         "appid": 2960130,
         "name": "There's no Socks - The Extra Challenge"
+    },
+    {
+        "appid": 2960140,
+        "name": "Lock Loop"
     },
     {
         "appid": 2960150,
@@ -52769,7 +52749,7 @@
     },
     {
         "appid": 3192560,
-        "name": "快盗天使ツインエンジェル ～時とセカイの迷宮～ Re:light"
+        "name": "快盗天使ツインエンジェル ～時とセカイの迷宮～ Re:birth/Re:light"
     },
     {
         "appid": 3192590,
@@ -60217,7 +60197,7 @@
     },
     {
         "appid": 3230430,
-        "name": "The CUBE"
+        "name": "Atomic Heart: The CUBE"
     },
     {
         "appid": 3230440,
@@ -123153,7 +123133,7 @@
     },
     {
         "appid": 3560520,
-        "name": "Spellbound Skirmish"
+        "name": "Dungeon Dueling"
     },
     {
         "appid": 3560530,
@@ -155662,6 +155642,10 @@
     {
         "appid": 3726510,
         "name": "The Fish"
+    },
+    {
+        "appid": 3726520,
+        "name": "Aldmerium 2"
     },
     {
         "appid": 3726570,
@@ -199998,5 +199982,21 @@
     {
         "appid": 3955030,
         "name": "Nonogram Piggy Valley"
+    },
+    {
+        "appid": 3955050,
+        "name": "Shadow President"
+    },
+    {
+        "appid": 3955060,
+        "name": "Cosmic Corps"
+    },
+    {
+        "appid": 3955080,
+        "name": "Villa Nocturne"
+    },
+    {
+        "appid": 3955090,
+        "name": "Idleant - an idle game about ant"
     }
 ]
