@@ -52644,6 +52644,10 @@
         "name": "The Last Saviour: Search of Truth"
     },
     {
+        "appid": 2216730,
+        "name": "Marrow & Coin: Rise to the Mafia"
+    },
+    {
         "appid": 2216750,
         "name": "Clay Soldiers"
     },
@@ -75689,7 +75693,7 @@
     },
     {
         "appid": 2322260,
-        "name": "Don't Kill Them All - Orc Slay Prevention Sim"
+        "name": "Don't Kill Them All - Orc Anger Management"
     },
     {
         "appid": 2322280,
@@ -79182,6 +79186,10 @@
     {
         "appid": 2338220,
         "name": "Irradiant"
+    },
+    {
+        "appid": 2338230,
+        "name": "Oilbird"
     },
     {
         "appid": 2338240,
@@ -129504,10 +129512,6 @@
         "name": "WyrmBound"
     },
     {
-        "appid": 2576280,
-        "name": "Eternal Damnation"
-    },
-    {
         "appid": 2576290,
         "name": "Machine Challenger"
     },
@@ -132545,7 +132549,7 @@
     },
     {
         "appid": 2593060,
-        "name": "Witches' Grove"
+        "name": "Witches' Grove: The Game Show Autobattler"
     },
     {
         "appid": 2593070,
@@ -194282,10 +194286,6 @@
     {
         "appid": 2899880,
         "name": "Monkey See, Monkey Doo, Monkey Kiss You"
-    },
-    {
-        "appid": 2899890,
-        "name": "飛天歷險2025(Dream Of Mirror Online)"
     },
     {
         "appid": 2899920,

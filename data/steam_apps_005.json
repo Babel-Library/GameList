@@ -1,9 +1,5 @@
 [
     {
-        "appid": 3955100,
-        "name": "Bounty Drag Racing - Sand Drag Pack 1"
-    },
-    {
         "appid": 3955120,
         "name": "Sweetie Candy Maze: Green Apple"
     },
@@ -37672,6 +37668,10 @@
         "name": "Backrooms: Research"
     },
     {
+        "appid": 4160070,
+        "name": "Second Sun - Supporter pack"
+    },
+    {
         "appid": 4160130,
         "name": "As Without So Within"
     },
@@ -50924,6 +50924,10 @@
         "name": "An Incremental Game About Placing Blocks"
     },
     {
+        "appid": 4228670,
+        "name": "天空街のエウディア"
+    },
+    {
         "appid": 4228690,
         "name": "Black Gold - Shining Town"
     },
@@ -57826,6 +57830,10 @@
     {
         "appid": 4264440,
         "name": "Dragon Guardians"
+    },
+    {
+        "appid": 4264500,
+        "name": "MACH TRIALS"
     },
     {
         "appid": 4264600,
@@ -65653,7 +65661,7 @@
     },
     {
         "appid": 4304520,
-        "name": "《比特尔特岛：与她们共度的日常》"
+        "name": "Bittertle Island:Everyday Life with Them"
     },
     {
         "appid": 4304540,
@@ -74708,24 +74716,24 @@
         "name": "Rambler NTE"
     },
     {
-        "appid": 4357600,
-        "name": "NBA 2K27 - Pro Pass: Season 2"
+        "appid": 4357650,
+        "name": "NBA 2K27 Pro Pass: Season 3"
     },
     {
-        "appid": 4357610,
-        "name": "NBA 2K27 - Hall of Fame Pass: Season 2"
+        "appid": 4357660,
+        "name": "NBA 2K27 Hall of Fame Pass: Season 3"
     },
     {
-        "appid": 4357620,
-        "name": "NBA 2K27 MyCAREER Bonus Offer: Season 2"
-    },
-    {
-        "appid": 4357630,
-        "name": "NBA 2K27 MyTEAM Bonus Offer: Season 2"
+        "appid": 4357670,
+        "name": "NBA 2K27 MyCAREER Bonus Offer: Season 3"
     },
     {
         "appid": 4357680,
         "name": "Lilifel"
+    },
+    {
+        "appid": 4357690,
+        "name": "NBA 2K27 MyTEAM Bonus Offer: Season 3"
     },
     {
         "appid": 4357780,
@@ -83060,6 +83068,10 @@
         "name": "Ultra Form Alpha"
     },
     {
+        "appid": 4408500,
+        "name": "Cambell's Oddity Box - Adorably Undead"
+    },
+    {
         "appid": 4408510,
         "name": "FEEDERS"
     },
@@ -84250,6 +84262,10 @@
     {
         "appid": 4415480,
         "name": "有網蜘災"
+    },
+    {
+        "appid": 4415520,
+        "name": "Compound Seven"
     },
     {
         "appid": 4415530,
@@ -102952,6 +102968,10 @@
         "name": "Cambell's Oddity Box - FlickShift"
     },
     {
+        "appid": 4516920,
+        "name": "Cambell's Oddity Box - Fatal Fight"
+    },
+    {
         "appid": 4516930,
         "name": "Cambell's Oddity Box - Thumperman"
     },
@@ -104166,6 +104186,10 @@
     {
         "appid": 4524030,
         "name": "Bulletball"
+    },
+    {
+        "appid": 4524040,
+        "name": "百业模拟器"
     },
     {
         "appid": 4524120,
@@ -125292,6 +125316,10 @@
         "name": "Ghost Master: Resurrection | Relics of the Past"
     },
     {
+        "appid": 4636230,
+        "name": "Ghost Master: Resurrection | Sands of the Damned"
+    },
+    {
         "appid": 4636260,
         "name": "Caravanserai Simulator"
     },
@@ -131348,6 +131376,10 @@
         "name": "Technoidium"
     },
     {
+        "appid": 4673530,
+        "name": "Hunt Me a Meal"
+    },
+    {
         "appid": 4673590,
         "name": "Death Before Decaf"
     },
@@ -131662,6 +131694,10 @@
     {
         "appid": 4675640,
         "name": "Sellsword"
+    },
+    {
+        "appid": 4675670,
+        "name": "Where's the Doppler?"
     },
     {
         "appid": 4675790,
@@ -151224,6 +151260,10 @@
         "name": "VTC - Voice To Chat"
     },
     {
+        "appid": 4794290,
+        "name": "元炁天下-求武"
+    },
+    {
         "appid": 4794320,
         "name": "Advance Rise Basketball Manager"
     },
@@ -151337,7 +151377,7 @@
     },
     {
         "appid": 4795030,
-        "name": "Organized Chaos"
+        "name": "Jello Party"
     },
     {
         "appid": 4795070,
@@ -151578,6 +151618,10 @@
     {
         "appid": 4796710,
         "name": "Road Meal"
+    },
+    {
+        "appid": 4796730,
+        "name": "Bun Voyage"
     },
     {
         "appid": 4796780,
@@ -158780,6 +158824,10 @@
         "name": "RPG Maker MV - Animation Battler Material Collection Demi-human Set"
     },
     {
+        "appid": 4838120,
+        "name": "虹彩都市"
+    },
+    {
         "appid": 4838130,
         "name": "Edge of the Blade"
     },
@@ -164776,6 +164824,10 @@
         "name": "GoatCart"
     },
     {
+        "appid": 4869190,
+        "name": "One More"
+    },
+    {
         "appid": 4869200,
         "name": "Secrets Between Lines"
     },
@@ -166762,6 +166814,10 @@
     {
         "appid": 4880560,
         "name": "Unclaimed"
+    },
+    {
+        "appid": 4880590,
+        "name": "Just One Bottle"
     },
     {
         "appid": 4880640,
@@ -175764,6 +175820,10 @@
         "name": "Shelve the Potions!"
     },
     {
+        "appid": 4928830,
+        "name": "R.Football - Online Football"
+    },
+    {
         "appid": 4928860,
         "name": "POOLIMINAL"
     },
@@ -179908,6 +179968,10 @@
         "name": "Pit Purge"
     },
     {
+        "appid": 4950420,
+        "name": "Remit"
+    },
+    {
         "appid": 4950440,
         "name": "Bowls Above"
     },
@@ -181484,6 +181548,10 @@
         "name": "COMMAND MONSTER"
     },
     {
+        "appid": 4959100,
+        "name": "SOS! Love~Controlled ARTBOOK"
+    },
+    {
         "appid": 4959140,
         "name": "Seleto's in Puzzle Land"
     },
@@ -181666,6 +181734,10 @@
     {
         "appid": 4960140,
         "name": "L4MB"
+    },
+    {
+        "appid": 4960150,
+        "name": "Radio Rain"
     },
     {
         "appid": 4960180,
@@ -185900,6 +185972,10 @@
         "name": "The Demon Wins"
     },
     {
+        "appid": 4983390,
+        "name": "The Genuine Article"
+    },
+    {
         "appid": 4983430,
         "name": "Ouro"
     },
@@ -188321,7 +188397,7 @@
     },
     {
         "appid": 4996520,
-        "name": "Apawcalypse: Corrupted Brain"
+        "name": "Rise of Animals: Corrupted Brain"
     },
     {
         "appid": 4996550,
@@ -191718,6 +191794,10 @@
     {
         "appid": 5016070,
         "name": "Genetic Survivors"
+    },
+    {
+        "appid": 5016090,
+        "name": "Absolutely No Sharks"
     },
     {
         "appid": 5016110,
@@ -199918,85 +199998,5 @@
     {
         "appid": 5061440,
         "name": "TOKYO WANTED"
-    },
-    {
-        "appid": 5061450,
-        "name": "CyberKitty: Neon Merge"
-    },
-    {
-        "appid": 5061460,
-        "name": "Ms Morisson"
-    },
-    {
-        "appid": 5061470,
-        "name": "United Heist: Facility Zero - Supporter Pack"
-    },
-    {
-        "appid": 5061540,
-        "name": "How Long Is This Dog?"
-    },
-    {
-        "appid": 5061560,
-        "name": "Post Apocalyptic Gas Station (PAGS)"
-    },
-    {
-        "appid": 5061570,
-        "name": "Puzzle Butterflies"
-    },
-    {
-        "appid": 5061580,
-        "name": "Puzzle Scorpions"
-    },
-    {
-        "appid": 5061590,
-        "name": "Puzzle Beetles"
-    },
-    {
-        "appid": 5061600,
-        "name": "Puzzle Fire"
-    },
-    {
-        "appid": 5061610,
-        "name": "Puzzle Snakes"
-    },
-    {
-        "appid": 5061620,
-        "name": "Puzzle Marine Fish"
-    },
-    {
-        "appid": 5061630,
-        "name": "Puzzle Sharks"
-    },
-    {
-        "appid": 5061640,
-        "name": "Puzzle Whales"
-    },
-    {
-        "appid": 5061650,
-        "name": "Puzzle Crustaceans"
-    },
-    {
-        "appid": 5061660,
-        "name": "Puzzle Mollusks"
-    },
-    {
-        "appid": 5061680,
-        "name": "PegPot"
-    },
-    {
-        "appid": 5061700,
-        "name": " Chill Boats: Sailing & Boat Simulator"
-    },
-    {
-        "appid": 5061820,
-        "name": "A Couple Nights At The Chud House"
-    },
-    {
-        "appid": 5061840,
-        "name": "Trade or Threat"
-    },
-    {
-        "appid": 5061860,
-        "name": "Casino Dealer Simulator"
     }
 ]

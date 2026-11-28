@@ -61837,7 +61837,7 @@
     },
     {
         "appid": 3240110,
-        "name": "The Subminer"
+        "name": "The Subminer: Deep Sea Mining"
     },
     {
         "appid": 3240120,
@@ -83592,6 +83592,10 @@
         "name": "Anima Fighters"
     },
     {
+        "appid": 3352980,
+        "name": "IMBRIUM"
+    },
+    {
         "appid": 3353000,
         "name": "Potatogeddon"
     },
@@ -102296,10 +102300,6 @@
         "name": "Summer Camp"
     },
     {
-        "appid": 3445230,
-        "name": "Hellgate Reiko"
-    },
-    {
         "appid": 3445250,
         "name": "Daydream"
     },
@@ -111649,7 +111649,7 @@
     },
     {
         "appid": 3495250,
-        "name": "Glory On Pluto"
+        "name": "Glory On Pluto: Deep Space Program"
     },
     {
         "appid": 3495280,
@@ -160308,10 +160308,6 @@
         "name": "Agronauts"
     },
     {
-        "appid": 3753050,
-        "name": "Facility of Rizriz 2"
-    },
-    {
         "appid": 3753060,
         "name": "Disc Golf City"
     },
@@ -169725,7 +169721,7 @@
     },
     {
         "appid": 3806140,
-        "name": "2–3 Years in Grindstan"
+        "name": "Grindstan"
     },
     {
         "appid": 3806150,
@@ -178356,6 +178352,10 @@
         "name": "Coup de Koala"
     },
     {
+        "appid": 3850110,
+        "name": "Queen Ascension"
+    },
+    {
         "appid": 3850120,
         "name": "The Last Love Letter"
     },
@@ -181566,10 +181566,6 @@
     {
         "appid": 3865240,
         "name": "Vlad the Landlord"
-    },
-    {
-        "appid": 3865250,
-        "name": "Piggy Only Up"
     },
     {
         "appid": 3865260,
@@ -185946,10 +185942,6 @@
     {
         "appid": 3885590,
         "name": "The Coma 3: Bloodlines"
-    },
-    {
-        "appid": 3885600,
-        "name": "1337"
     },
     {
         "appid": 3885620,
@@ -190534,6 +190526,10 @@
     {
         "appid": 3908810,
         "name": "Stackflow"
+    },
+    {
+        "appid": 3908820,
+        "name": "SIDEARM"
     },
     {
         "appid": 3908840,
@@ -199998,5 +199994,9 @@
     {
         "appid": 3955090,
         "name": "Idleant - an idle game about ant"
+    },
+    {
+        "appid": 3955100,
+        "name": "Bounty Drag Racing - Sand Drag Pack 1"
     }
 ]
